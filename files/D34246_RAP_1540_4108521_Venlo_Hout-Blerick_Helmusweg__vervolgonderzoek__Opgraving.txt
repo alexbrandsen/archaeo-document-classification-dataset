@@ -1,0 +1,835 @@
+ArcheoProjecten Een grafveld uit de Vroege IJzertijd te Hout-Blerick rapport 1540 Een grafveld uit de Vroege IJzertijd aan de Helmusweg te Hout-Blerick , gemeente Venlo Een archeologische opgraving X.J.F . 
+Alma Met bijdragen van : F.S . 
+Zuidhoff S.B.C . 
+Bloo E. Smit Colofon ADC Rapport 1540 Een grafveld uit de Vroege IJzertijd aan de Helmusweg te Hout-Blerick , gemeente Venlo Een archeologische opgraving Auteur : X.J.F . 
+Alma Met bijdragen van : F.S . 
+Zuidhoff , S.B.C . 
+Bloo en E. Smit In opdracht van : Zuidgrond BV Foto ’ s en tekeningen : ADC ArcheoProjecten , tenzij anders vermeld © ADC ArcheoProjecten , Amersfoort , april 2010 Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke wijze dan ook zonder voorafgaande schriftelijke toestemming van de uitgevers . 
+ADC ArcheoProjecten aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit de toepassing van de adviezen of het gebruik van de resultaten van dit onderzoek . 
+Autorisatie : D.A . 
+Gerrets ISBN 978-90-6836-530-6 ADC ArcheoProjecten Postbus 1513 3800 BM Amersfoort Tel 033 299 8181 Fax 033 299 8180 Email info @ archeologie.nl Inhoudsopgave Administratieve gegevens van het onderzoeksgebied Samenvatting 1 Inleiding 1.1 Algemeen 1.2 Vooronderzoek 1.3 Doel van het onderzoek en onderzoeksvragen 1.4 Opzet van het rapport 2 Methoden 3 Resultaten 3.1 Fysisch geografisch onderzoek : Landschap en bodemopbouw ( F.S . 
+Zuidhoff ) 3.1.1 Geologie en bodem algemeen 3.1.2 Onderzoeksmethoden 3.1.3 Lithostratigrafie en bodemkunde 3.1.4 Conclusie 3.2 Sporen en structuren 3.2.1 Resultaten Proefsleuvenonderzoek 3.2.2 Resultaten Definitieve opgraving 3.3 Vondstmateriaal 3.3.1 Aardewerk ( S.B.C . 
+Bloo ) 3.3.2 Metaal 3.4 Fysisch antropologisch onderzoek ( E. Smit ) 3.4.1 Inleiding 3.4.2 De methoden 3.4.3 Werkwijze 3.4.4 Resultaten crematierestenonderzoek 4 Synthese 4.1 Algemeen 4.2 Beantwoording van de onderzoeksvragen 5 Conclusie Literatuur Lijst van afbeeldingen Lijst van tabellen Bijlage 1 Fysisch antropologische determinatietabellen Verklarende woordenlijst Afkortingen in database 4 5 7 7 9 10 11 11 13 13 13 15 15 15 17 17 17 19 19 25 26 26 26 27 27 28 28 29 31 32 33 33 34 40 41 Administratieve gegevens van het onderzoeksgebied Provincie : Gemeente : Plaats : Toponiem : Kadastrale gegevens : Kaartblad : Coördinaten : Limburg Venlo Hout-Blerick Helmusweg Kadastrale gemeente Venlo , Sectie L , perceel nrs . 
+4477 , 4476 , 4667 , 4707 , 6255 , 5832 , 6236 , 6232 , 6234 , 4229 , 6231 , 6235 58EN2 Noord : 206.951,3 / 374.731,8 Noord-oost : 206.968,5 / 374.707,0 Zuid : 206.915,0 / 374.668,2 Zuid-west : 206.900,0 / 374.684,8 Projectverantwoordelijke : Bevoegd gezag : Deskundige namens het bevoegd gezag : ARCHIS-onderzoeksmeldingsnummer ( CIS-code ) : ADC-projectcode : X.J.F . 
+Alma Gemeente Venlo M.Th.R.M . 
+Dolmans 28655 Complex en ABR codering : Periode ( n ) : Geomorfologische context : NAP hoogte maaiveld : Maximale diepte onderzoek : Uitvoering van het veldwerk : Beheer en plaats documentatie : Grafveld Crematies ( GCG ) , Urnenveld ( GVCU ) Late Prehistorie Dalvlakteterras en laaggelegen reliëf Circa 22,6 m + NAP 1,5 m - MV 13 tot en met 16 mei 2008 Provinciaal Archeologische Depot Limburg 4108521 5 Samenvatting In opdracht van Zuidgrond BV heeft ADC ArcheoProjecten een definitieve opgraving uitgevoerd aan de Helmusweg te Venlo , Hout-Blerick . 
+Doel van onderzoek was het opgraven en documenteren van de vindplaats , aangezien behoud in situ niet tot de mogelijkheden behoorde . 
+De opgegraven vindplaats betrof een grafveld dat tijdens het vooronderzoek op de locatie was vastgesteld . 
+Aanleiding tot het onderzoek vormde de ontwikkeling van het terrein voor nieuwbouw . 
+Met de opgraving is het grafveld volledig onderzocht . 
+Het grafveld bleek te bestaan uit zes crematiegraven , waarvan vijf bijzettingen in een urn en één bijzetting in een grafkuil . 
+Op basis van dateringen van het aardewerk , kunnen de graven in de Vroege IJzertijd gedateerd worden . 
+Vermoedelijk hebben de graven behoord tot mensen van één groep die gedurende een korte periode gebruik gemaakt heeft van het grafveld . 
+Gedacht kan worden aan een familie . 
+Uit de crematieresten kon afgeleid worden dat het ging om vijf volwassenen in de leeftijd van maximaal 20 tot 40 jaar en één kind . 
+Onder de volwassenen waren in ieder geval één vrouw en drie mannen . 
+In de crematiegraven waren enkele grafgiften bijgeplaatst , waaronder een miniatuur urn , een metalen voorwerp en een schaal . 
+Het onderzoek past binnen de lokale geschiedenis . 
+Zo zijn bij eerdere onderzoeken in de directe omgeving eveneens kleinere grafvelden uit dezelfde periode aangetroffen . 
+Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Periode Nieuwe tijd Middeleeuwen : Romeinse tijd : IJzertijd : Late-IJzertijd Midden-IJzertijd Vroege-IJzertijd Bronstijd : Late-Bronstijd Midden-Bronstijd Vroege-Bronstijd Neolithicum ( Jonge Steentijd ) : Mesolithicum ( Midden Steentijd ) : Paleolithicum ( Oude Steentijd ) : Tijd in jaren 1500 - heden 450 – 1500 na Chr . 12 voor Chr . – 450 na Chr . 800 – 12 voor Chr . 250 - 12 voor Chr . 500 - 250 voor Chr . 800 - 500 voor Chr . 2000-800 voor Chr . 1100 - 800 voor Chr . 1800 - 1100 voor Chr . 2000 - 1800 voor Chr . 5300 – 2000 voor Chr . 8800 – 4900 voor Chr . tot 8800 voor Chr . 
+Bron : Archeologisch Basis Register 1992 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 6 GRUBBENVORST GRUBBENVORST GRUBBENVORST GRUBBENVORST GRUBBENVORST GRUBBENVORST VELDEN VELDEN VELDEN VELDEN VELDEN 380000 SEVENUM SEVENUM SEVENUM SEVENUM SEVENUM SEVENUM 375000 VENLO VENLO VENLO VENLO VENLO MAASBREE MAASBREE MAASBREE MAASBREE MAASBREE MAASBREE KONINGSLUST KONINGSLUST KONINGSLUST KONINGSLUST KONINGSLUST KONINGSLUST STEIJL STEIJL STEIJL STEIJL STEIJL TEGELEN TEGELEN TEGELEN TEGELEN TEGELEN TEGELEN BAARLO BAARLO BAARLO LB LB BAARLO BAARLO BAARLO LB LB LB LB N N N N N N N N N N N 370000 HELDEN ELDEN ELDEN HELDEN BELFELD BELFELD BELFELD BELFELD BELFELD BELFELD 000000 5000m 5000m 5000m 5000m 5000m 5000m KESSEL KESSEL LB LB KESSEL KESSEL KESSEL LB LB LB KESSEL LB 10000m REUVER REUVER REUVER REUVER REUVER REUVER 200000 205000 210000 215000 Hout-Blerick , gemeente Venlo Locatie van het onderzoeksgebied bron : Geodan Afb . 
+1 . 
+Locatie van het onderzoeksgebied op de topografische kaar ( bron onder : www.maps.google.nl ) . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 7 1 Inleiding 1.1 Algemeen In opdracht van Zuidgrond BV heeft ADC ArcheoProjecten een Archeologische Opgraving uitgevoerd in het plangebied Hout-Blerick – Helmusweg ( afb . 
+1 ) . 
+In het plangebied zal in de nabije toekomst nieuwbouw van woningen plaatsvinden . 
+Vooronderzoek ( zie §1.2 ) heeft aangetoond dat zich op deze locatie een grafveld uit de late prehistorie bevindt . 
+Dit grafveld omvatte minimaal vijf begravingen van crematieresten in een kuil of urn ( zie voor periodisering tabel 1 ) . 
+De voorgenomen bouwplannen zullen deze archeologische waarden beschadigen dan wel vernietigen . 
+Het definitief onderzoek had tot doel om de aanwezige archeologische resten ex situ te bewaren . 
+Op basis van het vooronderzoek is binnen het 4,1 ha tellende plangebied een onderzoeksgebied geselecteerd waar het grafveld verwacht werd , dat door middel van een definitieve opgraving onderzocht moest worden ( Afb . 
+2 ) . 
+Dit onderzoeksgebied had een omvang van ca . 
+1850 m2 waarvan reeds ca . 
+400 m2 was onderzocht tijdens het vooronderzoek . 
+Ten tijde van het onderzoek was het terrein nog braakliggend . 
+Het onderzoeksgebied ligt aan de Helmusweg te Hout-Blerick . 
+In het gebied zijn 4 werkputten aangelegd met een totale oppervlakte van circa 1350 m2 . 
+444 555 222 999 15 15 15 18 18 18 19 19 19 19 19 374700 111 333 26 26 26 888 21 21 21 13 13 13 13 13 13 16 16 16 20 20 20 17 17 17 10 10 10 666 777 11 11 11 N N N 374600 22 22 22 14 14 14 000000 25m 25m 25m 25m 25m 25m 206900 12 12 12 207000 207100 Afb . 
+2A . 
+Ligging van de werkputten van het vooronderzoek . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 374750 8 374725 schuur E huis Put 18 schuur Put 19 C D B 374700 huis A 374675 Put 8 Put 21 Put 15 voormalige loods Put 16 Put 20 N N N N N N Put 6 374650 Put 17 00000 25m 25m 25m 25m 25m 206900 206925 206950 206975 Hout-Blerick , Helmusweg Locatie graven Kronkelwaardafzettingen , C-horizont Mogelijke ligging grafveld Kronkelwaardafzettingen , Banden-B horizont AK AK AK10-2-2010 10-2-2010 10-2-2010 10-2-2010 AK AK AK 10-2-2010 10-2-2010 Legenda Afb . 
+2B . 
+Ligging van het grafveld op basis van de resultaten van het vooronderzoek . 
+Het veldwerk is uitgevoerd tussen 13 en 16 mei 2008 . 
+In die periode zijn de werkputten aangelegd en onderzocht conform het Programma van Eisen ( PvE ) , dat door J.B . 
+de Voogd is opgesteld.1 Dit ontwerp is goedgekeurd door de heer M.Th.R.M . 
+Dolmans , gemeentelijk archeoloog van Venlo . 
+De vondsten en bijbehorende documentatie die tijdens de opgraving zijn verzameld , worden gedeponeerd in het Provinciaal Archeologisch Depot van Limburg te Maastricht . 
+1 Voogd , 2008 : PvE nummer : 08-233 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 9 Het veldteam bestond uit de volgende personen : X . Alma ( projectverantwoordelijk veldarcheoloog ) , A. de Ridder en L. Verniers ( beiden veldtechnicus ) . 
+De kraanmachinist M. Direks werd geleverd door de firma van Rattingen . 
+Senior archeoloog was D. Gerrets . 
+De bij het project betrokken fysisch geograaf was F. Zuidhof . 
+Het vondstmateriaal is bestudeerd door S. Bloo ( aardewerk ) en E. Smit ( fysische antropologie ) . 
+Hun bevindingen zijn in de betreffende deelrapporten beschreven . 
+De contactpersoon bij Zuidgrond BV is mevrouw I. Nellen . 
+1.2 Vooronderzoek In verband met de toekomstige ontwikkelingen in het plangebied Hout-Blerick - Helmusweg zijn in een eerder stadium drie inventariserende archeologische onderzoeken uitgevoerd om de archeologische waarde van het plangebied te bepalen . 
+Op basis van deze onderzoeken is het selectiegebied voor het definitieve archeologische onderzoek bepaald . 
+Vooronderzoek plangebied Het eerste vooronderzoek vond in september 2007 plaats en werd uitgevoerd door ADC ArcheoProjecten.2 Dit bureauonderzoek wees uit dat in het plangebied enerzijds bewoningsresten vanaf het Mesolithicum tot de Nieuwe tijd verwacht konden worden en anderzijds begravingen in de vorm van urnen en crematiekuilen uit de Brons- en IJzertijd ( zie voor periodisering tabel 1 ) . 
+Op basis van het bureauonderzoek is in oktober 2007 een archeologisch booronderzoek uitgevoerd door ADC ArcheoProjecten.3 Dit onderzoek liet zien dat de bodemopbouw in het plangebied nog intact was en dat daarmee de kans op vondsten en sporen uit het Mesolithicum tot de Nieuwe tijd groot was . 
+De vondsten en sporen konden verwacht worden in de B-horizont en de top van de C-horizont . 
+In februari 2008 is door ADC ArcheoProjecten een derde inventariserend vooronderzoek uitgevoerd.4 Ditmaal is het plangebied door middel van proefsleuven onderzocht . 
+Tijdens het onderzoek werd aan de noordwestzijde van het plangebied een grafveld aangetroffen . 
+Dit grafveld omvatte vijf begravingen van crematieresten , waarvan er vier in een urn waren bijgezet . 
+Op basis van het aardewerk kon het grafveld in de Late IJzertijd gedateerd worden . 
+In de overige delen van het onderzoeksgebied zijn buiten een postmiddeleeuwse haardkuil geen sporen aangetroffen . 
+In het zuidelijke deel van het plangebied bleek een gedeelte verstoord te zijn waardoor sporen mogelijk verloren zijn gegaan . 
+Voor dit deel was de verwachting voor nederzettingssporen hoog . 
+Archeologisch onderzoek in de omgeving In de omgeving van het plangebied hebben enkele andere archeologische onderzoeken plaatsgevonden . 
+Ook deze onderzoeken leverden onder andere sporen uit de late prehistorie op ( Afb . 
+3 . ) . 
+In 2003 vond aan de Zalzerskampweg een archeologische opgraving plaats.5 Bij dit onderzoek werd een grafveld gevonden . 
+Het grafveld bestond uit veertien crematiekuilen met urnfragmenten en dateert uit de IJzertijd . 
+Behalve het grafveld zijn er vuurstenen werktuigen uit het Mesolithicum , Neolithicum , de Bronstijd en de IJzertijd gevonden . 
+Ook zijn er paalsporen gevonden van een gebouw uit vermoedelijk de IJzertijd . 
+Daarnaast zijn er middeleeuwse sporen gevonden , waaronder een greppel en paalsporen die behoorden tot een erfafscheiding . 
+Ten noordoosten van het onderzoeksgebied heeft in 1993 een opgraving plaatsgevonden aan de Baarlosestraat te Blerick , in het tracé van de Rijksweg A73.6 De opgraving heeft onder andere een ( deel van een ) potbeker uit het Laat-Neolithicum tot Vroege Bronstijd opgeleverd , drie crematiegraven uit de Late Bronstijd , fragmenten en complete urnen met crematieresten uit de Late Bronstijd , en aardewerkfragmenten uit de Middeleeuwen.7 Circa 400 m ten noorden van de onderzoekslocatie , net ten noorden van de A73 , is in 1947 een drietal urnen 'op een nabijgelegen terrein grafheuvels ' aangetroffen.8 De urnen dateren uit de Late Bronstijd tot IJzertijd en maken deel uit van de Nederrijnse grafheuvelcultuur . 
+De vondsten zijn gedaan bij nietarcheologisch graafwerk . 
+Meer gegevens ontbreken . 
+2 Van Lil , 2007 . 
+Klinck en Nederpelt , 2007 . 
+Corver , 2008 . 
+5 Klooster en de Winter , 2004 . 
+Archis Waarnemingsnr 48.774 . 
+6 Schotten en Machiels , 1994 . 
+7 Archis waarnemingsnr . 
+32570 ( april 2008 ) . 
+8 Archiswaarnemingsnr . 
+31056 ( april 2008 ) . 
+3 4 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 375500 10 375000 31.056 31.056 374500 32.570 32.570 48.774 48.774 374000 N N N N N 0 0 000 250m 250m 250m 250m 250m 206000 206500 207000 207500 208000 Hout - Blerick , Helmusweg Opgraving en archiswaarnemingen AK AK AK10-2-2010 10-2-2010 10-2-2010 Legenda Archiswaarneming Opgravingslocatie Afb . 
+3 . 
+Archiskaart met in rood de locaties van archeologische waarnemingen nabij de opgravingslocatie ( ster ) . 
+1.3 Doel van het onderzoek en onderzoeksvragen De archeologische opgraving heeft tot doel het materiaal van de vindplaats veilig te stellen en de gegevens te documenteren om daarmee informatie te behouden die van belang is voor de kennisvorming over het verleden . 
+In het PvE zijn verschillende onderzoeksvragen gesteld , die in dit rapport worden beantwoord op basis van hetgeen in de werkputten is aangetroffen : ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 11 1 . 
+Tot hoever strekt het grafveld zich uit en uit wat voor typen graven bestaan de bijzettingen ? 
+Waaruit bestaan eventuele mobilia ? 
+Waaruit bestaan eventuele grafstructuren ? 
+Is er een fasering dan wel interne differentiatie aan te brengen ? 
+Onderzoeksvragen uit het PvE , opgesteld door C. Kraan t.b.v . 
+het Inventariserend Veldonderzoek door middel van proefsleuven:9 2 . 
+3 . 
+4 . 
+5 . 
+6 . 
+7 . 
+8 . 
+1.4 Zijn er voorts nog archeologische waarden in het plangebied aanwezig ? 
+Zo ja , wat is de aard van deze archeologische waarden ? 
+Uit welke periode dateren deze archeologische waarden ? 
+Komen de sporen inderdaad uit de perioden Mesolithicum tot en met de Nieuwe tijd of is er een piek aan te wijzen in één of meerdere perioden ? 
+Zijn resten uit perioden volledig afwezig ? 
+Wat zou de reden hiervan kunnen zijn ? 
+Is er een ruimtelijke spreiding aan te wijzen in de aanwezige archeologische waarden ? 
+Wat is de relatie tussen de verschillende vondstcomplexen ? 
+Wat is de horizontale en verticale verspreiding van de archeologische vondsten , is er een relatie tussen de verschillende vondstcomplexen en is er een relatie met de complexen aangetroffen aan de Zalzerskampweg ? 
+Wat is de relatie met andere vondsten in de directe omgeving en de regio ? 
+Wat is de conservering en gaafheid van de aanwezige archeologische waarden ? 
+Komt de bodemopbouw overeen zoals geformuleerd in het rapport van het booronderzoek ? 
+Licht toe . 
+Wat is de relatie tussen horizont en vondsten ? 
+Beschrijf deze relatie en de bijbehorende dieptes . 
+Is aan de oppervlakte van het plangebied nog microreliëf aanwezig ? 
+Welke indicatie geeft dit voor de aanwezigheid van mogelijke vindplaatsen hieronder ? 
+Hoe heeft het landschap eruit gezien op de onderzoekslocatie en hoe was de ontwikkeling hiervan ? 
+Op welke wijze hebben de bewoners gebruik gemaakt van het landschap en het eventueel gewijzigd ? 
+Is er sprake van een es ? 
+Wanneer is deze gevormd en wat is de uitbreiding hiervan ? 
+Wat is de waardering van de vindplaats ( en ) ? 
+Opzet van het rapport Dit rapport betreft een standaardrapport zoals genoemd in de Kwaliteitsnorm Nederlandse Archeologie ( KNA 3.1 -specificatie OS15 ) . 
+In dit rapport worden de resultaten van het onderzoek gepresenteerd , waarna de eerste conclusies volgen . 
+In het onderzoek en daarmee tevens in de voorliggende rapportage zijn de bevindingen van het vooronderzoek meegenomen en deels integraal overgenomen.10 Op basis van de eindresultaten zijn de conclusies en synthese opgesteld . 
+Na de samenvatting en dit inleidende hoofdstuk volgt een omschrijving van de onderzoeksmethoden in hoofdstuk 2 . 
+Vervolgens zullen de verschillende deelonderzoeken aan de orde komen . 
+De auteurs staan telkens bij de betreffende hoofdstukken vermeld . 
+In hoofdstuk 3 wordt ingegaan op de landschappelijke opbouw van het onderzoeksgebied , wordt een beschrijving gegeven van de sporen en structuren die tijdens de opgravingen zijn aangetroffen , wordt het vondstmateriaal beschreven en worden de resultaten van het fysisch antropologisch onderzoek beschreven . 
+In hoofdstuk 4 volgt de synthese en de beantwoording van de onderzoeksvragen . 
+Tot slot volgen in hoofdstuk 5 de conclusies van het onderzoek . 
+2 Methoden Het onderzoek is uitgevoerd conform de KNA 3.1 en het PvE . 
+Op basis van het vooronderzoek was een selectiegebied gemaakt dat door middel van een definitieve opgraving onderzocht moest worden . 
+Dit gebied lag rondom de werkputten met crematiegraven ( werkputten 8 , 9 , 18 en 19 van het vooronderzoek ) . 
+Het onderzoeksgebied had een lengte van circa 70 m en een breedte westwaarts taps toelopend van 30 naar 22 m ( Afb . 
+4 . ) . 
+Aan de noordzijde werd het onderzoeksgebied begrensd door de erfafscheidingen van de woningen aan de Beeretweg . 
+Tijdens het veldwerk is het onderzoeksgebied arbitrair ingedeeld in vier opgravingsputten . 
+Tussen werkput 3 en 4 is een zone niet ontgraven aangezien zich hier een diepe waterput bevond die in verbinding stond met een noordelijker gelegen waterbassin . 
+De centraal gelegen werkputten 8 , 9 en 19 van het vooronderzoek zijn niet opnieuw opgegraven aangezien deze tijdens het vooronderzoek volledig gedocumenteerd en afgewerkt zijn . 
+9 10 Kraan , 2007 . 
+PvE nummer : 07-205 . 
+Corver , 2008 . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 12 In alle werkputten is het tussenvlak aangelegd in de B-horizont , net onder de verbruiningslaag . 
+Wanneer er geen sporen zichtbaar waren is er laagsgewijs verdiept tot in de C-horizont . 
+De vlakken zijn machinaal aangelegd met gladde bak . 
+Er is geen gebruik gemaakt van een schaafbak . 
+Waar nodig is het vlak handmatig opgeschaafd . 
+Tijdens het aanleggen van de vlakken zijn de vondsten verzameld in vakken van 4 bij 4 m. Zowel de stort als het vlak zijn met een metaaldetector onderzocht . 
+Er zijn geen bijzondere vondsten ingemeten . 
+Na het aanleggen van het vlak is de werkput gefotografeerd en zijn de sporen ingekrast . 
+Vervolgens zijn de sporen ingemeten met behulp van een robotic Total Station . 
+Tevens zijn om de 4 m waterpashoogtes bepaald . 
+Er is een lokaal meetsysteem uitgezet om een detailtekening te kunnen maken van twee sporen ( crematiegraf en natuursteen / paalspoor ) . 
+Alle aangetroffen sporen zijn met de hand gecoupeerd en indien archeologisch relevant vervolgens gedocumenteerd ( gefotografeerd en getekend ) . 
+Daarna zijn de sporen afgewerkt . 
+Eventueel vondstmateriaal uit de sporen is verzameld . 
+Bij twee sporen ( crematiekuil en paalspoor ) zijn monsters genomen . 
+In alle werkputten zijn de profielen deels opgeschaafd en zijn deze door middel van profielkolommen gedocumenteerd . 
+374725 18 18 19 19 44 11 374700 99 15 15 33 21 21 88 22 374675 N N N 16 16 20 20 0 00 00 0 10m 10m 10m 10m 10m 10m 206900 206925 206950 206975 Hout-Blerick , Helmusweg Locatie opgravingsputten Proefsleuvenonderzoek Vervolgonderzoek AK AK AK10-2-2010 10-2-2010 10-2-2010 10-2-2010 AK AK AK 10-2-2010 10-2-2010 Legenda Afb . 
+4 . 
+Puttenplan definitief onderzoek en proefsleuven van het vooronderzoek . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 13 3 Resultaten 3.1 Fysisch geografisch onderzoek : Landschap en bodemopbouw ( F.S . 
+Zuidhoff ) 11 Tijdens het vooronderzoek door middel van proefsleuven heeft een uitgebreid fysisch geografisch onderzoek plaatsgevonden . 
+Bij het definitieve onderzoek zijn de profielen opgeschaafd en is de bodemopbouw onderzocht . 
+De resultaten ervan zijn getoetst aan het eerder uitgevoerde fysisch geografische onderzoek . 
+Hieruit bleek de profielopbouw overeenkomstig te zijn met de profielopbouw zoals die tijdens het vooronderzoek was waargenomen . 
+Op basis daarvan behoeft het fysisch geografisch onderzoek geen nadere aanpassing . 
+3.1.1 Geologie en bodem algemeen Hout-Blerick is gelegen op één van de terrassen van de Maas . 
+De Maasterrassen zijn gevormd onder invloed van een voortdurende bodemstijging en wisselende klimaatsomstandigheden . 
+Gedurende koude perioden vormde de Maas een brede vlechtende rivier die wordt gekenmerkt door een grote hoeveelheid tegelijkertijd functionerende ondiepe geulen . 
+Deze geulen verleggen zich gemakkelijk . 
+De vlechtende Maas vervoerde grote hoeveelheden grof sediment vanuit het achterland . 
+In de perioden met laagwater kon zand uit de riviervlakte opwaaien en vormde zowel in als naast het brede rivierdal zogenaamde rivierduinen . 
+Tijdens perioden van hoogwater werden duinen die in de riviervlakte waren gevormd grotendeels opgeruimd . 
+In warme perioden veranderde het rivierpatroon in een meanderend systeem . 
+Meanderende rivieren worden gekenmerkt door het voorkomen van een enkele geul die zich geleidelijk naar buiten en stroomafwaarts verplaatst . 
+Typerend voor een meanderende rivier is de vorming van kronkelwaarden met zogenaamde kronkelwaardgeulen en kronkelwaardruggen . 
+De meanderende rivieren sneden zich in , in de brede riviervlakte van het vlechtende systeem . 
+Door het insnijden van de meanderende rivieren is het voor Limburg kenmerkende terrassenlandschap ontstaan . 
+Op de vlechtende riviervlakte werden de zwaardere sedimenten afgezet die wij tegenwoordig kennen als rivierleem . 
+Naar de ontwikkeling van de Maasterrassen is beperkt onderzoek gedaan.12 De verschillende rivierterrassen worden onderscheiden op basis van hun hoogteligging , geomorfologie en bodemvorming . 
+Volgens de terrassenkaarten van Midden-Limburg is Hout-Blerick gelegen op het Maasterras uit het Vroeg Allerød ( afb . 
+5 . 
+) .13 Dit terras heeft een sterk meanderend patroon en het onderzoeksterrein bevindt zich tussen twee meanderbogen . 
+Ten noordwesten van Hout-Blerick ligt de sterk gekromde oude Maasloop ( meanderbocht ) van Boekend.14 De opgraving ligt op een hoger deel van de kronkelwaard van de meanderbocht . 
+De oudste opvulling van deze restgeul is met pollenonderzoek gedateerd en heeft een Vroeg-Allerød ouderdom ( circa 11.800 jr. BP ) .15 Ten zuidwesten van het onderzoekterrein ligt een jongere Maasmeander van Baarlo-Dubbroek . 
+De opvulling van de restgeul is gedateerd rond 11.830 ± 180 14Cjaar BP ( overgang Bølling – Allerød ) .16 11 Informatie integraal ontleend aan Corver , 2008 en aangevuld op basis van bevindingen van het definitief onderzoek . 
+O.a . Van den Broek & Maarleveld 1963 ; Van den Berg 1989 & 1996 ; Kasse , Vandenberghe & Bohncke 1995 ; Huisink 1999 ; Tebbens 1999 ; Houtgast 2003 . 
+13 Kasse , Vandenberghe & Bohncke 1995 . 
+14 Klooster en de Winter , 2004 . 
+15 Van den Broek & Maarleveld 1963 ; Van den Berg 1996 . 
+16 Klooster en de Winter , 2004 . 
+12 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 377000 378000 14 44 Meander Boekend Boekend Meander 66 376000 33 375000 55 Meander Meander Baarlo Baarlo -- Dubbroek Dubbroek 44 N N N N N N 0 0 00 00 1250m 1250m 1250m 1250m 1250m 1250m 205000 55 206000 207000 208000 209000 Venlo - Hout Blerick Helmusweg Geomorfologische kaart op basis van het AHN Legenda 3 - 6 nummers Maasterrassen Terras 3 en 4 Allerod - Bollingterras meanderend riviepatroon Terras 5 Jonge Dryas terras vlechtend rivierpatroon Terras 6 terrasafzettingen Holoceen Onderzoeksgebied FZ 26-02-2008 374000 66 Afb . 
+5 . 
+Geomorfologische kaart op basis van het AHN . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 15 3.1.2 Onderzoeksmethoden Tijdens het fysisch geografisch veldwerk gedurende het vooronderzoek zijn profielopnames gemaakt in een aantal putten ( 4 , 5 en 6 ) . 
+De bodemtextuur en archeologische indicatoren zijn beschreven volgens SBB 5.1 van het NITG-TNO waarin ondermeer de standaard classificatie van bodemmonsters volgens NEN5104 wordt gehanteerd . 
+De bodems zijn beschreven per onderscheiden hoofd- en subhorizont . 
+Van elk profiel is het koolzure kalkgehalte bepaald met behulp van een 10 % zoutzuuroplossing . 
+Daarnaast zijn , indien aanwezig , sedimentaire structuren beschreven . 
+De profielopbouw in de aangelegde werkputten van het definitieve archeologische onderzoek was overeenkomstig met de bevindingen van het vooronderzoek . 
+3.1.3 Lithostratigrafie en bodemkunde De bodemopbouw in de werkputten van het definitief archeologisch onderzoek was gelijk aan de bevindingen tijdens het vooronderzoek ( Afb . 
+6 . ) . 
+Ook tijdens het vooronderzoek was de bodemopbouw in alle putten ongeveer gelijk : op een diepte van circa 100 cm – mv bestaat de ondergrond uit kalkloos , matig grof , matig siltig zand ( Zs2 ) . 
+Dit zand is afgedekt door sterk tot uiterst siltig zand ( Zs3/4 ) tot aan de bouwvoor . 
+Deze sedimentaire opbouw met matig grof zand bedekt met een siltiger pakket is typisch voor de kronkelwaardafzettingen van een Maasterras . 
+In de bovenste siltige laag is bodemvorming opgetreden . 
+De kleur van het siltige zand is intensief bruin tot koffiebruin , een zogenaamde Bw-horizont . 
+De vorming van deze koffiebruine Bw-horizont is een gevolg van de uitspoeling en verwering van kleien leemdeeltjes onder invloed van percolerend regenwater . 
+De uitgespoelde kleideeltjes slaan neer in de B-horizont , waar dan een lichte klei-aanrijking plaatsvindt . 
+In de B-horizont treedt vervolgens bodemvorming op , de zogenaamde verbruining . 
+Deze verbruining treedt op als een vorm van interne verwering waarbij ijzer wordt vrijgemaakt uit het kristalrooster van de mineralen . 
+Dit ijzer wordt in huidjes afgezet rondom de minerale delen en veroorzaakt bruine verkleuringen . 
+De uniforme verbruiningskleur is het gevolg van een uniforme verdeling van ijzerdeeltjes in de bodem en dit wijst op een goede doorluchting en daarmee een goede natuurlijke drainage . 
+Verbruining gaat bijna altijd samen met de vorming van nieuwe kleimineralen . 
+Bij deze bodemchemische processen worden tevens fragmenten van sporen mee verweerd en uitgespoeld . 
+Hierdoor zijn de sporen in deze bodemhorizonten bijzonder slecht leesbaar . 
+Kleimineralen zijn ook ingespoeld in het onderliggende zand . 
+Hierin zijn banden zichtbaar van ingespoelde klei de zogenaamde banden-B-horizont . 
+In de profielwanden is geen sterk humeuze bovengrond van meer dan 50 cm aangetroffen . 
+Met andere woorden : er is in dit gebied geen esdek gevonden . 
+3.1.4 Conclusie De onderzoekslocatie bevindt zich op een Maasterras uit het Vroeg-Allerød vlak ten noorden van een iets jongere Maasmeander die dichtgeslibd is laat in het Allerød ( circa 12.000 14C jr. BP ) . 
+De Maas stroomt sindsdien ten oosten van het plangebied . 
+Dit hooggelegen Maasterras was een zeer goede locatie voor bewoning . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 16 22,8 +NAP 1.000 1.000 2.000 2.000 3.000 3.000 3.001 3.001 4.000 4.000 21,3 +NAP Hout-Blerick , Helmusweg Beschrijving profiel 3 , werkput 2 Legenda Bouwvoor B-horizont Bw - Horizont C-horizont ADC ArcheoProjecten Rapport 1540 Afb . 
+6 . 
+Profiel 3 in werkput 2 van het definitief onderzoek . 
+Hout-Blerick Helmusweg 17 3.2 Sporen en structuren De vondst van vijf crematiegraven tijdens het proefsleuvenonderzoek vormde de aanleiding tot het uitvoeren van een definitieve opgraving . 
+Tijdens het definitieve onderzoek stond het grafveld centraal . 
+Onderstaand zullen de resultaten per fase van het onderzoek beschreven worden . 
+3.2.1 Resultaten Proefsleuvenonderzoek Verspreid over drie werkputten zijn in totaal 5 crematiegraven aangetroffen ( Afb . 
+7 . ) . 
+Van de vijf graven betrof het viermaal bijzettingen van crematieresten in urnen ( graf A , B , C , E ) . 
+Eénmaal blijken de crematieresten los in een kuil te zijn geplaatst ( graf D ) . 
+Alle graven zijn op ca . 
+1m onder maaiveld ( variërend van ca . 
+21,5 tot 21,8 m +NAP ) . 
+Drie graven lagen op relatief korte afstand van elkaar ( graf B , C , D ) , twee lagen op enige afstand ( graf A en E ) . 
+Opvallend aan graf E was de bijplaatsing van een miniatuurpot in de urn . 
+3.2.2 Resultaten Definitieve opgraving Tijdens het definitieve onderzoek zijn vier werkputten aangelegd ( Afb . 
+7 . ) . 
+Deze werkputten zijn gegraven rondom de werkputten 8 , 9 en 19 van het vooronderzoek . 
+De werkputten zijn laagsgewijs verdiept , in eerste instantie tot net onder de verbruiningslaag in de B-horizont en indien er geen sporen aanwezig waren , aansluitend tot in de C-horizont . 
+In alle werkputten was de bodemopbouw nog intact . 
+Aan de westzijde van het onderzoeksgebied ( westzijde werkput 2 en 3 ) was een verstoring aanwezig die slechts tot in de verbruiningslaag reikte . 
+In totaal zijn er slechts twee relevante archeologische sporen aangetroffen , beiden in werkput 1 . 
+Eén spoor betrof een kuil met een urnbijzetting , het tweede spoor betrof een natuursteen met onderliggend een paalspoor . 
+Buiten deze twee sporen zijn er enkele sporen aangetroffen die na onderzoek natuurlijk bleken te zijn . 
+Urnbijzetting Aan de noordoostzijde van werkput 1 is een kuil met een urnbijzetting aangetroffen ( Graf F ) . 
+De kuil waarin de urn was geplaatst was ingegraven in de C-horizont en had een diepte van ca . 
+20 cm en een doorsnede van ca . 
+60 cm . 
+De bovenzijde van de kuil en urn zijn , mogelijk bij aanleg vlak , deels afgetopt . 
+De urn was centraal in de kuil geplaatst en bevatte nog crematieresten . 
+Rondom de crematiekuil zijn geen sporen aangetroffen die in verband kunnen worden gebracht met grafstructuren , zoals greppels of paalzettingen . 
+Ook niet na het verder verdiepen van het vlak . 
+Paalspoor met natuursteen Aan de zuidwestzijde van werkput 1 is een natuursteen met onderliggend paalspoor gevonden . 
+Opvallend aan de natuursteen is dat deze vermoedelijk verbrand was . 
+Aan één zijde van de natuursteen lagen enkele aardewerkscherven . 
+Bij het couperen van het spoor leek aan de onderzijde sprake te zijn van de schaduw van een houten paal . 
+Dit was zichtbaar door een dunne lijn en een iets donkerdere vulling . 
+Echter er moet aangemerkt worden dat het spoor nog maar moeilijk leesbaar was . 
+De natuursteen en paalspoor lagen beiden in de B-horizont , kort op de overgang naar de C-horizont . 
+In het vlak rondom zijn geen andere sporen meer aangetroffen , ook niet na verder verdiepen van het vlak . 
+De context van het spoor is echter nog onduidelijk . 
+Er zijn geen tegenhangers gevonden waarmee het spoor deel kan hebben uitgemaakt van een structuur . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 374725 18 E D C 374700 B F PK 374675 A N N N N N N 0 10m 206900 206925 206950 206975 Hout-Blerick , Helmusweg Overzicht sporen IVO-P en DO Legenda Werkputten DO Recente sporen A t/m F Graven Werkputten IVO-P Archeologische sporen PK Paalkuil Afb . 
+7 . 
+Overzicht aangetroffen sporen definitief onderzoek en proefsleuven ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 19 3.3 Vondstmateriaal 3.3.1 Aardewerk ( S.B.C . 
+Bloo ) In totaal zijn tijdens zowel het inventariserend veldonderzoek als het definitieve onderzoek 6 begravingen aangetroffen , waarvan 5 in urnen . 
+Deze urnen zullen onderstaand per graf nader beschreven worden . 
+Inventariserend veldonderzoek door middel van Proefsleuven17 Tijdens het proefsleuvenonderzoek zijn in totaal 5 graven aangetroffen , waarvan vier begravingen in een urn ( Afb . 
+8 ) . 
+Graf A : De urn uit dit graf is zeer groot ( Afb . 
+9 ) . 
+Hoewel de bovenkant ontbreekt , is de hoogte reeds 26 cm . 
+De diameter op de schouder meet 33 cm . 
+Vanaf de bodem loopt de wand schuin naar buiten . 
+Op 20 cm boven de bodem volgt een vrij ferme schouderknik . 
+Daarna volgt een hals die vermoedelijk iets uitstaat , waardoor de pot een open drieledige vorm moet hebben gehad . 
+De zone onder de schouder is geheel besmeten . 
+Boven de schouder is de wand mooi gladgemaakt . 
+Ook de binnenkant is gladgemaakt . 
+De pot heeft een geheel donkere kleur , die is verkregen door hem in een zuurstofarm ( reducerend ) vuur te bakken . 
+De klei is verstevigd door de toevoeging van potgruis , zand en kleine stukjes gebroken kwarts . 
+Deze magering komt na de Vroege IJzertijd niet meer voor in Zuid-Nederland.18 De potvorm is gebruikelijk voor de Vroege IJzertijd . 
+Graf B : Deze urn is eveneens afgetopt maar zal ook een drieledige vorm hebben gehad ( Afb . 
+10 ) . 
+De pot is gemaakt van een stevig baksel . 
+De klei is verschraald met potgruis en zand en af en toe een iets groter stukje gebroken kwarts . 
+Aan de afwerking is veel aandacht besteed . 
+De wand is gladgemaakt . 
+Op de buik is kamstreekversiering aangebracht . 
+Rechte en gebogen lijnen wisselen elkaar af . 
+Op de schouder zaten oortjes . 
+Eén oortje is nog aanwezig : het is klein en doorboord . 
+Van een tweede oortje is slechts de aanhechting nog zichtbaar . 
+Ook deze urn kent vermoedelijk een datering in de Vroege IJzertijd . 
+Graf C : Van de urn uit dit graf is slechts de bodem en een deel van de buik nog aanwezig ( Afb . 
+11 ) . 
+Vanaf de bodem loopt de buik wijd naar buiten . 
+De bodem meet slechts 8 cm in diameter , de buik op het hoogste punt maar liefst 28 cm . 
+De bolle buik is gladgemaakt . 
+De binnen- en de buitenkant van de pot hebben een lichte kleur ; de kern is donker . 
+Dit patroon is verkregen door de pot eerst in een zuurstofarm vuur te bakken . 
+Aan het einde van het bakproces is meer zuurstof toegelaten , waardoor de binnen- en buitenkant een lichtere kleur hebben gekregen . 
+De magering bestaat uit potgruis en zand . 
+Een datering is door het ontbreken van het profiel lastig te geven , maar de pot misstaat niet bij de rest van de potten . 
+Graf D : In graf D zijn geen resten van een urn aangetroffen . 
+De crematieresten zijn zonder ( herleidbare ) container bijgezet in een kuil . 
+Graf E : Graf E bestaat uit een urn met daarin een miniatuurpotje . 
+De urn heeft een “ S-vormig ” profiel met een korte iets uitstaande hals en een dikke buik ( Afb . 
+12 ) . 
+De totale hoogte moet minimaal 15 cm zijn geweest . 
+De rand ontbreekt ook hier , waardoor de exacte hoogte niet te bepalen is . 
+De pot is reducerend gebakken en heeft een donkere kleur . 
+Doordat de hoeveelheden zuurstof in het vuur niet constant waren , zijn aan de buitenkant lichtere vlekken zichtbaar . 
+De magering bestaat uit zeer veel zand , potgruis en gebroken kwarts . 
+In de urn zat een miniatuurpotje . 
+Het potje heeft een tweeledig profiel met een korte opstaande hals en een bolle buik . 
+De bodem heeft een ziel . 
+Op de schouder is een steel aangebracht . 
+Deze is deels gebroken . 
+Dit kan opzettelijk zijn gedaan om het potje in de urn te krijgen . 
+De magering bestaat uit potgruis en zand . 
+Het potje is secundair verbrand , mogelijk is het potje met de dode mee op de brandstapel geweest . 
+Miniatuurpotjes zijn niet vreemd in ( Vroege- ) IJzertijd urnen . 
+Parallellen die sterk lijken op dit potje zijn bijvoorbeeld aangetroffen op het Vroege IJzertijd grafveld uit Weert.19 17 18 19 Informatie integraal ontleend aan Corver , 2008 . 
+Van den Broeke 1987 . 
+Roymans , et al . 
+1998 . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 20 Afb . 
+8 . 
+De vier tijdens het IVO-P aangetroffen urngraven , links de foto van het vlak , rechts de foto van de coupe . 
+Van boven naar beneden : graf A , graf B , graf C , graf D en graf E. ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 21 Afb . 
+9 . 
+Tekening en –foto van de urn uit graf A. Afb . 
+10 . 
+Tekening en –foto van de urn uit graf B. ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 22 Afb . 
+11 . 
+Tekening en –foto van de urn uit graf C. Afb . 
+12 . 
+Detailtekening en –foto van de urn en miniatuur uit graf E. Definitieve opgraving Tijdens de definitieve opgraving is één urnbegraving aangetroffen ( Afb . 
+13 ) , in graf F . 
+De urn met crematieresten van graf F is in zijn geheel gelicht . 
+De urn zelf was niet in het veld te conserveren . 
+In zijn geheel is hij voorzichtig gewassen waarbij zoveel mogelijk de bij elkaar horende scherven bijeen zijn gehouden . 
+Hierdoor was het reconstrueren van de potvorm aanzienlijk eenvoudiger ( Afb . 
+14 ) . 
+In totaal omvatte de vondst 71 fragmenten met een gewicht van 1.935 gram . 
+De scherven zijn desalniettemin afkomstig van twee individuen . 
+Vijf scherven behoren niet bij de urn , ze vormen een rand van een schaal met een afgeschuinde rand . 
+De overige 66 fragmenten zijn afkomstig van de urn . 
+De totale hoogte is minimaal 30 cm en de diameter van de bodem ongeveer 15 cm . 
+In totaal is ongeveer 40 % teruggevonden van de oorspronkelijke pot , gelukkig is wel een groot deel van het profiel te reconstrueren . 
+De urn heeft een grote buik , een korte schouder en een scherpe overgang naar de hals . 
+De rand staat hierdoor scherp naar buiten toe . 
+Dit type pot noemen we Schräghalsaardewerk . 
+Opvallend is de besmeten buik , voorzien van grove klodders klei , want meestal zijn Schräghalsurnen , volledig glad gemaakt aan de buitenzijde . 
+De schouder is gepolijst en ook de rand en hals zijn glad gemaakt . 
+De klei waarvan de urn is gemaakt , is verschraald met grove stukken gebroken kwarts . 
+De witte brokjes kwarts ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 23 zijn zowel aan het oppervlak als in de breuk duidelijk zichtbaar . 
+Tijdens het bakken van deze pot is weinig zuurstof toevoer geweest waardoor de breuk nog een zwarte kern vertoond . 
+In Roermond op de vindplaats Musschenberg is in een graf ( nummer 34 ) een vergelijkbaar exemplaar aangetroffen ( met besmeten buik en gepolijste schouder ) . 
+20 De schaal heeft vermoedelijk bovenop de urn gelegen om deze af te dekken . 
+Helaas is die volledig vernietigd door latere bodembewerkingen . 
+Een urn afdekken met een schaal is vrij gebruikelijk in de IJzertijd . 
+De vorm van de urn , in combinatie met de gebruikte verschraling van gebroken kwarts , is aanleiding om dit graf in de Vroege-IJzertijd te dateren , circa 800-600 v.Chr . 
+Afb . 
+13 . 
+Detailfoto Graf F . 
+20 Schabbink & Tol 2000 , 31 , urn 34a . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 24 Afb . 
+14A . 
+Detailtekening urn uit graf F. Afb . 
+14B . 
+Detailfoto urn uit graf F. Afb . 
+14C . 
+Detailfoto en tekening van twee randfragmenten van de urn uit graf F. ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 25 Afb . 
+14D . 
+Detailfoto en tekening van randfragment van de schaal uit urn F . 
+3.3.2 Metaal21 Tijdens de definitieve opgraving is één metaalvondst gedaan . 
+Deze vondst bleek niet nader determineerbaar en was afkomstig uit de bouwvoor . 
+Bij het proefsleuvenonderzoek zijn in graf D , het graf zonder urn , meerdere metalen resten gevonden ( Afb . 
+15 en 16 ) . 
+Het gaat om koperfragmenten , bestaande uit één relatief groot deel ( Afb . 
+15 . ) 
+en zeven kleinere delen waaronder een ovalen plaatje ( Afb . 
+16 ) . 
+De functie van de metalen voorwerpen is helaas niet te achterhalen . 
+Het is wel aannemelijk dat ze bedoeld waren als grafgift . 
+Er kan aan meerdere functies gedacht worden . 
+Het grote metaaldeel kan behoord hebben tot het heft van een steekwapen . 
+De ringetjes kunnen hebben gediend ter klemming van het lemmet . 
+Daarnaast zouden de voorwerpen een handvat of schenktuit van een koperen ketel of krater kunnen zijn geweest . 
+In het laatste geval zou de vondst gezien moeten worden in het licht van de drinkcultuur uit deze periode . 
+Afb . 
+15 . 
+Koperen heft of handvat uit graf D. Afb . 
+16 . 
+Koperen ringetjes en ovaal plaatje uit graf D . 
+21 Informatie integraal ontleend aan Corver , 2008 . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 26 3.4 Fysisch antropologisch onderzoek ( E. Smit ) 3.4.1 Inleiding De tijdens de opgraving aangetroffen crematieresten zijn onderzocht met het doel de aanwezige skeletresten te inventariseren en te beschrijven en de biologische kenmerken van de hier begraven individuen te achterhalen . 
+Het onderzoek naar crematieresten omvat de beschrijving van de crematieresten zelf ( verbranding en fragmentatie ) en de beschrijving van de fysisch antropologische eigenschappen , zoals de determinatie van de botfragmenten , leeftijd , geslacht , lichaamslengte , minimum aantal individuen en pathologische botveranderingen . 
+Bij gecremeerd botmateriaal is de samenstelling van het bot veranderd . 
+De organische bestanddelen zijn door de hoge temperaturen verdwenen en alleen het anorganische gedeelte , voornamelijk bestaand uit hydroxyapatiet , blijft over . 
+De kristalstructuur van dit mineraal verandert eveneens . 
+Verbrand botmateriaal heeft te lijden gehad van fragmentatie , vervorming , krimp en breuk , waardoor de determinatie bemoeilijkt kan worden . 
+Wanneer er echter genoeg botfragmenten van een redelijke grootte zijn overgebleven is het in het algemeen wel mogelijk om een leeftijdsschatting , een geslachtsdiagnose en een minimum aantal individuen te bepalen . 
+3.4.2 De methoden Beschrijving van de crematieresten - Fragmentatiegraad De fragmentatiegraad van crematieresten is afhankelijk van verschillende depositionele en postdepositionele processen ( o.a . wel of niet bewaren in een urn , blussen ) . 
+Niet afgekoelde crematieresten zijn erg breekbaar , handelingen als blussen of verzamelen van deze resten zorgen ervoor dat de fragmenten kleiner worden . 
+Er worden verscheidene stadia van fragmentatie onderscheiden : Fase 1 2 3 4 5 Omschrijving zeer klein klein middel groot zeer groot Fragmentgrootte ( cm ) < 1.5 1.6-2.5 2.5-3.5 3.6-4.5 > 4.6 -Verbrandingsgraad De verbrandingsgraad kan men o.a . bepalen aan de kleur- en krimpscheur-patronen van het verbrande bot . 
+Deze kleur is afhankelijk van de duur en de temperatuur van de verbranding . 
+Er worden verschillende fasen onderscheiden , een indeling volgt hieronder.22 Kleur lichtbruin donkerbruin zwart grijs krijtwit oudwit Verbrandingsgraad 0=onverbrand 1=zeer slecht verbrand 2=slecht verbrand 3=middelmatig verbrand 4=goed verbrand 5=zeer goed verbrand Teperatuur oC < 275 275-450 450-650 650-800 > 800 Beschrijving van de fysisch antropologische eigenschappen -Determinatie Bij het determineren van crematieresten wordt vooral de fractie van 10 mm en groter bekeken , botstukjes kleiner dan 10 mm kunnen zelden gedetermineerd worden.23 Deze kleine fractie wordt wel nagekeken op fragmenten die van belang kunnen zijn voor de leeftijds- en geslachtsbepaling of het minimum aantal individuen ( MAI ) . 
+De crematieresten worden bij voorkeur gezeefd over een 1 mm zeef omdat dan de grootste kans bestaat dat de allerkleinste botjes , n.l . 
+de gehoorbotjes die van belang kunnen zijn bij het bepalen van het MAI , bewaard blijven . 
+22 23 Wahl , 1982 . 
+Maat , 1985 . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 27 Bij de inventarisatie worden de botfragmenten in de volgende skeletregio 's onderverdeeld : Skeletdeel neurocranium viscerocranium axiaal diafysen extremiteiten epifysen extremiteiten Omschrijving skeletdelen hersenschedel aangezichtsschedel schouder wervels ribben bekken heiligbeen , sleutelbeen schachtfragmenten armen benen gewrichtsuiteinden armen en benen Binnen deze skeletregio ’ s zijn de individuele botstukken gedetermineerd ( b.v. dijbeen , spaakbeen ) . 
+Wanneer bij deze determinatie bepaalde beenderen ontbreken hoeft dat nog niet te betekenen dat deze daadwerkelijk niet aanwezig zijn . 
+De mogelijkheid bestaat dat de fragmenten te klein zijn hiervoor . 
+-Geslachtsbepaling De geslachtsbepaling wordt uitgevoerd volgens de normen van de Arbeitsgruppe Europäischer Anthropologen ( 1979 ) en maakt gebruik van een aantal kenmerken van de schedel en het bekken die in vorm en grootte verschillen tussen de geslachten . 
+Wanneer achter de geslachtsbepaling een vraagteken staat , bijvoorbeeld “ m ? ” betekent dit “ zeer waarschijnlijk mannelijk , ” bij twee vraagtekens is de geslachtsbepaling nog onzekerder . 
+Een geslacht toewijzen is alleen bij volwassenen mogelijk . 
+De robuustheid van het post-craniële skelet kan eveneens een aanwijzing zijn voor het geslacht.24 -Leeftijdsbepaling De leeftijdsbepaling bij crematieresten-onderzoek volgt dezelfde richtlijnen als die van het inhumatie25 onderzoek . 
+Voor onvolwassenen wordt naar de vergroeiing van de epifysen gekeken , het eruptiepatroon 26 van de tanden en kiezen , het aanzien van de symphysis pubica en de sluiting van de schedelnaden 27 28 endocraniaal en de facies auricularis ( allebei gewrichtsvlakken aan het bekken ) , en de ectocraniale 29 sluiting van de schedelnaden . 
+-Lichaamslengteschatting Voor de lichaamslengteschatting wordt gebruik gemaakt van de grootte van de proximale gewrichten van 30 de humerus ( bovenarm ) , de radius ( spaakbeen ) en het femur ( dijbeen ) . 
+-Pathologie Het onderzoek naar ziekten en ongelukken bij gecremeerde individuen is vanwege de incompleetheid van het materiaal vrij moeilijk . 
+Een beschrijving van de ziekteverschijnselen is vaak het hoogst haalbare . 
+3.4.3 Werkwijze De fractie die groter of gelijk is aan 1 cm wordt gedetermineerd . 
+De crematieresten in de verschillende skeletregio ’ s worden gewogen en de fragmentatie- en verbrandingsgraad vastgesteld . 
+De maximale fragmentgrootte wordt afgerond op een halve cm . 
+Wanneer crematieresten minder dan 1 gram wegen wordt dit afgerond tot 1 gram . 
+De fractie die kleiner is dan 1 cm wordt onderzocht op relevante botfragmenten . 
+Wat overblijft wordt residu genoemd . 
+In sommige gevallen is het residu erg vervuild en moet een schatting gemaakt worden van het gewicht aan crematieresten dat aanwezig is in het residu . 
+Aanwezige dierenbotten worden van de menselijke crematieresten gescheiden , fragmentatie- en verbrandingsgraad en gewicht worden genoteerd . 
+Het totaal gewicht aan crematieresten onder aan de tabellen duidt op het totaal zonder de dierlijke botfragmenten . 
+3.4.4 Resultaten crematierestenonderzoek De gegevens van het crematieonderzoek zijn in tabellen per graf afzonderlijk in de catalogus beschreven . 
+De crematieresten zijn goed verbrand , dat wil zeggen een fase 5 toegekend , wat een verbrandingstemperatuur indiceert van > 800 °C . 
+Het gewicht varieert van 52 gram tot 2203 gram . 
+De fragmentgrootte van de determineerbare fractie , exclusief het residu bestaande uit fragmenten kleiner dan 1 cm in doorsnede , is aanzienlijk . 
+Grote tot zeer 24 Schutkowski en Hummel , 1987 Arbeitsgruppe Europäischer Anthropologen , 1979 Ubelaker , 1984 27 Acsádi en Nemeskéri,1970 28 Lovejoy c.s. , 1985 29 Rösing , 1977 30 Rösing , 1977 25 26 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 28 grote botstukken waren in de urnen aanwezig . 
+Alle skeletcategorieën zijn aangetroffen , wat wijst op het verbranden van complete lichamen op de brandstapel . 
+Dierlijke resten zijn niet aanwezig . 
+De zes crematiegraven bevatten de verbrande botresten van 2 of 3 mannen , 1 vrouw , 1 individu waarvan alleen een ruwe leeftijdsindicatie mogelijk was en 1 kind . 
+Opvallend is de jonge leeftijd van de volwassenen . 
+Geen enkele persoon is ouder dan 40 jaar geworden , de meeste waren zelfs jonger dan 30 tot 35 jaar . 
+In alle gevallen was het minimum aantal individuen één . 
+Geen pathologische botveranderingen zijn aangetroffen die zouden kunnen wijzen op bepaalde aandoeningen tijdens het leven of informatie zouden kunnen verstrekken over de doodsoorzaak . 
+De groepssamenstelling wijst op een gezin of familie die hier hun doden begroef , wellicht was het de uitsnede van een oorspronkelijk groter grafveld behorende bij een nederzetting in de nabije omgeving . 
+Tabel 2 . 
+Overzicht determinatielijst crematieresten per graf Grafnummer A B C D E F Geslacht Man Vrouw Man ? 
+? 
+Man ? 
+Leeftijd in jaren 25-35 25-30 25-30 > 18 jaar 4-5 20-40 Totaal gewicht 2203 1145 558 574 52 1730 Nummer Put 8 Spoor 2 Put 8 Spoor 1 Put 9 Spoor1 Put 9 Spoor 2 Put 18 Spoor 1 Vn 13 ( As 1217 ) 4 Synthese 4.1 Algemeen Opgravingen aan de Helmusweg te Hout-Blerick hebben inzicht kunnen verschaffen in de op de onderzoekslocatie aanwezige archeologische waarden . 
+Op basis van het inventariserende veldonderzoek richtte het definitieve onderzoek zich op een grafveld aan de noordwest zijde van het terrein . 
+Dit grafveld is met deze beide onderzoeken volledig opgegraven en gedocumenteerd . 
+Het grafveld kan goed binnen de lokale- en regionale context geplaatst worden . 
+Synthese Inventariserend Veldonderzoek en Definitieve Opgraving Het tijdens het inventariserend veldonderzoek en definitieve opgraving onderzochte grafveld bleek te bestaan uit in totaal zes begravingen ( tabel 3 . ) . 
+Alle begravingen betroffen crematies . 
+Vijfmaal waren de crematies bijgezet in een urn , éénmaal los in een grafkuil . 
+Mogelijk zijn deze laatstgenoemde crematieresten begraven in een container van natuurlijk materiaal dat is vergaan . 
+Op basis van het aardewerk kan het grafveld in de Vroege IJzertijd gedateerd worden . 
+Van de zes graven lagen vier centraal ( graven B , C , D , E ) en twee graven op enige afstand ( graf F op 13 en graf A op 20 m ) van de cluster van graven . 
+Van de begraven individuen is vastgesteld dat het twee of drie mannen ( graf A , C en F ) betreft , één vrouw ( graf B ) en één kind ( graf E ) . 
+Van twee individuen kon het geslacht niet meer of niet met zekerheid vastgesteld worden . 
+De personen waren allen op jongere leeftijd overleden , voor hun 40ste levensjaar . 
+Waarschijnlijk behoorden de begraven individuen tot hetzelfde gezin of dezelfde familie . 
+Tabel 3 . 
+Overzicht gegevens per crematiegraf Grafnummer A B C D E F Geslacht Man Vrouw Man ? 
+? 
+Man ? 
+Leeftijd in jaren 25-35 25-30 25-30 > 18 jaar 4-5 20-40 Container Urn Urn Urn Niet aangetroffen Urn Urn Bijgiften Metalen voorwerpen Miniatuurpot Schaal De crematies werden op nagenoeg hetzelfde niveau aangetroffen ( tussen de 21,5 en 21,8 m +NAP ) , in de kronkelwaardafzettingen , onder de verbruiningslaag . 
+Bij geen van de urnbijzettingen zijn randstructuren in de vorm van greppels of palenkransen gevonden . 
+Ook bewoningssporen in de omgeving ontbreken . 
+In drie van de zes graven zijn grafgiften gevonden . 
+Graf D , de grafkuil zonder urn , bevatte enkele metalen fragmenten . 
+Van de metalen bijgiften kon helaas niet vastgesteld wat de functie ervan geweest is . 
+Gedacht wordt aan het heft van een steekwapen of het handvat of schenktuit van een koperen ketel of krater . 
+In graf E , het kindergraf , werd een miniatuurpot gevonden , die secundair ( mogelijk bij de ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 29 crematie zelf ) verbrand was . 
+Ondanks dat de exacte functie van miniatuurpotjes niet duidelijk is , worden ze geïnterpreteerd als grafgiften.31 In graf F zijn enkele fragmenten van een schaal gevonden . 
+Deze schalen werden ofwel gebruikt ter afdekking van de urn of als grafgift . 
+Hierbij kan gedacht worden aan het plaatsen van een schaal op een deksel van organisch materiaal , dat later is vergaan.32 Het grafveld lag op een Maasterras en daarmee op een hoger gelegen gedeelte in het landschap . 
+Een locatie die eveneens geschikt was voor bewoning . 
+Het grafveld aan de Helmusweg in lokale context In de directe omgeving van het onderzoeksgebied zijn bij eerdere opgravingen eveneens delen van grafvelden aangetroffen . 
+Deze grafvelden dateren uit de Late Bronstijd tot en met de IJzertijd . 
+Het grafveld aan de Zalzerskampweg33 was vergelijkbaar met het grafveld aan de Helmusweg . 
+Ook hier betrof het crematies die waren bijgezet in een grafkuil of urn . 
+De exacte omvang en begrenzing van het grafveld kon echter niet vastgesteld worden . 
+Daarnaast was het niet duidelijk of de graven uit dezelfde periode dateerden en of ze behoorden tot één of meerdere groepen ( gezinnen / families ) . 
+De graven lagen verspreid over het onderzoeksterrein en er was geen sprake van een cluster aan begravingen . 
+Hierdoor is de samenhang tussen de graven onderling nog onduidelijk en zou er sprake kunnen zijn van een fasering in de begravingen . 
+Tijdens het onderzoek kon geen relatie gelegd worden tussen het grafveld en de andere aanwezige sporen . 
+Ten noorden en noordoosten van het onderzoeksgebied zijn twee andere grafvelden gevonden , waaronder een Late Bronstijdgrafveld aan de Baarlosestraat en enkele grafheuvels ten noorden van de A73 uit de Late Bronstijd en IJzertijd . 
+Deze heuvels behoorden tot de Nederrijnse grafheuvelcultuur . 
+De aanwezigheid van meerdere grafvelden in de omgeving geeft aan dat het gebied mogelijk intensief bewoond is . 
+Echter , de onderzoeken hebben niet duidelijk kunnen maken of de grafvelden opeenvolgend aan elkaar zijn of mogelijk gelijktijdig . 
+Ook het tot dusver ontbreken van nederzettingssporen in de directe omgeving maakt een koppeling niet mogelijk . 
+Crematiebegravingen en grafvelden in de Bronstijd en IJzertijd Het grafveld aan de Helmusweg past binnen het bekende beeld van de ontwikkeling in het grafritueel in de late prehistorie . 
+Het grafveld past met een datering in de Vroege IJzertijd binnen de ontwikkeling van de Late Bronstijd urnenvelden naar de nieuwe , kleinere grafvelden uit de Midden IJzertijd . 
+Het voorkomen van zowel urn- als grafkuilbijzetting is gebruikelijk in deze periode . 
+De verhouding tussen de percentage in het voorkomen van grafkuilen en urnbijzettingen lijkt samen te hangen met lokaal gebruik.34 Wel kan gesteld worden dat het gebruik van urnbijzettingen in de Late Bronstijd en het begin van de Vroege IJzertijd haar top had en afnam in de tweede helft van de Vroege IJzertijd en Midden IJzertijd.35 4.2 Beantwoording van de onderzoeksvragen De onderzoeksvragen die in het Programma van Eisen zijn gesteld zullen hier worden beantwoord op basis van de bevindingen van het onderzoek . 
+1 . 
+Tot hoever strekt het grafveld zich uit en uit wat voor typen graven bestaan de bijzettingen ? 
+Waaruit bestaan eventuele mobilia ? 
+Waaruit bestaan eventuele grafstructuren ? 
+Is er een fasering dan wel interne differentiatie aan te brengen ? 
+Het grafveld lijkt met het definitief onderzoek begrensd te kunnen worden . 
+In totaal zijn zes graven aangetroffen , waarvan vier bij elkaar lagen en twee decentraal ( op 13 en 20 m afstand ) . 
+De crematieresten waren vijfmaal bijgezet in een urn en éénmaal los in een grafkuil , mogelijk in een natuurlijke container . 
+In drie graven zijn grafgiften aangetroffen , eenmaal betrof het een metalen voorwerp , waarvan de functie niet vastgesteld kon worden ( mogelijk betreft het een steekwapen of een onderdeel van een ketel of krater ) , eenmaal een miniatuurpotje en eenmaal een schaal die mogelijk als grafgift gezien kan worden of deksel . 
+Bij geen van de graven zijn grafstructuren ( greppels , opgeworpen heuvels of palenkransen ) aangetroffen , ook niet bij het verdiepen van het vlak . 
+Het grafveld lijkt gedurende een korte periode door een kleine groep in gebruik te zijn geweest . 
+Hierbij kan gedacht worden aan een gezin of een familie . 
+31 Hessing en Kooi , 2005 , p. 640 . 
+Hessing en Kooi , 2005 , p. 640 . 
+Klooster en de Winter , 2004 . 
+34 Gerritsen , 2001 , p. 139 . 
+35 Gerritsen , 2001 , p. 140 . 
+32 33 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 30 2 . 
+Zijn er voorts nog archeologische waarden in het plangebied aanwezig ? 
+Zo ja , wat is de aard van deze archeologische waarden ? 
+Zowel tijdens het inventariserend veldonderzoek door middel van proefsleuven als tijdens het definitief onderzoek zijn buiten de crematiegraven nauwelijks sporen aangetroffen . 
+Tijdens het vooronderzoek werd een haardkuil uit de Nieuwe tijd gevonden . 
+Tijdens het definitief onderzoek is slechts één mogelijk paalspoor gevonden . 
+3 . 
+Uit welke periode dateren deze archeologische waarden ? 
+Komen de sporen inderdaad uit de perioden Mesolithicum t/m de Nieuwe tijd of is er een piek aan te wijzen in één of meerdere perioden ? 
+Zijn resten uit perioden volledig afwezig ? 
+Wat zou de reden hiervan kunnen zijn ? 
+De crematiegraven kunnen in de Vroege IJzertijd gedateerd worden . 
+Daarnaast is tijdens het inventariserend veldonderzoek een haardkuil uit de Nieuwe tijd aangetroffen . 
+Buiten deze sporen zijn er geen sporen of vondsten gedaan uit het Mesolithicum , Neolithicum , Bronstijd , IJzertijd , Romeinse tijd en Middeleeuwen . 
+De aangetroffen sporen beperken zich tot het grafveld . 
+De onderzoekslocatie ligt op een hoger gelegen deel in het landschap dat aantrekkelijk moet zijn geweest voor bewoning . 
+De afwezigheid van bewoningssporen is , zeker gezien het voorkomen van meerdere grafvelden in de omgeving van het onderzoeksgebied moeilijk te verkaren . 
+Mogelijk speelt verbruining van de bodem een rol . 
+Hierdoor kunnen sporen onleesbaar zijn geworden . 
+Echter , de grafkuilen werden zowel tijdens het onderzoek aan de Helmusweg , als aan het onderzoek aan Zalzerskampweg ónder de verbuining aangetroffen . 
+Hierdoor zouden diepere sporen , zoals middenstaanders en kuilen of waterputten ook op het niveau onder de verbruininglaag herkenbaar moeten zijn geweest . 
+Daarnaast is er sprake van slechts een beperkte vondstverspreiding . 
+Vondstverspreidingen kunnen een aanwijzing zijn voor het gebruik van het landschap . 
+Het is dan ook mogelijk dat het gebied niet in gebruik is geweest als woongebied . 
+Dit is opvallend omdat het gebied landschappelijk gezien een gunstige vestigingsgebied was . 
+De aanwezigheid van het grafveld doet wel een nederzetting in de directe omgeving vermoeden . 
+Of het onderzoeksterrein in gebruik is geweest en voor welke doeleinden is niet duidelijk . 
+In het onderzoeksterrein ontbreken sporen als greppels en ploegsporen die zouden kunnen wijzen op het gebruik als akkerterrein . 
+4 . 
+Is er een ruimtelijke spreiding aan te wijzen in de aanwezige archeologische waarden ? 
+Wat is de relatie tussen de verschillende vondstcomplexen ? 
+Wat is de horizontale en verticale verspreiding van de archeologische vondsten , is er een relatie tussen de verschillende vondstcomplexen en is er een relatie met de complexen aangetroffen aan de Zalzerskampweg ? 
+Wat is de relatie met andere vondsten in de directe omgeving en de regio ? 
+De archeologische waarden in het plangebied bestaan uit een grafveld uit de Vroege IJzertijd en een haardplaats uit de Nieuwe tijd die tijdens het proefsleuvenonderzoek is aangetroffen . 
+De haardplaats uit de Nieuwe tijd bevond zich in het centrale deel van het plangebied en kan gezien worden als een solitaire vondst . 
+In de omgeving van de haardkuil , noch op andere delen van het onderzoeksterrein zijn sporen aangetroffen die in relatie staan tot de haardkuil . 
+Aan de zuidzijde van het plangebied bleek in enkele werkputten sprake te zijn van bodemverstoringen . 
+Dit gedeelte van het terrein werd gezien als mogelijk nederzettingsterrein . 
+Aan de noordzijde van het plangebied zijn zes crematiegraven aangetroffen uit Vroege IJzertijd . 
+Deze graven hebben vermoedelijk in relatie gestaan tot elkaar en vormen daarmee een grafveld dat gedurende een beperkte periode in gebruik is geweest door vermoedelijk één groep . 
+De crematiegraven werden gevonden op circa 1m onder maaiveld op de overgang van de B- naar de C-horizont . 
+Het grafveld aan de Zalzerskampweg is in enkele opzichten afwijkend ten opzichte van het grafveld aan de Helmusweg . 
+Zo is het grafveld aan de Zalzerskamp breder gedateert ( IJzertijd ) en is het niet duidelijk of alle aangetroffen graven uit dezelfde periode dateren . 
+Ook is gezien de verspreiding van de graven niet duidelijk of er sprake is van individuen die tot één groep behoorden , of tot meerdere groepen . 
+Ook ten noorden en noordoosten van de Helmusweg zijn twee grafvelden bekend . 
+Een grafveld kan vroeger gedateerd worden , in de Late Bronstijd , de andere in mogelijk dezelfde periode , IJzertijd . 
+Het laatst genoemde grafveld betreft grafheuvels die behoorden tot de Nederrijnse grafheuvelcultuur . 
+Echter , bij het onderzoek aan de Helmusweg zijn geen grafheuvels vastgesteld . 
+In de directe omgeving zijn geen vindplaatsen van nederzettingen bekend waarmee het grafveld in verband kan worden gebracht . 
+Echter , nederzettingen kunnen wel in de directe omgeving verwacht worden . 
+5 . 
+Wat is de conservering en gaafheid van de aanwezige archeologische waarden ? 
+De aangetroffen sporen zijn goed geconserveerd . 
+De crematiegraven en –urnen waren nog grotendeels intact , evenals de haardkuil . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 31 6 . 
+Komt de bodemopbouw overeen zoals geformuleerd in het rapport van het booronderzoek ? 
+Licht toe . 
+Wat is de relatie tussen horizont en vondsten ? 
+Beschrijf deze relatie en de bijbehorende dieptes . 
+De bodemopbouw in het onderzoeksgebied van het definitieve onderzoek kwam overeen met de bodemopbouw zoals die was waargenomen tijdens het inventariserend vooronderzoek . 
+Tijdens dit onderzoek was vastgesteld dat de bodemopbouw gelijk was aan de beschrijving die werd gegeven in het booronderzoek . 
+Het bovenste pakket bestaat uit de bouwvoor . 
+Onder deze akkerlaag ligt een Bw-horizont . 
+Kenmerkend voor deze horizont is de verbruining die heeft opgetreden . 
+Onder de verbruinde horizont was een B-horizont en een banden-Bhorizont aanwezig . 
+Daaronder lag op circa 1 m onder maaiveld de C-horizont die bestond uit matig grof zand . 
+7 . 
+Is aan de oppervlakte van het plangebied nog microreliëf aanwezig ? 
+Welke indicatie geeft dit voor de aanwezigheid van mogelijke vindplaatsen hieronder ? 
+Hoe heeft het landschap eruit gezien op de onderzoekslocatie en hoe was de ontwikkeling hiervan ? 
+Op welke wijze hebben de bewoners gebruik gemaakt van het landschap en het eventueel gewijzigd ? 
+Binnen het onderzoeksgebied van het definitief onderzoek is geen sprake van microreliëf . 
+Het terrein is vanaf het oosten westwaarts iets oplopend , echter het verschil van 20cm is te beperkt om van een microreliëf te kunnen spreken . 
+Ook de profielen laten in hun opbouw geen aanwijzingen voor een microreliëf zien . 
+In breder perspectief is binnen het plangebied eveneens geen sprake van microreliëf , zowel bij bestudering van de Algemene Hoogtekaart Nederland als ten tijde van het veldonderzoek . 
+Het plangebied bevindt zich op een Maasterras uit het Vroeg-Allerød vlak ten noorden van een iets jongere Maasmeander die dichtgeslibd is laat in het Allerød ( circa 12.000 14C jr. BP ) . 
+De Maas heeft na die periode tot aan heden circa 600 m ten oosten van het onderzoeksgebied gestroomd . 
+Het onderzoeksterrein was hooggelegen en daarmee een gunstige vestigingslocatie . 
+Tijdens beide archeologische onderzoeken zijn nauwelijks sporen aangetroffen die informatie hebben opgeleverd over het gebruik van het landschap . 
+De westzijde van het terrein is gedurende een korte periode in gebruik geweest als grafveld . 
+In de nabijheid van dat grafveld kan een ( of meerdere ) nederzettingsterrein ( en ) verwacht worden , echter deze zijn tijdens het archeologisch onderzoek niet binnen het plangebied aangetroffen . 
+Het noord en noordoostelijke deel van het plangebied waren archeologisch gezien leeg en het zuidelijke deel was verstoord . 
+8 . 
+Is er sprake van een es ? 
+Wanneer is deze gevormd en wat is de uitbreiding hiervan ? 
+Wat is de waardering van de vindplaats ( en ) ? 
+Er is geen sprake van de aanwezigheid van een esdek . 
+5 Conclusie Tijdens het Inventariserend Veldonderzoek door middel van Proefsleuven en het Definitieve Onderzoek is een grafveld opgegraven dat in de Vroege IJzertijd gedateerd kan worden . 
+Het grafveld bestond uit zes crematiegraven , waarvan vier bij elkaar lagen en twee op korte afstand . 
+Van de zes graven waren vijf urnbijzettingen en één bijzetting in een grafkuil . 
+In drie graven zijn bijgiften gevonden : een miniatuurpot in een kindergraf , een metalen voorwerp in de grafkuil en een afdekschaal . 
+De samenstelling van de groep bestond uit vijf volwassenen en één kind . 
+Van de volwassenen kon van één individu het geslacht niet vastgesteld worden , de overigen waren drie mannen en één vrouw . 
+De leeftijd van de volwassen lag tussen de 20 en 40 jaar . 
+Op basis van de datering van de aardewerken urnen en de ligging in de nabijheid van elkaar mag verondersteld worden dat de graven hebben behoord tot een grafveld dat gedurende een korte periode door één groep gebruikt werd . 
+Het grafveld ligt op een hoger gelegen gedeelte , op een Maasterras , en daarmee op een gunstige locatie voor bewoning . 
+Desondanks zijn er binnen het onderzoek geen sporen van nederzettingen aangetroffen . 
+Ook ontbreken tot dusver nog nederzettingssporen in de directe omgeving , waar deze wel verwacht kunnen worden . 
+Wel zijn bij eerdere onderzoeken in de nabijheid eveneens grafvelden aangetroffen die gedateerd kunnen worden vanaf de Late Bronstijd tot en met de IJzertijd . 
+Ondanks overeenkomsten in dateringen , zijn er ook enkele verschillen aanwijsbaar . 
+Zo zijn er aan de Helmusweg geen aanwijzingen voor de aanwezigheid van grafheuvels . 
+Daarnaast kent het grafveld aan de Zalzerskampweg een ruimere datering . 
+Het is niet duidelijk of de graven uit dezelfde periode dateren en of ze behoord hebben tot dezelfde groep gebruikers . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 32 Literatuur Acsádi , G. en J. Nemeskéri , 1970 . 
+History of Human Life Span and Mortality . 
+Budapest . 
+Arbeitsgruppe Europäischer Anthropologen , 1979 . 
+Empfehlungen für die Alters- und Geschlechtsdiagnose am Skelett . 
+In : Homo 30 , Anhang , pp . 
+1-30 Berg , M. van den , 1996 : Fluvial sequences of the Maas ; a 10 Ma record of neotectonics and climate change at various time-scales . 
+Thesis , Landbouw Universiteit Wageningen . 
+Broek , J.M.M . 
+van den , & G.C . 
+Maarleveld , 1963 : The Late-Pleistocene terrace deposits of the Meuse , Mededelingen van de Geologische Stichting 16 , 13–24 . 
+Broeke , P.W . 
+van den , 1987 : De dateringsmiddelen voor de IJzertijd in Zuid-Nederland , in : W.A.B . 
+van der Sanden en P.W . 
+van den Broeke ( red . 
+) : Getekend zand : 10 jaar archeologisch onderzoek in OssUssen , Bijdragen tot de studie van het Brabantse Heem 31 , 23 – 44 , Waalre . 
+Corver , B. , 2008 : Hout-Blerick – Graven aan de Helmusweg , gemeente Venlo . 
+Een inventariserend veldonderzoek in de vorm van proefsleuven . 
+ADC Rapport 1415 . 
+Amersfoort . 
+Gerritsen , F.A. , 2001 : Local identities . 
+Landscape and community in the Late Prehistoric Meuse-DemerScheldt region . 
+Academisch Proefschrift VU Amsterdam . 
+Hessing , W. , P. Kooi , 2005 : Urnenvelden en brandheuvels . 
+Begraving en grafritueel in late bronstijd en IJzertijd . 
+In : Nederland in de prehistorie , pp . 
+631Houtgast , R.F . 
+2003 : Quaternary tectonic and fluvial evolution of the Roer Valley Rift System , the Netherlands , Amsterdam , Proefschrift Vrije Universiteit . 
+Huisink , M. , 1999 : Changing river styles in response to climate change ; examples from the Maas and Vecht during the Weichselian Pleni- and Lateglacial , Proefschrift Vrije Universiteit , Amsterdam . 
+Kasse , C.K. , J. Vandenberghe & S. Bohncke , 1995 : Climatic change and fluvial dynamics of the Maas during the late Weichselian and early Holocene . 
+In : European River Activity and Climate change during the Late Glacial and early Holocene . 
+Paläoklimaforschung/Paleoclimate Research 14 , 123–50 , Gustav Fischer , Stuttgart . 
+Klinck , B. en S. Nederpelt 2007 : Hout-Blerick Helmusweg ( gem . 
+Venlo ) . 
+Een inventariserend Veldonderzoek in de vorm van een verkennend booronderzoek , ADC-rapport 1169 , Amersfoort . 
+Klooster , B. , J. de Winter , 2004 : Hout-Blerick Zalzerskampweg . 
+Archeologisch onderzoek te Hout-Blerick . 
+BAAC rapport 03.110 / 03.141 . 
+’ s Hertogenbosch . 
+Kraan , C. 2007 : Venlo , Hout-Blerick Helmusweg , Programma van Eisen , PvE-nummer 07-205 , Amersfoort . 
+Lil , R. van 2007 : Venlo , Hout-Blerick Helmusweg . 
+Een Bureauonderzoek , ADC Rapport 1142 , Amersfoort . 
+Lovejoy , C.O. , R.S . 
+Meindl , T.R . 
+Pryzbeck en R.P . Mensforth , 1985 : Chronological metamorphosis of the auricular surface of the ilium : a new method for the determination of adult skeletal age at death . 
+American Journal of Physical Anthropology , 68 , pp . 
+15-28 . 
+Maat , G.J.R. , 1985 : A selection Method of Human Cremations for Age and Sex Determination . 
+XII International anatomical Congress A.419 . 
+Londen . 
+N.N. , 2002 : Plangebied Zalzerskampweg te Hout-Blerick Gemeente Venlo . 
+Een inventariserend archeologisch onderzoek . 
+RAAP-notitie 162 . 
+Amsterdam . 
+Rösing , F.W . 
+1977 . 
+Methoden und Aussagemöglichkeiten der anthropologischen Leichenbrandbearbeitung . 
+Archäologie und Naturwissenschaften 1 : pp . 
+53-80 Roymans , N. , A. Tol , H. A. Hiddink 1998 : Opgravingen in Kampershoek en de Molenakker te Weert . 
+Campagne 1996 – 1998 , Zuidnederlandse Archeologische Rapporten 5 , Amsterdam . 
+Schabbink , M. & A. Tol , 2000 : Opgravingen op de Musschenberg te Roermond . 
+In : A. Tol , et al . 
+( red ) : Twee urnenvelden in Limburg . 
+Een verslag van opgravingen te Roermond en Sittard 1997 – 1998 . 
+Amsterdam . 
+Pp . 
+3-82 . 
+Schotten , J. en R. Machiels 1994 : Venlo Blerick Baarlosestraat . 
+Grafveld Late bronstijd . 
+Jaarverslag van de Rijksdienst voor het Oudheidkundig Bodemonderzoek , pag . 
+84 , Amersfoort . 
+Schutkowski , H. & S. Hummel , 1987 . 
+Variabilitätsvergleich von Wandstärken für die Geslechtszuweisung an Leichenbränden . 
+Anthropologischer Anzeiger 45 : pp . 
+43-47 Tebbens , L.A. , 1999 : Late Quaternary evolution of the Meuse fluvial system and its sediment composition : a reconstruction based on bulk sample geochemistry and forward modelling , Proefschrift Landbouwuniversiteit Wageningen . 
+Ubelaker , D.H. , herziene druk , 1984 . 
+Human Skeletal Remains . 
+Washington D.C . 
+: Taraxacum Voogd , J.D . de , 2008 : Venlo , Hout-Blerick Helmusweg , Programma van Eisen , PvE-nummer 08-233 , Amersfoort . 
+Wahl , J. , 1982 . 
+Leichenbranduntersuchungen , ein Überblick über die Bearbeitungs- und Aussagemöglichkeiten von Brandgräbern . 
+Praehistorische Zeitschrift 57 , pp . 
+1-125 . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 33 Lijst van afbeeldingen Afb . 
+1 . 
+Locatie van het onderzoeksgebied op de topografische kaar ( bron onder : www.maps.google.nl ) . 
+Afb . 
+2A . 
+Ligging van de werkputten van het vooronderzoek . 
+Afb . 
+2B . 
+Ligging van het grafveld op basis van de resultaten van het vooronderzoek . 
+Afb . 
+3 . 
+Archiskaart met in rood de locaties van archeologische waarnemingen nabij de opgravingslocatie ( ster ) . 
+Afb . 
+4 . 
+Puttenplan definitief onderzoek en proefsleuven van het vooronderzoek . 
+Afb . 
+5 . 
+Geomorfologische kaart op basis van het AHN . 
+Afb . 
+6 . 
+Profiel 3 in werkput 2 van het definitief onderzoek . 
+Afb . 
+7 . 
+Overzicht aangetroffen sporen definitief onderzoek en proefsleuven Afb . 
+8 . 
+De vier tijdens het IVO-P aangetroffen urngraven , links de foto van het vlak , rechts de foto van de coupe . 
+Van boven naar beneden : graf A , graf B , graf C , graf D en graf E. Afb . 
+9 . 
+Tekening en –foto van de urn uit graf A. Afb . 
+10 . 
+Tekening en –foto van de urn uit graf B. Afb . 
+11 . 
+Tekening en –foto van de urn uit graf C. Afb . 
+12 . 
+Detailtekening en –foto van de urn en miniatuur uit graf E. Afb . 
+13 . 
+Detailfoto Graf F. Afb . 
+14A . 
+Detailtekening urn uit graf F. Afb . 
+14B . 
+Detailfoto urn uit graf F. Afb . 
+14C . 
+Detailfoto en tekening van twee randfragmenten van de urn uit graf F. Afb . 
+14D . 
+Detailfoto en tekening van randfragment van de schaal uit urn F. Afb . 
+15 . 
+Koperen heft of handvat uit graf D. Afb . 
+16 . 
+Koperen ringetjes en ovaal plaatje uit graf D . 
+Lijst van tabellen Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Tabel 2 . 
+Overzicht determinatielijst crematieresten per graf Tabel 3 . 
+Overzicht gegevens per crematiegraf ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 34 Bijlage 1 Fysisch antropologische determinatietabellen VENO 4-08 Vn . 
+13 ( projectnr . 
+As 1217 ) Skeletdeel Neurocranium Viscerocranium Axiaal Gewicht ( gram ) 68 8 140 Fragmentatie ( cm ) 4 4 7 Verbrandingsgraad ( fase ) 5 Inhoud ( + = aanwezige fragmenten ) + Os occipitale = achterhoofd + Os pariëtale = wandbeen + Os temporale = slaapbeen + Os frontale = voorhoofd + + + Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Wortels Gebit + Vertebrae = wervels + Costae = ribben 5 Clavicula = sleutelbeen 5 + Scapula = schouderblad + Pelvis = bekken + Humerus = bovenarm + + + + + + Radius = spaakbeen Ulna = ellepijp Femur = dijbeen Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse 450 8 5 Epifyse 20 4 5 + < 1 5 + voet/been Diverse skeletdelen - - - Residu Totaal ( mens ) Dierlijk 1044 1730 - hand/arm Geslachtsbepaling : Margo forma orbita ( bovenrand oogkas ) = + 2 Het postcraniële skelet is eerder robuust Leeftijdsbepaling : Tabula interna = fase I Epifysensluiting : > 20 jaar Pathologie : geen Mai = 1 Conclusie : man ? 
+ca . 
+20-40 jaar . 
+Put 8 Spoor 1 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 35 Skeletdeel Neurocranium Gewicht ( gram ) 95 Fragmentatie ( cm ) 5 Verbrandingsgraad ( fase ) 5 Inhoud ( + = aanwezige fragmenten ) + Os occipitale = achterhoofd + Os pariëtale = wandbeen + Os temporale = slaapbeen Os frontale = voorhoofd Viscerocranium Axiaal 18 121 5 5 7 + + + Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Gebitselementen + Vertebrae = wervels + Costae = ribben Clavicula = sleutelbeen 5 + Scapula = schouderblad + Pelvis = bekken + Humerus = bovenarm + + + + + + Radius = spaakbeen Ulna = ellepijp Femur = dijbeen Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse 241 9 5 Epifyse 40 6 5 + 5 + voet/been Diverse skeletdelen Residu Totaal ( mens ) Dierlijk 630 1145 < 1 hand/arm - Geslachtsbepaling : Reliëf Planum Nuchale ( relief van spieraanhechtingen op het achterhoofd ) = -2 Protuberantia Occ . 
+Ext . 
+( uitsteeksel op het achterhoofd ) = -2 Leeftijdsbepaling : Femur proximale spongiosumstructuur = fase I Tabula interna = fase I Epifysensluiting : > 23 jaar Aurricularisoppervlak = ca . 
+25-30 jaar Pathologie : geen Mai = 1 Conclusie : vrouw van ca . 
+25-30 jaar . 
+Put 8 Spoor 2 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 36 Skeletdeel Neurocranium Viscerocranium Axiaal Gewicht ( gram ) 65 38 284 Fragmentatie ( cm ) 6 5 8 Verbrandingsgraad ( fase ) 5 5 Inhoud ( + = aanwezige fragmenten ) + Os occipitale = achterhoofd + Os pariëtale = wandbeen + Os temporale = slaapbeen + Os frontale = voorhoofd + + + Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Gebitselementen + Vertebrae = wervels + Costae = ribben Clavicula = sleutelbeen 5 + Scapula = schouderblad + Pelvis = bekken + Humerus = bovenarm + + + + + + Radius = spaakbeen Ulna = ellepijp Femur = dijbeen Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse 495 9 5 Epifyse 61 5 5 + Residu Totaal ( mens ) Vn . 
+25 1260 2203 12,8 gram < 1 5 + voet/been Diverse skeletdelen hand/arm Geslachtsbepaling : Mandibula ( robuustheid van de onderkaak ) = +1 Sulcus Preauricularis ( groef voor het auricularis oppervlak ) = +1 Incisura Isch . 
+Major ( inkeping heupbeen ) = +1 Arc Composé ( denkbeeldige lijn langs de zijde van het auricularis oppervlak en de insicura ) = +1 Leeftijdsbepaling : Tabula interna = fase I Humerus proximele spongiosumstructuur = fase I Auricularisoppervlak = 25-35 jaar Pathologie : geen Mai = 1 Conclusie : man van ca . 
+25-35 jaar Put 9 Spoor 1 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 37 Skeletdeel Gewicht ( gram ) Fragmentatie ( cm ) Verbrandingsgraad ( fase ) Neurocranium 27 4 5 Inhoud ( + = aanwezige fragmenten ) + Os occipitale = achterhoofd Os pariëtale = wandbeen + Os temporale = slaapbeen Os frontale = voorhoofd Viscerocranium Axiaal Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Gebitselementen - 118 7 + Vertebrae = wervels + Costae = ribben Clavicula = sleutelbeen 5 + Scapula = schouderblad + Pelvis = bekken Humerus = bovenarm Radius = spaakbeen Ulna = ellepijp + Femur = dijbeen Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse 60 6 5 Epifyse 13 4 5 + 5 + voet/been Diverse skeletdelen Residu Totaal ( mens ) Vn . 
+47 340 558 17,6 gram < 1 hand/arm Geslachtsbepaling : Reliëf Planum Nuchale ( relief van spieraanhechtingen op het achterhoofd ) = +2 Sulcus Preauricularis ( groef voor het auricularis oppervlak ) = +2 Incisura Isch . 
+Major ( inkeping heupbeen ) = +2 Arc Composé ( denkbeeldige lijn langs de zijde van het auricularis oppervlak en de insicura ) = +2 Leeftijdsbepaling : Tabula interna = fase I Auricularis oppervlak = 25-30 jaar Pathologie : geen Mai = 1 Conclusie : man van ca . 
+25-30 jaar Put 9 Spoor 2 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 38 Skeletdeel Gewicht ( gram ) Fragmentatie- Verbrandings ( cm ) graad ( fase ) Inhoud ( + = aanwezige fragmenten ) Os occipitale = achterhoofd Neurocranium 37 3 5 + Os pariëtale = wandbeen + Os temporale = slaapbeen Os frontale = voorhoofd Viscerocranium 3 3 5 + Axiaal 72 5 Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Gebitselementen + Vertebrae = wervels + Costae = ribben Clavicula = sleutelbeen 5 Scapula = schouderblad Pelvis = bekken Humerus = bovenarm + Radius = spaakbeen Ulna = ellepijp + Femur = dijbeen + Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse 48 4 5 Epifyse 14 4 5 + Residu Totaal ( mens ) Vn . 
+33 Vn . 
+35 400 574 158,4 gram 99 gram < 1 5 + voet/been Diverse skeletdelen hand/arm Geen toegevoegde bijzonderheden Geslachtsbepaling : niet mogelijk ( geen kenmerken te beoordelen vanwege incompleetheid crematie ) Leeftijdsbepaling : Epifysensluiting = > 18 jaar Pathologie : geen Mai = 1 Conclusie : individu ouder dan 18 jaar Put 18 Spoor 1 ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 39 Skeletdeel Gewicht ( gram ) Fragmentatie ( cm ) Verbrandingsgraad ( fase ) Inhoud ( + = aanwezige fragmenten ) Os occipitale = achterhoofd Neurocranium 20 2 5 + Os pariëtale = wandbeen Os temporale = slaapbeen Os frontale = voorhoofd Viscerocranium 2 1 Orbita = oogkas Os zygomaticum = jukbeen Maxilla =bovenkaak Mandibula= onderkaak Gebitselementen 5 + Vertebrae = wervels Costae = ribben Clavicula = sleutelbeen Axiaal Scapula = schouderblad Pelvis = bekken Humerus = bovenarm Radius = spaakbeen Ulna = ellepijp Femur = dijbeen Tibia = scheenbeen Fibula = kuitbeen Phalangen = hand/voetkootjes Gewrichten van : Diafyse Epifyse Residu Totaal ( mens ) Dierlijk hand/arm 30 52 5 voet/been Diverse skeletdelen Geslachtsbepaling : niet van toepassing bij kinderen Leeftijdsbepaling : gebitsontwikkeling – 4 tot 5 jaar ( ± 12-16 maanden ) Pathologie : geen Mai = 1 Conclusie : kind van 4 tot 5 jaar oud . 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 40 Verklarende woordenlijst Antropogene sporen Alle immobiele sporen van menselijke oorsprong , variërend van paalgaten of fosfaatvlekken tot muurresten . 
+AMK Archeologische Monumentenkaart geeft een overzicht van gewaardeerde archeologische terreinen in vier categorieën : 1 ) . 
+Archeologische waarde , 2 ) Hoge archeologische waarde , 3 ) Zeer hoge archeologische waarde en 4 ) Zeer hoge archeologische waarde beschermd . 
+De AMK is de gezamenlijke verantwoordelijkheid van de RACM en de provincies en wordt beheerd door de RACM . 
+Archeologische indicatoren Indicatief archeologisch materiaal dat bij ( boor ) onderzoek een aanwijzing kan zijn voor de aanwezigheid , ter plaatse of in de nabijheid , van een archeologische vindplaats . 
+Archis Archeologisch Informatie Systeem . 
+Dit door de RACM beheerde systeem bevat informatie over o.a . onderzoeksmeldingen , vondstmeldingen , waarnemingen , complexen en monumenten . 
+C14 Koolstof ( radioactieve isotoop ) , gebruikt voor datering . 
+CIS Het landelijke registratienummer ten behoeve van archeologisch onderzoek , uitgegeven door het Centraal Informatiesysteem . 
+CMA Centraal Monumenten Archief . 
+Ex situ niet ter plaatse . 
+Aanduiding die wordt gebruikt om aan te geven of grondsporen en / of artefacten zich niet meer op de oorspronkelijke plaats in de bodem bevinden . 
+Behoud ex situ is het bewaren van de archeologische informatie door definitief onderzoek ( opgraven , documenteren en registreren ) . 
+IKAW Indicatieve kaart van archeologische waarden , een door de RACM geproduceerde kaart op landelijk niveau met de verwachte relatieve of absolute dichtheid van ( bepaalde ) archeologische verschijnselen in de bodem . 
+IVO Inventariserend Veld Onderzoek . 
+Het verwerven van ( extra ) informatie over bekende of verwachte archeologische waarden binnen een onderzoeksgebied , als aanvulling op en toetsing van de archeologische verwachting , gebaseerd op het bureauonderzoek middels waarnemingen in het veld . 
+In situ Achtergebleven op exact de plaats waar de laatste gebruiker het heeft gedeponeerd , weggegooid of verloren . 
+Behoud in situ is het behouden van archeologische waarden in de bodem . 
+KNA Kwaliteitsnorm Nederlandse Archeologie . 
+PVA Plan van Aanpak . 
+Een door de opdrachtnemer op te stellen plan voor de uit te voeren werken waarmee beoogd wordt aan de vereisten zoals geformuleerd in het Programma van Eisen en/of het ontwerp te voldoen . 
+Ook wordt hierin een voorstel gedaan voor de werkwijze waarmee de in het Programma van Eisen en/ of ontwerp geformuleerde resultaatsverwachtingen bereikt kunnen worden . 
+PVE Programma van Eisen . 
+Het PvE is een door een bevoegde overheid opgesteld of bekrachtigd document dat de probleem- en doelstelling van de te verrichten werkzaamheden van de vindplaats geeft en de daaruit af te leiden eisen formuleert met betrekking tot het uit te voeren werk . 
+RCE Rijksdienst voor het Cultureel Erfgoed . 
+RTS Robotic Total Station . 
+Hiermee worden vlakken direct digitaal ingemeten . 
+Selectieadvies Archeologisch inhoudelijk advies over de behoudenswaardigheid van een vindplaats . 
+Dit wordt opgesteld aan de hand van de waarderingscriteria . 
+. 
+ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 41 Afkortingen in database REFERENTIELIJSTEN Versie 1.4 AARD SPOOR Aard van het spoor Code AKR AWC BA BES BG BKS BOC BPA BPL BPT BRL BU BUN BV CR DIG DK DLT DP DR EG ES FU GA GE GHE GR GRK GT HA HAK HG HKC HI HO HU IN KEL KGO KGR KGV KL KS LAK LAT LG LO LS MI MR MSK MST MU NV NVD NVP OV PA PAK PG PGK PK PL PLW PO POE POT PS PSE PSK REC RPA Omschrijving ( oude ) akkerlaag aardewerk-concentratie balk beschoeiing boorgat bekisting botconcentratie beschoeiing , palen beschoeiing , planken beerput/beerkelder brandlaag bustum visbun bouwvoor crematiegraf dierbegraving drenkkuil doorlaat ( door een muur ) depressie drain erfgreppel esdek fuik gracht geul grafheuvel greppel grafkuil goot haard haardkuil huisgreppel houtskool-concentratie hoefindruk hout hutkom inhumatiegraf kelder ovale kringgreppel ronde kringgreppel vierkante kringgreppel kuil karrenspoor Laklaag latrine laag ophogingslaag stortlaag muurinsteek muur mestkuil muursteen muuruitbraak natuurlijke verstoring dierlijke verstoring plantaardige verstoring oven houten paal paal met paalkuil paalgat paalgat met paalkuil paalkuil plank plaggenwand poel poer potstal ploegspoor ploegspoor , eergetouw ploegspoor , keerploeg recent palenrij ADC ArcheoProjecten Rapport 1540 RPG RPK RPL SG SI SL SPB SPG SS ST STC VL VR VSC VW WA WG WK WL WOO XXX rij paalgaten rij paalkuilen rij planken standgreppel silo sloot spaarboog spitsgracht spitspoor steen steenconcentratie vlek vloer vuursteenconcentratie vlechtwerk waterput weg waterkuil wal woonlaag onbekend COUPEVORM Vorm van de onderkant van het spoor in de coupe . 
+Code Omschrijving ONR onregelmatig PNT punt RND rond VLK vlak KOM komvormig NG niet gecoupeerd VLAKVORM Vorm van het spoor op het horizontale vlak Code Omschrijving LIN lineair ONR onregelmatig OVL ovaal RHK rechthoekig RND rond SIK sikkelvormig VKT vierkant KLEUR Duiding van de kleur . 
+Code BE BL BR GL GN GR OR PA RO RZ WI ZW Referentie beige blauw bruin geel groen grijs oranje paars rood roze wit zwart Daarnaast : D L SCH VL ZR donker licht schoon vuil zeer DBRGR = donkerbruingrijs ( hoofdkleur is dan grijs ) Hout-Blerick Helmusweg 42 INSLUITSEL Aard van een insluitsel van een vulling . 
+INHOUD Aard van het materiaal van een vondst . 
+Code AS AW BOT BW FE FF GL HK HL HT KER KI LR MET MN NS OKR SCH SL VKL VST Code AW BOT BW COP GL HK HT KER LR MET MIX NS OKR PIJ SCH SL TOU TXT VKL VST XXX Referentie as aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( baksteen , dakpan , tegel ) ijzeroer fosfaat glas houtskool huttenleem hout keramische objecten ( weefgewichten ) kiezel leer metaal mangaan natuursteen oker schelp slak verbrande klei vuursteen Referentie aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( keramisch , geen steen ) coproliet glas ( geen slak ) houtskool hout ( geen houtskool , geen plantaardige resten ) keramische objecten ( weefgewichten ed . ) 
+leer metaal ( geen slak ) gemengd natuursteen ( geen vuursteen ) oker pijpenkoppen en -stelen schelp slakken touw ( vaak vlas of bast ) textiel ( wol of draad ) verbrande klei ( geen lemen gewichten ) vuursteen overig TEXTUUR Textuur van een vulling met NEN-classificatie . 
+MONSTER Aard van een monster . 
+Code K ZK MK LK Z-K Code MA MAR MBOT MC14 MCH MCR MD MFF MHK MHT MP MSC MSL MZ NEN K Ks1 Ks2 Ks3 Referentie klei zware klei matig zware klei lichte klei zandige klei Zl ZZl MZl LZl Kz1 Kz2 Kz3 zavel zware zavel matig lichte zavel lichte zavel L SL Z-L L Lz1 Lz3 leem siltige leem zandige leem V V1 V2 V3 Z-V V Vk3 Vk1 Vm Vz1 veen venige klei kleiig veen veen zandig veen Z FZ MZ GZ ILZ LZ IGHZ MGHZ SGHZ V-Z Z Zs1 Zs1 Zs1 Zs2 Zs3 g1 g2 g3 Vz3 zand fijn zand middelgrof zand grof zand iets lemig zand lemig zand iets grindhoudend zand matig grindhoudend zand sterk grindhoudend zand venig zand G FG GG IZHG MZHG SZHG G grind fijn grind grof grind iets zandhoudend grind matig zandhoudend grind sterk zandhoudend grind Gz1 Gz2 Gz3 ST VERZAMELWIJZE Manier waarop een vondst of monster is verzameld . 
+Code AAC AANV BIGB COUP DETC LICH verwijderd ) MAA MAF MSCH PUNT SCHA SPIT TROF Referentie aanleg coupe ( handmatig schaven ) aanleg vlak of profiel ( handmatig ) bigbag couperen ( handmatig ) detectorvondst lichten ( vondst met omringende grond integraal machinale aanleg machinale afwerking ( of machinaal couperen ) machinaal schaven puntvondst ( ingemeten ) uitschaven ( handmatig ) uitspitten ( handmatig ) troffelen steen HT H0 H1 H2 Referentie monster algemeen monster artropoden monster bot monster voor C-14 datering chemisch monster crematiemonster monster voor dendrochronologisch onderzoek fosfaatmonster houtskoolmonster houtmonster pollenmonster schelpenmonster monster slijpplaat zadenmonster voor botanisch onderzoek hout h1 h2 h3 humushoudend matig humeus humusrijk ADC ArcheoProjecten Rapport 1540 Hout-Blerick Helmusweg 

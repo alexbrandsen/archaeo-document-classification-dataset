@@ -1,0 +1,1379 @@
+A. van Benthem ( red . ) 
+Prehistorische bewoning aan de Ruurloseweg te Vorden rapport 2031 Prehistorische bewoning aan de Ruurloseweg te Vorden A. van Benthem ( red . ) 
+Prehistorische bewoning aan de Ruurloseweg te Vorden ( gemeente Bronckhorst ) Een archeologische opgraving Onder redactie van : A. van Benthem Auteurs : A. van Benthem ( ADC ArcheoProjecten ) J. M. Brijker ( ADC ArcheoProjecten ) S.B.C . 
+Bloo ( Hazenberg Archeologie ) A.A . 
+Koster M.J.A . 
+Melkert ( ADC ArcheoProjecten ) F. Verbruggen ( ADC ArcheoProjecten ) J.A.A . 
+Bos ( ADC ArcheoProjecten ) Colofon ADC Rapport 2031 Prehistorische bewoning aan de Ruurloseweg te Vorden ( gemeente Bronckhorst ) Een archeologische opgraving Onder redactie van : A. van Benthem In opdracht van : Gemeente Bronckhorst Foto ’ s en tekeningen : ADC ArcheoProjecten , tenzij anders vermeld © ADC ArcheoProjecten , Amersfoort , mei 2010 Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke wijze dan ook zonder voorafgaande schriftelijke toestemming van de uitgevers . 
+ADC ArcheoProjecten aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit de toepassing van de adviezen of het gebruik van de resultaten van dit onderzoek . 
+Autorisatie : E. Lohof ISBN 978-94-6064-022-3 ADC ArcheoProjecten Postbus 1513 3800 BM Amersfoort Tel 033 299 8181 Fax 033 299 8180 Email info @ archeologie.nl Inhoudsopgave Administratieve gegevens van het onderzoeksgebied Samenvatting 1 Inleiding - A. van Benthem 1.1 Algemeen 1.2 Vooronderzoek 1.3 Doel van het onderzoek en onderzoeksvragen 1.4 Opzet van het rapport 2 Methoden - A. van Benthem 3 Resultaten 3.1 Fysisch geografisch onderzoek - J. M. Brijker 3.1.1 Inleiding 3.1.2 Methoden 3.1.3 Achtergrond 3.1.4 Resultaten 3.1.5 Interpretatie 3.2 Sporen en structuren - A. van Benthem 3.3 Vondstmateriaal 3.3.1 Algemeen 3.3.2 Aardewerk - S.B.C . 
+Bloo 3.3.3 Metaal - A.A . 
+Koster 3.3.4 Natuursteen - M.J.A . 
+Melkert 3.3.5 Archeobotanisch onderzoek - F. Verbruggen en J.A.A . 
+Bos 4 Synthese - A. van Benthem 4.1 Algemeen 4.2 Beantwoording van de onderzoeksvragen 4.3 Advies Literatuur Lijst van afbeeldingen Lijst van tabellen Bijlage I Vondstenlijst Bijlage II Sporenlijst Bijlage III Aardewerktabel Verklarende woordenlijst Afkortingen in database 4 5 7 7 8 9 9 10 11 11 11 11 11 12 14 15 25 25 26 34 35 37 43 43 43 45 46 47 47 48 51 67 73 74 Administratieve gegevens van het onderzoeksgebied Provincie : Gemeente : Plaats : Toponiem : Kaartblad : Coördinaten : Gelderland Bronckhorst Vorden Ruurloseweg 33H 218.990/457.865 ; 219.115/457.847 ; 219.115/457.757 ; 219.997/457.738 Projectverantwoordelijke : Bevoegde overheid : Deskundige namens de bevoegde overheid : ARCHIS-onderzoeksmeldingsnummer ( CIS-code ) : ADC-projectcode : A. van Benthem Gemeente Bronckhorst Dhr . 
+M. Kocken ( regionaal archeoloog , regio Achterhoek ) 36008 4110069 Complex en ABR codering : Periode ( n ) : KNA versie : Geomorfologische context : NAP hoogte maaiveld : Maximale diepte onderzoek : Uitvoering van het veldwerk : Beheer en plaats documentatie : NX ( nederzetting onbepaald ) , IWEG ( weg ) BRONS/IJZ/NT 3.1 dekzandrug Ca . 
++13 , 26 m NAP Ca . 
++10,20 m NAP 14 juli 2009 - 7 augustus 2009 Provinciaal depot voor bodemvondsten Gelderland 5 Samenvatting Tijdens de archeologische opgraving aan de Ruurloseweg in Vorden zijn resten aangetroffen van een nederzetting uit de Late Bronstijd – Vroege IJzertijd . 
+Het gaat om een nederzetting met minstens twee plattegronden van boerderijen , twee schuurtjes , drie gebouwtjes voor de opslag van graan en een groot aantal kuilen die gebruikt zijn voor de opslag van graan en eikels en die dateerbaar zijn in de overgang van de Late Bronstijd naar de Vroege IJzertijd . 
+Het merendeel van het aangetroffen aardewerk is te dateren in de Late Bronstijd overgang Vroege IJzertijd en in de Vroege IJzertijd ( 900-400 v . Chr . ) . 
+De scherven komen voor in diverse afvalkuilen maar ook in paalkuilen uit de verschillende herkende structuren . 
+Helaas bleek dat de scherfjes niet heel nauwkeurig te dateren zijn . 
+Naast de sporen uit de prehistorie zijn er een karrenspoor en spitsporen uit de Nieuwe tijd aangetroffen . 
+De vroegste datering van het karrenspoor zou in de 14e/15e eeuw kunnen liggen : bij het doorspitten van het spoor werd een fragment van een Langerwehe steengoedkan uit deze periode aangetroffen . 
+Het is echter meer waarschijnlijk dat het karrenspoor pas later is ontstaan . 
+Het karrenspoor ligt voor een deel in het esdek en dat is waarschijnlijk pas in de 16e eeuw of later ontstaan . 
+Ook werd een fragment Westerwald steengoed uit de 17e/18e eeuw aangetroffen en twee pijpenstelen die in de 18e/19e eeuw gedateerd worden . 
+Het karrenspoor is nog zeker tot het midden van de 19e eeuw in gebruik geweest , zoals een kadasterkaart laat zien . 
+De spitsporen dateren uit de Nieuwe tijd , uit de periode dat het esdek werd opgeworpen en er grondverbetering plaats moest vinden . 
+Afb . 
+1 . 
+Het aanleggen van put 7 . 
+Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Periode Nieuwe tijd Middeleeuwen : Romeinse tijd : IJzertijd : Late IJzertijd Midden IJzertijd Vroege IJzertijd Bronstijd : Late Bronstijd Midden Bronstijd Vroege Bronstijd Neolithicum ( Jonge Steentijd ) : Mesolithicum ( Midden Steentijd ) : Paleolithicum ( Oude Steentijd ) : Bron : Archeologisch Basis Register 1992 Tijd in jaren 1500 - heden 450 – 1500 na Chr . 12 voor Chr . – 450 na Chr . 800 – 12 voor Chr . 250 - 12 voor Chr . 500 - 250 voor Chr . 800 - 500 voor Chr . 2000-800 voor Chr . 1100 - 800 voor Chr . 1800 - 1100 voor Chr . 2000 - 1800 voor Chr . 5300 – 2000 voor Chr . 8800 – 4900 voor Chr . tot 8800 voor Chr . 465000 6 EEFDE EEFDE EEFDE EEFDE EEFDE EEFDE LOCHEM LOCHEM LOCHEM LOCHEM LOCHEM LOCHEM ALMEN ALMEN ALMEN ALMEN ALMEN ALMEN ZUTPHEN ZUTPHEN ZUTPHEN ZUTPHEN ZUTPHEN ZUTPHEN WARNSVELD WARNSVELD WARNSVELD WARNSVELD WARNSVELD WARNSVELD 460000 BARCHEM BARCHEM BARCHEM BARCHEM BARCHEM BARCHEM VIERAKKER VIERAKKER VIERAKKER VIERAKKER VIERAKKER 8 VORDEN VORDEN VORDEN VORDEN VORDEN VORDEN RUURL RUUR RUUR RUURL RUUR RUUR 455000 WICHMOND WICHMOND WICHMOND WICHMOND WICHMOND WICHMOND BAAK BAAK BAAK BAAK BAAK BAAK BRONKHORST BRONKHORST BRONKHORST BRONKHORST BRONKHORST N N N N N N STEENDEREN STEENDEREN STEENDEREN STEENDEREN STEENDEREN STEENDEREN 8 TOLDIJK TOLDIJK TOLDIJK TOLDIJK TOLDIJK TOLDIJK 450000 000000 5000m 5000m 5000m 5000m 5000m 5000m bron : Geodan 210000 AVB AVB AVB12-8-2009 12-8-2009 12-8-2009 12-8-2009 AVB AVB AVB 12-8-2009 12-8-2009 HENGELO HENGELO HENGELOGLD GLD GLD GLD HENGELO HENGELO HENGELO GLD KEIJENBORG KEIJENBORG KEIJENBORG KEIJENBORG KEIJENBORG 215000 Afb . 
+2 . 
+Locatie van het onderzoeksgebied . 
+220000 225000 7 1 Inleiding A. van Benthem 1.1 Algemeen In opdracht van de gemeente Bronckhorst heeft ADC ArcheoProjecten een Archeologische Opgraving uitgevoerd voor het plangebied Ruurloseweg te Vorden ( afb . 
+3 ) . 
+In het plangebied zullen woningen worden gebouwd . 
+Vooronderzoek ( zie §1.2 ) heeft aangetoond dat zich op deze locatie resten uit de prehistorie bevinden . 
+( Zie voor periodisering tabel 1 ) . 
+De voorgenomen bouwplannen zullen deze archeologische resten vernietigen of ernstig beschadigen . 
+457900 Het plangebied heeft een oppervlakte van ca . 
+1,4 ha en is momenteel in gebruik als grasland . 
+Het gebied ligt aan de oostzijde van de dorpskern van Vorden en wordt begrensd door de Ruurloseweg in het zuiden , de Enkweg in het noorden en het oosten en de Groeneweg in het westen . 
+In het gebied zijn 13 werkputten aangelegd met een totale oppervlakte van 9247 m2 . 
+457850 Enkw eg 1 2 4 457800 7 3 5 6 8 10 9 11 457750 13 15 Ruurloseweg 0 00 00 0 218950 AVB AVB AVB12-8-2009 12-8-2009 12-8-2009 12-8-2009 AVB AVB AVB 12-8-2009 12-8-2009 457700 N N N 25m 25m 25m 25m 25m 25m 219000 219050 Afb . 
+3 . 
+Locatie van de aangelegde putten , met putnummer . 
+219100 219150 8 Het veldwerk is uitgevoerd tussen 14 juli 2009 en 7 augustus 2009 . 
+In die periode zijn de werkputten aangelegd en onderzocht conform het Programma van Eisen ( PvE ) , dat door M. Bink van BAAC B.V. is opgesteld.1 Dit ontwerp is goedgekeurd door M. Kocken , regionaal archeoloog , regio Achterhoek . 
+De vondsten en bijbehorende documentatie die tijdens de opgraving zijn verzameld , zijn gedeponeerd in het Provinciaal depot voor bodemvondsten van Gelderland . 
+Het veldteam bestond uit de volgende personen : G.L . 
+Williams ( veldarcheoloog eerste week ) , A. van Benthem ( projectverantwoordelijke en veldarcheoloog voor de rest van het onderzoek ) , N. Huisman en B. Tunker ( beiden veldtechnicus ) , B.J . 
+Kromhout ( veldassistent ) en B. de Wit ( kraanmachinist van de firma Gebr . 
+De Wit ) . 
+De bij dit project betrokken fysisch geograaf was J. Brijker , Senior archeoloog was E. Lohof . 
+Daarnaast werden we dagelijks bijgestaan door de enthousiaste leden van de Archeologische werkgroep Zelhem : N. van Dalfsen , S. Postma , R. Gosselink , G. Lieverdink , G. Kleijn Winkel , H. Meulenveld en D. Hissink . 
+De contactpersoon bij de gemeente Bronckhorst is Dhr . 
+C. Hofs . 
+Het vondstmateriaal is bestudeerd door S.B.C . 
+Bloo ( Hazenberg Archeologie , aardewerk ) , F. Verbruggen en J.A.A . 
+Bos ( botanische monsters ) , A.A . 
+Koster ( metaalslakken ) en M.J.A . 
+Melkert ( natuursteen ) . 
+Hun bevindingen zijn in de betreffende deelrapporten beschreven . 
+Controle en coördinatie van documentatie en vondstverwerking is uitgevoerd door M. Dahhan en J.W . Beestman . 
+1.2 Vooronderzoek In verband met toekomstige ontwikkelingen in het plangebied Ruurloseweg is een eerste archeologische inventarisatie in de vorm van een bureau- en booronderzoek in het onderzoeksgebied uitgevoerd in augustus 2008 door Haaring en Huizer van ADC ArcheoProjecten.2 Het bureauonderzoek wees uit dat in het hele plangebied archeologische resten kunnen voorkomen uit alle archeologische perioden . 
+Bij de aanwezigheid van een esdek worden de archeologische resten onder het esdek en in de top van de oorspronkelijke C-horizont verwacht . 
+De vondstenlaag is in dit geval opgenomen onderin het esdek . 
+Hier wordt ook wel van ‘ cultuurlaag ’ gesproken : een doorwerkte oude bodem tussen het esdek en de ongeroerde ondergrond met kleine fragmenten aardewerk , natuursteen , vuursteen en houtskool . 
+Archeologische sporen zullen zich bevinden tot ongeveer 25 cm in de top van de C-horizont . 
+Bij afwezigheid van een esdek bevinden de archeologische resten zich direct aan of onder het maaiveld . 
+De vondstenlaag wordt verwacht in de eerste 30 cm beneden het maaiveld . 
+Archeologische sporen ( uitgezonderd diepe paalsporen en waterputten ) worden binnen 50 cm beneden het maaiveld verwacht . 
+De archeologische resten bestaan hoofdzakelijk uit aardewerk- of vuursteenstrooiïngen . 
+Organische resten en bot zullen door de relatief droge en zure bodemomstandigheden slecht zijn geconserveerd . 
+Het complextype en de omvang kunnen niet nader worden gespecificeerd door de beperkte gegevens . 
+Het inventariserend booronderzoek heeft uitgewezen dat in het gehele plangebied een intacte bodem aanwezig is met daarop een recent aangebrachte laag . 
+In het grootste deel van het plangebied is een vaaggrond onder de opgebrachte laag gevonden . 
+In een aantal boringen is een oud bouwlanddek aangetroffen . 
+In deze boringen zijn partikels houtskool en fragmenten aardewerk gevonden . 
+Naar aanleiding van deze resultaten werd geadviseerd om in het gehele plangebied een inventariserend veldonderzoek uit te voeren door middel van het aanleggen van proefsleuven ( IVO-P ) , teneinde gaafheid , omvang , datering en conservering van archeologische resten te onderzoeken . 
+Daarbij wordt geadviseerd in ieder geval het gebied rond de boringen waarin archeologische indicatoren zijn aangetroffen in de proefsleuf ( -sleuven ) te betrekken . 
+Tijdens het proefsleuvenonderzoek , uitgevoerd door BAAC B.V. , uitgevoerd in het voorjaar van 2009 , werden drie clusters van sporen aangetroffen.3 Het meest zuidelijke cluster is vermoedelijk een gefaseerde bewoning uit de late prehistorie . 
+De sporen in het centrum zijn waarschijnlijk een enkele bewoningsfase met hoofdgebouw en enkele bijgebouwen uit de late prehistorie . 
+Het meest oostelijke cluster , dat deels overlapt met de sporen in het centrum , wijst eveneens op bewoning . 
+De datering van deze cluster is problematisch door gebrek aan vondstmateriaal . 
+Deze sporen kunnen dateren vanaf de late Prehistorie tot in de Middeleeuwen . 
+Naar aanleiding van deze resultaten werd geadviseerd het terrein vlakdekkend op te graven . 
+1 2 3 Bink 2009 . 
+Haaring en Huizer 2008 . 
+Dyselinck 2009 . 
+9 1.3 Doel van het onderzoek en onderzoeksvragen De archeologische opgraving heeft tot doel het materiaal van de vindplaats veilig te stellen en de gegevens te documenteren om daarmee informatie te behouden die van belang is voor de kennisvorming over het verleden . 
+In het PvE zijn verschillende onderzoeksvragen gesteld , die in dit rapport worden beantwoord op basis van hetgeen in de werkputten is aangetroffen : • • • • • • • • • • • 1.4 Welke nederzettingen en perioden zijn binnen de vindplaats aan te wijzen ? 
+Tot welk complextype behoren de vindplaatsen ? 
+Wat is de omvang van de nederzetting ( en ) ? 
+En waaruit bestaan ze ( type gebouwen en structuren en hun functie ) ? 
+Zijn er verschillende erven te herkennen ? 
+Wat is de datering van de nederzetting ( en ) ? 
+Is er een fasering op te merken ? 
+Zet ( ten ) de nederzetting ( en ) zich voort tot buiten het plangebied ? 
+Wat kan , aan de hand van botanische en eventuele zoölogische resten geconcludeerd worden aangaande de ( voedsel ) economie van de nederzetting ? 
+Wat is de relatie tussen de nederzettingssporen en het landschap ? 
+Wat is het belang van het landschap in de locatiekeuze ? 
+Zijn er aanwijzingen voor gespecialiseerde activiteiten zoals metaalbewerking , wolverwerking binnen de nederzetting ( en ) ? 
+Hoe verhouden de nederzetting ( en ) zich tot andere nederzettingen uit dezelfde periode ( n ) , op lokaal en ( micro ) regionaal niveau ? 
+Wat is het belang van de vindplaats ? 
+Opzet van het rapport Dit rapport betreft een standaardrapport zoals genoemd in de Kwaliteitsnorm Nederlandse Archeologie ( KNA 3.1 -specificatie OS15 ) . 
+In dit rapport worden de resultaten van het onderzoek gepresenteerd , waarna de eerste conclusies volgen . 
+Na de samenvatting en dit inleidende hoofdstuk volgt een omschrijving van de onderzoeksmethoden in hoofdstuk 2 . 
+Vervolgens zullen de verschillende deelonderzoeken aan de orde komen . 
+De auteurs staan telkens bij de betreffende hoofdstukken vermeld . 
+10 2 Methoden A. van Benthem Het onderzoek is uitgevoerd conform de KNA 3.1 en het PvE . 
+Tijdens de opgraving zijn 13 werkputten aangelegd . 
+De ligging van deze putten was haaks op de Groeneweg en parallel aan de noordzijde van de Enkweg . 
+In het PvE werd een werkwijze voorgesteld waarbij tijdens fase 1 van het onderzoek acht putten in een dambordpatroon opgegraven werden . 
+Afhankelijk van de resultaten in deze putten is , in overleg met de bevoegde overheid en de senior archeoloog , besloten welke tussenputten vervolgens werden aangelegd . 
+De meeste putten waren 20 m breed en ca . 
+45 m lang . 
+Tijdens de eerste fase van het onderzoek zijn de putten 1 , 3 , 5 , 7 , 9 , 11 , 13 en 15 aangelegd . 
+Tijdens de tweede fase van het onderzoek zijn de putten 2 , 4 , 6 , 8 en de noordhelft van put 10 aangelegd.4 De vlakken zijn machinaal aangelegd , zonder schaafbak , omdat het vlak zonder het gebruik hiervan goed leesbaar was . 
+Vuursteen en losse vondsten zijn als puntvondsten ingemeten . 
+Grondsporen zijn direct ingekrast . 
+Vervolgens is het vlak en ieder spoor daarin gefotografeerd en getekend met een zogenaamde Robotic Total Station ( RTS ) , waardoor dagelijks een overzichtstekening van de gehele opgraving beschikbaar was . 
+Ook de hoogtes van het vlak zijn met behulp van de RTS ingemeten , waarbij om de 5 m een waterpashoogte is bepaald . 
+Alle aangetroffen grondsporen zijn met de hand gecoupeerd waarbij vondsten zijn verzameld . 
+Alle coupes zijn getekend op schaal 1:20 en een selectie van de coupes is gefotografeerd . 
+Het restant van de gecoupeerde sporen is vervolgens met de schep of troffel afgewerkt en indien nodig bemonsterd voor archeobotanisch onderzoek . 
+In een aantal putten zijn kolomopnames van het profiel gedocumenteerd . 
+De kolomopnames waren dusdanig gesitueerd dat een noord – zuid en een oost – west profiel ontstond . 
+De kolomopnames zijn getekend , gefotografeerd en beschreven door een fysisch geograaf ( zie hoofdstuk 3.1 ) . 
+4 Put 16 kon niet aangelegd worden omdat deze zich op het fietspad aan de Ruurloseweg bevond . 
+11 3 Resultaten 3.1 Fysisch geografisch onderzoek J. M. Brijker 3.1.1 Inleiding In dit hoofdstuk wordt de opbouw en de genese van het plangebied Ruurloseweg te Vorden besproken . 
+Hierbij wordt gebruik gemaakt van literatuurgegevens , informatie verkregen bij het vooronderzoek en het op 29 juli 2009 uitgevoerde veldbezoek . 
+Bij het veldbezoek is de profielopbouw van de putten gedocumenteerd en bestudeerd , teneinde een beeld te verkrijgen van de bodemopbouw , de gaafheid van de bodem en de ( geologische ) opbouw en genese van het plangebied . 
+Vanuit het PvE is de volgende vraag met betrekking tot de fysische geografie opgesteld : - Wat is de relatie tussen de nederzettingssporen en het landschap ? 
+Wat is het belang van het landschap in de locatiekeuze ? 
+3.1.2 Methoden Voor het fysisch geografisch onderzoek is gebruik gemaakt van gedocumenteerde profielwanden en kolomopnamen in putwanden . 
+De profielen zijn handmatig opgeschaafd en vervolgens ingekrast en gedocumenteerd . 
+Hierbij zijn zowel lithologische lagen als archeologisch relevante lagen onderscheiden , zoals vegetatiehorizonten , cultuurlagen en eventuele sporen . 
+Alle lagen zijn bemonsterd en beschreven op textuur , kleur , gehalte organische stof en andere lithologische en bodemkundige verschijnselen . 
+De profielen zijn beschreven volgens de Archeologische Standaard Boorbeschrijvingsmethode5 die de 6 lithologische beschrijving conform NEN5104 hanteert . 
+De kolomopnames zijn gedaan in representatieve delen van het profiel . 
+3.1.3 Achtergrond Het plangebied bevindt zich binnen het oostelijk zandgebied , waar aan het oppervlak een dik pakket dekzand ligt . 
+Dit dekzand behoord tot de Formatie van Boxtel , Laagpakket van Wierden.7 Deze afzettingen zijn gevormd gedurende de laatste ijstijd ( Weichselien , 120.000 - 10.000 jaar BP ) . 
+In de laatste ijstijd bereikte het landijs Nederland niet . 
+In Nederland heerste een zeer koud en continentaal klimaat . 
+Het landschap bestond uit een poolwoestijn waarin amper vegetatie voorkwam . 
+Hier had de wind vrij spel in het verplaatsen van zand en silt . 
+Over een groot deel van Nederland werd een pakket dekzand afgezet , kalkloos en fijnkorrelig van samenstelling . 
+Afhankelijk van de periode waarin het is afgezet wordt er onderscheid gemaakt tussen de Oude- en Jonge Dekzanden . 
+Het Oude Dekzand is afgezet gedurende het Pleniglaciaal ( ~28.000 jaar BP ) , de koudste periode van het Weichselien , is horizontaal gelaagd en bevat dunne leemlagen . 
+Het Jonge Dekzand is ongelaagd en is afgezet gedurende de laatste fases van het Weichselien.8 Het plangebied ligt in een niet-gekarteerd gebied ( bebouwde kom ) binnen de bodemkaart van Nederland . 
+De dichtstbijzijnde gekarteerde eenheden betreffen laarpodzolgronden en hoge zwarte enkeerdgronden.9 Een laarpodzol bestaat uit een ( haar ) podzol waarop een relatief dun ( < 50 cm ) esdek is aangebracht . 
+Tijdens het vooronderzoek is er binnen het plangebied een hoge zwarte enkeerdgrond aangetroffen . 
+Binnen de zuidwestelijke hoek van het plangebied is een begraven akkerlaag aangetroffen.10 Gegevens van een nabijgelegen peilbuis geven aan dat het grondwater zich op een diepte tussen de 2.5-3.5 m –mv bevindt.11 Volgens gegevens van het Actueel Hoogtebestand van Nederland ( AHN ) bevindt het plangebied zich op een oost-west georiënteerde dekzandrug . 
+Het hoogste punt bevindt zich circa 200 m ten oosten van het plangebied . 
+Direct ten zuiden van het plangebied bevindt zich een steilrand , waarschijnlijk betreft het hier een oude zandafgraving . 
+De Vordensche beek loopt 400 m zuidelijk van het plangebied en heeft een breed dal gevormd binnen de dekzandrug . 
+Tevens zijn ook op het AHN duidelijk de slotgracht van het kasteel Vorden en de loop van de oude weg herkenbaar . 
+Afbeelding 4 geeft de locatie van het plangebied binnen het AHN aan . 
+5 Bosch 2007 . 
+Nederlands Normalisatie Instituut 1989 . 
+De Mulder et al. , 2003 . 
+8 Berendsen , 1997 . 
+9 Stichting voor bodemkartering , 1976 . 
+10 Haaring en Huizer , 2008 . 
+11 Dinoloket TNO , grondwaterput B33H0271 . 
+6 7 458000 458500 12 457500 steilrand steilrand slotgracht slotgracht oude weg N N N N N N Vordensche Vordensche Beek Beek 00000000000 218000 250m 250m 250m 250m 250m 250m 250m 250m 250m 250m 250m 250m 250m 250m 218500 219000 219500 220000 Afb . 
+4 . 
+Locatie van het opgravingsterrein binnen het AHN . 
+Rode tinten geven de hoger gelegen gebieden aan , blauw de lager gelegen gebieden . 
+3.1.4 Resultaten Tijdens het veldbezoek zijn de profielen in de tot dan toe opengelegde werkputten gedocumenteerd . 
+Tevens is een verdiept profiel aangelegd in werkput 5 ( afb . 
+5 ) . 
+De bodemopbouw over het gehele opgravingsterrein is uniform . 
+De hier volgende beschrijving van de bodemopbouw is dan ook representatief voor het gehele terrein . 
+Aan de basis , op 300 cm –mv , bevindt zich een pakket van matig fijn , zwak siltig , geel zand . 
+Binnen dit pakket bevindt zich een aantal lagen zwak tot sterk lemig grijsgroen zand . 
+Aan de top van dit pakket , op 250 cm –mv , bevindt zich een aantal vervormingen van de zand- en de leemlagen , waarbij de verschillende lagen in elkaar overgaan . 
+Hierboven ligt een circa 200 cm dik pakket van matig grof tot matig fijn , zwak siltig , geel , goed gesorteerd zand . 
+Binnen dit pakket zand komen enkele grindsnoertjes voor . 
+Op een diepte van 70 cm –mv bevindt zich een pakket van zwak siltig lichtbruin zand . 
+De overgang naar het bovenliggende pakket is veelal verstoord door graafgangen van mollen en andere bodemdieren ( bioturbatie ) . 
+Hierboven bevindt zich een pakket van zwak siltig , zwak tot matig humeus , matig fijn , lichttot donkerbruin zand . 
+Aan de basis van dit pakket komen incidenteel gebleekte korrels voor . 
+Op kleur is dit pakket verder op te delen in drie aparte pakketten . 
+De totale dikte van dit pakket varieert over het terrein tussen de 50 en de 140 cm . 
+De top van het profiel wordt gevormd door een pakket zwak siltig , matig fijn , zwak humeus donkerbruin zand . 
+13 Afb . 
+5 . 
+Algemene profielopbouw , met van boven naar onderen : ( A ) esdek en moderne bouwvoor , ( B ) gebioturbeerde BChorizont , ( C ) dekzand , met daarin enkele deflatieniveaus ( e ) , ( D ) fluvio-periglaciaal fijn zand en lemig fijn zand met cryoturbate structuren . 
+Afb . 
+6 . 
+Detail van de cryoturbate structuren in het fluvio-periglaciale fijne lemige zand . 
+Duidelijk te zien is dat de bovenliggende lemige laag in het zand is “ gezakt ” en het zand aan weerszijden hiervan omhoog is gekomen . 
+14 3.1.5 Interpretatie Het fijn zandige en lemige pakket is geïnterpreteerd als fluvio-periglaciale afzettingen . 
+Dit is een combinatie van eolische en verspoelde eolische afzettingen . 
+Over de bevroren ondergrond kon zich een oppervlakkig afwateringssysteem ontwikkelen . 
+Binnen dit pakket komen grootschalige vervormingen voor ( zie afb . 
+6 ) . 
+Deze structuren zijn ontstaan in een periode dat de ondergrond grotendeels bevroren was ( permafrost ) . 
+Door het herhaaldelijk opdooien en weer bevriezen van de bovenste laag van de grond zijn de grondlagen vervormd . 
+Dit wordt cryoturbatie genoemd . 
+Het bovenliggende pakket zand is op basis van korrelgrootte , sortering en afronding geïnterpreteerd als dekzand . 
+Deze afzettingen behoren tot de Formatie van Boxtel , Laagpakket van Wierden . 
+Binnen het aangetroffen pakket dekzand bevinden zich een aantal grindsnoertjes . 
+Deze zijn herkend als een deflatielaag ( uitblazingslaag ) . 
+Deze zijn ontstaan in een zeer koud en droog milieu , waarin geen materiaal is afgezet . 
+Over een poolwoestijn waaide een zeer harde wind . 
+Met deze wind werd al het kleinere ( lichtere ) materiaal , zoals zandkorrels , weggeblazen en bleef het grotere ( zwaardere ) materiaal , zoals grind , over . 
+Hierbij werd een zogenaamd “ desert pavement ” gevormd . 
+In een later stadium is hier weer materiaal over afgezet . 
+Gedurende het Holoceen is in het dekzand een podzolbodem gevormd . 
+Dit is gebaseerd op de aanwezigheid van een inspoelingshorizont ( B ) van organische stof en ijzer . 
+Deze horizont is op maar een aantal plekken aanwezig binnen het plangebied . 
+Het bovenliggende pakket van donkerbruin humeus zand is geïnterpreteerd als een opgebracht esdek . 
+Het esdek heeft een totale dikte van tussen 50-130 cm . 
+Bij het opbrengen van het esdek zijn de oorspronkelijke A- en E-horizont opgenomen in het esdek . 
+Dit blijkt o.a . uit de aanwezigheid van gebleekte korrels aan de basis van het esdek . 
+In de zuidwestelijke hoek van het plangebied is het esdek dikker ( 100-140 cm ) dan in het noordoostelijke deel ( 50-100 cm ) . 
+Dit verschil in dikte heeft waarschijnlijk te maken met het onderliggende reliëf , waarbij met het opbrengen van het esdek verschillen in het oorspronkelijke reliëf zijn vereffend . 
+Nadere bestudering van de vlakhoogtes laat ook zien dat er een hoogte verschil van ongeveer 50 cm bestaat over het terrein . 
+Aangezien de bodem hier bestaat uit een zandgrond met een humushoudende bovengrond dikker dan 50 cm , behoort de bodem tot de enkeerdgronden . 
+Op basis van de relatief diepe grondwaterstand en de kleur is de bodem verder geclassificeerd tot een hoge zwarte enkeerdgrond . 
+Binnen het esdek zijn drie verschillende fasen van opbouw herkend . 
+Het bovenste pakket in het profiel is de recente bouwvoor . 
+De bodemopbouw en geologische geschiedenis hier is vergelijkbaar met die van de Elderinkweg te Hengelo ( Gld . 
+) , zoals gedocumenteerd bij een archeologische opgraving in 2007.12 Vraag uit het PvE • Wat is de relatie tussen de nederzettingssporen en het landschap ? 
+Wat is het belang van het landschap in de locatiekeuze ? 
+De nederzettingssporen bevinden zich op een relatief hoge dekzandrug . 
+Dit gebied is van oorsprong geschikt geweest voor de jacht en vormde later een geschikt landbouwgebied . 
+De nabijheid ( < 400m ) van de Vordensche Beek geeft aan dat watervoorziening en eventueel weidegrond in de directe omgeving beschikbaar waren . 
+12 Williams 2009 . 
+15 3.2 Sporen en structuren A. van Benthem Tijdens het onderzoek zijn 308 antropogene grondsporen aangetroffen die uit verschillende perioden dateren ( tabel 2 ) . 
+Daarbij zijn 228 paalkuilen en twee paalgaten ( afb . 
+8 & 9 ) . 
+Een aantal van deze sporen behoort toe aan een structuur ( plattegrond van een gebouw , bijgebouw of spieker ) . 
+Een groot aantal paalkuilen konden echter niet in verband worden gebracht met een plattegrond van een gebouw of andersoortige structuur . 
+Onderstaand volgt een beschrijving van de plattegronden die zijn herkend . 
+Met het oog op de leesbaarheid van het rapport zijn alleen van de plattegronden de paalsporen beschreven . 
+De beschrijving van de overige paalsporen is opgenomen in de opgravingsdocumentatie die achter in het rapport zit . 
+Er zijn zeven structuren herkend ; twee huisplattegronden , twee bijgebouwen en drie spiekers . 
+Naast de gebouwplattegronden zijn er een aantal grote kuilen , karrensporen en spitsporen aangetroffen . 
+Tabel 2 . 
+Aard van de sporen . 
+AARD SPOOR Aantal Kuil 70 Karrenspoor 7 Laag 12 Natuurlijk verstoring 161 Paalgat 2 Paalkuil 228 Recente verstoring 12 Spitsporen 1 De plattegronden zijn over het algemeen matig bewaard gebleven , alleen de diepst ingegraven palen zijn tijdens het archeologisch onderzoek aangetroffen . 
+De twee huisplattegronden liggen aan de westzijde van het terrein en liggen over elkaar ( afb . 
+7 , 10 , 11 , 12 ) . 
+Voor alle gebouwen geldt dat het gaat om houten constructies met wanden van vlechtwerk , besmeerd met leem . 
+Een aantal palen , meestal de middelstijlen , hebben het dak gedragen , dat met stro of riet bedekt was . 
+Doorgaans is binnen huizen uit de Brons- en IJzertijd een woon- en stalgedeelte aanwezig . 
+Deze ruimtes zijn van elkaar gescheiden door middel van binnenwanden . 
+Deze binnenwanden zijn vaak ondiep gefundeerd omdat ze geen dakdragende functie hebben . 
+Doordat vaak alleen nog de diepe sporen worden aangetroffen , zijn deze wanden niet meer aanwezig en zijn er geen duidelijke aanwijzingen voor de grootte van de stal of een functionele indeling van de plattegrond . 
+Afb . 
+7 . 
+De plattegronden van structuur 1 en 2 . 
+AK AK AK23-2-2010 23-2-2010 23-2-2010 23-2-2010 AK AK AK 23-2-2010 23-2-2010 457775 457800 457825 457850 16 219000 219025 219050 219075 219100 Afb . 
+8 . 
+Overzicht van de sporen . 
+Structuur 1 De plattegrond van deze structuur wordt gevormd door 36 paalkuilen die min of meer een rechthoek vormen van ca . 
+21 x 3,80 meter ( afb . 
+10 ) . 
+De structuur is min of meer noordwest – zuidoost georiënteerd . 
+De aangetroffen paalsporen zijn tot een diepte van 8 tot 36 cm bewaard gebleven . 
+Door de aanwezigheid van een ingangspartij met scheidingswanden aan de lange zijden wordt de plattegrond opgesplitst in twee ongelijke delen van 14 meter ( links ) en 4,25 meter ( rechts ) . 
+Er zijn geen aanwijzingen voor stalboxen aangetroffen , zodat een functionele indeling van de plattegrond niet gegeven kan worden . 
+Daarnaast ontbreken naar alle waarschijnlijkheid de buitenstijlen van het gebouw , waardoor er van een driebeukige plattegrond moet worden uitgegaan . 
+De buitenstijlen hadden waarschijnlijk geen dakdragende functie en zijn dan ook minder diep ingegraven dan de middenstijlen . 
+Daarnaast is het mogelijk dat de buitenstijlen op horizontaal liggende planken gezet waren , waardoor de kans dat deze tijdens een archeologische opgraving aangetroffen worden uiterst klein is . 
+Het is waarschijnlijk dat de aangetroffen palen het dak droegen . 
+In vier paalkuilen werd aardewerk aangetroffen . 
+Helaas werden er geen kenmerken op het aardewerk aangetroffen die een nauwkeurige datering konden geven . 
+De datering ligt dan ook in de Bronstijd/IJzertijd . 
+457850 17 Spieker 3 Bijgebouw 1 457825 Kuil met slakken STR02 Spieker 1 Spieker 2 Bijgebouw 2 STR01 457775 457800 Kuil met veel aardewerk N N N N N 00000 219000 219025 219050 219075 25m 25m 25m 25m 25m 219100 Gebouw 1 & 2 Spiekers Spitsporen Bijgebouw 1 Silokuilen Bijzondere kuilen Bijgebouw 2 Karrensporen Sporenkaart Afb . 
+9 . 
+Overzicht van de structuren . 
+AK AK AK23-2-2010 23-2-2010 23-2-2010 23-2-2010 AK AK AK 23-2-2010 23-2-2010 Legenda 19 Afb . 
+10 . 
+Structuur 1 met dieptes van de sporen . 
+( plattegrond op schaal 1:200 , dieptes op schaal 1:100 ) . 
+Structuur 2 De plattegrond van deze structuur ligt voor een deel over structuur 1 ( afb . 
+11 & 12 ) en wordt gevormd door 14 paalkuilen , die min of meer een rechthoek vormen van 19,85 x 2,85 meter . 
+Deze structuur is eveneens noordwest – zuidoost georiënteerd . 
+De aangetroffen paalsporen zijn tot een diepte van 8 tot 26 cm bewaard gebleven . 
+Het gebouw is iets smaller dan structuur 1 en ook hier ontbreken naar alle waarschijnlijkheid de buitenstijlen van het gebouw , waardoor er van een driebeukige plattegrond moet worden uitgegaan Ook zijn er geen aanwijzingen voor stalboxen aangetroffen , zodat een functionele indeling van de plattegrond niet gegeven kan worden . 
+Binnen de plattegrond werden een aantal silokuilen aangetroffen die er mogelijk op zouden kunnen wijzen dat het hier niet om een huisplattegrond gaat , maar om een grote schuur . 
+Het aardewerk , dat in maar één spoor werd aangetroffen , vertoont geen technologische of morfologische kenmerken waardoor een datering preciezer dan in de ( vroege ) IJzertijd is te geven . 
+Daaruit volgt dat structuur 2 jonger is dan structuur 1 . 
+Omdat van beide plattegronden veel paalsporen niet aangetroffen zijn , is het moeilijk om de plattegronden aan een bekend type te verbinden . 
+Voor de herkenbaarheid van een huistype is het noodzakelijk dat zowel de binnenconstructie als de wandconstructie reconstrueerbaar is . 
+Op grond van de periode zijn drie- of vierbeukige gebouwen te verwachten . 
+Een verklaring voor het ontbreken van de buitenstijlen zou kunnen zijn dat deze op horizontale planken gefundeerd waren . 
+Archeologisch is daar vaak weinig van terug te vinden . 
+Structuur 1 zou tot het type Borger van Waterbolk gerekend kunnen worden.13 Dit type plattegrond wordt in de Late Bronstijd – Vroege IJzertijd gedateerd . 
+Ook het type Elp van Huijts zou mogelijk zijn.14 Tussen 1984 en 1986 werd op de Colmschater es bij Deventer door de toenmalige ROB een grote opgraving op de es uitgevoerd.15 Twee structuren uit de Late Bronstijd die daar werden aangetroffen , zouden met structuur 1 en 2 vergeleken kunnen worden . 
+De lengte van de huisplattegronden is echter veel kleiner dan die van structuur 1 en 2 . 
+De plattegronden uit Colmschate zijn driebeukig , waarbij het breedste gebouw een middenbeuk heeft van 3,5 meter en het smalste gebouw een middenbeuk heeft tussen 2,50 en 3 meter . 
+De breedte van deze middenbeuken , komt min of meer overeen met de breedte van structuur 1 en 2 ( respect . 
+3,80 en 2,90 m ) . 
+Een vergelijkbare 13 14 15 Waterbolk 2009 . 
+Huijts 1992 . 
+Verlinde 1991 . 
+20 plattegrond werd op bedrijventerrein Wijnbergen te Doetinchem aangetroffen ( structuur 2b ) .16 Ook hier deed zich het probleem voor dat er een onvolledige plattegrond tevoorschijn kwam . 
+Op grond van het aangetroffen aardewerk werd de plattegrond in de Late Bronstijd/Vroege IJzertijd gedateerd en , met enig voorbehoud , aan het type Elp toegeschreven . 
+Structuur 2 is met enig voorbehoud tot het type Wachtum van Waterbolk te rekenen.17 Afb . 
+11 . 
+Structuur 2 met dieptes van de sporen . 
+( plattegrond op schaal 1:200 , dieptes op schaal 1:100 ) . 
+Afb . 
+12 . 
+Structuur 1 ( donkergrijs ) en 2 ( lichtgrijs ) . 
+16 17 Lohof 2008 . 
+Waterbolk 2009 . 
+21 Bijgebouwen en spiekers Verspreid over het terrein is een vijftal plattegronden van kleine gebouwtjes aangetroffen ( afb . 
+14 ) . 
+Het verschil tussen bijgebouwen en spiekers is niet altijd duidelijk . 
+Een spieker zou gebruikt worden voor de opslag van landbouwproducten , terwijl bij bijgebouwen aan schuren , werkplaatsen en stalling voor kleinvee gedacht moet worden . 
+Spiekers zijn voorzien van een verhoogd vloeroppervlak om zo de oogst te beschermen tegen ongedierte en vocht . 
+Schuren zijn over het algemeen gelijkvloers en kunnen uit eenvoudig opgetrokken wanden bestaan en hebben altijd een dak , dat meestal door de wanden gedragen wordt . 
+Over het algemeen worden gebouwtjes met kleine oppervlaktes als spieker beschreven , terwijl de wat grote bijgebouwen als schuur worden gezien . 
+Tijden het archeologisch onderzoek zijn drie spiekers aangetroffen aan de oostzijde van het terrein ( spieker 1 , 2 en 3 , afb . 
+14 ) . 
+Spieker 1 bestaat uit zes paalkuilen die min of meer een rechthoek vormen van 3,15 x 2,25 meter . 
+De aangetroffen paalsporen zijn tot een diepte van 20 tot 36 cm bewaard gebleven . 
+In twee van de paalkuilen werd aardewerk aangetroffen . 
+Het gaat om fragmenten die niet nader te dateren zijn dan Late Bronstijd/Vroege IJzertijd . 
+Spieker 2 ligt ten westen van spieker 1 en bestaat uit zeven paalkuilen die eveneens een rechthoek vormen met een afmeting van 4,25 x 2,25 meter . 
+De aangetroffen paalsporen zijn tot een diepte van 22 tot 28 cm bewaard gebleven . 
+In één van de paalkuilen werd een grote hoeveelheid brokken natuursteen aangetroffen . 
+Voor een beschrijving van dit natuursteen zie hoofdstuk 3.3.3 . 
+Ook werden er fragmenten aardewerk aangetroffen , die niet nader te dateren waren dan IJzertijd aardewerk . 
+Spieker 3 ligt ten noorden van de spiekers 1 en 2 en bestaat uit vier paalkuilen die een rechthoek vormen . 
+De afmeting van de spieker bedraagt 2,20 x 1,85 meter . 
+De aangetroffen paalsporen zijn tot een diepte van 18 tot 24 cm bewaard gebleven . 
+In de paalkuil die aan de zuidwestkant van de spieker ligt , werd de volledige onderzijde van een besmeten pot aangetroffen ( afb . 
+13 ) . 
+Mogelijk gaat het hier om een bouwoffer . 
+Het aardewerk dateert uit de Vroege IJzertijd . 
+Afb . 
+13 . 
+Besmeten pot uit spieker 3 . 
+De bijgebouwen 1 en 2 zijn , naar aanleiding van de afmetingen , als schuren geïnterpreteerd ( afb . 
+14 ) . 
+Het gaat om een plattegrond met 13 paalkuilen met een afmeting van 6,75 x 2,25 meter die aan de westzijde van het terrein , ten noorden van structuur 1 en 2 ligt . 
+De aangetroffen paalsporen zijn tot een diepte van 4 tot 19 cm bewaard gebleven . 
+Helaas werd in geen van de paalkuilen aardewerk of ander dateerbaar vondstmateriaal aangetroffen , zodat een datering van de plattegrond niet mogelijk is . 
+Bijgebouw 2 ligt aan de oostzijde naast spieker 2 . 
+Het gaat om een plattegrond met zes paalkuilen die tot een diepte van 16 tot 32 cm bewaard zijn gebleven . 
+De afmeting van de plattegrond bedraagt 6,85 x 2,05 meter . 
+Aan de noordzijde werd in aan de lange kant van het gebouw geen paalkuil aangetroffen . 
+Mogelijk betreft het een schuur die aan één kant open was , een zogenaamde kapschuur . 
+In één van de paalkuilen werd een wikkeldraadscherf aangetroffen . 
+In een andere paalkuil werden enkele fragmenten uit de Bronstijd/IJzertijd aangetroffen . 
+Het aantreffen van één wikkeldraadscherf in de paalkuil is echter nog geen aanleiding om hier ook bewoningsactiviteit in de Vroege Bronstijd te veronderstellen . 
+22 Afb . 
+14 . 
+Spiekers en bijgebouwen ( schaal 1:100 ) . 
+Kuilen Tijdens de opgraving zijn 70 kuilen aangetroffen , die vooral aan de noordzijde van het terrein zijn gegraven . 
+Van de meeste kuilen is de oorspronkelijke functie niet bekend . 
+De kuilen kunnen secundair als afvalkuil zijn gebruikt , maar in de meeste kuilen is weinig vondstmateriaal aangetroffen . 
+Een uitzondering hierop vormen 26 kuilen , waarvan wel een primaire functie bekend is . 
+Het gaat om zogenaamde silokuilen ( afb . 
+15 ) . 
+Silokuilen zijn grote , diepe kuilen met vaak een vlakke bodem waarin graan en in dit geval ook geroosterde eikels werden opgeslagen ( zie ook hoofdstuk 3.3.5 , botanisch onderzoek ) . 
+Het is opvallend dat een aantal silokuilen net buiten structuur 1 , maar binnen structuur 2 werden aangetroffen . 
+In de botanische monsters uit twee van deze kuilen werd behalve graan ook veel verkoolde eikels aangetroffen.18 Mogelijk gaat het bij structuur 2 niet om een huisplattegrond , maar om een grote schuur . 
+In put 5 werden 13 silokuilen in een regelmatig patroon bij elkaar aangetroffen.19 In het botanische monster dat uit één van deze kuilen is onderzocht , werden geen granen aangetroffen . 
+In de omringende silokuilen werden veel verkoolde eikels , houtskool en wat uitgegloeid zand aangetroffen . 
+De hoeveelheid houtskool en geringe voorkomen van uitgegloeid zand , zou kunnen betekenen dat de eikels elders geroosterd zijn en dat de kuilen alleen als opslag voor de eikels fungeerden . 
+Het houtskool en het uitgegloeide zand zijn dan waarschijnlijk meegekomen toen de eikels verzameld werden op de plek van het roosteren . 
+Geroosterde eikels zijn geschikt voor menselijk consumptie , maar ook als varkensvoer . 
+18 19 Onder andere in spoor 100 . 
+Onder andere spoor 2 . 
+23 Afb . 
+15 . 
+Spoor 100 in put 7 ( links ) en spoor 2 in put 5 ( rechts ) . 
+Bijzondere kuilen Van een tweetal kuilen is weliswaar niet bekend wat hun primaire functie was , maar , vanwege het vondstmateriaal zijn ze wel waard om besproken te worden . 
+In een kuil in put 4 , net ten noorden van structuur 1 en 2 , werd smeedslak met hamerslag , een zestal haardslakken en een deel van een ovenwand aangetroffen ( spoor 41 put 4 ) . 
+Dit geeft aan dat er op kleine schaal metaalbewerking in de nederzetting plaatsvond ( zie ook hoofdstuk 3.3.2 ) . 
+Afb . 
+16 . 
+De kuil met veel aardewerk . 
+In een kuil in put 6 werd een grote hoeveelheid aardewerk aangetroffen , maar liefst 55 fragmenten van drie individuen ( afb . 
+16 . ) 
+Gezien de grote hoeveelheden aardewerk en dat het om enkele potten gaat , geeft te denken over dit spoor . 
+Is het aardewerk als afval in een kuil gegooid of gaat het hier om een depositie ? 
+De jongste datering voor het aardewerk is circa 500 v . Chr. , wat het spoor in de overgang van de Vroege IJzertijd naar de Midden IJzertijd dateert . 
+Het is opvallend dat er verder geen sporen zijn aangetroffen uit deze periode . 
+Ook in Ewijk Plangebied Keizershoeve werd in het voorjaar van 2009 een soortgelijke kuil aangetroffen.20 In het geval van Ewijk betrof het een waterkuil die gevuld was met maar liefst 18 verschillende potten . 
+Ook hier werd de kuil rond 500 v.Chr . 
+gedateerd , terwijl er geen andere sporen uit deze periode aanwezig waren . 
+Wel was er in de omgeving van een nederzetting uit dezelfde periode . 
+Het is ( nog ) niet bekend of er in de omgeving van de Ruurloseweg zich een nederzetting uit deze periode bevind . 
+Overige sporen In de noordoosthoek van het terrein werd een breed karrenspoor aangetroffen dat noordwest – zuidoost is georiënteerd ( afb . 
+18 ) . 
+Een karrenspoor is een spoor waarover een kar met paard zich verplaatste . 
+Ze liggen op veel plaatsen als een insporing of smalle geul die door paardenhoeven is gemaakt in losse of modderige grond . 
+Het spoor van de kar is gewoonlijk minder goed herkenbaar : twee parallelle afdrukken van de wielen , ca . 
+een meter uit elkaar . 
+Er zijn brede complexen ontstaan van naast elkaar en over elkaar liggende karrensporen , waarbij steeds werd gezocht naar het op dat moment het best begaanbaar spoor . 
+De vroegste datering van het karrenspoor zou in de 14e/15e eeuw kunnen liggen : bij het doorspitten van het spoor werd een fragment van een Langerwehe steengoedkan aangetroffen . 
+Het is echter meer waarschijnlijk dat het karrenspoor pas later is ontstaan . 
+Het karrenspoor ligt voor een deel in het esdek 20 Veldman 2010 . 
+24 en dat is waarschijnlijk pas in de 16e eeuw of later ontstaan.21 Ook werd een fragment Westerwald steengoed uit de 17e/18e eeuw aangetroffen en twee pijpenstelen die in de 18e/19e eeuw gedateerd worden . 
+Het karrenspoor is nog zeker tot het midden van de 19e eeuw in gebruik geweest . 
+Op de kadasterkaart van 1811 – 1832 is het karrenspoor nog te zien ( afb . 
+17 ) . 
+Aan de zuidkant van het karrenspoor werd een grote kuil opgegraven . 
+Dit is waarschijnlijk een drinkkuil voor de paarden die de karren trokken . 
+Aan de noordzijde werd eveneens een kuil aangetroffen . 
+Het zand dat uit deze kuil is geschept , werd waarschijnlijk gebruikt om de karrensporen te egaliseren . 
+Afb . 
+17 . 
+Het karrenspoor op de kadasterkaart van 1811 -1832 . 
+Afb . 
+18 . 
+Het karrenspoor in het profiel . 
+Aan de oostzijde van het onderzoeksgebied werden parallelle spitsporen aangetroffen . 
+Deze spitsporen zijn gemaakt met scheppen en hebben te maken met de eerste ontginning van de zandgronden , net voordat men het esdek op ging werpen . 
+Het is niet bekend wanneer het esdek is ontstaan . 
+Het enige fragment aardewerk dat in het esdek werd aangetroffen is een stuk Siegburg steengoed dat uit de 14e/ 15e eeuw dateert . 
+Dit fragment dateert het esdek echter niet . 
+Het is niet ondenkbaar dat deze vondst van elders afkomstig is en met het steken van de plaggen in het bos of heide in de potstal terecht zijn gekomen . 
+Vanuit de potstal werd de mest vervolgens uitgereden op de akkers . 
+Zoals ook al bij de karrensporen is vermeld , is het waarschijnlijk dat het esdek op deze locatie pas in de 16e eeuw of later is aangebracht . 
+21 Spek 2004 . 
+25 3.3 Vondstmateriaal 3.3.1 Algemeen In totaal zijn 1000 vondsten geborgen ( bijlage I ) . 
+Dit zijn handverzamelde vondsten uit de aangetroffen sporen ( tabel 3 ) . 
+Het aantal aangetroffen vondsten is zeer weinig . 
+Een verklaring hiervoor is dat een groot deel van de cultuurlaag ten tijde van de prehistorische bewoning in later tijd in de bouwvoor is opgenomen , nog voordat er een esdek werd opgeworpen . 
+Aan de andere kant betreft het voor OostNederland een relatief vondstarme periode . 
+De vondsten zijn gewassen en gesplitst naar de verschillende materiaalcategorieën en vervolgens beschreven door specialisten . 
+Tabel 3 . 
+Vondsttotalen . 
+INHOUD Totaal aantal Totaal gewicht in gram Aardewerk gedraaid 8 49 Aardewerk handgevormd 652 7912 Bot 7 4 Bouwmateriaal 5 126 Houtskool 4 3 Metaal 5 87 Natuursteen 96 27955 Pijp 2 3 Slak 32 980 Vuursteen 18 142 Zaden 171 56 De categorie aardewerk bestaat voor het grootste gedeelte uit handgevormd aardewerk . 
+Slechts een klein aantal fragmenten gedraaid aardewerk werden aangetroffen in het esdek en in de karrensporen . 
+22 Het gaat om een tweetal kleine fragmenten roodbakkend aardewerk die in een grote kuil werden aangetroffen naast de karrensporen . 
+Vanwege de geringe afmeting van de fragmenten kunnen deze niet nader gedateerd worden dan 1300-1800 . 
+Uit de karrensporen zelf komen een aantal fragmenten steengoed uit Langerwehe ( 14e/15e eeuw ) en een fragment Westerwald steengoed dat in de 17e/18e eeuw gedateerd wordt . 
+Uit het esdek in put 8 komt een fragment Siegburg steengoed dat in de 14e/15e eeuw wordt gedateerd . 
+Het handgevormde aardewerk wordt in hoofdstuk 3.3.1 besproken . 
+Er zijn maar zeven fragmenten bot aangetroffen ; dit is te weinig voor een analyse . 
+Deze vondstgroep is niet verder onderzocht en is afgestoten . 
+Het bouwmateriaal bestaat voornamelijk uit een aantal kleine brokjes baksteen die in de karrensporen zijn aangetroffen . 
+Deze fragmenten zijn niet verder worden onderzocht en zijn afgestoten . 
+De vier fragmenten houtskool zijn niet verdere onderzocht . 
+De fragmenten zijn afgestoten . 
+De categorie metaal bestaat uit een gesp en een munt . 
+De gesp werd in de karrensporen in put 3 aangetroffen en is gemaakt van een koperlegering . 
+De datering zal in de 19e eeuw gezocht moeten e worden . 
+De munt werd in de bouwvoor aangetroffen en is een zes stuiverstuk van zilver uit de 17 eeuw , ook wel een Rijderschelling genaamd . 
+De overige fragmenten metaal bestaan uit kleine stukjes gecorrodeerd ijzer uit de bouwvoor en zijn niet verder worden onderzocht en afgestoten . 
+Het natuursteen bestaat voor het grootste gedeelte uit kiezels . 
+Een aantal grote fragmenten , die in een kuil in put 5 werden aangetroffen , worden in hoofdstuk 3.3.3 besproken . 
+De categorie kleipijpen bestaat uit twee steelfragmenten die in het karrenspoor in put 3 werden aangetroffen . 
+De stelen zijn in de 18e/19e eeuw te dateren . 
+De slakken zijn door een specialist bekeken en worden in hoofdstuk 3.3.2 besproken . 
+De categorie vuursteen bestaat hoofdzakelijk uit onbewerkte fragmenten . 
+Deze zijn niet verder onderzocht . 
+Twee fragmenten zijn wel bewerkt . 
+Het gaat om een mogelijke kleine schrabber die in een 22 Het gedraaide aardewerk is door N. Jaspers geanalyseerd . 
+26 kuil in put 1 is aangetroffen . 
+De bewerkingssporen zijn echter niet duidelijk . 
+Het tweede fragment betreft een schrabber die aan twee zijden is bewerkt . 
+Het fragment werd aangetroffen in de overgang van het esdek naar de C-horizont in put 11 . 
+Van beide fragmenten is het niet mogelijk een datering te geven . 
+De zaden zijn meegenomen in het botanisch onderzoek ( hoofdstuk 3.3.5 ) . 
+3.3.2 Aardewerk S.B.C . 
+Bloo Inleiding Tijdens de opgraving van de vindplaats Vorden Ruurloseweg zijn 652 fragmenten aardewerk verzameld met een gewicht van bijna acht kilo . 
+Het aardewerk is voor het evaluatieverslag gescand om een indicatie van de datering en van de hoeveelheid uit te werken materiaal te verkrijgen . 
+Hierbij is reeds geconstateerd dat het handgevormde aardewerk globaal te dateren is in de periode Late Bronstijd en de overgang naar de Vroege IJzertijd . 
+In dit hoofdstuk volgen de resultaten van het uitgebreide aardewerkonderzoek . 
+Allereerst komt in dit hoofdstuk de gevolgde werkwijze aan bod . 
+Vervolgens wordt het aardewerk per periode besproken , waarbij ook de context wordt meegenomen . 
+Daarbij wordt het aardewerk ook in een bredere regionale context geplaatst door vergelijking met opgravingen in de omgeving zoals Deventer-Colmschate en Raalte . 
+Het aardewerk uit Oost-Nederland is goed onderzocht door onder andere Hermsen , Verlinde en Groenewoudt.23 In het PvE zijn geen specifieke onderzoeksvragen opgesteld voor het aardewerk . 
+Het aardewerk zal dan ook alleen dienen als indicatie voor een datering en of er nog sprake is van activiteiten zones . 
+Werkwijze De beschrijving van het aardewerk is ingevoerd in een dbase-programma . 
+Voor het aardewerk zijn de technologische en morfologische kenmerken beschreven van fragmenten groter dan 4 cm2 . 
+Hieronder worden verstaan kenmerken als scherftype ( rand , wand , schouder , buik , bodem en indet [ een fragment waarbij een deel van de buiten- of binnenzijde ontbreekt ] ) , mageringssoort , wandafwerking , bakmilieu , wanddikte , diameter van rand of bodem , rand- of bodemtype , potvorm , versiering , mate van verwering en periodisering.24 Het minimum aantal individuen is bepaald aan de hand van de randfragmenten.25 De samenstelling van de magering is met het oog bepaald . 
+Magering is aan de klei toegevoegd ter versteviging of met een bepaalde functie als doel zoals het poreus maken van de wand zodat de inhoud kan “ ademen ” .26 Voorkomende mageringen zijn potgruiskorrels , kwarts zowel in gebroken als ongebroken vorm , veldspaten ( meestal als onderdeel van granietsoorten ) , granietgruis , grind en organisch materiaal . 
+Op de breuk is gekeken naar het kleurverschil van de binnenzijde , de kern en de buitenzijde . 
+Onderscheid is gemaakt in licht en donker . 
+Dit is weergegeven door eerst de buitenzijde te beschrijven , vervolgens de kern en tot slot de binnenzijde . 
+Het resultaat kan bijvoorbeeld ‘ lidoli ’ zijn , waarbij de kern donkerder is dan de rest van de scherf . 
+Bij de combinatie ‘ lilili ’ betreft het een scherf die in een compleet oxiderend milieu ( met voldoende zuurstof ) is gebakken . 
+Het contrast van ‘ dododo ’ , een donkere scherf , is met onvoldoende zuurstof gebakken ( reducerend milieu ) . 
+Hiertussen liggen allerlei gradaties die voornamelijk de oorzaak zijn van het bakken in open vuren waarbij de controle op de toevoer van zuurstof niet optimaal is . 
+De potvorm is bepaald aan de hand van de geleding die een fragment vertoont . 
+Als de scherf een overgang vertoont met een knik ( vloeiend of scherp ) is het afkomstig van een gelede pot ( > 1 ) . 
+Een éénledig profiel , een open vorm , is daardoor alleen herkenbaar als zowel de rand als de bodem te verbinden zijn.27 Tweeledige profielen hebben een gesloten vorm zonder hals en drieledige profielen zijn potten voorzien van een hals . 
+De versiering op de aangetroffen scherven is meestal gemaakt met behulp van de vingers ( vingertoppen , nagels ) , soms is gebruik gemaakt van een kamspatel of een gladde spatel ( groeflijnen en kerfjes als resultaat ) . 
+Het versieringstype , het motief en de locatie van de versiering op de pot zijn genoteerd . 
+Daarnaast is aangegeven of de scherven verbrand , versinterd of afgerond zijn . 
+Resultaten Alle scherven zijn onderzocht op technologische en morfologische kenmerken . 
+Scherven kleiner dan 4 cm2 zijn uitsluitend geteld en gewogen . 
+Deze scherven , het gruis , vormen in totaal 42 % in aantal en bijna 23 2003 , 1987 , 1984 . 
+Zie bijlage III . 
+In de tabel is ook het MAI bij bodemfragmenten aangegeven . 
+26 Rye 1988 , 31-36 . 
+27 Er zijn enkele vormtypologieën waarna verwezen kan worden ; bekeraardewerk o.a . Lanting & van der Waals . 
+1976 ; Midden Bronstijd . 
+Glasbergen 1954 ; IJzertijdaardewerk Verlinde 1987 . 
+24 25 27 6 % in gewicht . 
+De overige scherven , 375 stuks , zijn de neerslag van minimaal 24 potten . 
+Deze potten zijn van klei gemaakt met er aan toegevoegd materiaal om de stevigheid van de klei te verbeteren . 
+In Vorden is vooral granietgruis , zand en potgruis gebruikt . 
+Soms zitten er kleine zwarte brokjes in de klei , deze lijken sterk op ijzerconcreties maar zijn mijns inziens te hoekig en te donker van kleur.28 Microscopisch onderzoek is noodzakelijk om de aard van de verschraling vast te stellen . 
+Vier fragmenten uit put 7 en 1 zijn verschraald met plantaardig materiaal . 
+Een fragment is aan de binnenzijde voorzien van een dikke laag aankoeksel.29 Het overige materiaal uit dit vondstnummer is wel met mineraal materiaal verschraald variërend van grind en gebroken kwarts als met een graniet met roze veldspaten . 
+Van een aantal randfragmenten is het oorspronkelijke pottype te herleiden . 
+Voorkomende potvormen zijn éénledige emmers ( afb . 
+19 ) , tweeledige kommen en drieledige bekers . 
+In deze laatste groep zit nog wel wat variatie . 
+Er zijn drie fragmenten in verschillende sporen aangetroffen die een vergelijkbaar profiel hebben ; alle hebben een flauw S-profiel met een iets naar buitenstaande rand ( afb . 
+20 ) . 
+De top van de rand is aangepunt en vlak van boven . 
+De profielen lijken sterk op elkaar , de kleur van de scherven wijkt echter sterk af en ook het baksel vertoont licht verschil . 
+Het is dan ook onwaarschijnlijk dat ze van één pot afkomstig zijn . 
+Afb . 
+19 . 
+Eénledig vaatwerk . 
+Vnr . 
+132.7 . 
+Afb . 
+20 . 
+Drieledig vaatwerk . 
+Vnr . 
+22. , 27.3 , 3.2 . 
+Minimaal zes potten zijn versierd ( 26 scherven , afb . 
+21 ) . 
+Op twee randscherven zijn vingertopindrukken geplaatst . 
+De overige versieringen zijn op wandscherven gezet , soms in de hals , meestal op de grootste buikomvang . 
+Op de buik komt geen versiering voor . 
+Doorboringen , vingertopindrukken , nagelindrukken , spatelindrukken , wikkeldraadindrukken en groeflijnen zijn toegepast op het aardewerk . 
+Afb . 
+21 . 
+Versierd aardewerk . 
+Vnr . 
+113.1 . 
+Slechts vier fragmenten zijn secundair verbrand . 
+Eén fragment komt uit een vermoedelijk oventje . 
+De 30 andere drie komen uit een paalkuil in put 13 , spoor 11 . 
+Eén fragment was duidelijk afgerond . 
+Dit kan zijn gebeurd doordat het lange tijd aan het oppervlak heeft gelegen bijvoorbeeld op een akker maar ook door watertransport . 
+28 29 30 Put 5 , spoor 40 , vnr . 
+107 . 
+Put 7 , spoor 147 , vnr . 
+75 . 
+Put 1 , spoor 24 , vnr . 
+21 . 
+28 Vroege Bronstijd In de Vroege Bronstijd is het aardewerk veelvuldig versierd met onder andere vingertopindrukken , wikkeldraadindrukken , doorboringen en richels . 
+Aan het begin van deze periode zien we nog Klokbekers en Potbekers die hun voorlopers hebben in het Laat Neolithicum . 
+De Klokbekers zijn rijk versierd met kamspatelindrukken in verschillende motieven van driehoeken tot lijnen en vlakken . 
+De bekers hebben een vrij scherp drieledig profiel , zijn dunwandig en niet al te groot . 
+De Potbekers lijken op dit mooie vaatwerk maar zijn grover uitgevoerd . 
+Ze zijn groter en de buitenzijde is vaak voorzien van reliëfrijke versiering . 
+Van vergelijkbare grootte zijn de Wikkeldraadbekers en –potten . 
+Deze zijn meestal voorzien van wikkeldraadindrukken maar soms ook alleen met gepaarde vingertopindrukken . 
+De hoogte en breedte van de wikkeling is vaak een aanwijzing voor een datering aan het begin of het einde van de Vroege Bronstijd . 
+Op deze vindplaats zijn twee fragmenten van een Potbeker aangetroffen . 
+De één betreft een randfragment met een schuine top ( afb . 
+22 ) .31 De buitenzijde is versierd met minimaal drie groeflijnen . 
+Een lijn is voorzien van meerdere doorboringen . 
+De klei is verschraald met heel fijn granietgruis . 
+Een tweede fragment is versierd met gaatjes die zijn opgevuld met aankoeksel.32 Tussen de doorboringen zijn vingertopindrukken geplaatst . 
+Afb . 
+22 . 
+Randfragment van een Potbeker . 
+Vnr . 
+122 . 
+Ook van het Wikkeldraadaardewerk zijn twee fragmenten teruggevonden . 
+Een wandfragment is voorzien van enkele fijne wikkeldraadindrukken . 
+Het fragmentje zat vermoedelijk in de hals van een drieledige beker . 
+Mogelijk is dit afkomstig van een Wikkeldraadbeker uit het begin van de Vroege Bronstijd . 
+Helaas is het scherfje op het vlak aangetroffen . 
+In hetzelfde vondstnummer zijn ook IJzertijdscherven verzameld . 
+Een tweede Wikkeldraadscherf is helaas te klein voor verder onderzoek maar komt wel uit een paalkuil.33 Midden en Late Bronstijd Het Midden Bronstijdaardewerk in deze regio valt binnen de traditie van de Hilversumcultuur . 
+Dit aardewerk , dat zijn oorsprong vooral uit Zuid- en Midden Nederland kent , bestaat uit grote emmervormige potten met geringe versiering . 
+Het oudste materiaal , het Hilversumaardewerk , is nog wel versierd met touwindrukken , gepaarde vingertopindrukken , versierde stafbanden en versiering op de rand . 
+Het jongste materiaal is incidenteel versierd met een rij indrukken op de wand . 
+Versiering met oren en stafbanden komt wel voor als uitvloeisel van het Hilversumaardewerk . 
+De klei van de potten is vaak verschraald met steengruis variërend van grind tot graniet . 
+In het Zuiden en Midden van Nederland zien we vooral grind en gebroken kwarts als toevoeging , in Oost-Nederland is vaker granietgruis toegevoegd . 
+De meeste potten zijn emmervormig , de oudere Hilversumpotten vertonen een lichte holling in de hals . 
+In een enkel geval zien we een soort vingergeul net onder de rand waardoor er een soort ondiepe hals ontstaat . 
+Tot nu toe wordt dit zelden opgemerkt als versiering . 
+In Vorden is een rand gevonden met een geul onder de rand ( afb . 
+23 ) .34 Op de vindplaats Deventer-Colmschate is een vergelijkbaar exemplaar aangetroffen.35 31 Put 15 , spoor 5000 , vnr . 
+122 . 
+Put 8 , spoor 5000 , vnr . 
+157 . 
+Put 5 , spoor 38 , vnr . 
+105 . 
+34 Put 15 , spoor 15 , vnr . 
+123 . 
+35 Hermsen & Louwen 2007 , 133 . 
+32 33 29 Afb . 
+23 . 
+Randfragment met vingergeul uit de Bronstijd . 
+Vnr . 
+123.1 . 
+Van een dunwandige beker is nog een deel van de hals , schouder en buik gevonden.36 Ter hoogte van de grootste buikomvang is een rij spatelindrukken aangebracht . 
+Er onder is de wand fijn besmeten , erboven is zij glad gemaakt . 
+De klei waarmee het bekertje gemaakt is , is voorzien van steengruis . 
+De scherven hebben een bruine kleur , de breuk echter is vrij donker tot zwart . 
+In hetzelfde vondstnummer zitten nog twee fragmenten met een soort stafband ; twee vingertopindrukken op een verhoging zijn nog zichtbaar ( afb . 
+24 ) . 
+Deze fragmenten hebben een verschraling bestaande uit steengruis en zand . 
+Ze zullen dan ook niet van dezelfde pot afkomstig zijn . 
+Reliëfversiering en een rij van indrukken zijn op aardewerk uit de Late Bronstijd en Vroege IJzertijd toegepast . 
+Dit vondstnummer bevat echter ook een wandfragment dat mogelijk eerder te dateren is in de Vroege Middeleeuwen , mogelijk een stukje van een kogelpot . 
+Gezien de herkomst , uit het esdek , is het niet vreemd dat dit bij elkaar is aangetroffen . 
+Afb . 
+24 . 
+Versierd met een ( pseudo- ) stafband , Late Bronstijd/Vroege IJzertijd . 
+Vnr . 
+167.4+167.3 . 
+In de Late Bronstijd neemt de versieringsfrequentie weer toe . 
+Bovendien worden ook andere versieringstechnieken toegepast op het aardewerk zoals Kerbschnitt en groeflijnen . 
+De vorm van de potten wordt wat eleganter , dunwandiger , meer met een rechte hals en met meer geprononceerde overgangen van hals naar schouder en naar de buik . 
+Een kuil uit put 4 bevat minimaal twee potten.37 Randfragmenten van een drieledige beker met open hals uit vulling 2 passen aan een randfragment uit vulling 1 ( afb . 
+25 ) . 
+In vulling 1 zijn meerdere bodemfragmenten aangetroffen die afkomstig zijn van één pot . 
+De bodemfragmenten uit vulling 2 zijn van dezelfde pot . 
+Naast het randje van een drieledige beker met open hals is er een randfragment van een éénledige pot aangetroffen in vulling 1 , wellicht behorende bij de bodem uit deze vulling . 
+Twee wandfragmenten wijken af wat baksel betreft van de twee potten , ze zijn verschraald met veel meer witte kwarts en één met veel minder graniet dan de andere . 
+Ook de wanddiktes komen niet overeen met die van de bodem- of randfragmenten van de twee potten . 
+Beide potten zijn verschraald met granietgruis dat in grote brokken is toegevoegd . 
+De potten zijn in een open vuur gebakken waarbij de duur van het bakken niet voldoende was om het organische materiaal in de klei volledig te verbranden . 
+Dit zien we nog aan de zwarte kern in de breukvlakken van de scherven . 
+36 37 Put 6 , spoor 5000 , vnr . 
+167 . 
+Put 4 , spoor 23 , vnr . 
+133 en 132 respectievelijk uit vulling 2 en 1 . 
+30 Kenmerken als dunwandigheid , het licht drieledige profiel met een iets uitstaand randje zijn redenen om de vulling van dit spoor in de Late Bronstijd te dateren . 
+Afb . 
+25 . 
+Randfragmenten van een pot uit put 4 , spoor 23.Vnr . 
+133.1 + 132.8 . 
+IJzertijd In de Vroege IJzertijd is het aardewerk vergelijkbaar versierd als in de Late Bronstijd . 
+Ook nu zien we vingertopindrukken op een rij en reliëfversiering van stafbanden worden toegepast . 
+Ook de rand wordt nu versierd met vingertopindrukken . 
+Besmijting komt vaker voor en wordt in de loop van de Vroege IJzertijd en zeker in de Midden IJzertijd steeds grover en breidt zich uit over de pot tot zelfs aan de rand toe . 
+Het vaatwerk wordt dikwandiger . 
+Wat magering betreft verandert er niet veel , in Oost-Nederland wordt nog steeds veel gebruik gemaakt van minerale verschraling die lokaal voorhanden is , het granietgruis . 
+Sporadisch wordt organisch materiaal of potgruis toegevoegd aan de klei . 
+Een aantal van deze kenmerken zien we terug op en in het aardewerk van Vorden . 
+In put 7 , spoor 169 , een kuil van bijna 1 meter diep , is een groot fragment van een drieledige beker aangetroffen ( afb . 
+26 ) . 
+De hals is glad gemaakt en onder de grootste buikomvang is een heel lichte besmijting of opruwing aangebracht . 
+De wanddikte is vrij gering met 10 mm . Besmijting op maar een deel van de pot komt voor vanaf de Late Bronstijd rond de 8e eeuw v . Chr. , maar veelvuldiger en in combinatie met drieledig vaatwerk in de Vroege IJzertijd.38 Het aardewerk uit dit spoor is te reconstrueren tot enkele potten . 
+Deze zijn gemaakt van een grof baksel met veel granietgruis of veldspaten . 
+De wanden van de potten zijn vaak ruw gemaakt . 
+Enkele potten hadden een bodem met een lichte standvoet . 
+De kleur is overwegend licht en in de breuk is een donkere kern te zien . 
+Van één bodem is de diameter te bepalen op 12 cm . 
+Dit spoor is te dateren op de overgang Late Bronstijd naar de Vroege IJzertijd , circa 8e -7e eeuw v. Chr . 
+In een paalkuil van spieker 3 is de volledige onderzijde van een besmeten pot aangetroffen ( afb . 
+27 ) .39 Vooral de buik en de bodem zijn nog goed te reconstrueren ondanks dat een zijde ontbreekt . 
+In hetzelfde spoor zijn nog enkele fragmenten van een gepolijste rand met schouder ontdekt . 
+De rand is naar buiten verdikt en de schouder is vrij kort met 2,5 cm . 
+Deze fragmenten hebben ter hoogte van de buik/bodem gezeten maar een volledige reconstructie is niet meer te maken . 
+Deels gepolijste en deels besmeten potten komen vooral voor in de Vroege IJzertijd . 
+Vermoedelijk is de pot afgetopt of heeft hij op zijn zijkant gelegen waardoor een zijde is afgetopt gedurende werkzaamheden op dit terrein ( in de prehistorie of later ) . 
+38 39 Hermsen 2003 , 38 . 
+Put 5 , spoor 14 , vnr . 
+89 . 
+31 Afb . 
+26 . 
+Drieledig vaatwerk met deels besmijting ( Vroege IJzertijd ) . 
+Vnr . 
+81 . 
+Afb . 
+27 . 
+Grote pot uit put 5 , spoor 14 . 
+Vnr . 
+89 . 
+Context Er zijn zeven structuren herkend . 
+Structuur 1 en 2 zijn huisplattegronden , bijgebouw 1 en 2 zijn schuren en drie spiekers . 
+Het aardewerk uit structuur 1 ( put 7 ) is afkomstig uit vier sporen . 
+In totaal gaat het om negen scherven . 
+De meeste scherven zijn verschraald met gebroken kwarts , een enkeling met het roze graniet . 
+Behalve dat één scherf aan de buitenzijde is voorzien van afstrijkgroeven zijn er verder geen kenmerken aan de scherven te zien . 
+Een datering kan dan ook niet specifieker worden gegeven dan in de Bronstijd of IJzertijd . 
+Het aardewerk uit structuur 2 ( put 7 ) is afkomstig uit één spoor . 
+De fragmenten hebben een wanddikte tussen de 7 en 11 mm , ze zijn met diverse middelen verschraald ( potgruis , grind , organisch materiaal en granietgruis ) en hebben een lichte tot rode buitenzijde en donkere kern . 
+Eén fragment is voorzien van afstrijkgroeven aan de buitenzijde . 
+Verder vertonen de zeven fragmenten geen andere technologische of morfologische kenmerken waardoor een datering preciezer dan in de IJzertijd niet is te geven . 
+Spieker 1 heeft in twee paalkuilen aardewerk opgeleverd . 
+De vier fragmenten zijn verschraald met zand en in mindere mate met potgruis . 
+De twee fragmenten die deze bijmenging hebben zijn bovendien besmeten . 
+De andere twee fragmenten vertonen nagelindrukken aan de buitenzijde . 
+Dergelijke versiering komt voor vanaf de Late Bronstijd tot en met de Vroege IJzertijd . 
+In spieker 2 werden er fragmenten aardewerk aangetroffen , die niet nader te dateren waren dan IJzertijd aardewerk . 
+Spieker 3 leverde de volledige onderzijde van een besmeten pot op . 
+Mogelijk gaat het hier om een bouwoffer . 
+Het aardewerk dateert uit de Vroege IJzertijd . 
+Er is geen aardewerk aangetroffen in bijgebouw 1 . 
+In één van de paalkuilen van bijgebouw 2 werd een wikkeldraadscherf aangetroffen . 
+In een andere paalkuil werden enkele fragmenten uit de Bronstijd/IJzertijd aangetroffen . 
+Het aantreffen van één wikkeldraadscherf in de paalkuil is echter nog geen aanleiding om hier ook bewoningsactiviteit in de Vroege Bronstijd te veronderstellen . 
+32 Eén kuil , een afvalkuil , heeft aanzienlijke hoeveelheden aardewerk opgeleverd.40 Maar liefst 55 fragmenten zijn afkomstig uit dit spoor en minimaal afkomstig van drie potten . 
+De grootste fragmenten zijn afkomstig van een tweeledige pot met een bolle buik ( afb . 
+29 ) . 
+De rand is voorzien van vingertopindrukken op de top , de buitenzijde is volledig besmeten . 
+De besmijting zit er in dikke klodders opgesmeerd . 
+De klei is verschraald met potgruis en incidenteel met een stukje gebroken kwarts . 
+Een vergelijkbaar exemplaar is op de vindplaats Raalte-Zegge VI aangetroffen.41 De pot met besmijting tot aan de rand is te dateren in de Midden IJzertijd . 
+De tweede pot is een tweeledige kom met een licht uitstaande rand ( afb . 
+28 ) . 
+Deze kom is dunner dan de grote besmeten pot . 
+De buitenzijde is volledig glad gemaakt . 
+Mogelijk is deze gepolijst geweest maar door verwering is dat niet meer te zien . 
+De klei is eveneens verschraald met potgruis dat in kleine korrels en in kleine hoeveelheden is toegevoegd . 
+Dit type pot , dubbelconisch met hals , is al in gebruik vanaf de Late Bronstijd . 
+Van de derde pot resteert enkel nog een randfragment . 
+Dit stuk is dusdanig versleten dat kenmerken als randtype en oorspronkelijke oppervlakte bewerking niet meer zichtbaar zijn . 
+Het fragment is duidelijk verbrand gezien de rode kleur en de grijze blaasjes aan het oppervlak . 
+Het spoor bevat verder nog enkele fragmenten van een bodem met een scherp gevormde voet ( standvoet ) . 
+De buitenzijde is geglad . 
+Het is mogelijk dat deze bodem bij de tweede pot behoort maar een connectie tussen rand en bodem is niet meer te reconstrueren . 
+Gezien de grote hoeveelheden aardewerk en dat het om enkele potten gaat , geeft te denken over dit spoor . 
+Is het aardewerk als afval in een kuil gegooid of gaat het hier om een depositie ? 
+De jongste datering voor het aardewerk is circa 500 v. Chr . Afb . 
+28 . 
+Tweeledige kom met hals , Bronstijd/IJzertijd . 
+Vnr . 
+171.7 . 
+Conclusie Het aardewerk van de vindplaats Vorden is de neerslag van meerdere periodes . 
+Twee scherfjes potbeker en twee fragmenten Wikkeldraadaardewerk geven aan dat deze locatie in de Vroege Bronstijd bezocht is ( circa 2000-1900 v . Chr . ) . 
+Mogelijk was men op weg naar de grafheuvel even ten noorden van het onderzoeksgebied . 
+Het aantreffen van één wikkeldraadscherf in een paalkuil is nog geen aanleiding om hier ook bewoningsactiviteit in de Vroege Bronstijd te veronderstellen . 
+Het merendeel van het aardewerk is te dateren in de Late Bronstijd overgang Vroege IJzertijd ( 900-400 v . Chr . ) en past in de typologie van het grafaardewerk uit Overijsselse urnenvelden.42 De scherven komen voor in diverse afvalkuilen maar ook in paalkuilen uit de verschillende herkende structuren . 
+De scherfjes 40 41 42 Put 6 , spoor 6 , vnr . 
+171 . 
+Bloo , Jezeer & Van der Velde 2007 , 182 vnr . 
+526.3 . 
+Verlinde 1987 . 
+33 Afb . 
+29 . 
+Pot met golfrand en besmijting , Midden IJzertijd . 
+Vnr . 
+171.3. zijn niet heel nauwkeurig te dateren . 
+Wel heeft men met dit aardewerk gekookt en heeft men er een bepaalde waarde aangegeven door het bijna compleet in een specifieke kuil te plaatsen . 
+De grondstoffen voor het aardewerk , de klei en de magering werden vermoedelijk uit de nabij gelegen Vordense beek gewonnen . 
+De potvormen of de versieringstechnieken geven geen aanwijzingen voor contact over grote afstanden . 
+Bekende potvormen als lappenschalen en haakranden ontbreken in Vorden maar dit lijkt een tendens te zijn in Oost-Nederland ten opzichte van Zuid-Nederland.43 Een aantal fragmenten is aan het begin van de Midden IJzertijd te dateren . 
+Deze scherven zijn voorzien van een grove besmijting . 
+Uit dezelfde vondstcontext is echter ook ouder materiaal aangetroffen , maar aangezien een vondstcontext gedateerd wordt door de jongste fragmenten , zal de kuil toch in de Midden IJzertijd gedateerd moeten worden . 
+Aangezien er niet meer Midden IJzertijdaardewerk is aangetroffen is het de vraag of dit aardewerk de neerslag is van bewoning op deze locatie of van incidenteel gebruik . 
+Aan het aardewerk is te zien dat een enkele pot is gebruikt als kookpot , hier en daar zitten nog aankoeksels . 
+Ook zijn enkele fragmenten secundair verbrand , mogelijk doordat ze in of bij een haard hebben gelegen . 
+Andere aanwijzingen voor bepaalde activiteiten zijn niet af te lezen van het aardewerk . 
+43 Hermsen 2003 , 60 . 
+34 3.3.3 Metaal A.A . 
+Koster Algemeen Uit de opgraving aan de Ruurloseweg zijn in totaal 21 stuks slak gedetermineerd met een totaal gewicht van 697 gram . 
+Bij het slakmateriaal uit vnr . 
+135 ( put 4 , spoor 41 ) is materiaal van ijzer aangetroffen . 
+Dit is gecheckt met röntgenapparatuur en het bevat twee conglomeraties van in ieder geval twee aaneen gekitte spijkers , 9 enkele spijkers , twee mogelijke spijkers en vijf brokjes die niet verder te determineren zijn . 
+Het slakmateriaal bestaat voornamelijk uit productieslak . 
+Er hebben op de site handelingen plaatsgevonden die in relatie gebracht kunnen worden met het winnen van ijzer uit ijzererts . 
+In het vondstmateriaal zijn 16 stuks haardslak en twee vloeislakken aangetroffen . 
+Van twee slakken is niet duidelijk of ze vloeislak of haardslak zijn . 
+Het gaat in ieder geval om 20 fragmenten van productieslak , met een totaalgewicht van 697 gram ( tabel 4 ) . 
+Tabel 4 . 
+Overzicht slakmateriaal . 
+productieslak haardslak haardslak/vloeislak vloeislak smeedslak en hamerslag Totalen aantal 20 16 gewicht in grammen 481 waarvan 1 met ovenwand ( 292 gram ) 44 98 74 2 2 1 21 697 Eén slak is gedetermineerd als een smeedhaardslak . 
+Erbij is hamerslag aangetroffen . 
+Beide duiden op smeedactiviteiten . 
+Zowel de smeedslak met hamerslag , als een zestal haardslakken zijn aangetroffen in één kuil . 
+( Spoor 41 in put 4 ) , net ten noorden van structuur 1 en 2 . 
+In dezelfde kuil zijn de spijkers , mogelijke spijkers en ijzerbrokjes aangetroffen . 
+Het overige slakmateriaal is aangetroffen in voornamelijk kuilen . 
+In tabel 2 wordt een overzicht gegeven van de soorten slakmateriaal in de verschillende sporen . 
+Tabel 5 . 
+Overzicht soorten slakmateriaal . 
+putnr/spoornr vondstnr 4/41 4/41 7/115 7/164 4/30 125 135 72 52 134 6/6 8/5000 4/5000 171 154 122 aard spoor kuil kuil grote kuil in huis 1 grote kuil ten W van huis 1 silokuil grote kuil met veel aardewerk vlakvondst vlakvondst gewicht totaal productieslak aantal 3 3* ) 2 1 1 gewicht 138 296 41 2 7 1 1 1 39 59 41 623 smeedslak aantal gewicht 1 metaal aantal 74 74 * ) waarvan 1 met ovenwand/bodem Conclusie Gezien de aanwezigheid van de ( geringe ) hoeveelheid slakmateriaal op de site is het mogelijk dat er een werkplaats was , mogelijk in de open lucht , waar incidenteel en voor eigen gebruik , ijzer gewonnen werd en ijzeren voorwerpen gemaakt werden . 
+In ieder geval werden er spijkers en misschien gereedschappen voor eigen gebruik gemaakt . 
+18 35 3.3.4 Natuursteen M.J.A . 
+Melkert Inleiding Bij het archeologische onderzoek Vorden Ruurloseweg zijn 29 fragmenten natuursteen met een totaalgewicht van ruim 26,5 kilo bijeen aangetroffen in één paalkuil ( vondstnummers 111 en 120 ) .44 Het gesteente brokkelt sterk , zodat er ten tijde van het onderzoek al veel gruis van zand- tot grindgrootte in de monsterzakken gevormd was en de aantallen ook afweken van die op de vondstkaartjes . 
+Het gruis bestaat uit hoekige korreltjes van losse mineralen en kleine gesteentefragmentjes met een granitische samenstelling.45 Dezelfde samenstelling wordt teruggevonden in de grotere fragmenten , die in grootte variëren van centimeters tot decimeters . 
+Twee zwerfkeien De fragmenten hebben niet tot één , maar tot twee grote keien behoort , zo blijkt uit de gesteentesamenstelling . 
+De ene kei was een roze , fijn- tot middenkorrelige biotietgraniet , de andere een lichter roze , middenkorrelige , gneisseuze graniet . 
+Fragmenten van beide steensoorten komen verspreid over beide vondstnummers voor en enkele daarvan zijn nog aan elkaar te passen , zoals het grootste fragment uit vondstnummer 111 en het grootste fragment uit vondstnummer 120.46 Deze zijn van gneisseuze graniet . 
+Uit de vorm plus het aantal overige fragmenten kan worden afgeleid dat ongeveer 75 % van de totale kei aanwezig is . 
+Dit was oorspronkelijk een onregelmatig afgeronde zwerfkei met afmetingen van minimaal 30 x 24 x 13 cm . 
+Van de biotietgraniet zijn te weinig fragmenten om een uitspraak over grootte of vorm te doen . 
+Zowel de gneisseuze graniet als de biotietgraniet maken deel uit van de noordelijke zwerfstenen die in de voorlaatste ijstijd met het landijs vanuit Scandinavië naar Nederland zijn getransporteerd . 
+Een maalsteen De biotietgraniet blijkt in een eerder leven een maalsteen te zijn geweest : in totaal zijn vier fragmenten aanwezig met maalvlakken en drie fragmenten met mogelijke maalvlakken.47 Een mooi exemplaar vormt vondstnummer 120-2 , dat uit het midden van de maalsteen afkomstig is . 
+Het heeft één iets concaaf , gladgeslepen vlak van circa 13 centimeter grootte en is verder rondom begrensd door ruwe breukvlakken ( afb . 
+30 ) . 
+De afmetingen van de maalsteen zijn niet meer te achterhalen , maar gezien de dikte van dit fragment zal de steen minimaal twaalf centimeter dik zijn geweest . 
+Wat de functie van de gneisseuze graniet is geweest , is niet duidelijk . 
+De afronding oogt natuurlijk , de kei heeft bepaald geen handzaam formaat en lijkt te groot en te zwaar om bijvoorbeeld als loper of wrijfsteen voor de maalsteenligger gediend te hebben . 
+Hooguit zou er een gecombineerde stampwrijfhandeling mee verricht kunnen zijn . 
+Dit past echter niet goed in het beeld van het gladgeslepen maalsteenoppervlak . 
+Helaas zijn eventuele klopsporen door fragmentatie en scheurvorming niet meer als zodanig te herkennen . 
+De fragmenten van beide vondstnummers zijn afkomstig uit dezelfde paalkuil van structuur 5.48 In dat spoor zijn tevens drie wandscherven uit de IJzertijd aangetroffen , die opvallend genoeg met roze graniet zijn gemagerd . 
+Toch lijken de beide keien uit de paalkuil niet als grondstof voor aardewerkmagering te zijn gebruikt . 
+Hoewel ze –nu- in gruis uit elkaar vallen , zijn de fragmenten nog steeds behoorlijk groot . 
+Zwerfstenen van graniet waren in de prehistorie geliefd materiaal voor allerhande doeleinden . 
+Dat graniet veel werd gebruikt als grondstof voor het mageren van aardewerk staat vast , aangezien granietgruis herkenbaar in aardewerk wordt teruggevonden . 
+Ook het hier aangetroffen aardewerk uit de IJzertijd is vooral met granietgruis gemagerd.49 Dat voor het vergruizen grote keien werden gebruikt , is echter minder waarschijnlijk , alleen al omdat kleine stenen makkelijker te verhitten en te vergruizen zijn.50 Bovendien zullen zwerfkeien van decimeters grootte daar te kostbaar voor zijn geweest . 
+Ze waren nodig als maalsteen , aambeeld , haardsteen of als stevige ondergrond voor een paal . 
+Als slijpmateriaal is graniet minder geschikt vanwege de ongelijke hardheid van de verschillende mineraalkorrels , hoewel uit Overijssel een circa één meter grote zwerfsteen van graniet bekend is met u-vormige slijpsporen.51 44 Put 5 , vlak 1 , spoor 46 ( paalkuil ) ; vnr 111 ( 21 fragmenten met een totaalgewicht van ruim 15 kilo ) , en vnr 120 ( 7 fragmenten met een totaalgewicht van ruim 11,5 kilo ) . 
+45 Mineralen : overwegend roze kaliveldspaat , vuilwitte plagioklaas ( veldspaat ) , kwarts , biotiet en amfibool . 
+46 Vnr 111-1 : afmetingen circa 24 x 15 x 13 cm ; vnr 120-1 : afmetingen circa circa 18,5 x 15 x 13 cm . 
+47 Wanneer bij grotere stenen , zoals hier , alleen gladgeslepen vlakken en geen slijpgroeven of –krassen aanwezig zijn , kan worden aangenomen dat het om fragmenten van maalstenen en niet van slijpstenen gaat . 
+48 De kuil had een diameter van circa 60 cm en was 22 cm diep . 
+49 Zie de bijdrage van S.B.C . 
+Bloo . 
+50 Zie bijvoorbeeld Wit et al . 
+2009 . 
+51 Verlinde 1997 . 
+36 Afb . 
+30 . 
+De maalsteen van Biotietgraniet . 
+Grote stenen worden daarnaast ook vaak in rituele contexten aangetroffen : als onderdeel van plateaus of vloertjes , voor omheiningen , steenkransen en paalzettingen . 
+Soms liggen bijzondere vondsten begraven onder een grote steen of is een urn op een grote steen geplaatst.52 Blijkbaar had dit een meerwaarde . 
+Ook bij vondsten uit een paalkuil bestaat de mogelijkheid van een rituele depositie , bijvoorbeeld als bouw- of dankoffer , zeker als één van de twee keien een maalsteen is geweest . 
+Over dergelijke rituele deposities van maalstenen in paalkuilen is echter tot op heden weinig bekend . 
+Verbranding en verhitting Beide keien zijn door hitte gebarsten en alle fragmenten tonen lange scheuren en verdoffing van het oppervlak . 
+Het feit dat slechts één van de fragmenten –van de gneisseuze graniet- zwartkleuring door verbranding toont , doet vermoeden dat de keien wel dichtbij het vuur hebben gelegen , maar niet erin . 
+Natuursteen wordt vaker sterk gefragmenteerd en met duidelijke sporen van verhitting of verbranding in kuilen aangetroffen . 
+Deze worden meestal als afvalkuilen geïnterpreteerd . 
+Maar het feit dat het verbrande steen als afval is gedumpt , maakt het wel waarschijnlijk dat deze dan eerst gebruikt is . 
+Een belangrijke toepassing van stenen in de prehistorie is die van kook- of haardstenen geweest.53 Omdat verhitte stenen hun warmte urenlang vasthouden en slechts langzaam aan de omgeving afgeven , vormen ze een uitstekende hittebron voor voedsel dat een lange garingstijd nodig heeft . 
+Bovendien wordt op die manier brandstof uitgespaard . 
+Wanneer dezelfde stenen worden hergebruikt , zullen ze op een gegeven moment barsten en worden afgedankt . 
+Voor bewerkte stenen kan verbranding echter ook een afscheidsritueel zijn , bijvoorbeeld bij het verlaten van een huisplaats of nederzetting . 
+52 Van der Sanden 2002 , geeft een overzicht voor structuren met grote stenen in de natte context van Drenthe . 
+Het voordeel van een natte context is dat vaak ook de bijbehorende houten constructies bewaard zijn gebleven . 
+53 Thoms 2008 . 
+37 Discussie en conclusies De in een paalkuil aangetroffen fragmenten verbrande graniet roepen de nodige vragen op . 
+Wat met zekerheid gezegd kan worden , is dat : • Het om fragmenten van twee verschillende zwerfkeien gaat . 
+• Dit grote stenen zijn geweest en één daarvan als maalsteen is gebruikt . 
+• Beide keien verbrand dan wel intens verhit zijn geweest . 
+• Beide keien in incomplete vorm in de paalkuil terecht zijn gekomen . 
+Hieruit kan een meerfasige ( gebruiks ) geschiedenis worden afgeleid : een eerste bestaan als maalsteen voor de biotietgraniet en met onbekend gebruik voor de gneisseuze graniet , vervolgens het al dan niet doelbewust verbranden of verhitten van de keien , waarbij deze sterk gefragmenteerd raken , en ten slotte het plaatsen van –slechts- een deel van de fragmenten in de paalkuil . 
+Of dit laatste een bedoeling heeft gehad , bijvoorbeeld omdat het belangrijke voorwerpen waren die je niet zomaar weggooide , of dat het een praktische oplossing was , zoals de dichtstbijzijnde plek waar ze niet in de weg lagen , is een interessante vraag . 
+3.3.5 Archeobotanisch onderzoek F. Verbruggen en J.A.A . 
+Bos Inleiding Tijdens een Archeologische Opgraving zijn zes monsters uit vier verschillende werkputten op het terrein aan de Ruurloseweg te Vorden ( gemeente Bronckhorst ) genomen voor macrobotanisch onderzoek . 
+Na een waardering van deze monsters bleken vier monsters voldoende ( redelijk tot goed geconserveerde ) botanische macroresten te bevatten . 
+Dit rapport gaat over de analyse van deze vier monsters . 
+Monsters 98 en 170 ( zie tabel 6 ) geven een beeld van de lokale natuurlijke vegetatie , terwijl monsters 60 en 71 daarnaast meer informatie leveren met betrekking op de lokale voedseleconomie . 
+Tabel 6 . 
+Geanalyseerde monsters . 
+Vondstnrs 60 71 98 170 Put 7 7 5 6 Vlak 1 1 1 1 Spoor 100 85 8 6 Vulling 1 1 3 2 Methoden Het monster voor botanische macroresten en zaden is in twee volumes verdeeld . 
+Een volume van 0.5 liter is gezeefd over een zeef met een diameter van 0.25 mm en 4.5 liter sediment werd gezeefd over een zeef met een diameter van 0.5 mm . Beide fracties werden vervolgens in zijn geheel geanalyseerd onder een binoculair met een maximale vergroting van 40x . 
+Voor determinatie van de vruchten en zaden werd gebruik gemaakt van de digitale zadenatlas , de zadenatlas der Nederlandsche Flora , de Bestimmungsschlüssel für Subfossile Juncus-Samen und Gramineen-Früchte en de referentiecollectie van de Vrije Universiteit in Amsterdam.54 Voor de indeling in plantengroepen werd onder anderen gebruik gemaakt van de ‘ Herziening van de indeling in ecologische soortengroepen voor Nederland en Vlaanderen ’ , de ‘ Nederlandse Oecologische Flora ’ en de ‘ Heukels ’ flora van Nederland ’ .55 Resultaten In de geanalyseerde monsters zijn in totaal ongeveer duizend botanische macroresten aanwezig en geïdentificeerd , welke zijn weergegeven in tabel 7 . 
+De conserveringstoestand is redelijk tot goed in de geanalyseerde monsters . 
+Qua soortensamenstelling lijken enerzijds monsters 60 en 71 en anderzijds monsters 98 en 170 erg op elkaar . 
+Deze monsters zullen daarom samen besproken worden . 
+Opmerkelijk is het grote verschil in soortensamenstelling tussen deze twee groepen monsters . 
+54 55 Cappers et al . 
+2006 , Beijerinck 1947 , Körber-Grohne 1964 . 
+Runhaar et al . 
+2004 , Weeda et al . 
+1985 , 1987 , 1988 , 1991 , 1994 , Van der Meijden 2005 . 
+38 Tabel 7 . 
+Hoeveelheid botanische macroresten in de geanalyseerde monsters ( dikgedrukt=verkoold , cursief=recent ( contaminatie ? 
+) ; en=enkele , tt=tientallen , hd=honderden , td=tienduizenden ; indet=niet verder te determineren ) . 
+2 Emmertarwe 1 Akkers en moestuinen Agrostemma githago Aphanes arvensis Atriplex prostrata/patula Centaurea cyanus Chenopodium album Chenopodium spp . 
+Digitaria ischaemum Bromus secalinus Erophila verna Lamium amplexicaule Mentha aquatica/arvensis Myosotis cf . 
+arvensis Papaver argemone cf . 
+Papaver rhoeas/dubium Persicaria lapathifolia Polycnemum arvense Rumex acetosella Sonchus asper Spergula arvensis Stachys annua Stellaria media Bolderik Grote leeuwenklauw Spies-/Uitstaande melde Korenbloem Melganzenvoet Ganzenvoet Glad vingergras Dreps Vroegeling Hoenderbeet Watermunt/Akkermunt Akkervergeet-me-nietje Ruige klaproos Grote/bleke klaproos Beklierde duizendknoop Akkerknarkruid Schapenzuring Gekroesde melkdistel Gewone spurrie Zomerandoorn Vogelmuur Oliehoudende gewassen Brassica napus/rapa Kool-/raapzaad Ruderale en betreden plaatsen Capsella bursa-pastoris Cirsium/Carduus Plantago lanceolata Plantago major Poa annua Polygonum aviculare Rumex crispus-type Herderstasje Distel Smalle weegbree Grote weegbree Straatgras Gewoon varkensgras Krulzuring Grasland cf . 
+Agrostis stolonifera Alopecurus geniculatus cf . 
+Alopecurus geniculatus cf . 
+Festuca sp . 
+cf . 
+Lolium perenne Poa pratensis cf . 
+Poa pratensis Fioringras Geknikte vossenstaart Zwenkgras Engels raaigras Veldbeemdgras 4 18 5 5 2 27 5 6 2 3 2 19 1 2 2 5 1 1 1 5 0,5 mm 1 0,25 mm 0,5 mm 0,25 mm 1 170 0,5 mm Bedekte gerst 98 0,25 mm Granen Hordeum vulgare ( korrel ) cf . 
+Hordeum vulgare ( korrel ) Triticum dicoccum ( korrel ) Triticum cf . 
+dicoccum ( korrel ) Triticum dicoccum ( kaf ) Cerealia indet ( korrel ) Cerealia indet ( kaf ) 71 0,5 mm 0,25 mm 60 2 1 9 69 2 1 1 6 31 1 1 2 1 1 4 76 2 7 1 20 5 1 1 1 1 23 2 6 4 19 5 1 1 6 1 18 1 1 1 1 7 1 3 2 1 4 1 18 8 2 1 2 1/3/2 1 2 5 1 1 22 3 1 1 5 1 3 2/1 1 1 2 2 2 1 3 39 Pijptorkruid Riet Egelboterbloem Blaartrekkende boterbloem Moeraskers Kluwenzuring Lisdodde Grote brandnetel Natte struwelen Salix sp . 
+knopje Wilg Bomen Quercus robur eikel ( helft ) Quercus robur eikel ( fragmenten ) Zomereik Zomereik Overig ( botanisch ) Cerastium semidecandrum cf . 
+Cardamine hirsuta cf . 
+Cyperus fuscus cf . 
+Melilotus albus cf . 
+Rorippa nasturtium-aquaticum Fabaceae indet . 
+cf . 
+Trifolium scabrum Lamiaceae indet Zaad indet . 
+( half vergaan ) Houtskool Overig ( niet-botanisch ) Cenococcum geophilum Insecten 1 0,25 mm 0,5 mm 0,25 mm 2 9 2 3 0,5 mm Oevervegetatie Carex sp . 
+Oenanthe cf . 
+fistulosa Phragmites communis Ranunculus flammula Ranunculus sceleratus Rorippa palustris Rumex conglomeratus Typha sp . 
+Urtica dioica 4 170 0,25 mm Beemdgras Scherpe/kruipende boterbloem Echte koekoeksbloem Grasfamilie 98 0,5 mm cf . 
+Poa spp . 
+Ranunculus acris/repens Silene flos-cuculi Poaceae indet 71 0,5 mm 0,25 mm 60 1 2 4 2 1 1 2 1 Zandoornbloem Kleine veldkers Bruin cypergras Witte honingklaver Witte waterkers Vlinderbloemigen indet . 
+Ruwe klaver Lipbloemenfamilie Bodemschimmel 1 1 1 2 1 1 1 1 1 3 1 16 46 1 4 tt hd 2 2 1 1 5 8 1 1 1 1 td 1 td hd hd 9 3 tt-hd tt-hd hd 19 tt 9 Monsters 60 en 71 ( werkput 7 ) Algemeen In werkput 7 zijn twee huisplattegronden gevonden . 
+Houtskool is veelvuldig aangetroffen in de monsters afkomstig uit deze werkput . 
+Daarnaast zijn honderden resten van bodemschimmels ( Cenococcum geophilum ) gevonden . 
+Deze bodemschimmels komen natuurlijk voor in bodems en venen , maar als ze in bijvoorbeeld zandig materiaal gevonden worden , worden ze vaak als een indicator voor verstoring gezien . 
+Over het algemeen zijn de resten van granen en plantensoorten die voorkomen op akkers en betreden plaatsen het meest talrijk in deze monsters . 
+Akkers en moestuinen De vruchten en zaden in deze monsters zijn veelal verkoold . 
+Verkoolde graankorrels zijn hierin veelvuldig aangetroffen . 
+Hoewel de mate van conservering van de graankorrels en het gebrek aan kafresten vaak determinatie tot op soortniveau belemmert , kan gesteld worden dat veel van de gevonden graankorrels waarschijnlijk afkomstig zijn van bedekte gerst ( Hordeum vulgare ) en tarwe ( Triticum sp . 
+) , waaronder emmertarwe ( Triticum dicoccum ) . 
+Er is een klein aantal ( verkoolde ) kafresten gevonden , vermoedelijk van 40 emmertarwe . 
+Gerst werd vroeger veel gebruikt om pap , bier en alcoholrijke dranken als jenever mee te maken.56 Ook werd het vaak gebruikt als veevoer . 
+Voor het brouwen van bier moeten de gerstkorrels eerst ontkiemen . 
+Er zijn in deze monsters geen aanwijzingen gevonden voor ontkiemde gerstkorrels . 
+Naast de vele botanische resten van bovengenoemde cultuurgewassen , zijn ook veelal verkoolde resten van typische akkeronkruiden , zoals melganzenvoet ( Chenopodium album ) , beklierde duizendknoop ( Persicaria lapathifolia ) , gewone spurrie ( Spergula arvensis ) en vogelmuur ( Stellaria media ) talrijk aanwezig in monsters 60 en 71 . 
+In mindere mate komen ook bolderik ( Agrostemma githago ) , water-/akkermunt ( Mentha aquatica/arvensis ) , zomerandoorn ( Stachys annua ) , dreps ( Bromus secalinus ) en glad vingergras ( Digitaria ischaemum ) in monster 60 voor . 
+Dreps wordt veelal gevonden op tarwe- en gerstakkers , wat in overeenkomst is met de hoge concentraties graankorrels van deze cultuurgewassen in deze monsters.57 Bolderik is een daarbij een typisch onkruid van wintergraanakkers . 
+In monster 71 komen ook melde ( Atriplex prostrata/pathula ) , grote/bleke klaproos ( Papaver rhoeas/dubium ) en schapenzuring ( Rumex acetosella ) voor . 
+De meeste soorten geven aan dat het milieu voedselrijk en vochtig was , met lokaal drogere plekken.58 Soorten als schapenzuring , bolderik en gewone spurrie komen ook vaak voor op matig voedselrijke akkers . 
+Akkers op voedselarmere gronden en akkers waar geen braakligging plaatsvindt , moeten regelmatig bemest worden . 
+De hoge concentratie melganzenvoet geeft aan dat de akkers waarop de akkeronkruiden voorkwamen waarschijnlijk regelmatig bemest werden.59 Het is mogelijk dat deze akkers bemest zijn met veen- of grasplaggen . 
+De grote hoeveelheden resten van bodemschimmels ( Cenococcum geophilum ) die aangetroffen zijn , zouden bijvoorbeeld meegekomen kunnen zijn met deze plaggen . 
+Betreden plaatsen Tevens laten deze monsters zien dat er sprake was van tred in de directe nabijheid van de onderzochte locatie . 
+Verkoolde resten van typische tredplanten als gewoon varkensgras ( Polygonum aviculare ) , krulzuring ( Rumex crispus-type ) en smalle en grote weegbree ( Plantago lanceolata en Plantago major ) komen veelvuldig voor in monsters 60 en 71 . 
+Dit is gezien de aanwezigheid van twee huisplattegronden in deze werkput niet onverwacht . 
+Het terrein rond de huizen moet intensief betreden zijn geweest . 
+De taxa geven , evenals de akkeronkruiden , een vochtig en voedselrijk milieu aan.60 Grasland Verkoolde zaden van verschillende grassen ( Poaceae ) zijn in lage concentraties aangetroffen in monsters 60 en 71 . 
+Zowel resten van geknikte vossenstaart ( Alopecurus geniculatus ) , en veldbeemdgras ( Poa pratensis ) zijn gevonden , evenals zaden die waarschijnlijk afkomstig zijn van zwenkgras ( Festuca sp . ) 
+en engels raaigras ( Lolium perenne ) . 
+De voorkomende grassen geven een relatief nat milieu aan . 
+Het is waarschijnlijk dat graslanden rondom de huizen aanwezig waren en dat vee in deze graslanden beweid werd . 
+Opmerkelijke vondsten Tientallen verkoolde eikels , en daarnaast veel honderden eikelfragmenten , zijn aangetroffen in monster 60 en vooral in monster 71 . 
+Deze eikels zijn afkomstig van de zomereik ( Quercus robur ) en kunnen uit de omgeving verzameld zijn . 
+Eikels kunnen zowel als menselijk voedsel en als hoogwaardig varkensvoer ( mast ) gediend hebben.61 Om eikels voor menselijke consumptie te gebruiken dienen ze eerst gekookt of geroosterd te worden om het bittere looizuur , of tannine , te verwijderen.62 Eikels werden al in de prehistorie verzameld en geroosterd gegeten en vormden bijvoorbeeld in het dieet van de Mesolithische mens een van de belangrijkste leverancier voor zetmeel.63 Het voorkomen van verkoolde eikels in combinatie met zowel tredplanten , mestindicatoren als melganzenvoet en het voorkomen van bodemschimmels geeft aan dat deze eikels waarschijnlijk verzameld zijn als veevoer en dat er vee in de directe omgeving van de locatie op stal of in de weilanden heeft gestaan . 
+De botanische monsters geven aan dat de huizen waarvan de huisplattegronden gevonden zijn waarschijnlijk een ruraal karakter hadden aangezien er indicaties zijn dat de bewoners zowel akkerbouw als veeteelt bedreven . 
+56 Kalkman 2003 . 
+Weeda et al . 
+1994 . 
+58 Weeda et al . 
+1985 ; 1988 ; 1994 . 
+59 Van der Meijden 2005 . 
+60 Weeda et al . 
+1985 ; 1988 . 
+61 Weeda et al . 
+1985 . 
+62 Kalkman 2003 . 
+63 Kubiak-Martens 1999 . 
+57 41 Monster 98 ( werkput 5 ) Algemeen Houtskool is duidelijk aanwezig in monster 98 , hoewel in lagere concentraties dan in monsters 60 en 71 . 
+Bodemschimmels ( Cenococcum geophilum ) zijn net als in de hierboven besproken monsters erg talrijk en geven een verstoring in het milieu aan . 
+De concentratie botanische macroresten is lager dan in monsters 60 en 71 . 
+In tegenstelling tot monsters 60 en 71 zijn de zaden en vruchten in dit monster vaak niet verkoold . 
+Tevens bevatte monster 98 geen resten van granen , maar zijn zowel planten die op akkers , betreden plaatsen , graslanden voorkomen als van oevers aanwezig . 
+Insectenresten worden regelmatig aangetroffen in dit monster . 
+Akkers Akkeronkruiden , zoals vogelmuur ( S. media ) , bolderik ( A. githago ) , melganzenvoet ( C. album ) en beklierde duizendknoop ( P. lapathifolia ) komen voor in dit monster . 
+Slechts één of enkele zaden zijn gevonden van spies-/uitstaande melde ( Atriplex patula/prostrata ) , korenbloem ( Centaurea cyanus ) , akkerknarkruid ( Polycnemum arvense ) en gekroesde melkdistel ( Sonchus asper ) . 
+Deze planten geven aan dat akkers op droge tot vochtige , voedselrijke grond in de omgeving aanwezig zijn geweest.64 Betreden plaatsen Grote weegbree ( P. major ) is een veelvoorkomende tredplant in dit monster . 
+Daarnaast zijn ook herderstasje ( Capsella bursa-pastoris ) en distel ( Cirsium/Carduus ) aanwezig . 
+Dit zijn alle soorten die duiden op de aanwezigheid van ruigten en intensief betreden plaatsten op voedselrijke grond . 
+Grasland Evenals in monsters 60 en 71 zijn in monster 98 zaden van grassen ( Poaceae ) duidelijk aanwezig . 
+Zo zijn resten van verschillende soorten beemdgras , waaronder veldbeemdgras ( Poa pratensis ) aangetroffen . 
+Evenals in monsters 60 en 71 is ook in dit monster geknikte vossenstaart aanwezig . 
+Deze planten tezamen geven aan dat natte graslanden in de directe omgeving van de locatie te vinden waren . 
+Naast grassen groeiden ook scherpe/kruipende boterbloem ( Ranunculus acris/repens ) en echte koekoeksbloem ( Silene flos-cuculi ) in deze graslanden . 
+Oevervegetatie In monster 98 zijn verschillende zaden van oevervegetatie aangetroffen , voorbeelden zijn egel- en blaartrekkende boterbloem ( Ranunculus flammula en R. sceleratus ) , moeraskers ( Rorippa palustris ) , kluwenzuring ( Rumex conglomeratus ) , lisdodde ( Typha sp . ) 
+en grote brandnetel ( Urtica dioica ) . 
+Deze soorten komen alle voor in voedselrijke milieus . 
+Met name de blaartrekkende boterbloem , moeraskers en grote brandnetel wijzen op een milieu dat rijk is in stikstof in het bijzonder . 
+Gezien het ontbreken van botanische resten van waterplanten , is het waarschijnlijk dat het water waaraan deze oevervegetatie heeft gestaan , niet diep is geweest . 
+Zo kan deze oevervegetatie bijvoorbeeld langs een slootje of greppel hebben gestaan . 
+Er is tevens een wilgenknopje ( Salix sp . ) 
+gevonden . 
+Wilg komt over het algemeen voor in natte struwelen aan waterkanten en heeft mogelijk tussen deze oeverplanten gestaan . 
+Monster 170 ( werkput 6 ) Algemeen De indeling van planten in ecologische groepen is vergelijkbaar voor monsters 170 en 98 , hoewel monster 170 beduidend minder soortenrijk is dan monster 98 . 
+Ook in dit monster zijn geen ( verkoolde ) graanresten aanwezig , maar zijn , veelal onverkoolde , macroresten van akker- , gras- en oevervegetatie aangetroffen . 
+Tenslotte zijn er in dit monster een groot aantal ontkiemende graszaden aangetroffen die dus recent zijn en dit monster hebben gecontamineerd . 
+Bodemschimmels ( Cenococcum geophilum ) zijn in dit monsters het minst voorkomend vergeleken met de overige 3 monsters . 
+Net als in monster 98 zijn insectenresten duidelijk aanwezig . 
+Akkers Vogelmuur ( Stellaria media ) is het meest voorkomende akkeronkruid in dit monster . 
+Deze soort is over het algemeen karakteristiek voor bemeste , vochtige grond met oppervlakkige bodemverstoring , zoals braakliggende akkers.65 Vogelmuur wordt vooral gevonden op plekken die gekenmerkt worden door 64 65 Weeda et al . 
+1985 ; 1991 ; Van der Meijden , 2005 . 
+Weeda et al . 
+1985 . 
+42 roering van de grond.66 Daarnaast zijn enkele zaden van grote leeuwenklauw ( Aphanes arvensis ) , ruige klaproos ( Papaver argemone ) en gewone spurrie ( Spergula arvensis ) gevonden , alle soorten die op akkers voorkomen . 
+De laatste twee soorten komen voor in akkers op voedselarmere grond . 
+Betreden plaatsen Ook in dit monster zijn sporen gevonden van betreden en geroerde grond . 
+Zo zijn gewoon varkensgras , herderstasje en grote weegbree gevonden . 
+Dit zijn alle soorten die indicatief zijn voor intensief betreden grond . 
+Hoewel er veel onverkoolde graszaden aanwezig zijn in dit monster , is het merendeel daarvan recent en afkomstig van straatgras ( Poa annua ) . 
+Dit is een tredplant , maar in dit geval helaas contaminatie . 
+Grasland De overige drie zaden waren moeilijk tot op soort te brengen , maar behoren mogelijk ( deels ) tot veldbeemdgras . 
+Ook zijn zaden van echte koekoeksbloem gevonden , deze soort is typisch voor natte , matig voedselrijke grond in graslanden . 
+Oevervegetatie Er zijn in het monster enkele zaden van lisdodde en riet ( Phragmites communis ) gevonden , deze geven aan dat er rietvegetatie in de omgeving heeft gestaan . 
+De zaden van deze soorten zijn zeer klein en licht , en kunnen over grote afstanden verspreid worden . 
+Het is dus niet met zekerheid te zeggen of deze zaden uit de directe omgeving van de monsterlocatie afkomstig zijn . 
+Overig Zowel zandhoornbloem ( Cerastium semidecandrum ) als kleine veldkers ( Cardamine hirsuta ) zijn planten die gerekend kunnen worden tot voorjaarsplanten van open zandgronden en komen sporadisch voor in dit monster.67 Een soort die ook bij deze gemeenschap gerekend kan worden is vroegeling ( Erophila verna ) en komt voor in monster 98 . 
+Deze soorten kwamen mogelijk in het natuurlijke landschap in de omgeving voor . 
+Conclusies De soortensamenstelling in monsters 60 en 71 is zeer vergelijkbaar , terwijl deze erg verschilt van monsters 98 en 170 , die uit andere putten komen . 
+Monsters 60 en 71 bevatten , in tegenstelling tot 98 en 170 , vrijwel geen onverkoolde zaden . 
+In de monsters uit werkput 7 ( 60 en 71 ) , waarin ook twee huisplattegronden zijn aangetroffen zijn veel verkoolde graankorrels in combinatie met de hoge aantallen akkerkruiden gevonden . 
+De graankorrels in het bijzonder waren vanwege de matige conservatie niet altijd op soort te determineren , maar emmertarwe en gerst waren zeker aanwezig . 
+Het is aannemelijk dat ( winter ) granen verbouwd zijn in de omgeving van de huizen en dat ze er geconsumeerd zijn . 
+Daarnaast wijzen ook de grote hoeveelheid verkoolde eikels erop dat deze uit de buurt verzameld zijn , wellicht als varkensvoer . 
+Mogelijk is een deel verbrand in de nabijheid van de huizen . 
+Dit verklaart tevens de hoge concentratie houtskool in deze monsters . 
+De botanische monsters geven aan dat de bewoners van de huizen waarvan de huisplattegronden gevonden zijn waarschijnlijk zowel akkerbouw als veeteelt bedreven . 
+De vele akkeronkruiden in monsters 60 en 71 tonen aan dat akkers voorkwamen in de directe nabijheid . 
+Het voorkomen van mestindicatoren zoals melganzenvoet laat zien dat deze akkers waarschijnlijk bemest waren . 
+Tevens zijn er veel sporen van betreding gevonden in de monsters van werkput 7 , gezien de aanwezigheid van vele tredplanten . 
+Het terrein rond de huizen moet intensief betreden zijn geweest . 
+De monsters in deze put geven aan dat het milieu over het algemeen vochtig en voedselrijk was . 
+Natte graslanden waren aanwezig in de nabijheid van de onderzochte locatie . 
+In de overige twee putten zijn geen bewijzen voor de aanwezigheid van graan te vinden . 
+Ook zijn in deze monsters geen eikels aangetroffen . 
+Deze monsters bieden daarom geen inzicht in de lokale voedseleconomie . 
+Hoewel deze monsters ( 98 en 170 ) ook aangeven dat het milieu vochtig en voedselrijk was , is de invloed van water groter in deze twee putten , met name in werkput 5 , waar veel zaden zijn gevonden die afkomstig zijn van oevervegetatie . 
+Monster 98 schetst een beeld van ( bemeste ) akkers , natte graslanden , met oevervegetatie bijvoorbeeld langs sloten . 
+Zowel monster 98 als 170 geven een intensief betreden omgeving aan . 
+In monster 170 zijn naast resten van oeverplanten ook enkele graszaden gevonden en zaden van planten , die in een natuurlijk milieu op open zandgronden voorkomen . 
+66 67 Weeda et al . 
+1985 . 
+Weeda et al . 
+1985 . 
+43 4 Synthese A. van Benthem 4.1 Algemeen Tijdens de archeologische opgraving aan de Ruurloseweg in Vorden zijn resten aangetroffen van een nederzetting uit de Late Bronstijd – Vroege IJzertijd . 
+Het gaat om een nederzetting met minstens twee huisplattegronden , twee bijgebouwen , drie spiekers en een groot aantal silokuilen die dateerbaar zijn in de overgang van de Late Bronstijd naar de Vroege IJzertijd . 
+Het merendeel van het aardewerk is te dateren in de Late Bronstijd overgang Vroege IJzertijd en de Vroege IJzertijd ( 900-400 v . Chr . ) en past in de typologie van het grafaardewerk uit Overijsselse urnenvelden.68 De scherven komen voor in diverse afvalkuilen maar ook in paalkuilen uit de verschillende herkende structuren . 
+Helaas zijn de aardewerkfragmenten niet heel nauwkeurig te dateren . 
+In de omgeving van de nederzetting werd bedekte gerst en emmertarwe verbouwd en het aantreffen van eikels in grote silokuilen wijst op het houden van vee . 
+De nederzetting bestond dus uit een gemengd bedrijf . 
+In een kuil werd een grote hoeveelheid aardewerk aangetroffen De jongste datering voor het aardewerk is circa 500 v . Chr. , wat het spoor in de overgang van de Vroege IJzertijd naar de Midden IJzertijd dateert . 
+Het is opvallend dat er verder geen sporen zijn aangetroffen uit deze periode . 
+Ook in Ewijk Plangebied Keizershoeve werd in het voorjaar van 2009 een soortgelijke kuil aangetroffen.69 In het geval van Ewijk betrof het een waterkuil die gevuld was met maar liefst 18 verschillende potten . 
+Ook hier werd de kuil rond 500 v.Chr . 
+gedateerd , terwijl er geen andere sporen uit deze periode aanwezig waren . 
+Wel was er in de omgeving van een nederzetting uit dezelfde periode . 
+Het is ( nog ) niet bekend of er in de omgeving van de Ruurloseweg zich een nederzetting uit deze periode bevind . 
+Naast de sporen uit de prehistorie zijn er een karrenspoor en spitsporen uit de Nieuwe tijd aangetroffen . 
+De vroegste datering van het karrenspoor zou in de 14e/15e eeuw kunnen liggen : bij het doorspitten van het spoor werd een fragment van een Langerwehe steengoedkan uit deze periode aangetroffen . 
+Het is echter meer waarschijnlijk dat het karrenspoor pas later is ontstaan . 
+Het karrenspoor ligt voor een deel in het esdek en dat is waarschijnlijk pas in de 16e eeuw of later ontstaan.70 Ook werd een fragment Westerwald steengoed uit de 17e/18e eeuw aangetroffen en twee pijpenstelen die in de 18e/19e eeuw gedateerd worden . 
+Het karrenspoor is nog zeker tot het midden van de 19e eeuw in gebruik geweest , zoals een kadasterkaart laat zien . 
+Ook is het vervolg van de weg ten zuidwesten van het plangebied nog te zien op de AHN ( afb . 
+4 ) . 
+De spitsporen dateren uit de Nieuwe tijd , uit de periode dat het esdek werd opgeworpen en er grondverbetering plaats moest vinden . 
+Op het eerste gezicht lijken de resultaten van de opgraving aan de Ruurloseweg , afgaande op het aantal vondsten en de gereconstrueerde huisplattegronden , tegen te vallen . 
+Hierbij moeten we ons realiseren dat de hier beschreven periode van bewoning relatief vondstarm is . 
+In de Late Bronstijd en Vroege IJzertijd zal metaal zijn weg niet tot alle boerengemeenschappen in dezelfde mate hebben gevonden . 
+Daarnaast zal het gebruik van voorwerpen van bijvoorbeeld hout en bot – organische materialen die in de zandgrond niet of nauwelijks bewaard blijven – nog veelvuldig hebben plaatsgevonden . 
+De neerslag van de materiele cultuur uit de hierboven genoemde periode is vrij beperkt . 
+Er zijn bijvoorbeeld geen werktuigen van metaal aangetroffen . 
+Aan de hand van het aardewerk uit de grondsporen kan worden afgeleid dat de bewoning aan de Ruurloseweg zich in de overgang van de Late Bronstijd naar de Vroege IJzertijd heeft afgespeeld . 
+Uit vroegere of latere perioden zijn geen huisplattegronden aangetroffen . 
+4.2 Beantwoording van de onderzoeksvragen De onderzoeksvragen die in het Programma van Eisen zijn gesteld zullen hier worden beantwoord op basis van de bevindingen van het onderzoek . 
+• Welke nederzettingen en perioden zijn binnen de vindplaats aan te wijzen ? 
+• Tot welk complextype behoren de vindplaatsen ? 
+Het gaat om een nederzetting met minstens twee huisplattegronden , twee bijgebouwen , drie spiekers en een groot aantal silokuilen die dateerbaar zijn in de overgang van de Late Bronstijd naar de Vroege IJzertijd . 
+Het merendeel van het aardewerk is te dateren in de Late Bronstijd overgang Vroege IJzertijd ( 900-400 v . Chr . ) en past in de typologie van het grafaardewerk uit Overijsselse urnenvelden.71 De scherven komen voor 68 Verlinde 1987 . 
+Veldman 2010 . 
+Spek 2004 . 
+71 Verlinde 1987 . 
+69 70 44 in diverse afvalkuilen maar ook in paalkuilen uit de verschillende herkende structuren . 
+Helaas zijn de aardewerkfragmenten niet heel nauwkeurig te dateren . 
+Ook werd een kuil met daarin een grote hoeveelheid aardewerk aangetroffen . 
+De jongste datering voor het aardewerk is circa 500 v . Chr. , wat het spoor in de overgang van de Vroege IJzertijd naar de Midden IJzertijd dateert . 
+Het is opvallend dat er verder geen sporen zijn aangetroffen uit deze periode . 
+Daarnaast zijn er een karrenspoor en spitsporen aangetroffen . 
+De vroegste datering van het karrenspoor zou in de 14e/15e eeuw kunnen liggen : bij het doorspitten van het spoor werd een fragment van een Langerwehe steengoedkan uit deze periode aangetroffen . 
+Het is echter meer waarschijnlijk dat het karrenspoor pas later is ontstaan . 
+Het karrenspoor ligt voor een deel in het esdek en dat is waarschijnlijk pas in de 16e eeuw of later ontstaan.72 Ook werd een fragment Westerwald steengoed uit de 17e/18e eeuw aangetroffen en twee pijpenstelen die in de 18e/19e eeuw gedateerd worden . 
+Het karrenspoor is nog zeker tot het midden van de 19e eeuw in gebruik geweest , zoals een kadasterkaart laat zien . 
+De spitsporen dateren uit de Nieuwe tijd , uit de periode dat het esdek werd opgeworpen en er grondverbetering plaats moest vinden . 
+• Wat is de omvang van de nederzetting ( en ) ? 
+En waaruit bestaan ze ( type gebouwen en structuren en hun functie ) ? 
+De grondsporen zijn voornamelijk aangetroffen in het noordelijke gedeelte van het onderzoeksgebied . 
+Een begrenzing van de nederzetting is niet te geven , omdat het waarschijnlijk is dat de nederzetting zich buiten het huidige plangebied voortzet in noordelijke en westelijke richting . 
+Er zijn twee huisplattegronden , twee bijgebouwen en drie spiekers gereconstrueerd . 
+Daarnaast zijn er een karrenspoor , spitsporen en een groot aantal silokuilen aangetroffen . 
+• Zijn er verschillende erven te herkennen ? 
+Er zijn geen aanwijzingen aangetroffen die wijzen op erfindelingen of perceelscheidingen . 
+• Wat is de datering van de nederzetting ( en ) ? 
+Is er een fasering op te merken ? 
+De nederzetting is dateerbaar in de overgang van de Late Bronstijd naar de Vroege IJzertijd . 
+Het feit dat structuur 1 en 2 op elkaar liggen geeft aan dat er minstens twee fasen van de nederzetting aan te wijzen zijn . 
+Waarschijnlijk is structuur 1 ouder dan structuur 2 . 
+• Zet ( ten ) de nederzetting ( en ) zich voort tot buiten het plangebied ? 
+Het is waarschijnlijk dat de nederzetting zich buiten het huidige plangebied voortzet in noordelijke en westelijke richting . 
+Het ontbreken van waterputten geeft aan dat deze buiten het huidige onderzoeksgebied gezocht moeten worden . 
+Het is mogelijk dat zich daar ook nog huisplattegronden bevinden . 
+• Wat kan , aan de hand van botanische en eventuele zoölogische resten geconcludeerd worden aangaande de ( voedsel ) economie van de nederzetting ? 
+Er zijn veel verkoolde graankorrels in combinatie met de hoge aantallen akkerkruiden gevonden . 
+De graankorrels in het bijzonder waren vanwege de matige conservatie niet altijd op soort te determineren , maar emmertarwe en bedekte gerst waren zeker aanwezig . 
+Het is aannemelijk dat ( winter ) granen verbouwd zijn in de omgeving van de huizen en dat ze er geconsumeerd zijn . 
+Daarnaast wijst ook de grote hoeveelheid verkoolde eikels erop dat deze uit de buurt verzameld zijn , wellicht als varkensvoer . 
+Mogelijk is een deel verbrand in de nabijheid van de huizen . 
+Dit verklaart tevens de hoge concentratie houtskool in deze monsters . 
+• Wat is de relatie tussen de nederzettingssporen en het landschap ? 
+Wat is het belang van het landschap in de locatiekeuze ? 
+De nederzettingssporen bevinden zich op een relatief hoge dekzandrug . 
+Dit gebied is van oorsprong geschikt geweest voor de jacht en vormde later geschikt landbouwgebied . 
+De nabijheid ( < 400m ) van de Vordensche Beek geeft aan dat watervoorziening en eventueel weidegrond in de directe omgeving beschikbaar waren . 
+• Zijn er aanwijzingen voor gespecialiseerde activiteiten zoals metaalbewerking , wolverwerking binnen de nederzetting ( en ) ? 
+Gezien de aanwezigheid van de ( geringe ) hoeveelheid slakmateriaal op de site is het mogelijk dat er een werkplaats was , mogelijk in de open lucht , waar incidenteel en voor eigen gebruik , ijzer gewonnen werd en ijzeren voorwerpen gemaakt werden . 
+In ieder geval werden er spijkers en misschien gereedschappen voor eigen gebruik gemaakt . 
+Er zijn geen aanwijzingen aangetroffen die wijzen op wolbewerking . 
+72 Spek 2004 . 
+45 • Hoe verhouden de nederzetting ( en ) zich tot andere nederzettingen uit dezelfde periode ( n ) , op lokaal en ( micro ) regionaal niveau ? 
+Er zijn ( vooralsnog ) geen nederzettingen bekend die in de directe omgeving van de nederzetting aan de Ruurloseweg hebben bestaan . 
+Wel zijn er in de regio nederzettingen bekend uit dezelfde periode . 
+Op het bedrijventerrein Wijnbergen ( fase 3 ) in Doetinchem werd een ( deel van ) een nederzetting uit de Late Bronstijd/ Vroege IJzertijd opgegraven.73 De nederzetting bestond uit vier of vijf structuren die in de overgang van de Late Bronstijd naar de Vroege IJzertijd werden gedateerd . 
+Eén van de aangetroffen structuren betrof een huisplattegrond . 
+In 2004 werd op de Josink Es in Enschede een enkele huisplattegrond uit de Late Bronstijd of Vroege IJzertijd opgegraven.74 Bij beide opgravingen was het problematisch om de plattegronden aan een bekend type plattegrond toe te wijzen , omdat net zoals bij de opgraving aan de Ruurloseweg , veel paalsporen ( vooral de buitenstijlen ) niet aangetroffen werden . 
+Voor de herkenbaarheid van een huistype is het noodzakelijk dat zowel de binnenconstructie als de wandconstructie reconstrueerbaar is . 
+Naast de bovengenoemde vindplaatsen uit de Late Bronstijd – Vroege IJzertijd werden ook op de Colmschater es bij Deventer , Bedrijventerrein Wijnbergen fase 2 in Doetinchem en de Looer Enk te Zutphen resten uit deze periode aangetroffen.75 • Wat is het belang van de vindplaats ? 
+Elke opgraving draagt bij aan de kennis van het verleden , zowel op lokaal als regionaal niveau . 
+Deze opgraving vult een puzzelstukje aan van het verleden van Vorden en laat zien dat er in de prehistorie al mensen in het gebied woonden en daar een gemengd boerenbedrijf bestierden . 
+4.3 Advies Op basis van de resultaten van het archeologisch onderzoek aan de Ruurloseweg zal in de directe omgeving van de vindplaats , met name aan de noord- en westzijde , rekening moeten worden gehouden met de aanwezigheid van archeologische resten in de bodem . 
+Bodemingrepen in deze gebieden , die dieper reiken dan de bouwvoor ( 0,30 m –mv ) , dienen vermeden te worden . 
+Als de bodemingrepen dieper reiken , zal archeologisch onderzoek noodzakelijk zijn . 
+73 74 75 Lohof 2008 . 
+Ploegaert 2005 . 
+Verlinde 1991 , Scholte Lubberink 2003 . 
+46 Literatuur Berendsen , H.J.A . 
+1997 : Fysische Geografie van Nederland , deel 4 : Landschappelijk Nederland . 
+De fysisch-geografische regio 's , Assen . 
+Beijerinck , W. , 1947 : Zadenatlas der Nederlandsche Flora , Wageningen . 
+Bink , M. , 2009 : Programma van Eisen Definitief Archeologisch Onderzoek Vorden Ruurloseweg , ’ sHertogenbosch . 
+Bloo , S.B.C. , W. Jezeer & H.M . 
+van der Velde , 2007 : Aardewerk en houten voorwerpen van De Boetelerenk ( Zegge VI ) . 
+In : H.M . 
+van der Velde ( red . 
+) , 2007 : Germanen , Franken en Saksen in Salland . 
+Archeologisch en landschappelijk onderzoek naar de geschiedenis van het landschap en nederzettingsresten uit de Romeinse tijd en Vroege Middeleeuwen in centraal Salland . 
+Een Archeologische opgraving , Amersfoort . 
+( ADC Monografie 1 ( rapport 675 ) , 181-192 ) . 
+Bosch , J.H.A . 
+2005 : Archeologische Standaard Boorbeschrijvingsmethode , Versie 5.2 , Utrecht ( TNOrapport , NITG 05-043-A ) . 
+Cappers , R.T.J. , Bekker , R.M . 
+en Jans , J.E.A. , 2006 : Digitale Zadenatlas van Nederland , Groningen ( Archaeological Studies 4. www.zadenatlas.nl ) Dyselinck , T. , 2009 : Inventariserend veldonderzoek door middel van proefsleuven . 
+( BAAC Rapport in voorbereiding . 
+Glasbergen , W. , 1954 : Barrow excavations in the eight beatitudes . 
+The Bronze Age cemetery between Toterfout/Halve Mijl , North Brabant . 
+Proefschrift Groningen . 
+Groenewoudt , B. , 1984 : IJzertijdvondsten uit Colmschate ( gemeente Deventer ) . 
+De inhoud van een zestal afvalkuilen , in : Westerheem 33 ( 2 ) , 46-63 . 
+Haaring , L. , en J. Huizer , 2008 : Ruurloseweg te Vorden , gemeente Bronckhorst . 
+Een bureauonderzoek en Inventariserend Veldonderzoek in de vorm van een verkennend booronderzoek , Amersfoort . 
+( ADC Rapport 1600 ) . 
+Hermsen , I. , 2003 : Wonen en graven op prehistorische gronden . 
+Archeologisch onderzoek van nederzettingsresten uit de bronstijd en ijzertijd op de percelen Holterweg 59 en 61 te Colmschate ( gemeente Deventer ) . 
+( Rapportages Archeologie Deventer , nummer 11 ) . 
+Hermsen , I . 
+& A. Louwen , 2007 : Colmschaterspeculaasbrokken . 
+Een specialiteit uit de Midden Bronstijd . 
+Overijssels Erfgoed , in : Archeologische en Bouwhistorische Kroniek 2006 . 
+Stichting Promotie Archeologie , Zwolle . 
+Huijts , C.S.T.J. , 1992 : De voor-historische boerderijbouw in Drenthe . 
+Reconstructiemodellen van 1300 voor tot 1300 na Chr. , Arnhem . 
+Kalkman , C. , 2003 : Planten voor dagelijks gebruik . 
+Botanische achtergronden en toepassingen , Utrecht . 
+Körber-Grohne , U. , 1964 : Bestimmungsschlüssel für Subfossile Juncus-Samen und Gramineen-Früchte . 
+In : W. Haarnagel ( ed ) , Probleme der Küstenforschung im Südlichen Nordseegebiet , Band 7 . 
+Lanting , J.N . 
+& J.D . van der Waals 1976 : Beaker Culture Relations in the Lower Rhine Basin . 
+Glockenbecher Symposion . 
+Oberried 1974 . 
+1-80 . 
+Lohof , E. , 2008 : Een nederzetting uit de Late Bronstijd/Vroege IJzertijd op het bedrijventerrein Wijnbergen ( fase 3 ) , gemeente Doetinchem . 
+Een Archeologische Opgraving , Amersfoort . 
+( ADC Rapport 891 ) . 
+Meijden , R. , van der , 2005 : Heukels ' Flora van Nederland , Groningen . 
+Mulder , E.F.J . 
+de , Geluk , M.C. , Ritsema , I.L. , Westerhoff , W.E. , Wong , T.E . 2003 : De ondergrond van Nederland , Groningen . 
+Normalisatie-Instituut , Nederlands 1989 : Geotechniek , classificatie van onverharde grondmonsters NEN 5104 , Delft . 
+Ploegaert , P. , 2005 : Archeologisch onderzoek op de Josink Es , gemeente Enschede , Amersfoort . 
+( ADC Rapport 387 ) . 
+Runhaar , J. , van Landuyt , W. , Groen , C.L.G. , Weeda , E.J. , Verloove , F. , 2004 : Herziening van de indeling in ecologische soortengroepen voor Nederland en Vlaanderen . 
+Gorteria 30 , 12-26 . 
+Rye , O.S . 
+1988 : Potterytechnology . 
+Principles and reconstruction . 
+Manuals on Archeology , nr . 4 . 
+Sanden , W.A.B . 
+van der , 2002 : Structuren in het Drentse veen , Nieuwe Drentse Volksalmanak , 186-216 . 
+Scholte Lubberink , H.B.G. , 2003 : Bedrijventerrein Wijnbergen ( fase 2 ) , gemeente Doetinchem ; een archeologische begeleiding . 
+( RAAP-rapport , 933 ) , Amsterdam . 
+Spek , T. , 2004 : Het Drentse esdorpenlandschap . 
+Een historisch geografische studie , Utrecht . 
+Stichting voor Bodemkartering , 1976 : Bodemkaart van Nederland , schaal 1:50.000 , blad 33 Oost/Apeldoorn . 
+Thoms , A.V. , 2008 : The fire stones carry : Ethnographic records and archaeological expectations for hotrock cookery in Western North America , Journal of Anthropological Archaeology 27 : 443 – 460 . 
+Veldman , H.A.P ( eds ) . , 2010 : Villa achterwerk . 
+Opgraving van een nederzettingsterrein rondom ‘ de Grote Aalst ’ op Keizershoeve I te Ewijk ( gemeente Beuningen ) . 
+Een archeologische opgraving , Amersfoort . 
+( ADC Rapport in voorbereiding ) . 
+Verlinde , A.D . 
+1987 : Die Gräber und Grabfunde der späten Bronzezeit und frühen Eisenzeit in Overijssel . 
+Dissertatie Universiteit Leiden . 
+47 Verlinde , A.D. , 1991 : Huizen uit de bronstijd en vroege ijzertijd te Comschate , in : H. Fokkens & N. Roymans ( red . 
+) , 1991 : Nederzettingen uit de bronstijd en de vroege ijzertijd in de lage landen , Amersfoort . 
+( Nederlandse Archeologische Rapporten 13 ) . 
+Verlinde , A.D. , 1997 : Archeologische Kroniek van Overijssel , 157-159 . 
+Weeda , E.J. , Westra , R. , Westra , C. en Westra , T. , 1985 , 1987 , 1988 , 1991 , 1994 : Nederlandse Oecologische Flora , wilde planten en hun relaties 1 , 2 , 3 , 4 en 5 , Amsterdam . 
+Waterbolk , H.T. , 2009 : Getimmerd verleden . 
+Sporen van voor-en vroeghistorische houtbouw op de zanden kleigronden tussen Eems en IJssel , Eelde . 
+Williams , G.L. , 2009 : Stenen en ijzer . 
+Bronckhorst Elderinkweg , Amersfoort . 
+( ADC Rapport 1576 , in voorbereiding ) Wit , M.J.M . 
+de , G.M.A . 
+Bergsma , M. Daleman & M. Essink , 2009 : Een archeologische opgraving op plangebied “ Daalkampen II ” fase I te Borger , Gemeente Borger-Odoorn ( Dr ) , Groningen ( ARC-Publicatie 189 ) . 
+Lijst van afbeeldingen Afb . 
+1 . 
+Het aanleggen van put 7 . 
+Afb . 
+2 . 
+Locatie van het onderzoeksgebied . 
+Afb . 
+3 . 
+Locatie van de aangelegde putten , met putnummer . 
+Afb . 
+4 . 
+Locatie van het opgravingsterrein binnen het AHN . 
+Rode tinten geven de hoger gelegen gebieden aan , blauw de lager gelegen gebieden . 
+Afb . 
+5 . 
+Algemene profielopbouw , met van boven naar onderen : ( A ) esdek en moderne bouwvoor , ( B ) gebioturbeerde BC-horizont , ( C ) dekzand , met daarin enkele deflatieniveaus ( e ) , ( D ) fluvioperiglaciaal fijn zand en lemig fijn zand met cryoturbate structuren . 
+Afb . 
+6 . 
+Detail van de cryoturbate structuren in het fluvio-periglaciale fijne lemige zand . 
+Duidelijk te zien is dat de bovenliggende lemige laag in het zand is “ gezakt ” en het zand aan weerszijden hiervan omhoog is gekomen . 
+Afb . 
+7 . 
+De plattegronden van structuur 1 en 2 . 
+Afb . 
+8 . 
+Overzicht van de sporen . 
+Afb . 
+9 . 
+Overzicht van de structuren . 
+Afb . 
+10 . 
+Structuur 1 met dieptes van de sporen . 
+( plattegrond op schaal 1:200 , dieptes op schaal 1:100 ) . 
+Afb . 
+11 . 
+Structuur 2 met dieptes van de sporen . 
+( plattegrond op schaal 1:200 , dieptes op schaal 1:100 ) . 
+Afb . 
+12 . 
+Structuur 1 en 2 . 
+Afb . 
+13 . 
+Besmeten pot uit spieker 3 . 
+Afb . 
+14 . 
+Spiekers en bijgebouwen . 
+Afb . 
+15 . 
+Spoor 100 in put 7 ( links ) en spoor 2 in put 5 ( rechts ) . 
+Afb . 
+16 . 
+De kuil met veel aardewerk . 
+Afb . 
+17 . 
+Het karrenspoor op de kadasterkaart van 1811 -1832 . 
+Afb . 
+18 . 
+Het karrenspoor in het profiel . 
+Afb . 
+19 . 
+Eénledig vaatwerk . 
+Vnr . 
+132.7 . 
+Afb . 
+20 . 
+Drieledig vaatwerk . 
+Vnr . 
+22. , 27.3 , 3.2 . 
+Afb . 
+21 . 
+Versierd aardewerk . 
+Vnr . 
+113.1 . 
+Afb . 
+22 . 
+Randfragment van een Potbeker . 
+Vnr . 
+122 . 
+Afb . 
+23 . 
+Randfragment met vingergeul uit de Bronstijd . 
+Vnr . 
+123.1 . 
+Afb . 
+24 . 
+Versierd met een ( pseudo- ) stafband , Late Bronstijd/Vroege IJzertijd . 
+Vnr . 
+167.4+167.3 . 
+Afb . 
+25 . 
+Randfragmenten van een pot uit put 4 , spoor 23.Vnr . 
+133.1 + 132.8 . 
+Afb . 
+26 . 
+Drieledig vaatwerk met deels besmijting ( Vroege IJzertijd ) . 
+Vnr . 
+81 . 
+Afb . 
+27 . 
+Grote pot uit put 5 , spoor 14 . 
+Vnr . 
+89 . 
+Afb . 
+28 . 
+Tweeledige kom met hals , Bronstijd/IJzertijd . 
+Vnr . 
+171.7 . 
+Afb . 
+29 . 
+Pot met golfrand en besmijting , Midden IJzertijd . 
+Vnr . 
+171.3 . 
+Afb . 
+30 . 
+De maalsteen van Biotietgraniet . 
+Lijst van tabellen Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Tabel 2 . 
+Aard van de sporen . 
+Tabel 3 . 
+Vondsttotalen . 
+Tabel 4 . 
+Overzicht slakmateriaal . 
+Tabel 5 . 
+Overzicht soorten slakmateriaal . 
+Tabel 6 . 
+Geanalyseerde monsters . 
+Tabel 7 . 
+Hoeveelheid botanische macroresten in de geanalyseerde monsters ( dikgedrukt=verkoold , cursief=recent ( contaminatie ? 
+) ; en=enkele , tt=tientallen , hd=honderden , td=tienduizenden ; indet=niet verder te determineren ) . 
+48 Bijlage I Vondstenlijst OPGR_ID VONDSTNR PUT VLAK SPOOR VULLING INHOUD MONSTER VERZAMEL BROT-09 1 1 1 1 1 AW BROT-09 2 1 1 5000 1 AW PUNT BROT-09 3 1 1 24 1 MIX AANV BROT-09 4 1 1 27 1 MIX AANV BROT-09 5 1 1 37 1 MIX COUP BROT-09 6 1 1 4 1 MIX AFW BROT-09 7 1 1 39 1 MIX AANV BROT-09 8 1 1 43 1 MIX AANV BROT-09 9 1 1 41 1 MIX AANV BROT-09 10 1 1 5000 1 VST PUNT BROT-09 11 1 1 53 1 MIX AANV BROT-09 12 7 1 1 1 MIX AANV BROT-09 13 1 1 13 1 MIX BROT-09 14 1 1 39 1 BROT-09 15 1 1 41 1 MIX COUP BROT-09 16 1 1 56 1 MIX COUP BROT-09 17 1 1 39 2 MIX AFW BROT-09 18 1 1 52 1 MIX AFW BROT-09 19 1 1 39 1 MIX AFW BROT-09 20 1 1 2 1 MIX AFW BROT-09 21 1 1 24 1 MIX AFW BROT-09 22 1 1 27 1 MIX AFW BROT-09 23 1 1 28 1 MIX AFW BROT-09 24 1 1 32 1 MIX AFW BROT-09 25 1 1 34 1 MIX AFW BROT-09 26 1 1 44 1 MIX AFW BROT-09 27 1 1 43 1 MIX COUP BROT-09 28 1 1 44 2 BROT-09 29 0 0 0 0 MIX BROT-09 30 1 1 37 1 MIX AANV BROT-09 31 1 1 37 3 MIX COUP BROT-09 32 1 1 41 1 MIX AFW BROT-09 33 7 1 5000 1 VST AANV BROT-09 34 1 1 49 1 MIX AFW BROT-09 35 1 1 50 1 MIX AFW BROT-09 36 1 1 5000 1 VST PUNT BROT-09 37 1 1 41 1 MIX AFW BROT-09 38 1 1 37 3 MIX AFW BROT-09 39 5 1 6 3 AW COUP BROT-09 40 1 1 37 1 MIX AFW BROT-09 41 1 999 BROT-09 42 7 1 BROT-09 43 7 1 BROT-09 44 7 1 BROT-09 45 7 1 BROT-09 46 7 BROT-09 47 BROT-09 AANV MZ MZ COUP COUP vervallen MET DETC 1 MIX COUP 1 1 MIX COUP 76 1 MIX AANV 91 1 MIX AANV 1 94 1 MIX AANV 7 1 105 1 MIX AANV 48 7 1 124 1 MIX AANV BROT-09 49 7 1 125 1 MIX AANV BROT-09 50 7 1 147 1 MIX AANV BROT-09 51 7 1 165 1 MIX AANV BROT-09 52 7 1 164 1 MIX AANV BROT-09 54 7 1 13 1 MIX COUP BROT-09 55 7 1 70 1 MIX COUP BROT-09 56 7 1 85 1 MIX COUP BROT-09 57 7 1 97 1 MIX COUP BROT-09 58 7 1 169 1 MIX AANV BROT-09 59 7 1 171 1 MIX AANV 3 OPMERKING AANV munt uit stort 49 OPGR_ID VONDSTNR PUT VLAK SPOOR VULLING INHOUD MONSTER VERZAMEL BROT-09 60 7 1 85 1 MIX MZ BROT-09 61 7 1 85 1 MIX COUP BROT-09 62 7 1 95 1 MIX COUP BROT-09 63 7 1 169 1 MIX COUP BROT-09 64 7 1 169 1 MIX AANV BROT-09 65 7 1 96 1 ZAD AFW BROT-09 66 7 1 68 1 MIX COUP BROT-09 67 1 1 13 2 MIX AFW BROT-09 68 7 1 69 1 MIX AFW BROT-09 69 7 1 76 1 MIX COUP BROT-09 70 7 1 100 1 MIX BROT-09 71 7 1 100 1 MIX BROT-09 72 7 1 115 1 MIX BROT-09 73 7 1 126 1 MIX AFW BROT-09 74 7 1 118 1 MIX COUP BROT-09 75 7 1 147 1 MIX COUP BROT-09 76 7 1 152 1 MIX AFW BROT-09 77 7 1 133 1 MIX COUP BROT-09 78 7 1 151 1 MIX COUP BROT-09 79 7 1 164 1 MIX BROT-09 80 13 1 12 1 MIX AANV BROT-09 81 7 1 169 1 MIX AFW BROT-09 82 7 1 169 2 MIX AFW BROT-09 83 7 1 169 3 MIX AFW BROT-09 84 13 1 15 1 MIX COUP BROT-09 85 13 1 11 1 MIX AFW BROT-09 86 13 1 13 1 MIX AFW BROT-09 87 13 1 15 2 MIX AFW BROT-09 88 5 1 2000 1 MIX AANV BROT-09 89 5 1 14 1 MIX AANV verkoold zaden COUP MZ COUP BROT-09 90 5 1 24 1 MIX AANV BROT-09 91 5 1 27 1 MIX COUP BROT-09 92 5 1 12 1 MIX BROT-09 93 5 1 8 2 MIX BROT-09 94 5 1 4 1 MIX AFW BROT-09 95 5 1 11 1 MIX COUP Mollenlaag COUP BROT-09 96 5 1 9 1 MIX COUP BROT-09 97 5 1 25 2 NS COUP BROT-09 98 5 1 8 BROT-09 99 5 1 24 1 AW COUP BROT-09 100 5 1 32 1 MIX COUP BROT-09 101 5 1 6 1 NS AFW BROT-09 102 5 1 8 1 MIX AFW BROT-09 103 5 1 16 1 ZAD AFW 3 OPMERKING AFW MZ COUP BROT-09 104 5 1 16 2 AW AFW BROT-09 105 5 1 38 1 MIX COUP BROT-09 106 5 1 12 2 AW COUP BROT-09 107 5 1 40 1 MIX AFW BROT-09 108 5 1 39 1 MIX AFW BROT-09 109 5 1 25 2 HK AFW BROT-09 110 5 1 20 2 AW AFW BROT-09 111 5 1 46 1 NS COUP BROT-09 112 5 1 46 1 AW AFW BROT-09 113 5 1 55 1 AW AFW BROT-09 114 5 1 53 1 AW AFW BROT-09 115 5 1 11 1 MIX AFW BROT-09 116 11 1 5000 1 MIX AANV BROT-09 117 11 1 5000 1 MIX AANV BROT-09 118 11 1 11 1 MIX COUP BROT-09 119 11 1 5000 1 NS PUNT 1 van 2 ( vnr 120 ) geen vondsten , bleken concreties te zijn 50 OPGR_ID VONDSTNR PUT VLAK SPOOR VULLING INHOUD MONSTER VERZAMEL BROT-09 120 5 1 46 1 NS COUP BROT-09 121 4 1 5000 1 AW PUNT BROT-09 122 4 1 5000 1 MIX PUNT BROT-09 123 4 1 5000 1 AW PUNT BROT-09 124 4 1 5000 1 MIX PUNT BROT-09 125 4 1 41 1 MIX AANV BROT-09 126 4 1 5000 1 MIX PUNT BROT-09 131 4 1 26 1 MIX COUP BROT-09 132 4 1 23 1 MIX COUP BROT-09 133 4 1 23 2 MIX COUP BROT-09 134 4 1 30 1 MIX COUP BROT-09 135 4 1 41 2 MIX COUP BROT-09 136 3 1 10 1 AW COUP BROT-09 137 3 1 6 1 AW COUP BROT-09 138 3 1 1 1 MET AANV BROT-09 139 3 1 1 1 AW AANV BROT-09 140 3 1 1 2 AW AANV BROT-09 141 3 1 5000 1 AW AANV BROT-09 142 3 1 1 1 MIX SPIT BROT-09 143 9 1 5000 1 MIX PUNT BROT-09 144 10 1 5000 1 MIX PUNT BROT-09 145 8 1 1000 1 AW AANV BROT-09 147 8 1 5000 1 MIX PUNT BROT-09 148 8 1 5000 1 MIX PUNT BROT-09 149 8 1 5000 1 MIX PUNT BROT-09 150 8 1 5000 1 MIX PUNT BROT-09 151 8 1 5000 1 MIX PUNT BROT-09 152 8 1 5000 1 MIX PUNT BROT-09 153 8 1 5000 1 MIX PUNT BROT-09 154 8 1 5000 1 MIX PUNT BROT-09 155 8 1 5000 1 MIX PUNT BROT-09 156 8 1 5000 1 MIX PUNT BROT-09 157 8 1 5000 1 AW PUNT BROT-09 158 8 1 5000 1 MIX PUNT BROT-09 159 8 1 5000 1 AW PUNT BROT-09 160 8 1 5000 1 VST PUNT BROT-09 161 8 1 17 1 AW COUP BROT-09 162 8 1 5000 1 AW PUNT BROT-09 164 2 1 22 1 MIX COUP BROT-09 165 2 1 5000 1 MIX PUNT BROT-09 166 6 1 5000 1 MIX PUNT BROT-09 167 6 1 5000 1 MIX PUNT BROT-09 168 6 1 5000 1 MIX PUNT BROT-09 169 6 1 5000 1 MIX BROT-09 170 6 1 6 2 MIX BROT-09 171 6 1 6 1 MIX BROT-09 172 6 1 6 2 MIX BROT-09 173 6 1 6 3 BROT-09 174 6 1 5000 1 MIX PUNT BROT-09 175 6 1 12 1 AW COUP BROT-09 176 6 1 13 1 AW COUP OPMERKING 2 van 2 ( vnr 111 ) UIT ESDEK PUNT MZ AFW COUP AFW MA AFW klei met magering 1 1 1 1 1 1 1 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 1 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 BROT-09 1 BROT-09 1 BROT-09 1 BROT-09 BROT-09 1 BROT-09 1 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 BROT-09 1 BROT-09 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK AARDSPOOR VULLING 33 NV 32 PK 31 PK 30 PK 29 PK 28 KL 28 KL 27 KL 26 PK 25 PK 24 KL 23 PK 22 PK 21 PK 20 PK 19 PK 18 PK 17 PK 16 NV 15 KL 14 KL 13 KL 13 KL 12 NV 11 NV 10 NV 9 PK 8 PK 7 NV 6 NV 5 PK 4 KL 3 KL 3 KL 2 PK 1 KL SPOOR Bijlage II Sporenlijst 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1 1 TINT BR GR GR GR GR GR GR BR BR BR GR BR BR BR GR GR GR GR GR BR BR BR BR GR BR GR GR BR GR BR GR BR BR GR BR BR GR GR BR BR BR BR BR GR GR GR GR GR GR BR GR GR BR GR GR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee AW OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND RND RND RND RND RND RND RND ONR OVL RND RND OVL OVL RND OVL RND ONR OVL OVL ONR ONR ONR OVL OVL RND RND VLK VLK RND RND RND RND RND RND VLK VLK VLK VLK VLK VLK VLK VLK RND RND RND VLK VLK VLK VLK RND RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 0 0.13 0.2 0.04 0.05 0.4 0.4 0.16 0.04 0.08 0.32 0.03 0.04 0.04 0.04 0 0.1 0.03 0 0.04 0.14 0.42 0.42 0 0 0 0.08 0.1 0 0 0.1 0.22 0.34 0.34 0.14 0.15 DIEPTE OPMERKING 51 1 1 1 BROT-09 BROT-09 BROT-09 BROT-09 2 1 BROT-09 BROT-09 1 BROT-09 2 1 BROT-09 BROT-09 1 BROT-09 2 1 BROT-09 BROT-09 1 BROT-09 2 1 BROT-09 2 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 BROT-09 1 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 1 1 BROT-09 1 1 BROT-09 BROT-09 1 BROT-09 BROT-09 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 5 PK 4 NV 3 NV 2 NV 1 KL 5000 LG 999 REC 59 PK 58 PK 57 PK 56 PK 55 KL 54 NV 53 NV 52 KL 51 PK 50 KL 49 KL 48 KL 47 KL 46 KL 45 PK 44 KL 44 KL 43 PK 42 PK 41 KL 40 PK 39 KL 39 KL 38 KL 37 KL 37 KL 37 KL 36 PK 35 PK 34 NV SPOOR TINT BR GR GR GR GR GR GR GR GR BR BR BR BR BR BR BR BR GR BR GR GR GR GR BR BR GR 1 1 1 1 1 1 1 BR BR BR GR GR GL XXX 1 DONKER GR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 2 1 DONKER BR 1 3 LICHT GR BR BR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS3 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS3 ZS1 ZS1 Ja Ja Ja Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee ONR RND OVL RND RND ONR ONR RND OVL OVL OVL OVL RND RND RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL ONR ONR RND RND VLK VLK VLK RND ONR RND RND VLK VLK RND VLK RND RND RND VLK RND RND RND RND VLK RND RND RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 2 DONKER GR 1 1 1 1 0 0.28 0 0 0 0.14 0 0 0.2 0.12 0.1 0.08 0.1 0 0 0.3 0.14 0.5 0.3 0.4 0.08 0.2 0.06 0.7 0.7 0.12 0.07 0.3 0.8 0.52 0.52 0.04 0.72 0.72 0.72 0.16 0.16 DIEPTE OPMERKING 52 3 3 3 3 BROT-09 BROT-09 BROT-09 3 BROT-09 BROT-09 3 BROT-09 3 3 BROT-09 BROT-09 3 BROT-09 3 3 BROT-09 BROT-09 3 BROT-09 3 3 BROT-09 3 2 BROT-09 BROT-09 2 BROT-09 BROT-09 2 BROT-09 BROT-09 2 2 BROT-09 2 2 BROT-09 BROT-09 2 BROT-09 BROT-09 2 2 BROT-09 2 2 BROT-09 2 2 BROT-09 BROT-09 2 BROT-09 BROT-09 2 BROT-09 2 2 BROT-09 2 2 BROT-09 BROT-09 2 BROT-09 BROT-09 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 14 KS 13 PK 12 NV 11 PK 10 PK 9 NV 8 PK 7 PK 6 KL 6 KL 5 KL 4 PK 3 KS 2 KS 1 KS 5000 LG 999 REC 998 NV 24 PK 23 PK 22 KL 21 NV 20 PK 19 NV 18 NV 17 NV 16 NV 15 PK 14 NV 13 NV 12 KS 11 NV 10 NV 9 NV 8 PK 7 NV 6 PK SPOOR TINT GR GR GR BR BR GR GR BR GR GR BR GR GR GR GL XXX XXX BR BR BR 1 1 1 LICHT 1 1 1 LICHT 1 1 2 GR GR GR GR GR BR GR GR GL 1 DONKER BR 1 DONKER GR 1 DONKER GR 1 1 1 1 1 1 1 1 1 1 1 DONKER BR 1 DONKER BR 1 LICHT 1 LICHT 1 DONKER BR 1 1 1 1 1 1 LICHT BR BR BR BR BR BR BR GR GR GR GR BR GR GR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Ja Ja Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Ja ONR ONR VRK VRK VRK RND RND VRK OVL OVL ONR RND LIN LIN ONR ONR ONR ONR RND RND RND ONR RND RND ONR RND ONR ONR OVL OVL ONR ONR ONR RND RND ONR RND ONR ONR ONR KOM RND KOM ONR ONR ONR RND ONR ONR RND RND RND RND RND ONR RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER BR 1 1 1 OPMERKING 0 meerdere kuilen 0.12 0 0.08 0.2 0 0.1 0.16 0.82 0.82 0.08 0.18 0.04 0.12 0 gelaagde vulling 0 0 0 0.18 0.18 0.12 0 0.18 0 0 0 0 22 0 0 0 meerdere kuilen , =s14 in put 3 0 0 0 0.12 0 0.34 DIEPTE 53 4 BROT-09 4 4 4 4 BROT-09 BROT-09 BROT-09 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 4 4 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 BROT-09 4 BROT-09 4 4 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 BROT-09 4 4 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 BROT-09 4 4 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 4 4 BROT-09 BROT-09 3 BROT-09 BROT-09 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 30 KL 30 KL 30 KL 29 NV 28 NV 27 NV 26 KL 26 KL 25 PK 24 PK 23 KL 23 KL 23 KL 22 KL 21 PK 20 PK 19 PK 18 NV 17 PK 16 NV 15 NV 14 NV 13 PK 12 PK 11 PK 10 PK 9 PK 8 PK 7 PK 6 PK 5 PK 4 PK 3 NV 2 PK 1 PK 5000 LG 999 REC SPOOR TINT 3 LICHT 2 1 1 1 1 2 LICHT 1 1 1 1 3 2 LICHT 1 1 1 1 1 LICHT 1 LICHT 1 LICHT 1 LICHT 1 1 LICHT 1 1 1 1 LICHT 1 1 1 1 LICHT 1 LICHT 1 1 1 1 1 GR GR BR GR BR GR GR GR BR GR BR GR GR BR BR BR BR BR GR GR GR BR GR BR BR BR BR BR BR BR GR GR BR BR BR GL GL GR GR GR BR GR GR GR GR GR GR GR GR GR GR GR GR GR GR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX Nee hk Nee Nee Ja Ja Ja Nee Ja Ja Ja Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee ONR ONR ONR ONR ONR RND OVL OVL OVL RND OVL OVL OVL OVL OVL RND RND RND RND RND RND RND OVL OVL OVL RND RND ONR RND RND RND RND RND RND RND ONR ONR RND RND RND RND RND ONR RND KOM KOM KOM RND RND ONR RND ONR RND RND RND RND RND RND RND RND ONR RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE XXX 0 0 0.66 0.66 0.66 0 0 0 0.56 0.56 0.3 0.32 0.8 0.8 0.8 0.16 7 0.06 0.03 0 0.04 0 0 0 0.04 0.18 0.12 0.19 0.15 0.13 0.16 0.13 0.06 0.04 0 0.12 0.14 DIEPTE OPMERKING 54 4 4 4 4 4 4 4 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 5 5 5 5 5 5 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 5 5 5 5 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 5 BROT-09 5 4 BROT-09 5 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 4 BROT-09 4 4 BROT-09 4 4 BROT-09 BROT-09 4 BROT-09 BROT-09 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 11 KL 11 KL 10 NV 9 KL 8 KL 8 KL 8 KL 7 KL 6 KL 6 KL 6 KL 5 KL 5 KL 4 KL 3 KL 3 KL 2 KL 2 KL 1 NV 5000 LG 999 REC 44 PK 43 NV 42 PK 41 KL 41 KL 41 KL 40 PK 39 PK 38 NV 37 NV 36 NV 35 NV 34 NV 33 KL 32 PK 31 PK SPOOR TINT GR BR BR BR BR BR BR GR GR GR GR GL XXX GR BR GR BR GR GR BR GR GR BR BR BR GR 2 DONKER GR 1 LICHT 1 1 3 DONKER GR 2 1 1 DONKER BR 3 LICHT 2 DONKER GR 1 2 DONKER GR 1 1 DONKER BR 2 DONKER GR 1 2 DONKER GR 1 1 1 1 1 LICHT 1 1 LICHT 3 LICHT 2 DONKER GR 1 1 1 1 1 1 1 LICHT 1 LICHT RO GR GR RO GL GR BR RO GR ZW GR RO BR RO BR BR GR GR GR GR GR GR GR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Ja Nee Nee Ja Ja Ja Nee Nee Nee Ja Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee Ja Nee Ja slk Nee slk Nee Nee Nee Nee Nee Ja Ja Nee Ja Nee RND RND OVL OVL RND RND RND ONR RND RND RND OVL OVL OVL OVL OVL OVL OVL OVL ONR ONR ONR ONR OVL OVL OVL OVL RND RND RND RND RND ONR ONR OVL RND OVL RND RND RND VLK VLK VLK RND VLK VLK VLK VLK VLK RND ONR ONR VLK VLK RND ONR ONR ONR ONR RND ONR ONR ONR HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER GR 1 1 0.72 0.72 0 0.3 0.78 0.78 0.78 0.36 0.54 0.54 0.54 0.28 0.28 0.19 0.66 0.66 0.84 0.84 0 0 0 0 oude coupe ! 
+0 0.3 0.38 0.38 0.38 0.14 0.18 0 0 0 0 0 0.1 0.3 0.13 DIEPTE OPMERKING 55 5 5 5 5 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 5 5 5 5 5 5 5 5 5 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 5 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 5 BROT-09 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 35 PK 34 NV 33 NV 32 KL 32 KL 31 NV 30 PK 29 PK 28 PK 27 KL 27 KL 27 KL 26 KL 26 KL 26 KL 26 KL 25 KL 25 KL 24 KL 23 NV 22 NV 21 NV 20 KL 20 KL 20 KL 19 PK 18 NV 17 PK 16 KL 16 KL 16 KL 15 PK 14 PK 13 PK 12 KL 12 KL 12 KL SPOOR TINT GR GR GR BR BR BR GR GR BR RO BR GR GR BR BR GR BR GR BR BR GR BR RO GR BR GR GR 1 DONKER BR 1 1 DONKER GR 2 DONKER GR 1 1 1 1 1 LICHT 3 LICHT 2 1 4 LICHT 3 2 DONKER BR 1 2 DONKER GR 1 LICHT 1 DONKER GR 1 1 1 3 LICHT 2 DONKER GR 1 1 1 LICHT 1 3 LICHT 2 1 DONKER GR 1 1 1 GR BR BR GR GR BR BR GR BR GR GR GR GR BR BR GR RO BR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Ja Nee Nee Ja Ja Nee Nee Ja Nee Nee Ja Nee Nee Ja Ja Nee Ja Ja Nee HK Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Ja Nee Ja Nee AW , Nee Ja Nee Nee OVL RND RND RND RND RND RND OVL RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND OVL ONR ONR ONR RND OVL OVL OVL OVL OVL OVL RND OVL OVL OVL OVL RND RND RND RND RND RND KOM KOM KOM KOM KOM KOM KOM KOM KOM RND KOM KOM KOM RND KOM RND RND RND KOM ONR VLK VLK VLK HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 3 DONKER GR 2 LICHT 1 OPMERKING 0.25 0 0 0.42 0.42 0 0.18 0.22 0.22 0.64 0.64 0.64 0.42 0.42 0.42 0.42 0.44 0.44 0.38 0 0 0 0.6 0.6 0.6 0.18 0 0.24 0 0 0 0 0 POT VERWIJDERD 0.24 0.7 0.7 0.7 DIEPTE 56 6 6 6 6 BROT-09 BROT-09 BROT-09 6 BROT-09 BROT-09 6 6 BROT-09 6 6 BROT-09 BROT-09 6 BROT-09 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 BROT-09 5 5 BROT-09 5 5 BROT-09 BROT-09 5 BROT-09 BROT-09 5 5 BROT-09 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 8 PK 7 PK 6 KL 6 KL 6 KL 5 NV 4 PK 3 NV 2 NV 1 KS 5000 LG 999 REC 57 NV 56 KL 55 PK 54 NV 53 PK 53 PK 52 NV 51 NV 50 PK 49 PK 48 NV 47 NV 46 PK 45 NV 44 PK 44 PK 43 PK 42 PK 41 PK 41 PK 40 PK 39 KL 38 PK 37 NV 36 KL SPOOR TINT BR BR GR GR BR BR BR GR BR BR GR BR BR GR GR GR GL XXX BR BR BR GR BR BR BR 1 1 LICHT 3 LICHT GR GR BR 2 DONKER BR 1 DONKER BR 1 1 LICHT 1 LICHT 1 DONKER BR 1 1 1 1 1 1 1 2 DONKER BR 1 DONKER BR 1 1 1 1 1 1 1 DONKER BR 1 2 1 DONKER BR 1 1 2 LICHT 1 DONKER GR 1 1 1 1 BR GR BR GR BR BR BR GR GR GR GR GR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 zs2 ZS1 XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee hk Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Ja Nee Ja Nee Nee Nee Ja Nee Nee Nee Nee ns Nee Nee Nee Ja Ja Nee Ja Ja Ja Ja Nee Ja RND ONR RND RND RND RND OVL RND RND ONR ONR ONR RND OVL RND RND RND RND OVL OVL OVL OVL RND RND OVL OVL RND RND OVL OVL OVL OVL OVL RND OVL OVL ONR KOM KOM ONR ONR ONR RND KOM KOM KOM KOM KOM KOM KOM RND RND ONR RND KOM KOM ONR RND KOM KOM HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE 1 DONKER BR OPMERKING 0.35 0.3 0.34 grijze klei met potgruis , misbaksel ? /oven ? 
+0.34 0.34 leem leembrokjes 0 0.14 heel vaag 0 0 0 0 0 0 0.22 0.18 0 0.22 0.22 0 0 0.3 0.2 0 0 0.22 0 0.27 0.27 0.22 0.28 0.28 0.28 0.23 0.2 0.32 0 0.24 DIEPTE 57 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 6 BROT-09 7 6 BROT-09 6 6 BROT-09 BROT-09 6 BROT-09 BROT-09 6 BROT-09 6 6 BROT-09 6 6 BROT-09 BROT-09 6 BROT-09 BROT-09 6 6 BROT-09 6 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 23 NV 22 NV 21 NV 20 NV 19 NV 18 PK 17 NV 16 NV 15 NV 14 NV 13 NV 12 NV 11 NV 10 NV 9 NV 8 NV 7 NV 6 PK 5 NV 4 NV 3 NV 2 KL 1 KL 5000 LG 18 PK 17 NV 16 PK 15 NV 14 KL 14 KL 14 KL 14 KL 13 PK 12 PK 11 PK 10 PK 9 PK SPOOR TINT BR GR GR GR GR BR BR BR GR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 BR BR BR BR BR BR BR BR BR BR BR BR BR BR BR BR BR GR GR GR GR GR GR GL 1 DONKER BR 1 1 1 DONKER BR 4 3 2 GR GR GR GR GR BR BR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL ONR ONR OVL ONR RND RND RND RND RND RND ONR RND OVL OVL RND ONR RND RND RND ONR ONR ONR ONR KOM KOM RND KOM KOM HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER GR 1 1 1 1 1 OPMERKING 0 0 0 0 0 0.07 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0.12 0 0.16 ? 
+0 0.22 ? 
+0 0.36 0.36 0.36 0.36 gelaagd + veel fe 0.36 0.32 0.12 0.2 0.28 DIEPTE 58 7 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 60 PK 59 NV 58 PK 57 NV 56 NV 55 NV 54 NV 53 NV 52 NV 51 NV 50 NV 49 NV 48 PK 47 PK 46 NV 45 NV 44 NV 43 NV 42 NV 41 NV 40 NV 39 NV 38 NV 37 NV 36 NV 35 NV 34 NV 33 NV 32 NV 31 NV 30 NV 29 NV 28 NV 27 NV 26 NV 25 NV 24 NV SPOOR TINT BR BR BR BR GR GR GR BR BR BR BR BR BR BR BR BR BR BR BR BR BR BR GR BR BR BR BR BR BR BR BR BR 1 BR 1 DONKER BR 1 1 1 1 1 1 1 1 1 1 DONKER BR 1 GR GR GR GR GR BR GR GR GR GR BR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee FE , Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee hk Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee OVL RND OVL RND RND OVL OVL OVL OVL OVL OVL OVL RND RND RND OVL OVL OVL OVL OVL RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER GR 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0 0.14 0 0 0 0 0 0 0 0 0 0.14 0.14 DIEPTE OPMERKING 59 7 7 7 7 7 7 7 7 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 7 BROT-09 7 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 95 PK 94 PK 93 PK 92 PK 91 PK 90 PK 90 PK 89 PK 88 PK 87 PK 86 PK 85 KL 85 KL 84 PK 83 PK 82 PK 81 PK 80 PK 79 PK 78 PK 77 PK 76 PK 75 PK 74 PK 73 PK 72 PK 71 PK 70 PK 69 PK 68 PK 67 PK 66 PK 65 PK 64 PK 63 PK 62 PK 61 PK SPOOR TINT BR BR BR BR GR GR GR GR GR GR GR GR BR GR GR GR GR GR BR BR BR BR 1 1 1 1 1 2 1 1 1 1 1 2 GR GR BR GR GR BR GR GR GR GR GR BR 1 DONKER BR 1 LICHT 1 1 1 1 LICHT 1 1 1 LICHT 1 1 LICHT 1 LICHT 1 1 1 1 1 1 1 BR GR GR BR BR GR GR BR GR BR GR GR GR GR GR GR GR GR GR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee Nee OVL OVL OVL RND RND OVL OVL OVL OVL RND OVL OVL OVL RND OVL OVL RND RND RND OVL RND OVL OVL OVL OVL OVL OVL OVL RND RND OVL RND OVL OVL OVL OVL ONR RND RND RND ONR RND RND RND RND RND RND VLK RND RND RND RND VLK RND RND RND RND RND RND RND RND RND VLK RND RND RND RND RND RND RND RND RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER BR 1 1 1 1 1 0.2 0.1 0.14 0.22 0.13 0.2 0.2 0.26 0.1 0.1 0.12 0.4 0.4 0.24 0.2 0.14 0.06 0.13 0.33 0.1 0.2 0.24 0.36 0.3 0.22 0.22 0.3 0.2 0.26 0.12 0.18 0.23 0.25 0.12 0.06 0.08 0.36 DIEPTE OPMERKING 60 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 7 7 7 7 7 7 7 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 128 PK 128 PK 127 PK 127 PK 126 PK 125 PK 124 PK 123 PK 122 PK 121 PK 120 PK 119 PK 118 PK 117 PK 116 PK 115 KL 114 PK 113 PK 112 PK 111 PK 110 PK 109 PK 109 PK 108 PK 107 PK 106 PK 105 PK 104 PK 103 PK 102 PK 101 PK 100 KL 100 KL 99 PK 98 PK 97 PK 96 PK SPOOR TINT GR GR GR BR BR BR GR GR GR GR GR GR BR GR GR BR BR BR BR BR BR GR GR BR BR GR GR BR BR GR 2 GR 1 DONKER GR 2 1 DONKER GR 1 1 DONKER BR 1 1 1 1 1 1 1 1 LICHT 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 DONKER BR BR BR BR BR BR GR GR GR BR BR GR GR GR BR BR ZS1 ZS1 ZS1 ZS3 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND OVL OVL OVL OVL RND OVL OVL OVL RND RND RND RND RND RND RND RND RND RND RND RND RND RND VLK RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 1 DONKER BR 1 1 LICHT 1 1 0.26 0.26 0.32 0.32 0.3 0.2 0.08 0.24 0.22 0.26 0.28 0.22 0.12 0.1 0.2 0.22 0.08 0.06 0.4 0.08 0.1 0.22 0.22 0.2 0.28 0 0.1 0.08 0.2 0.22 0.26 0.36 0.36 0.14 0.22 0.24 0.22 DIEPTE OPMERKING 61 7 7 BROT-09 BROT-09 BROT-09 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 160 PK 159 PK 159 PK 158 PK 157 NV 156 PK 155 PK 154 PK 153 KL 153 KL 152 PK 151 KL 151 KL 150 PK 149 PK 148 PK 147 PK 146 KL 145 PK 144 PK 143 PK 142 PK 141 PK 140 PK 140 PK 139 PK 138 PK 137 PK 136 PK 135 KL 135 KL 134 PK 133 PK 132 PK 131 NV 130 NV 129 PK SPOOR TINT BR BR BR BR BR BR GR BR BR BR BR BR BR BR BR BR GR BR GR BR GR BR BR BR BR BR BR BR GR BR BR BR GR BR 1 GR BR GR GR GR BR BR BR GR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL ONR ONR OVL RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL RND RND RND RND VLK RND RND RND RND VLK RND RND RND RND RND RND RND RND RND VLK RND RND RND RND RND RND RND ONR RND RND RND VLK RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 2 DONKER GR 1 1 1 1 1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 2 1 1 1 1 1 1 1 LICHT 0.24 0.3 0.3 0 0 0.1 0.24 0.08 0.64 0.64 0.3 0.5 0.5 0.12 0.4 0.4 0.16 0.3 0.25 0.08 0.3 0.18 0.26 0.38 0.38 0.18 0.22 0.1 0.04 0.4 0.4 0.08 0.1 0.26 0 0.22 DIEPTE OPMERKING 62 8 8 8 8 8 8 8 8 8 8 8 8 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 8 8 8 BROT-09 BROT-09 BROT-09 8 8 BROT-09 8 8 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 BROT-09 7 BROT-09 7 7 BROT-09 7 7 BROT-09 BROT-09 7 BROT-09 BROT-09 7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 19 PK 18 NV 17 KL 16 PK 15 NV 14 KL 13 NV 12 PK 11 PK 10 NV 9 NV 8 NV 7 PK 6 KL 5 PK 4 PK 3 NV 2 NV 1 NV 5000 LG 999 REC 174 PG 173 PG 172 PK 171 PK 170 PK 169 KL 169 KL 169 KL 168 PK 167 PK 166 PK 165 PK 164 KL 163 PK 162 PK 161 PK SPOOR TINT BR GR GR GR GR GR GL GR BR GR BR GR BR GR GR BR BR BR BR BR GR BR BR GR BR 1 1 1 1 1 1 1 GR BR GR GR GR GR GR 1 DONKER GR 1 DONKER GR 1 DONKER GR 1 1 LICHT BR GR BR BR BR BR BR BR BR BR BR GR BR GR BR BR BR BR BR GR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS3 ZS1 ZS1 ZS1 Ja Nee Ja Ja Nee Nee Ja Nee Nee Nee Nee Nee Ja Nee Nee Nee Nee Ja Ja Nee Nee Nee Nee Nee Nee Nee Nee , Nee HK Nee Nee Nee Nee Nee Nee Nee Nee Nee RND RND OVL OVL OVL OVL OVL RHK OVL RHK OVL RND RHK OVL OVL RHK RND OVL OVL ONR ONR RND OVL RND OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL OVL KOM KOM KOM KOM KOM RND RND KOM RND KOM RND RND RND RND RND RND RND RND ONR RND VLK VLK ONR RND RND RND HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE BR 1 DONKER GR 1 LICHT 1 1 1 1 1 1 1 1 1 1 LICHT 1 1 3 2 1 1 1 1 1 1 1 1 1 0.32 0 0.24 0.26 0 0.2 0 0.28 0.2 0 0 0 0.15 0.2 VAAG 0.08 0.34 0 0 0 0 0 0.26 0.28 0.14 0.07 0.08 0.94 0.94 0.94 0.06 0.1 0.04 0.08 0 0.1 0.12 0.26 DIEPTE OPMERKING 63 11 11 11 11 11 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 11 11 BROT-09 BROT-09 11 BROT-09 11 11 BROT-09 BROT-09 11 BROT-09 11 10 BROT-09 11 10 BROT-09 BROT-09 10 BROT-09 BROT-09 9 10 BROT-09 BROT-09 BROT-09 9 9 BROT-09 9 BROT-09 9 8 BROT-09 BROT-09 8 BROT-09 BROT-09 8 8 BROT-09 8 8 BROT-09 8 8 BROT-09 BROT-09 8 BROT-09 BROT-09 8 8 BROT-09 8 8 BROT-09 BROT-09 8 BROT-09 BROT-09 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 13 NV 12 NV 11 KL 10 NV 9 KL 8 NV 7 NV 6 NV 5 NV 4 PK 3 NV 2 NV 1 NV 5000 LG 999 REC 2 PK 1 NV 5000 LG 999 REC 3 SS 2 KS 1 NV 5000 LG 999 REC 998 REC 30 NV 29 NV 28 NV 27 PK 26 PK 25 PK 24 PK 23 PK 23 PK 22 NV 21 KL 20 PK SPOOR TINT BR GR GR GR GR GR GR GR GR GL XXX XXX 1 LICHT 1 LICHT 1 1 1 1 1 1 1 LICHT 1 LICHT 1 1 1 1 1 1 1 1 1 GR GR GR GR GR GR BR GR GR GR GR BR BR GL XXX GR GR GL XXX 1 DONKER BR 1 DONKER BR 1 LICHT 1 1 1 1 DONKER BR 1 DONKER BR GR GR BR GR GR BR GR GR BR BR BR BR BR BR BR GR BR ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX ZS1 ZS1 ZS1 XXX ZS1 ZS1 ZS1 ZS1 XXX XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Ja Nee Ja Ja Nee Nee Nee Ja Nee Ja Ja Nee Nee Ja Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee HK Nee Ja Ja HK Ja HK Nee Ja HK Ja RND RND ONR ONR OVL RND OVL RND ONR OVL OVL OVL OVL ONR ONR RND OVL ONR ONR LIN ONR OVL ONR VRK ONR OVL RND OVL RND RND RND OVL OVL OVL OVL OVL RND ONR RND RND RND RND RND KOM KOM RND RND KOM KOM HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 1 DONKER GR 1 1 1 1 2 1 1 1 1 OPMERKING 0 0 0.38 0 0.28 0.28 0 0 0 0.23 0 0 0 0 0 0.12 0 0 0 0 0 Kuilen aan weerszijden van weg . 
+0 0 0 0 0 0 0 0.11 0.18 VAAG 0.17 0.24 0.22 0.22 0 0.28 0.16 DIEPTE 64 13 13 13 13 13 13 13 15 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 BROT-09 13 BROT-09 BROT-09 13 BROT-09 BROT-09 13 BROT-09 13 BROT-09 13 13 BROT-09 13 13 BROT-09 BROT-09 13 BROT-09 BROT-09 13 BROT-09 13 BROT-09 13 13 BROT-09 13 13 BROT-09 BROT-09 13 BROT-09 BROT-09 11 11 BROT-09 BROT-09 11 BROT-09 11 11 BROT-09 11 11 BROT-09 BROT-09 11 BROT-09 BROT-09 11 11 BROT-09 BROT-09 BROT-09 11 11 BROT-09 11 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 OPGR_ID PUT VLAK BROT-09 AARDSPOOR VULLING 5000 LG 5000 LG 999 REC 20 PK 19 NV 18 NV 17 NV 16 NV 15 KL 15 KL 14 PK 13 PK 12 PK 11 PK 10 NV 9 NV 8 PK 7 PK 6 PK 5 NV 4 NV 3 NV 2 NV 1 PK 5000 LG 999 REC 23 PK 22 KL 22 KL 21 NV 20 NV 19 NV 18 NV 17 NV 16 NV 15 NV 14 NV SPOOR TINT BR GR GR GR GR GR GL XXX GR GR GR GR GR GR GR BR BR GR BR GR 1 1 1 1 1 GL GL XXX GR GR 1 DONKER BR 1 1 LICHT 2 LICHT 1 DONKER BR 1 DONKER BR 1 DONKER BR 1 DONKER BR 1 DONKER BR 1 1 1 1 1 1 LICHT 1 LICHT 1 DONKER BR 1 DONKER BR 1 DONKER BR 1 1 1 2 LICHT 1 DONKER GR 1 1 1 1 1 BR GR GL BR BR BR BR BR BR BR GR ZS1 ZS1 XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 XXX ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 ZS1 Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee HK , Nee Nee Nee Nee Nee Nee Nee Nee Nee Nee Ja Nee Nee Ja Ja Ja Nee Ja Nee Ja Nee ONR ONR ONR OVL OVL OVL RND OVL OVL OVL RND RND OVL RND OVL RND OVL OVL RND OVL LIN RND OVL RND ONR ONR RND OVL OVL ONR OVL OVL RND ONR RND OVL OVL RND RND RND RND RND RND RND RND RND RND ONR ONR KOM KOM HOOFDKLEUR NEVENKLEUR TEXTUUR GEVLEKT INSLUITSEL VORM_VLAK VORM_COUPE GR 1 DONKER BR 1 1 LICHT 0 0 0 0 0 0 0 0 0 0 0 0.15 0 0 0 0 0.5 0.5 0.11 0.11 0.24 0.16 0 0 0.14 0.13 0.15 0 0 0 0 0.02 0 0 0.1 0.26 0.26 DIEPTE OPMERKING 65 67 1 1 AW 4 5 1 1 1 AW 2 1 30.3 wand 132 buik/bodem 2 999 IJZX 999 PLAT 0 0 S. Bloo 0 0 0 GEGLAD 0 0 0 Kogelpot een late kogelpot type 4c 1175-1300 S. Bloo GEGLAD 0 0 0 erg hard S. Bloo GEGLAD 0 0 0 flauw sprofiel met uitstaande rand en platte top 0 0 0 0 0 0 0 0 0 S. Bloo 5.9 rand IJZX 2.5 gruis IJZX BROT-09 1 5000 2 AW 2 1 16 rand/hals VME BROT-09 1 5000 2 AW 1 1 BROT-09 1 24 3 AW 2 1 50 rand/hals/schouder BRONSX BROT-09 1 24 3 AW 1 1 7.4 wand BROT-09 1 27 4 AW 2 1 9.5 wand BROT-09 1 27 4 AW 1 2 9 gruis BROT-09 1 37 5 AW 2 4 40 wand IJZX 999 `` roze graniet '' > 24 gemiddeld LIDOLI 0 BROT-09 1 37 5 AW 3 1 4 wand IJZX 10 `` roze graniet '' > 24 gemiddeld LIDOLI -1 BROT-09 1 37 5 AW 1 5 9 gruis IJZX BROT-09 1 39 7 AW 2 2 14 wand IJZX BROT-09 1 39 7 AW 1 1 2 gruis IJZX BROT-09 1 43 8 AW 1 1 12 wand IJZX IJZX 1 999 BRONSX IJZX 5 gebr.kwarts 14-24 weinig LIDODO 12.3 gebr.kwarts > 24 gemiddeld LIDOLI 10.8 gebr.kwarts > 24 gemiddeld LIDOLI 7.7 gebr.kwarts 14-24 weinig 3LEDIG RPLAT LIDODO GEGLAD BRONSX BROT-09 1 43 8 AW 2 1 6 wand IJZX BROT-09 1 41 9 AW 1 1 6 wand BRONS/IJZ BROT-09 1 53 11 AW 1 1 6 gruis BRONS/IJZ BROT-09 7 1 12 AW 2 1 14 bodem BRONS/IJZ BROT-09 7 1 12 AW 1 2 1 gruis IJZX BROT-09 1 13 13 AW 2 1 9.6 wand IJZX 0 S. Bloo 0 S. Bloo 0 0 0 S. Bloo 0 0 S. Bloo LIDOLI GEGLAD 0 0 0 0 S. Bloo 8 `` roze graniet '' > 24 gemiddeld LIDOLI GEGLAD 0 0 0 S. Bloo 15 15.2 `` roze graniet '' > 24 gemiddeld LIDOLI 0 0 0 S. Bloo > 24 weinig 0 0 0 S. Bloo DODODO 14-24 veel LIDOLI 14-24 weinig LIDOLI > 24 weinig LILILI > 24 weinig LIDOLI STVOET GEGLAD IJZX 0 0 0 0 0 0 0 0 S. Bloo 0 0 S. Bloo 0 0 0 0 0 0 mogelijk vme S. Bloo 0 0 0 heel glad en vrij zwaar S. Bloo 13 13 AW 1 1 4.7 gruis 41 15 AW 1 1 9 wand BROT-09 1 56 16 AW 1 1 55 wand BROT-09 1 39 17 AW 1 2 1 gruis IJZX 0 0 0 BROT-09 1 52 18 AW 1 1 3 gruis IJZX 0 0 0 BROT-09 1 39 19 AW 2 2 32 wand IJZX 0 0 0 1 39 19 AW 1 1 3 gruis IJZX 1 24 21 AW 1 1 5 wand IJZX BROT-09 1 27 22 AW 1 1 BROT-09 1 28 23 AW 2 1 5 wand IJZX BROT-09 1 28 23 AW 1 1 1 gruis IJZX BROT-09 1 32 24 AW 1 1 12 rand IJZX 36 rand/hals/schouder IJZX /buik 11 `` roze graniet '' 1 999 1 999 9 `` roze graniet '' > 24 weinig LIDOLI 8 potgruis+zand 14-24 weinig LIDOLI 8 `` roze graniet '' > 24 weinig DODODO 3LEDIG 6 zand < 6 gemiddeld DODODO 12 `` roze graniet '' > 24 weinig 1 32 24 AW 2 1 7 wand IJZX 8 `` roze graniet '' 6-14 weinig LIDOLI BROT-09 1 34 25 AW 1 1 4 hals BRONS/IJZ 8 `` roze graniet '' > 24 weinig LIDOLI BROT-09 1 44 26 AW 3 2 22 rand BRONS/IJZ 10 `` roze graniet '' > 24 weinig LILILI BROT-09 1 44 26 AW 2 3 26 wand BRONS/IJZ 8 gebr.kwarts > 24 weinig LILILI BROT-09 1 44 26 AW 1 5 14 gruis IJZX BROT-09 1 43 27 AW 2 3 51 wand IJZX 9 `` roze graniet '' > 24 gemiddeld LIDOLI BROT-09 1 43 27 AW 3 1 32 rand/hals/schouder IJZX 6 `` roze graniet '' 14-24 weinig BROT-09 1 43 27 AW 1 1 3 gruis IJZX BROT-09 1 37 30 AW 1 3 44 wand IJZX BROT-09 1 37 31 AW 1 2 6 gruis IJZX BROT-09 1 41 32 AW 3 1 11.6 bodem BRONS/IJZ BROT-09 1 41 32 AW 2 1 4.9 wand IJZX BROT-09 1 41 32 AW 1 9 27.7 gruis IJZX BROT-09 1 49 34 AW 1 1 7 rand BRONS/IJZ BROT-09 1 50 35 AW 1 2 2 gruis IJZX 999 1 999 1 999 999 `` roze graniet '' > 24 gemiddeld LIDOLI 10.2 gebr.kwarts > 24 weinig LILILI 6-14 weinig DODODO 5.2 zand 1 999 LIDOLI 8 `` roze graniet '' > 24 weinig LIDOLI RPLAT RPLAT 0 0 donker uiterlijk S. Bloo GEPOL/BE SM 0 0 0 mooi profiel flauw S-profiel met scherp geprofileerde top . 
+S. Bloo GEGLAD 0 0 0 hard en donker S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo RROND 0 VING VLAK 0 S. Bloo kalenderberg ? 
+S. Bloo 0 0 0 GEGLAD 0 0 0 GEGLAD 0 0 0 0 0 0 S. Bloo GEGLAD 0 0 0 S. Bloo GEGLAD 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo PLAT 1LEDIG S. Bloo 0 -1 RPLAT S. Bloo dunwandig en licht 0 > 1 3LEDIG S. Bloo 0 GEGLAD RPLAT S. Bloo 0 GEROLD LIDOLI BROT-09 1 GEGLAD S. Bloo 0 1 9 zand S. Bloo past aan buik vnr 43 , met steengruis tegen bodemvlak geplakt 0 1 BROT-09 S. Bloo 0 BROT-09 BROT-09 donker uiterlijk 0 DOORB BROT-09 IJZ/ROM S. Bloo S. Bloo weinig 11.5 gebr.kwarts INDET S. Bloo > 24 7 plant 7 S. Bloo 8 `` roze graniet '' 7.6 `` roze graniet '' 1 heel dik en grof gemagerd SPECIALIST 0 1 1 RFACET1 OPMERKINGEN GEGLAD 1 AW 3 3LEDIG BEKEND UIT S. Bloo 1 AW 1 LIDOLI VAATWERKGROEP 0 1 weinig AANKOEK 0 0 1 > 24 LOK_SIER 0 0 1 7 `` roze graniet '' MOTIEF 0 GEGLAD 1 999 VERSIERING VERSIERD gruis VERSIERD VERWERING GEGLAD BROT-09 1 RROND AFWERKING BODEMTYPE LIDOLI RANDTYPE 14-24 weinig 9.1 gebr.kwarts TYPE GELED LIDOLI GROOTTE LIDOLI 14-24 veel MAGERING 14-24 weinig 10.2 gebr.kwarts BROT-09 7 wand 1 15.9 gebr.kwarts DIKTE PERC_DIAM DIAMETER MAI overig MAI BRONS/IJZ BAKKLEUR 1 BROT-09 HOEVEELHEID BROT-09 PERIODE ONDERDEEL GEWICHT AANTAL VOLG_NR INHOUD VONDST STRUCTUUR SPOOR PUT OPGR_ID Bijlage III Aardewerktabel GEGLAD S. Bloo emmer en 1 zandsteen S. Bloo S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 0 0 0 0 0 0 S. Bloo ander fragment is Houtskool S. Bloo S. Bloo 41 37 AW 2 1 7.8 wand BRONS/IJZ 1 41 37 AW 1 3 7.8 gruis INDET BROT-09 1 37 38 AW 2 2 25 wand IJZX BROT-09 1 37 38 AW 1 2 3 gruis IJZX BROT-09 5 6 39 AW 1 1 4.8 wand IJZX BROT-09 1 37 40 AW 3 1 10 bodem IJZX 999 gebr.kwarts 1 999 > 24 14-24 veel GEGLAD LIDOLI 6.7 `` roze graniet '' 6-14 veel DODODO 999 `` roze graniet '' > 24 weinig LIDODO 15 `` roze graniet '' > 24 weinig LIDODO RPLAT SPECIALIST OPMERKINGEN BEKEND UIT VAATWERKGROEP AANKOEK LOK_SIER MOTIEF VERSIERING VERSIERD gruis VERSIERD 0 0 0 0 0 0 waaronder een ME randje S. Bloo S. Bloo mogelijk bodemfragment `` gedoopt ' in kwarts S. Bloo 0 0 0 0 0 0 0 0 0 S. Bloo 0 0 0 S. Bloo S. Bloo S. Bloo BROT-09 1 37 40 AW 2 1 10 wand IJZX 0 0 0 BROT-09 1 37 40 AW 1 3 4 gruis IJZX 0 0 0 BROT-09 7 3 42 AW 1 2 5 gruis IJZX 0 0 0 rood , zeker ijzertijd met veel ijzerconcreties in baksel S. Bloo BROT-09 7 1 43 AW 2 1 15 buik 0 0 0 past aan bodem vnr 12 S. Bloo BROT-09 7 1 43 AW 1 3 2 gruis IJZX 0 0 0 S. Bloo BROT-09 7 76 44 AW 1 1 4 buik BRONS/IJZ 0 0 0 S. Bloo BROT-09 7 125 1 49 AW 1 1 1 gruis IJZX BROT-09 7 147 2 50 AW 2 1 31.7 wand BROT-09 7 147 2 50 AW 1 BROT-09 7 164 53 AW 1 BROT-09 7 164 BROT-09 1 BROT-09 7 BROT-09 7 BRONS/IJZ 7 `` roze graniet '' 14-24 veel LIDOLI 999 gebr.kwarts > 24 weinig IJZX 10.7 `` roze graniet '' > 24 gemiddeld LIDOLI 3 48.5 wand IJZX 10.6 `` roze graniet '' > 24 1 4 indet IJZX 999 `` roze graniet '' > 24 53 AW 2 2 12 wand IJZX 8 gebr.kwarts > 24 13 54 AW 1 1 45 wand IJZX 10.7 `` roze graniet '' 14-24 gemiddeld LIDODO 97 1 57 AW 2 1 7 wand BRONS/IJZ 10 gebr.kwarts 14-24 gemiddeld LIDOLI 97 1 57 AW 1 3 1 gruis IJZX 0 0 0 S. Bloo 0 0 S. Bloo gemiddeld LIDOLI 0 0 0 S. Bloo weinig LIDOLI 0 0 0 S. Bloo weinig LIDOLI GEGLAD 0 0 0 S. Bloo GEGLAD 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 7 169 58 AW 2 3 36 wand BRONS/IJZ 999 `` roze graniet '' > 24 gemiddeld LIDOLI 7 169 58 AW 3 1 26 wand BRONS/IJZ 9 `` roze graniet '' > 24 gemiddeld LIDOLI BROT-09 7 169 58 AW 1 1 1 gruis BRONS/IJZ BROT-09 7 171 59 AW 1 1 BROT-09 7 169 63 AW 2 3 BROT-09 7 169 63 AW 4 1 8 rand BRONS/IJZ BROT-09 7 169 63 AW 3 2 24 wand BRONS/IJZ BROT-09 7 169 63 AW 1 8 15 gruis IJZX BROT-09 7 169 64 AW 1 1 31 wand BRONS/IJZ 11 gebr.kwarts > 24 11 `` roze graniet '' 14-24 weinig 14-24 weinig BROT-09 1 13 67 AW 1 1 26 wand IJZX BROT-09 7 69 68 AW 1 1 5 wand IJZLX BROT-09 7 76 69 AW 1 2 17 wand 1 12 1 7 100 70 AW 2 1 6 wand IJZX BROT-09 7 100 70 AW 1 7 12 gruis IJZX BROT-09 7 115 72 AW 1 1 6 wand IJZX 25 17 `` roze graniet '' > 24 GEGLAD 73 AW 1 2 8 wand IJZX 1 6 bodem BRONS/IJZ 8 `` roze graniet '' BROT-09 7 147 2 75 AW 3 1 7 wand IJZX BROT-09 7 147 2 75 AW 2 1 13 wand BRONS/IJZ BROT-09 7 147 2 75 AW 1 1 12 wand IJZX > 24 veel BROT-09 7 152 1 76 AW 2 1 18.5 wand BRONS/IJZ 14 gebr.kwarts > 24 BROT-09 7 152 1 76 AW 1 1 18.7 wand BRONS/IJZ 12.8 gebr.kwarts BROT-09 7 151 78 AW 2 1 22 wand BROT-09 7 151 78 AW 1 1 1 gruis IJZX BROT-09 7 164 79 AW 1 1 9 wand IJZX 8 gebr.kwarts BROT-09 13 12 80 AW 1 1 15 wand IJZX 11.6 `` roze graniet '' BROT-09 7 169 81 AW 2 1 14 bodem BRONS/IJZ BROT-09 7 169 81 AW 6 3 BROT-09 7 169 81 AW 4 2 35 wand BRONS/IJZ BROT-09 7 169 81 AW 5 3 36 rand BRONS/IJZ BROT-09 7 169 81 AW 3 4 78 wand BRONS/IJZ BROT-09 7 169 81 AW 1 7 13 gruis BRONS/IJZ hoort vermoedelijk bij bodem S. Bloo 0 0 0 0 S. Bloo 0 0 0 S. Bloo LIDOLI 0 0 0 S. Bloo LIDODO 0 0 0 S. Bloo 0 0 0 S. Bloo 14-24 gemiddeld LIDOLI 14-24 veel LILILI 10 potgruis > 24 weinig LIDOLI > 24 gemiddeld LIDOLI 7 plant 13 `` roze graniet '' 999 0 0 10 gebr.kwarts 9 grind 1 0 0 RROND gemiddeld LIDOLI 74 AW 1 1 0 GEGLAD gemiddeld LIDOLI 126 1 IJZV GEGLAD > 24 118 BRONS/IJZ S. Bloo S. Bloo gemiddeld LIDOLI 7 999 met zand beetje rode kleur , vermoedelijk ijzertijd . 
+> 24 7 S. Bloo S. Bloo 0 gemiddeld LIDOLI BROT-09 0 0 gemiddeld LIDOLI BROT-09 0 0 gemiddeld LIDOLI 6-14 0 S. Bloo gladde buitenzijde 0 > 24 10 zand 0 0 0 > 24 9 plant 0 0 0 11 `` roze graniet '' 999 `` roze graniet '' 0 0 STVOET GEGLAD gemiddeld LIDOLI 12 `` roze graniet '' 6 plant BRONS/IJZ BROT-09 146 hals/schouder AFST IJZX BRONS/IJZ S. Bloo 0 BROT-09 3 gruis GEGLAD LIDOLI BROT-09 288 buik/bodem GEGLAD VERWERING AFWERKING BODEMTYPE RANDTYPE LIDOLI TYPE GELED weinig GROOTTE MAGERING DIKTE PERC_DIAM DIAMETER MAI overig 6.7 `` roze graniet '' BAKKLEUR 1 BROT-09 HOEVEELHEID BROT-09 MAI PERIODE ONDERDEEL GEWICHT AANTAL VOLG_NR INHOUD VONDST STRUCTUUR SPOOR PUT OPGR_ID 68 GEGLAD PLAT S. Bloo 0 0 0 0 0 0 kustaardewerk ? 
+S. Bloo S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo GEGLAD 0 0 0 S. Bloo 0 0 -1 gemiddeld LIDOLI AFST 0 0 0 S. Bloo > 24 gemiddeld LIDOLI GEGLAD 0 0 0 S. Bloo > 24 gemiddeld LIDOLI AFST 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 GEPOL/BE SM 0 0 0 gepolijste schouder is verweerd tot glad , besmijting is heel fijn . 
+GEGLAD 0 0 0 andere pot ? 
+GEGLAD 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 6-14 weinig 14-24 weinig LIDODO LIDODO GEGLAD LIDOLI 25 `` roze graniet '' > 24 gemiddeld LIDOLI 10 `` roze graniet '' > 24 weinig LIDOLI 10 `` roze graniet '' 14-24 weinig LIDOLI 9 `` roze graniet '' > 24 weinig LIDOLI 8 `` roze graniet '' > 24 gemiddeld LIDOLI INDET 3LEDIG RROND grote holtes , erg rood oppervlak S. Bloo S. Bloo S. Bloo S. Bloo BROT-09 7 169 82 AW 1 1 13 wand BRONS/IJZ BROT-09 7 169 83 AW 1 5 34 wand BRONS/IJZ BROT-09 7 169 83 AW 2 4 2 gruis BROT-09 13 15 84 AW 2 19 540 wand 10 `` roze graniet '' > 24 gemiddeld LIDOLI 999 gebr.kwarts > 24 veel 999 `` roze graniet '' > 24 gemiddeld LIDOLI BRONSX 13 15 84 AW 3 4 179 bodem BRONSX BROT-09 13 15 84 AW 6 1 176 rand BRONSX 1 999 1 999 BROT-09 13 15 84 AW 5 1 4.5 rand BRONSX BROT-09 13 15 84 AW 4 1 8.9 wand BRONSX BROT-09 13 15 84 AW 1 11 29.5 gruis BRONSX BROT-09 13 11 85 AW 2 3 49.3 wand BROT-09 13 11 85 AW 3 BROT-09 13 11 85 AW 1 BROT-09 13 13 BROT-09 13 BROT-09 13 BROT-09 1 999 15.1 `` roze graniet '' > 24 gemiddeld LIDOLI 7.3 grind > 24 gemiddeld LIDOLI 5.4 `` roze graniet '' > 24 weinig 5.4 `` roze graniet '' > 24 gemiddeld LIDOLI BRONS/IJZ 999 gebr.kwarts > 24 gemiddeld LIDOLI 1 13.9 wand BRONS/IJZ 10.2 potgruis 6-14 weinig 2 4.8 gruis IJZX 86 AW 2 1 3.7 indet BRONS/IJZ 13 86 AW 1 11 14 gruis BRONS/IJZ 15 87 AW 1 1 36.4 wand 5 14 89 AW 3 5 BROT-09 5 14 BROT-09 5 14 LIDOLI BROT-09 5 BROT-09 BROT-09 BROT-09 15.9 `` roze graniet '' 14-24 veel LIDOLI 55 schouder IJZX 999 zand 14-24 veel LIDOLI 89 AW 2 9 42.5 schouder IJZX 999 zand 14-24 veel DODODO > 1 89 AW 6 7 890 buik/bodem IJZVX 999 zand 14-24 veel LIDOLI 14 89 AW 1 27 176 wand IJZX 999 zand 14-24 veel LIDOLI 5 14 89 AW 5 6.8 zand 14-24 veel DODODO 2LEDIG 5 14 89 AW 4 101 91.8 gruis IJZX 5 24 90 AW 1 2 15.7 wand IJZX IJZX 1 10 999 100 8.3 grind > 24 BROT-09 5 27 91 AW 1 1 5 wand IJZX 71 `` roze graniet '' > 24 weinig BROT-09 5 12 92 AW 2 1 7 wand IJZX 11.8 `` roze graniet '' > 24 gemiddeld LIDODO BROT-09 5 12 92 AW 1 1 1 gruis IJZX BROT-09 5 4 94 AW 1 1 5 rand IJZX BROT-09 5 9 96 AW 1 1 3 gruis BRONS/IJZ 1 999 6.3 `` roze graniet '' 7.4 `` roze graniet '' > 24 SPECIALIST OPMERKINGEN BEKEND UIT VAATWERKGROEP AANKOEK LOK_SIER MOTIEF VERSIERING VERSIERD gruis 0 0 S. Bloo S. Bloo GEGLAD 0 0 0 dunwandig randje , hoort niet bij wandfragmenten S. Bloo GEGLAD -1 0 S. Bloo 0 STAF PSEUDO STAF 0 0 0 0 0 0 verbrand en gerold S. Bloo S. Bloo 0 0 0 verbrand en gerold S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 overgang buik besmeten naar schouder gepolijst S. Bloo GEPOL 0 0 0 alle fragmenten horen bij 1 pot BESM 0 0 0 overgang buik besmeten naar schouder gepolijst S. Bloo 0 0 0 alle fragmenten horen bij 1 pot 0 0 0 overgang buik besmeten naar schouder gepolijst S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 0 0 0 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo BESM GEPOL GEGLAD RROND S. Bloo S. Bloo schraghals ? 
+S. Bloo 5 24 99 AW 2 1 15.6 wand IJZX 5 24 99 AW 1 1 3.5 gruis IJZX BROT-09 5 32 100 AW 2 1 7.4 wand IJZX BROT-09 5 32 100 AW 1 3 4 gruis IJZX BROT-09 5 8 102 AW 1 1 21 wand BRONS/IJZ BROT-09 5 16 104 AW 1 1 28 bodem IJZX BROT-09 5 38 105 AW 1 1 2 gruis BROT-09 5 12 106 AW 1 1 11 wand IJZX 10.5 grind BROT-09 5 40 107 AW 1 1 8 wand IJZX 9.6 indet > 24 weinig LILIDO BESM BROT-09 5 39 108 AW 1 2 9 gruis BRONS/IJZ 0 0 0 BROT-09 5 20 110 AW 2 1 14.8 wand IJZX 10.4 zand 6-14 weinig LILILI GEGLAD 0 0 0 BROT-09 5 20 110 AW 1 1 5 wand IJZX 8 `` roze graniet '' > 24 gemiddeld DODODO 0 0 0 S. Bloo BROT-09 5 46 112 AW 1 3 35 wand IJZX 999 `` roze graniet '' > 24 weinig 0 0 0 S. Bloo BROT-09 5 55 113 AW 1 1 2 rand 9.9 gebr.kwarts 14-24 weinig LIDOLI 7.2 `` roze graniet '' 14-24 veel LILILI 10.6 `` roze graniet '' > 24 weinig 9.3 `` roze graniet '' > 24 gemiddeld LIDOLI 999 `` roze graniet '' > 24 gemiddeld LIDOLI GEGLAD AFGESCHILF ERD S. Bloo BROT-09 999 LIDOLI S. Bloo 0 0 BROT-09 1 14-24 weinig grote wandfragmenten 0 0 dunwandig randje , hoort niet bij wandfragmenten S. Bloo GEPOL/BE SM > 1 S. Bloo 0 LIDOLI gemiddeld LIDOLI S. Bloo hoort bij vnr . 
+63 bodem 0 AFGESCHILF ERD gemiddeld LIDODO hoort vermoedelijk bij bodem 0 0 DODODO RDIK 0 0 0 RROND PLAT 0 0 0 GEGLAD LIDOLI IJZX 0 0 RROND VERBRAND > 24 1 weinig STVOET 2LEDIG VERSIERD VERWERING AFWERKING AFGESCHILF ERD 999 `` roze graniet '' 48 rand/hals BODEMTYPE GEGLAD LIDOLI IJZX BROT-09 8 RANDTYPE TYPE GELED BAKKLEUR HOEVEELHEID GROOTTE MAGERING DIKTE PERC_DIAM DIAMETER MAI overig MAI PERIODE ONDERDEEL GEWICHT AANTAL VOLG_NR INHOUD VONDST STRUCTUUR SPOOR PUT OPGR_ID 69 LIDODO PLAT GEGLAD BRONSV INDET 1 999 14-24 gemiddeld LIDOLI LIDODO RROND 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 0 0 0 WKD 0 0 0 0 0 0 -1 0 NAGEL LIJN tegen de rand 0 S. Bloo 1 lijn wkd indrukken S. Bloo magering van zwarte brokjes en besmijting S. Bloo lichte knik in wand S. Bloo S. Bloo S. Bloo klein randje met nagelindrukken tegen de rand S. Bloo BROT-09 11 5000 116 AW 2 1 6.7 wand IJZX 0 0 0 BROT-09 11 5000 116 AW 1 1 2.9 gruis IJZX 0 0 0 S. Bloo BROT-09 15 5000 121 AW 1 1 4 gruis BRONS/IJZ 0 0 0 S. Bloo BROT-09 15 5000 122 AW 1 2 8.2 rand 0 potbeker afgeschuind randje met groeflijnen op regelmatige A afstand en een rij doorboringen S. Bloo BROT-09 15 5000 123 AW 1 0 randfragment met geul in hals , eenledige pot , S. Bloo BROT-09 4 5000 BROT-09 4 5000 NEOLB 1 999 7.1 `` roze graniet '' 14-24 veel 3 33.6 rand/hals BRONSM 1 999 6.8 grind > 24 gemiddeld LIDOLI 124 AW 1 1 5 wand IJZ/ROM 7.8 zand 6-14 veel 126 AW 1 1 4 wand IJZX 9 potgruis 14-24 weinig LIDOLI S. Bloo RSCHUIN BI -1 0 GROEF VLAK RROND -1 0 VINGGE LIJN U LIDOLI -1 0 VINGGE INDET 0 lichte buitenzijde , zand en verdikking naastindruk S. Bloo LIDOLI 0 0 0 rood en ijzerconcreties 1LEDIG hals S. Bloo SPECIALIST OPMERKINGEN BEKEND UIT VAATWERKGROEP AANKOEK LOK_SIER MOTIEF VERSIERING VERSIERD gruis VERSIERD VERWERING AFWERKING BODEMTYPE RANDTYPE TYPE GELED BAKKLEUR HOEVEELHEID GROOTTE MAGERING DIKTE PERC_DIAM DIAMETER MAI overig MAI PERIODE ONDERDEEL GEWICHT AANTAL VOLG_NR INHOUD VONDST STRUCTUUR SPOOR PUT OPGR_ID 70 BROT-09 4 26 131 AW 2 1 17.6 wand BRONS/IJZ 11.9 gebr.kwarts > 24 gemiddeld LIDOLI BESM 0 0 0 S. Bloo BROT-09 4 26 131 AW 3 4 46.1 wand BRONS/IJZ 9.8 gebr.kwarts > 24 gemiddeld LIDOLI GEGLAD 0 0 0 S. Bloo BROT-09 4 26 131 AW 1 3 BRONS/IJZ 0 0 0 BROT-09 4 23 132 AW 2 7 49.3 wand BRONSL 999 `` roze graniet '' > 24 gemiddeld LIDOLI 0 0 0 BROT-09 4 23 132 AW 4 1 28.7 wand BRONSL 13.4 `` roze graniet '' 14-24 weinig 0 0 0 6.8 gruis BROT-09 4 23 132 AW 5 1 15 wand BRONSL BROT-09 4 23 132 AW 3 5 120 bodem BRONSL BROT-09 4 23 132 AW 6 1 43.8 wand BRONSL BROT-09 4 23 132 AW 7 1 9.6 rand BRONSL BROT-09 4 23 132 AW 8 1 8.2 rand BRONSL 11.2 gebr.kwarts 1 9 15 1 13 5 1 15 25 LILILI > 24 gemiddeld LIDOLI 11 `` roze graniet '' > 24 gemiddeld LIDOLI 10.1 `` roze graniet '' > 24 gemiddeld LIDODO 8.6 `` roze graniet '' > 24 gemiddeld LILILI 1LEDIG RPLAT 6.6 `` roze graniet '' > 24 weinig 3LEDIG RROND 999 `` roze graniet '' > 24 gemiddeld LIDOLI LIDOLI BROT-09 4 23 132 AW 1 7 13 gruis BRONSL BROT-09 4 23 133 AW 2 1 12.8 wand BRONSL BROT-09 4 23 133 AW 2 5 BRONSL 11 `` roze graniet '' > 24 gemiddeld LIDOLI BROT-09 4 23 133 AW 3 4 58.2 wand BRONSL 8.1 `` roze graniet '' > 24 gemiddeld LIDOLI BROT-09 4 23 133 AW 1 2 46.9 rand BRONSL 6.6 `` roze graniet '' > 24 weinig 999 999 `` roze graniet '' > 24 gemiddeld LIDOLI 999 `` roze graniet '' > 24 gemiddeld LIDOLI 999 14.6 gebr.kwarts > 24 gemiddeld LIDOLI 10.7 `` roze graniet '' > 24 gemiddeld LIDOLI 100 bodem BROT-09 4 23 133 AW 4 6 12.6 gruis BRONSL BROT-09 4 30 134 AW 3 1 13.2 bodem BRONS/IJZ LIDOLI BROT-09 4 30 134 AW 5 1 11.9 indet BRONS/IJZ BROT-09 4 30 134 AW 4 1 BRONS/IJZ BROT-09 4 30 134 AW 2 1 22.4 wand IJZX BROT-09 4 30 134 AW 1 8 22.8 gruis IJZX BROT-09 4 41 135 AW 1 1 IJZX BROT-09 3 10 136 AW 1 1 7 wand IJZX BROT-09 3 5000 141 AW 1 1 9 wand IJZX BROT-09 9 5000 143 AW 2 1 13.8 wand BRONS/IJZ 999 gebr.kwarts 14-24 weinig LILILI 7.2 zand 6-14 veel LIDOLI < 6 gemiddeld LIDOLI 6-14 weinig 573 bodem 4 wand 999 zand GEGLAD GEGLAD 0 0 0 0 0 0 0 0 0 0 emmervorm , platte rand S. Bloo 0 0 0 pot 2 , diameter en % bepaald op alle randfragmenten uit vnr . 
+132 en 133 S. Bloo pot 1 0 0 0 0 0 0 0 0 zelfde bodem als vnr 132 0 0 0 pot 1 S. Bloo GEGLAD 0 0 0 pot 2 , diameter en % bepaald op alle randfragmenten uit vnr . 
+132 en 133 S. Bloo 0 0 0 S. Bloo STVOET GEGLAD 0 0 0 S. Bloo 0 0 0 S. Bloo PLAT 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo PLAT RROND GEGLAD 6-14 veel LIDOLI GEGLAD 0 0 0 14-24 gemiddeld LIDOLI GEGLAD 0 0 0 wel indrukken aan buitenzijde maar wrs geen versiering S. Bloo 0 0 0 en 1 stuk tufsteen S. Bloo 143 AW 1 1 3.5 gruis IJZX 2 9 wand IJZX BROT-09 10 5000 144 AW 1 2 4.5 gruis IJZX BROT-09 8 5000 146 AW 1 1 9 wand IJZX BROT-09 8 5000 147 AW 1 1 9 bodem IJZX BROT-09 8 5000 148 AW 1 1 3 gruis IJZX BROT-09 8 5000 149 AW 1 1 10 wand IJZX 8.4 potgruis > 24 weinig LIDODO BROT-09 8 5000 150 AW 2 1 3 indet IJZX 999 zand 6-14 weinig LIDOLI 7 zand 10 zand AFGESCHILF ERD GEGLAD LIDODO PLAT AFST AFGESCHILF ERD 0 0 0 S. Bloo 0 0 S. Bloo 0 0 0 0 0 0 0 0 0 0 0 0 S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo 8 5000 150 AW 1 4 7 gruis IJZX 0 0 0 BROT-09 8 5000 151 AW 1 1 1 gruis IJZX 0 0 0 BROT-09 8 5000 153 AW 1 1 4 wand IJZX BROT-09 8 5000 154 AW 1 1 2 wand IJZLX BROT-09 8 5000 155 AW 1 1 4.2 wand IJZX 7.8 zand 14-24 weinig BROT-09 8 5000 155 AW 2 1 3 hals BRONSV 4.8 `` roze graniet '' 14-24 gemiddeld LIDOLI BROT-09 8 5000 156 AW 1 1 5 rand PREH 1 999 8.6 zand 6-14 BROT-09 8 5000 157 AW 1 1 11 rand NEOLB 1 999 7.6 `` roze graniet '' 8.3 gebr.kwarts 158 AW 2 1 8.5 wand BRONS/IJZ 158 AW 1 2 3.5 gruis IJZX BROT-09 8 5000 159 AW 1 1 6 wand IJZX BROT-09 8 161 AW 1 31 17 559 buik/bodem IJZX 7.6 gebr.kwarts 5 zand 8.3 potgruis 1 19 25 4.45 potgruis 14-24 gemiddeld LIDODO BESM 0 0 0 < 6 GEPOL 0 0 0 weinig weinig DODODO LIDODO > 1 0 > 1 0 S. Bloo S. Bloo dunwandig , sterk gepolijst nog een soort glans erop S. Bloo S. Bloo 0 donker uiterlijk fijne wkd stempel , dicht opelkaar , 1,3 mm hoogte S. Bloo wikkeling 0,6 mm tussen wikkelingen LIJN tegen de rand 0 twee vingertopindrukken tegen de rand door zandig baksel periode onduidelijk S. Bloo Ronde rand met gaatjes die zijn opgevuld met aankoeksel , ertussen vingertopindrukken S. Bloo LIDOLI RROND -1 0 VING/D LIJN OORB 14-24 weinig LIDOLI -1 PLAT S. Bloo 0 WKD 14-24 weinig LIDODO rode kleur hals 0 VING weinig S. Bloo LIJN -1 > 24 S. Bloo 0 WKD RPLAT LIDOLI S. Bloo naast zand ook rode korrels maar vermoedelijk van deijzerconcentraties -1 LIDODO 14-24 weinig S. Bloo 0 BROT-09 8 5000 S. Bloo 9.4 zand 144 AW 2 AFGESCHILF ERD S. Bloo S. Bloo 7.3 potgruis+zand 9 5000 8 5000 S. Bloo LIDODO 10 5000 BROT-09 S. Bloo weinig BROT-09 BROT-09 S. Bloo pot 1 0 AFGESCHILF ERD 3LEDIG 0 0 S. Bloo S. Bloo 6-14 BROT-09 999 PLAT S. Bloo pot 1 0 VING VLAK hals -1 Potbeker 0 S. Bloo 0 0 0 S. Bloo BESM 0 0 0 S. Bloo BESM 0 0 0 besmeten buik S. Bloo BROT-09 3 5000 162 AW 3 1 5.8 wand IJZX 11.6 zand 6-14 veel LIDOLI BROT-09 3 5000 162 AW 2 2 9.7 wand IJZX 8.5 zand 6-14 veel LIDOLI BROT-09 3 5000 162 AW 1 1 2.5 gruis IJZX BROT-09 2 5000 165 AW 1 2 8 wand BRONS/IJZ 7.9 `` roze graniet '' > 24 gemiddeld LILILI 999 `` roze graniet '' 14-24 veel BROT-09 6 5000 166 AW 2 1 3.8 wand VME BROT-09 6 5000 166 AW 1 1 2.2 gruis IJZX BROT-09 6 5000 167 AW 2 1 12.3 wand VME BRONSL 14-24 weinig LIDODO DODODO SPECIALIST OPMERKINGEN BEKEND UIT VAATWERKGROEP AANKOEK LOK_SIER MOTIEF VERSIERING VERSIERD gruis S. Bloo S. Bloo 0 0 0 S. Bloo 0 0 0 S. Bloo S. Bloo 0 0 0 kogelpot 0 0 0 0 0 0 kogelpot -1 0 STAFSI LIJN 0 S. Bloo -1 0 SPATEL LIJN 0 S. Bloo S. Bloo vermoedelijk KP S. Bloo 167 AW 3 2 167 AW 4 4 68.4 hals/schouder/buik BRONSL BROT-09 5000 167 AW 1 1 1 gruis IJZX 0 0 0 S. Bloo BROT-09 6 5000 168 AW 1 4 7 gruis IJZX 0 0 0 S. Bloo 1 3 wand 6 5000 169 AW 1 6 171 AW 2 BROT-09 6 6 171 AW 4 BROT-09 6 6 171 AW 5 BROT-09 6 6 171 AW 3 16 432.4 wand 4 52.2 bodem 10 123.3 wand LIDOLI LIDOLI 0 0 6 5000 6 14-24 veel 14-24 veel 0 0 6 5000 BROT-09 7.2 gebr.kwarts+zand 0 0 BROT-09 1 6.8 `` roze graniet '' VERSIERD VERWERING AFWERKING BODEMTYPE RANDTYPE BESM BROT-09 BROT-09 8.2 wand 8.1 `` roze graniet '' TYPE GELED BAKKLEUR HOEVEELHEID GROOTTE MAGERING DIKTE PERC_DIAM DIAMETER MAI overig MAI PERIODE ONDERDEEL GEWICHT AANTAL VOLG_NR INHOUD VONDST STRUCTUUR SPOOR PUT OPGR_ID 71 IJZX 5.6 `` roze graniet '' IJZMX 999 potgruis+gebr.kwarts > 24 weinig LIDOLI 999 potgruis > 24 weinig LIDOLI 999 potgruis 14-24 weinig LIDOLI IJZMX 1 999 IJZMX 4 206.3 rand/schouder/bui IJZMX k IJZMX 1 999 95 potgruis+gebr.kwarts > 24 1 0 0 0 0 grote dikke klodders besmijting STVOET GEGLAD 0 0 0 grote dikke klodders besmijting GEGLAD 0 0 0 2LEDIG RSCHUIN BI BESM 6 6 171 AW 6 1 54.9 rand 6 171 AW 7 7 BROT-09 6 6 171 AW 1 15 22.9 gruis IJZX BROT-09 6 6 172 AW 1 1 13.6 wand IJZX BROT-09 6 6 172 AW 2 1 37.6 wand IJZX BROT-09 6 5000 174 AW 1 1 4 gruis IJZX BROT-09 6 12 3 175 AW 1 2 49 wand IJZX 11.3 potgruis+zand 6-14 weinig BROT-09 6 13 3 176 AW 1 2 23 wand IJZX 999 zand < 6 gemiddeld LIDODO 10 0 0 LIDOLI 6 15 GEGLAD BESM weinig BROT-09 1 GEPOL/BE SM 14-24 gemiddeld LILILI BROT-09 123 rand/hals/schouder BRONSL /buik 3LEDIG -1 op de rand 0 S. Bloo S. Bloo S. Bloo RaalteZegge VI S. Bloo 8 potgruis 14-24 weinig LIDOLI 1LEDIG INDET BESM 0 0 0 rand sterk verweerd S. Bloo 7.4 potgruis 14-24 weinig LIDOLI 2LEDIG RPLAT GEGLAD 0 0 0 doppelkonische schussel met ha tweeledige kom met iets naar buitenverdikt randje . 
+Mogelijk gepolijst geweest S. Bloo 0 0 0 S. Bloo 10.4 potgruis 14-24 weinig LIDOLI BESM 0 0 0 S. Bloo 6-14 LIDOLI GEGLAD 0 0 0 0 0 0 0 0 0 0 NAGEL VLAK 0 7.1 zand weinig LIDOLI BESM VERBRAND 0 VING S. Bloo -1 S. Bloo rood S. Bloo S. Bloo donkere scherf met 3 nagelindrukken S. Bloo 73 Verklarende woordenlijst Antropogene sporen Alle immobiele sporen van menselijke oorsprong , variërend van paalgaten of fosfaatvlekken tot muurresten . 
+AMK Archeologische Monumentenkaart geeft een overzicht van gewaardeerde archeologische terreinen in vier categorieën : 1 ) . 
+Archeologische waarde , 2 ) Hoge archeologische waarde , 3 ) Zeer hoge archeologische waarde en 4 ) Zeer hoge archeologische waarde beschermd . 
+De AMK is de gezamenlijke verantwoordelijkheid van de RCE en de provincies en wordt beheerd door de RCE . 
+Archeologische indicatoren Indicatief archeologisch materiaal dat bij ( boor ) onderzoek een aanwijzing kan zijn voor de aanwezigheid , ter plaatse of in de nabijheid , van een archeologische vindplaats . 
+Archis Archeologisch Informatie Systeem . 
+Dit door de RCE beheerde systeem bevat informatie over o.a . onderzoeksmeldingen , vondstmeldingen , waarnemingen , complexen en monumenten . 
+14 C Koolstof ( radioactieve isotoop ) , gebruikt voor datering . 
+CIS Het landelijke registratienummer ten behoeve van archeologisch onderzoek , uitgegeven door het Centraal Informatiesysteem . 
+CMA Centraal Monumenten Archief . 
+Ex situ niet ter plaatse . 
+Aanduiding die wordt gebruikt om aan te geven of grondsporen en / of artefacten zich niet meer op de oorspronkelijke plaats in de bodem bevinden . 
+Behoud ex situ is het bewaren van de archeologische informatie door definitief onderzoek ( opgraven , documenteren en registreren ) . 
+IKAW Indicatieve kaart van archeologische waarden , een door de RCE geproduceerde kaart op landelijk niveau met de verwachte relatieve of absolute dichtheid van ( bepaalde ) archeologische verschijnselen in de bodem . 
+IVO Inventariserend Veld Onderzoek . 
+Het verwerven van ( extra ) informatie over bekende of verwachte archeologische waarden binnen een onderzoeksgebied , als aanvulling op en toetsing van de archeologische verwachting , gebaseerd op het bureauonderzoek middels waarnemingen in het veld . 
+In situ Achtergebleven op exact de plaats waar de laatste gebruiker het heeft gedeponeerd , weggegooid of verloren . 
+Behoud in situ is het behouden van archeologische waarden in de bodem . 
+KNA Kwaliteitsnorm Nederlandse Archeologie . 
+PVA Plan van Aanpak . 
+Een door de opdrachtnemer op te stellen plan voor de uit te voeren werken waarmee beoogd wordt aan de vereisten zoals geformuleerd in het Programma van Eisen en/of het ontwerp te voldoen . 
+Ook wordt hierin een voorstel gedaan voor de werkwijze waarmee de in het Programma van Eisen en/ of ontwerp geformuleerde resultaatsverwachtingen bereikt kunnen worden . 
+PVE Programma van Eisen . 
+Het PvE is een door een bevoegde overheid opgesteld of bekrachtigd document dat de probleem- en doelstelling van de te verrichten werkzaamheden van de vindplaats geeft en de daaruit af te leiden eisen formuleert met betrekking tot het uit te voeren werk . 
+RCE Rijksdienst voor het Cultureel Erfgoed , voorheen ROB ( Rijksdienst voor het Oudheidkundig Bodemonderzoek ) en later RACM ( Rijksdienst voor Archeologie , Cultuurhistorie en Monumentenzorg ) . 
+RTS Robotic Total Station . 
+Hiermee worden vlakken direct digitaal ingemeten . 
+Selectieadvies Archeologisch inhoudelijk advies over de behoudenswaardigheid van een vindplaats . 
+Dit wordt opgesteld aan de hand van de waarderingscriteria . 
+74 Afkortingen in database REFERENTIELIJSTEN A ARD SPOOR Aard van het spoo Code AKR AWC BA BES BG BKS BOC BPA BP L BP T BR L BU BUN BV CR DIG DK D LT DP DR EG ES FU GA GE GH E GR GR K GT HA HA K HG H KC HI HO HU IN KE L KGO KGR KGV KL KS L AK L AT LG LO LS MI MR MS K MS T MU NV NVD NV P OV PA PAK PG PG K PK PL P LW PO PO E P OT PS PS E PS K REC RPA r Omschrijving ( oude ) ak kerlaag aardewer k-concentratie bal k beschoeiing boorgat bekisting botconcentratie beschoeiing , palen beschoeiing , plan ken beerput/beer kelde r brandlaag bustum visbun bouwvoo r crematiegra f dierbegraving drenk kuil doorlaat ( doo r een muur ) depressie drain erfgreppel esde k fui k gracht geul grafheuvel greppel graf kuil goot haard haard kuil huisgreppel houts kool-concentratie hoefindru k hout hut kom inhumatiegra f kelde r ovale kringgreppel ronde kringgreppel vierkante kringgreppel kuil karrenspoo r Laklaag latrine laag ophogingslaag sto r tlaag muurinstee k muu r mest kuil muursteen muuruitbraa k natuurlij ke verstoring dierlij ke verstoring plantaardige verstoring oven houten paal paal met paal kuil paalgat paalgat met paal kuil paal kuil plan k plaggenwand poel poe r potstal ploegspoo r ploegspoo r , eergetouw ploegspoo r , keerploeg recent palenrij Versie 1.4 RPG RP K RP L SG SI SL SPB SPG SS ST STC VL VR VSC VW WA WG WK WL WOO XX X rij paalgaten rij paal kuilen rij plan ken standgreppel silo sloot spaarboog spitsgracht spitspoo r steen steenconcentratie vle k vloe r vuursteenconcentratie vlechtwer k waterput weg water kuil wal woonlaag onbe kend COUPE VORM Vorm van de onderkant van het spoo Code Omschrijving ONR onregelmatig PN T punt RND rond VL K vla k KOM komvormig NG r in de coupe . 
+niet gecoupeerd VL AK VORM Vorm van het spoo r op het hori zontale vla k Code Omschrijving LIN lineai r ONR onregelmatig OVL ovaal RH K rechthoekig RND rond SI K sik kelvormig VK T vierkant KL EUR Duiding van de kleu r. Code BE BL BR GL GN GR OR PA RO RZ WI ZW Re ferentie beige blauw bruin geel groen grijs oranje paars rood roze wit zwa rt Daarnaast : D L SCH VL ZR don ker licht schoon vuil zee r DBRGR = don kerbruingrijs ( hoofdkleu r is dan grijs ) 75 INSLUITSEL Aard van een insluitsel van een vulling . 
+INHOUD Aard van het materiaal van een vondst . 
+Code AS AW BOT BW FE FF GL HK HL HT KER KI LR MET MN NS OKR SCH SL VKL VST Code AW BOT BW COP GL HK HT KER LR MET MIX NS OKR PIJ SCH SL TOU TXT VKL VST XXX Referentie as aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( baksteen , dakpan , tegel ) ijzeroer fosfaat glas houtskool huttenleem hout keramische objecten ( weefgewichten ) kiezel leer metaal mangaan natuursteen oker schelp slak verbrande klei vuursteen Referentie aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( keramisch , geen steen ) coproliet glas ( geen slak ) houtskool hout ( geen houtskool , geen plantaardige resten ) keramische objecten ( weefgewichten ed . ) 
+leer metaal ( geen slak ) gemengd natuursteen ( geen vuursteen ) oker pijpenkoppen en -stelen schelp slakken touw ( vaak vlas of bast ) textiel ( wol of draad ) verbrande klei ( geen lemen gewichten ) vuursteen overig TEXTUUR Textuur van een vulling met NEN-classificatie . 
+MONSTER Aard van een monster . 
+Code K ZK MK LK Z-K Code MA MAR MBOT MC14 MCH MCR MD MFF MHK MHT MP MSC MSL MZ NEN K Ks1 Ks2 Ks3 Referentie klei zware klei matig zware klei lichte klei zandige klei Zl ZZl MZl LZl Kz1 Kz2 Kz3 zavel zware zavel matig lichte zavel lichte zavel L SL Z-L L Lz1 Lz3 leem siltige leem zandige leem V V1 V2 V3 Z-V V Vk3 Vk1 Vm Vz1 veen venige klei kleiig veen veen zandig veen Z FZ MZ GZ ILZ LZ IGHZ MGHZ SGHZ V-Z Z Zs1 Zs1 Zs1 Zs2 Zs3 g1 g2 g3 Vz3 zand fijn zand middelgrof zand grof zand iets lemig zand lemig zand iets grindhoudend zand matig grindhoudend zand sterk grindhoudend zand venig zand G FG GG IZHG MZHG SZHG G grind fijn grind grof grind iets zandhoudend grind matig zandhoudend grind sterk zandhoudend grind Gz1 Gz2 Gz3 ST steen HT hout H0 H1 H2 h1 h2 h3 humushoudend matig humeus humusrijk Referentie monster algemeen monster artropoden monster bot monster voor C-14 datering chemisch monster crematiemonster monster voor dendrochronologisch onderzoek fosfaatmonster houtskoolmonster houtmonster pollenmonster schelpenmonster monster slijpplaat zadenmonster voor botanisch onderzoek VERZAMELWIJZE Manier waarop een vondst of monster is verzameld . 
+Code AAC AANV BIGB COUP DETC LICH verwijderd ) MAA MAF MSCH PUNT SCHA SPIT TROF Referentie aanleg coupe ( handmatig schaven ) aanleg vlak of profiel ( handmatig ) bigbag couperen ( handmatig ) detectorvondst lichten ( vondst met omringende grond integraal machinale aanleg machinale afwerking ( of machinaal couperen ) machinaal schaven puntvondst ( ingemeten ) uitschaven ( handmatig ) uitspitten ( handmatig ) troffelen 

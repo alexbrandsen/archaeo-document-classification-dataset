@@ -1,0 +1,1592 @@
+Vage grondsporen scherp bekeken Opgraving industrieterrein Panningen ( gemeente Helden ) en het onderzoek van midden-neolithische grondsporen op de Limburgse zandgronden . 
+Amersfoort 2006 Colofon ROB Rapportage Archeologische Monumentenzorg 129 Vage grondsporen scherp bekeken . 
+Opgraving industrieterrein Panningen ( gemeente Helden ) en het onderzoek van midden-neolithische grondsporen op de Limburgse zandgronden . 
+Auteurs : E. Rensink , E.M . 
+Theunissen , Th . 
+Spek & N. Vossen Illustraties : ROB , tenzij anders vermeld . 
+Omslag : E. van As Opmaak : I/O Graph . 
+Utrecht Druk : Print X-Press , Amersfoort © ROB , Amersfoort , maart 2006 ISBN 90-5799-073-3 Rijksdienst voor het Oudheidkundig Bodemonderzoek Postbus 1600 3800 BP Amersfoort www.archis.nl Inhoud Voorwoord 5 Samenvatting 7 1 Inleiding 1.1 Inleiding 1.2 Ontwikkeling industrieterrein Panningen 1.3 Leeswijzer 1.4 Verantwoording en dank 1.5 Administratieve gegevens 11 11 11 13 13 14 2 Onderzoeksgeschiedenis 2.1 Inventariserend Veldonderzoek , karterende fase 2.2 Inventariserend Veldonderzoek , waarderende fase 2.3 Opgraving 15 15 15 18 3 Opgraving ROB 3.1 Inleiding 3.2 Doelstelling en onderzoeksvragen 3.3 Methoden 21 21 21 21 4 Resultaten : landschap en bodem 4.1 Landschappelijke ligging 4.2 Geologie en geomorfologie 4.3 Geogenese 4.4 Bodem- en landschapsgenese 25 25 26 27 28 5 Resultaten : archeologie 5.1 Inleiding 5.2 Grondsporen 5.2.1 Prehistorie 5.2.2 Middeleeuwen en Nieuwe Tijd 5.3 Aardewerk 5.3.1 Inleiding 5.3.2 Aardewerk uit zeefvakken 5.3.3 Aardewerk uit opgravingvlak en sporen 5.4 Leem uit de zeefvakken 5.5 Vuursteen 5.5.1 Inleiding 5.5.2 Vuursteen uit zeefvakken 5.5.3 Vuursteen uit opgravingvlak en sporen 5.6 Overig steen 5.6.1 Overig steen uit zeefvakken 5.6.2 Overig steen uit opgravingvlak en sporen 33 33 33 33 35 37 37 38 39 41 41 41 41 43 44 44 44 6 Probleemstelling : grondsporen uit de Michelsbergcultuur ? 
+6.1 Vindplaatsen van de Michelsbergcultuur op de Limburgse zandgronden 6.2 Opgraving industrieterrein Panningen 6.2.1 Inleiding 6.2.2 Put 13 : het gebied van de gereconstrueerde huisplattegrond 45 45 47 47 48 3 6.3 ROB-put 14 : het gebied van de zeefvakken 6.3.1 Inleiding 6.3.2 Bodemopbouw 6.3.3 Archeologische vondsten 6.4 Relatie vondstmateriaal – grondsporen 51 51 51 53 53 7 Discussie 7.1 Inleiding 7.2 Locatiekeuze 7.3 Conservering en datering van grondsporen 7.4 Bodemprocessen en zichtbaarheid van grondsporen 7.5 Drie scenario ’ s 59 59 59 60 61 62 8 Conclusies en aanbevelingen 8.1 Conclusies 8.2 Aanbevelingen 65 65 66 Literatuur 69 Bijlage 1 Profielbeschrijving 73 Bijlage 2 Spooranalyse 75 Bijlage 3 Aardewerk totaal 79 Bijlage 4 Vuursteen totaal 89 4 Voorwoord Helden , dynamiek door kwaliteit en techniek . 
+Met deze slogan profileert de gemeente Helden zich als een energieke en enthousiaste leefgemeenschap , met beide benen in het heden , maar ook met oog voor de historie.1 In archeologisch opzicht heeft de gemeente Helden , bij veel archeologen bekend van de fraai versierde schijf van verguld zilver2 , de afgelopen jaren veel dynamiek beleefd . 
+Ruimtelijke ontwikkelingen enerzijds en het Verdrag van Valletta ( Malta ) anderzijds hebben geresulteerd in archeologische karteringen in nieuw te ontwikkelen gebieden.3 Daaruit blijkt dat grote delen van het bodemarchief van de gemeente Helden zijn afgegraven of verstoord door agrarisch grondgebruik , waaronder aspergeteelt . 
+In het noordelijke deel van het toekomstige industrieterrein Panningen bleek het archeologische bodemarchief evenwel nog goed intact . 
+Verscholen onder een dik plaggendek kwamen goed bewaarde sporen van bewoning en begraving uit de prehistorie te voorschijn . 
+In opdracht van de gemeente Helden is de vindplaats in 2002 en 2003 door het Archeologisch Diensten Centrum ( ADC ) , ArcheoProjecten opgegraven.4 Niet alleen uit wetenschappelijk oogpunt trok het onderzoek bijzondere belangstelling . 
+De opgravingen boden tevens de gelegenheid om de vroegste geschiedenis van de gemeente Helden onder de aandacht van de lokale bevolking te brengen . 
+Zo besteedde Dagblad De Limburger aandacht aan de ontdekking van de zeldzame bewoningssporen uit het Midden-Neolithicum ( Michelsbergcultuur , ca . 
+4200-3900 v.Chr . ) . 
+Ook verscheen er op de regionale televisie een documentaire over de resultaten van het archeologische onderzoek.5 Ook de leden van de actieve Heemkundevereniging Helden onderkenden het belang van deze ontdekking en leverden onmiddellijk hun enthousiaste bijdrage.6 Onder leiding van Twan Niessen konden ongeveer 1000 leerlingen van Heldense basisscholen oog in oog staan met het verleden van hun eigen omgeving ( afb . 
+1 ) . 
+Afb . 
+1 Twan Niessen geeft uitleg aan Heldense schoolkinderen tijdens een bezoek aan de opgraving in het toekomstige industrieterrein Panningen ( juni 2003 ) . 
+1 www.helden.nl 2 De Grooth 1987 , 1990 . 
+3 Van Dijk 2001a , b , 2003 , 2004c ; Geraerds 2003 ; Keijers 2003 ; Gheysen 2004 ; Robberechts 2004 ; Van der Zee 2004 ; Schutte 2005 . 
+4 Kenemans & Goossens 2002 ; Kenemans & Lohof 2005 . 
+5 Dagblad De Limburger van donderdag 3 april 2003 ; Uitzending van HölscherRTV ( Baarlo ) op 1 juli 2003 . 
+6 www.moennik.nl Het voor u liggende rapport bevat de resultaten van een onderzoek dat de Rijksdienst voor het Oudheidkundig Bodemonderzoek ( ROB , Amersfoort ) in het noordelijke deel van het toekomstige industrieterrein Panningen heeft uitgevoerd . 
+De aandacht richtte zich op de bijzondere bewoningssporen van de Michelsbergcultuur , een periode waarop we op de zandgronden 5 van Zuid-Nederland nauwelijks greep hebben . 
+Hoe komt het dat er op een brede dekzandrug bij Panningen dergelijke millenniaoude bewoningssporen mogelijk bewaard zijn ? 
+Hebben we te maken met de restanten van een middenneolithische boerderij of zijn er andere zaken aan de hand ? 
+De auteurs hopen dat u – na het lezen van dit rapport – zich meer bewust wordt van het specifieke probleem van de zichtbaarheid van neolithische bewoningssporen op de Limburgse zandgronden . 
+Maar het rapport is ook een schriftelijke oproep voor alertheid aan collega ’ s in het veld . 
+Scherpe opmerkzaamheid voor clusters van midden-neolithisch aardewerk en/of vuursteen in de fase van inventariserend veldonderzoek , gevolgd door een adequate strategie van opgraving en alertheid op ‘ vage ’ paalsporen en kuilen , maken het mogelijk meer te weten te komen over deze fase van onze lange bewoningsgeschiedenis . 
+6 Samenvatting In dit rapport wordt verslag gedaan van een opgraving van de Rijksdienst voor het Oudheidkundig Bodemonderzoek ( ROB ) in 2003 in de toekomstige uitbreiding van het industrieterrein Panningen ( gemeente Helden ) . 
+Voorafgaande aan het onderzoek hadden boringen door RAAP in 2001 en opgravingen door het ADC in 2002 en 2003 reeds een bijzondere archeologische vindplaats aan het licht gebracht . 
+Bewoningssporen uit het Neolithicum en/of de Bronstijd , een compleet grafveld met crematiegraven uit de Late IJzertijd en laat-middeleeuwse sporen werden op een relatief kleine oppervlakte aangetroffen . 
+De meeste sporen bevonden zich op het hoogste deel van een dekzandrug en waren verscholen onder een dik plaggendek . 
+Vanwege de goede conservering werd de vindplaats van grote wetenschappelijke betekenis geacht . 
+Gezien het samen voorkomen van aardewerk van de Michelsbergcultuur ( ca . 
+4200-3900 v.Chr . 
+) 7 en prehistorische grondsporen , werd rekening gehouden met een datering van grondsporen in het Midden-Neolithicum . 
+In de configuratie van de grondsporen kon zelfs een huisplattegrond worden herkend . 
+Daarmee zou het gaan om een unieke vondst : de eerste ‘ duidelijke ’ huisplattegrond uit het Midden-Neolithicum op de pleistocene zandgronden van Zuid-Nederland . 
+In het rapport over de opgraving heeft het ADC uiteindelijk drie varianten van huisplattegronden gepresenteerd . 
+Op basis van vorm en afmetingen wordt variant II ( datering : Late Bronstijd / Vroege IJzertijd ) het meest aannemelijk geacht . 
+Dit impliceert een veel jongere datering van ‘ de ’ huisplattegrond dan in eerste instantie , tijdens het veldwerk , werd verondersteld . 
+In de zomer van 2003 heeft de ROB een strook van ca . 
+2000 m2 ( putten 14 en 15 ) in het noordelijke deel van het plangebied en grenzend aan put 1 van het ADC opgegraven . 
+Het doel van het onderzoek was tweeledig . 
+Enerzijds was het doel om de voortzetting van mogelijk ( midden- ) neolithische grondsporen op de noordelijke flank van de dekzandrug vast te leggen . 
+Anderzijds diende het onderzoek om inzicht te krijgen in de aard , datering en verspreiding van prehistorische vondsten in een door bioturbatie verstoorde laag op ca . 
+20-40 cm onder de basis van het plaggendek . 
+Daartoe is een deel van deze laag in ROB-put 14 met water gezeefd . 
+De centrale vraag daarbij was in hoeverre de verspreiding van aardewerk en vuursteen in deze laag een ruimtelijke relatie heeft met onderliggende grondsporen . 
+In het geval hiervan onmiskenbaar sprake is , kan deze relatie worden beschouwd als een aanwijzing voor gelijktijdigheid van vondsten en grondsporen . 
+7 Genoemde datering van ca . 
+4200-3900 v. Chr . heeft betrekking op fasen I t/m III van de Michelsbergcultuur . 
+Vindplaatsen uit de latere fasen IV en V ( ca . 
+39003600 v . Chr . ) zijn in Nederland ( vooralsnog ) niet bekend . 
+In totaal zijn tijdens de opgraving 31 prehistorische grondsporen herkend , waarvan 23 sporen in ROB-put 14 en acht sporen in ROB-put 15 . 
+Deze sporen zijn een voortzetting van de grondsporen die het ADC in putten 1 en 13 heeft waargenomen . 
+Ook het voorkomen van prehistorisch aardewerk en vuurstenen artefacten in ROB-put 14 sluit aan bij de vondsten in de putten van het ADC . 
+De vondsten wijzen erop dat in het Midden-Neolithicum , maar ook gedurende latere perioden de dekzandrug is gebruikt voor bewoning en/of andere activiteiten . 
+In tegenstelling tot de meer zuidelijk gelegen putten van het ADC , zijn tijdens de opgraving door de ROB geen crematiegraven uit de IJzertijd vastgesteld . 
+Het ondersteunt de opvatting dat de noordelijke begrenzing van het grafveld reeds tijdens de opgraving van het ADC was bereikt . 
+Het zeven van de bioturbatielaag heeft een concentratie ( oppervlakte ca . 
+12 m2 ) van hoofdzakelijk midden-neolithisch aardewerk opgeleverd in het zuidwestelijke deel van het gezeefde gebied in ROB-put 14 . 
+Ook kwamen twee 7 vuurstenen schrabbers van de Michelsbergcultuur aan het licht . 
+Voor deze concentratie kon echter geen duidelijke relatie met onderliggende prehistorische grondsporen worden vastgesteld . 
+Onder de gezeefde vakken met het meeste aardewerk waren geen grondsporen aanwezig . 
+Vanwege het ontbreken van een relatie heeft het zeefonderzoek geen bijdrage geleverd aan het dateren van de prehistorische grondsporen in ROB-put 14 . 
+Maar wel is beter inzicht verkregen in de samenstelling , datering en aard van de archeologische vondsten in de bioturbatielaag . 
+De concentratie in het zuidwestelijke deel strekte zich vermoedelijk oorspronkelijk tot in put 1 uit en bevond zich op minder dan 5 meter noordelijk van de gereconstrueerde huisplattegrond . 
+In de discussie wordt uitgebreid ingegaan op de vraag of grondsporen van neolithische ouderdom op de dekzandrug te Panningen eventueel bewaard ( én zichtbaar ) kunnen zijn gebleven . 
+Vindplaatsen met midden-neolithisch aardewerk en vuursteen op de Limburgse zandgronden kenmerken zich in de regel door het ontbreken van ( gelijktijdige ) grondsporen . 
+Het ontbreken ervan is vermoedelijk het gevolg van verstoringen van de bovengrond en bodemprocessen ( bijvoorbeeld verbruining en bioturbatie ) . 
+Hierdoor zijn grondsporen volledig vervaagd en aan het zicht onttrokken . 
+Voor conservering van midden-neolithische sporen lijken twee voorwaarden van belang : een relatief intact bodemprofiel , en een geringe mate van verbruining van en bioturbatie in het deel van de bodem , waarin prehistorische grondsporen aanwezig ( kunnen ) zijn . 
+Aan de eerste voorwaarde lijkt de vindplaats in Panningen te voldoen . 
+Uit het bodemkundige onderzoek en de stratigrafische positie van de neolithische scherven kan worden afgeleid dat het prehistorische loopvlak ( grotendeels ) is geconserveerd . 
+Door de beschermende werking van het plaggendek is dit loopvlak in de afgelopen eeuwen niet verder aangetast , bijvoorbeeld ten gevolge van aspergeteelt . 
+Van minstens even groot belang is de constatering dat bodemprocessen het niveau van de prehistorische grondsporen maar in beperkte mate hebben beïnvloed . 
+Een mogelijke verklaring is het lage leemgehalte van het dekzand , waarin de sporen zijn aangetroffen . 
+Verbruining is vooral een kenmerk van leemrijke gronden , waaronder de lössgronden van Zuid-Limburg en de rivierkleigronden uit het Vroeg-Holoceen langs de Maas . 
+In deze leemrijke gronden zijn prehistorische grondsporen in de regel niet of slecht zichtbaar , met name in de verbruinde delen van het bodemprofiel . 
+Door het lage leemgehalte van het dekzand heeft verbruining op de vindplaats in Panningen een minder grote rol gespeeld . 
+Prehistorische sporen zijn niet volledig vervaagd , maar als zodanig herkenbaar gebleven . 
+Het leemarme karakter van de bodem kan er tevens de reden van zijn dat de werking van dieren en planten onder de bioturbatielaag gering is geweest . 
+Dit in tegenstelling tot de leemrijke bodems die voedselrijker zijn en een hoge mate van activiteit van dieren en planten tot op grotere diepte kennen . 
+Op grond van bovenstaande gegevens wordt geconcludeerd dat ook ( configuraties van ) grondsporen van neolithische ouderdom in Panningen gedurende duizenden jaren bewaard en als zodanig herkenbaar kunnen zijn gebleven . 
+Het blijft evenwel moeilijk om uit de concentratie van grondsporen één of meer onmiskenbare huisplattegronden uit het Midden-Neolithicum te destilleren . 
+Om deze reden is ervoor gekozen om aan het einde van hoofdstuk 7 drie scenario ’ s te presenteren . 
+In scenario 1 dateren alle prehistorische sporen in het gebied van de mogelijke huisplattegrond uit de Michelsbergcultuur . 
+Scenario 2 gaat uit van grondsporen uit ( ten minste ) twee prehistorische perioden : het Midden-Neolithicum en de Late Bronstijd / Vroege IJzertijd . 
+De vindplaats bestaat uit een palimpsest van niet alleen vondsten ( vooral 8 aardewerk ) , maar ook van prehistorische grondsporen . 
+In scenario 3 ontbreken sporen uit het Midden-Neolithicum en dateren alle grondsporen uit de late prehistorie . 
+Oudere grondsporen zijn ofwel nooit aanwezig geweest ofwel volledig in de bioturbatielaag opgenomen of vervaagd . 
+Welke van bovengenoemde scenario ’ s juist is , valt moeilijk met zekerheid aan te geven . 
+Vanwege onze conclusie dat neolithische grondsporen herkenbaar kunnen zijn gebleven , wordt scenario 3 niet of minder aannemelijk geacht . 
+Voor scenario 2 spreekt de aanwezigheid van vondsten uit zowel het Midden-Neolithicum als de late prehistorie en de resultaten van de 14C-dateringen . 
+Toch is een nadere beoordeling van de scenario ’ s 1 en 2 niet eenvoudig . 
+Zo zijn er beperkingen van analyse en interpretatie als gevolg van de fasering en methodiek van het archeologische veldwerk . 
+De vindplaats is in drie campagnes opgegraven , waardoor de mogelijkheid tot het creëren van overzicht in het veld beperkt was . 
+Verder is er te weinig rekening gehouden met het voorkomen van archeologisch materiaal in de bioturbatielaag . 
+Waar een gedetailleerde documentatie ( driedimensionaal inmeten of het zeven van sediment in kleine vakken ) op zijn plaats was , is volstaan met het verzamelen van dit materiaal in vakken van 5 x 5 meter tijdens het machinaal verdiepen van het vlak . 
+Om deze reden zijn de exacte begrenzing en samenstelling van de concentraties van aardewerk in de bioturbatielaag niet bekend . 
+Om in de toekomst een dergelijke gedetailleerde documentatie beter te kunnen waarborgen , wordt het rapport afgesloten met enkele aanbevelingen . 
+9 10 1 Inleiding 1.1 Inleiding In de periode 2001-2003 is archeologisch onderzoek uitgevoerd op het toekomstige industrieterrein Panningen , ten noorden van de dorpskern van Panningen in de gemeente Helden ( afb . 
+2 ) . 
+Een belangrijk resultaat van het onderzoek was de ontdekking en documentatie van een prehistorische en laatmiddeleeuwse vindplaats in fase 2 van het uitbreidingsgebied . 
+De vindplaats ligt ten noorden van de Maasbreeseweg en ten oosten van de Loosteeg . 
+In opdracht van de gemeente Helden heeft het Archeologisch Diensten Centrum ( ADC ) , ArcheoProjecten er in maart 2002 en het voorjaar van 2003 opgravingen uitgevoerd.8 In aansluiting hierop heeft de Rijksdienst voor het Oudheidkundig Bodemonderzoek ( ROB ) in de zomer van 2003 een aangrenzende strook van ca . 
+2000 m2 opgegraven . 
+Tijdens dit onderzoek zijn sporen van bewoning uit het Midden-Neolithicum , de Midden-Bronstijd , de IJzertijd , de Middeleeuwen en de Nieuwe Tijd aangetroffen . 
+Over de methoden en resultaten van de opgraving door de ROB wordt in deze rapportage verslag gedaan . 
+Daarbij gaat de aandacht vooral uit naar de oudste bewoningssporen die tijdens de opgraving zijn aangetroffen en in het ( Midden- ) Neolithicum kunnen worden gedateerd . 
+Deze sporen en het feit dat de vindplaats niet volledig was opgegraven , waren voor de ROB aanleiding om de resterende strook op te graven . 
+Uitgangspunt van onderzoek waren enkele vraagstellingen die voor aanvang van de opgraving zijn geformuleerd ( zie hoofdstuk 3 ) . 
+1.2 Ontwikkeling industrieterrein Panningen 8 Kenemans & Goossens 2002 ; Kenemans & Lohof 2005 . 
+9 U00-790/AMZ , d.d . 
+29 mei 2000 . 
+De gemeente Helden heeft in 1998 een bestemmingsplan vastgesteld voor fase 1 van de uitbreiding van industrieterrein Panningen . 
+In dit deel van het plangebied heeft geen archeologisch vooronderzoek plaatsgevonden en zijn geen opgravingen uitgevoerd . 
+Na overleg tussen gemeente en ROB hebben vrijwilligers van de Heemkundevereniging Helden de gelegenheid gekregen om de grondwerkzaamheden in het uitbreidingsgebied van fase 1 archeologisch te begeleiden . 
+De uitbreiding van het industrieterrein Panningen voorzag blijkbaar in een grote behoefte , waardoor een groot deel van de gronden van fase 1 snel werd uitgegeven . 
+Niet veel later besloot het gemeentebestuur ook de uitbreidingen fase 2 en fase 3 in voorbereiding te nemen . 
+Beide uitbreidingen liggen ter weerszijden van het gebied van fase 1 . 
+Ze beslaan gezamenlijk een oppervlakte van circa 17 ha . 
+In een reactie op het voorontwerpbestemmingsplan9 adviseerde de ROB aan de gemeente Helden een Inventariserend Veldonderzoek ( IVO ) , karterende fase ( voorheen Aanvullende Archeologische Inventarisatie ) uit te laten voeren . 
+Tevens werd geadviseerd voldoende tijd en financiën te reserveren voor de IVO en eventueel archeologisch vervolgonderzoek . 
+Sinds de ondertekening van het Verdrag van Malta in 1992 dienen ook gemeentes rekening te houden met het behoud van het archeologische erfgoed . 
+Het Provinciaal Omgevingsplan Limburg ( POL ) , met daarin de verankering van archeologisch onderzoek in het ruimtelijk ordeningsproces , was op dat moment nog in voorbereiding . 
+De gemeente Helden nam echter vooruitlopend op de vaststelling van het POL haar verantwoordelijkheid . 
+In dit licht moet het verlenen van opdracht tot het uitvoeren van archeologisch vooronderzoek op het industrieterrein Panningen , fase 2 worden gezien . 
+11 Venlo Panningen Weert 12 Afb . 
+2 ( tegenoverliggende pagina ) Ligging van de onderzoekslocatie Helden-Panningen in het industrieterrein Panningen . 
+jaren v. Chr . 1.3 Leeswijzer In deze rapportage wordt verslag van het onderzoek dat de ROB van 16 juni tot 5 juli 2003 in aansluiting op de opgraving door het ADC heeft uitgevoerd . 
+In hoofdstuk 2 wordt de resultaten van het eerder uitgevoerde archeologische onderzoek op het bedrijventerrein Panningen samengevat . 
+Hoofdstuk 3 gaat in op de doelstelling , onderzoeksvragen en methoden van opgraving van de ROB . 
+De resultaten van de opgraving worden in hoofdstuk 4 ( Landschap en bodem ) en hoofdstuk 5 ( Archeologie ) besproken . 
+In hoofdstuk 6 wordt de problematiek van de aanwezigheid en zichtbaarheid van grondsporen van de Michelsbergcultuur op de Limburgse zandgronden nader aan de orde gesteld . 
+Hoofdstuk 7 bestaat uit een discussie , waarin op een aantal bijzondere aspecten van de vindplaats Helden-Panningen dieper zal worden ingegaan en drie scenario ’ s worden gepresenteerd . 
+In hoofdstuk 8 worden de onderzoeksvragen beantwoord en een aantal aanbevelingen gedaan . 
+Voor nadere informatie over de beschreven profielen en de samenstelling van het vondstmateriaal uit de opgraving van de ROB , wordt verwezen naar de bijlagen . 
+Een tijdschema van de archeologische perioden is opgenomen als afb . 
+3. archeologische periode noord zuid cultuur / groep / traditie noord zuid 12 500 Fries IJzertijd z j 250 800 1500 1800 2000 Midden-Bronstijd B Niederrheinische Grabhügel Hilversum Elp Midden-Bronstijd A wikkeldraadbeker klokbeker Laat-Neolithicum B Neolithicum o m 3400 Sleen Vroege Bronstijd 2500 2900 Zeijen tijd Late Bronstijd Bronstijd 1100 Vroege IJz overi en IJzertijd-groepen enkelgraf Laat-Neolithicum A Midden-Neolithicum B trechterbeker Vlaardingen Stein Hazendonk-3 Michelsberg Midden-Neolithicum A 4200 Swifterbant VroegNeolithicum B ? 
+Rössen 4900 Afb . 
+3 Tijdschema van de belangrijkste archeologische perioden , waarvan het archeologisch onderzoek in Helden-Panningen sporen heeft opgeleverd . 
+1.4 Verantwoording en dank Voor het verlenen van medewerking aan het onderzoek willen wij de volgende personen bedanken : Mien van Hoef ( Heythuysen ) , Twan Niessen ( Helden ) , Erik Drenth , Jos Deeben , Cees van Rooijen , José Schreurs , Petra Tensen , Christel Kilian ( allen ROB ) , Mat Theunissen ( Vessem ) en de firma Dorssers ( Panningen ) voor de werkzaamheden in het veld . 
+De dagelijkse veldleiding was in handen van Klaas Greving ( ROB ) . 
+13 Erik Kieft , Bart Schutter , Menne Kosian , Jan van Doesburg en Otto Brinkkemper ( allen ROB ) zijn wij erkentelijk voor hun activiteiten binnenshuis : voor het restaureren van de pot uit de Midden-Bronstijd , voor het zeven van de grondmonsters uit de paalsporen , voor de discussie over en visualisatie van de zeefvakken , voor het determineren van het vondstmateriaal uit de Late Middeleeuwen en Nieuwe Tijd en voor het beantwoorden van onze botanische vragen . 
+Voor het lezen en becommentariëren van eerdere versies van dit rapport zijn we de volgende personen dank verschuldigd : Fred Brounen , Erik Drenth , Eric Lohof en Leo Verhart . 
+1.5 Administratieve gegevens Provincie : Limburg Gemeente : Helden-Panningen Plaats : Panningen Toponiem : Industrieterrein Panningen Periode : Neolithicum , Bronstijd , IJzertijd , Late Middeleeuwen en Nieuwe Tijd Kaartblad : 58B Centrum coördinaten : 197.480 / 372.100 CMA/AMK-status : niet van toepassing Archis monumentnummer : niet van toepassing CIS-code : 4279 14 2 Onderzoeksgeschiedenis 2.1 Inventariserend Veldonderzoek , karterende fase Begin 2001 heeft Archeologisch Adviesbureau RAAP in opdracht van de gemeente Helden een IVO , karterende fase uitgevoerd in het noordelijke uitbreidingsgebied ( fase 2 ) van het industrieterrein Panningen.10 In totaal zijn 154 boringen gezet . 
+Uit dit onderzoek werd een aantal zaken duidelijk . 
+In de eerste plaats trof men een meer dan 50 cm dikke , van oorsprong middeleeuwse akkerlaag ( een plaggenbodem of plaggendek ) aan . 
+Deze laag is ontstaan door bemesting met opgebrachte plaggen . 
+Onder dit dek werd op een aantal plaatsen een intact podzolprofiel waargenomen . 
+In de tweede plaats leverden de boringen in het oostelijke deel van het plangebied , op het hoogste deel van een markante dekzandrug , een archeologische vindplaats ( vindplaats 1 ) op . 
+In verscheidene boringen werd in een lichtgrijsbruine laag aan de basis van het plaggendek prehistorisch aardewerk aangetroffen ( afb . 
+4 ) . 
+In een boring ( nr . 50 ) werd oranje verbrande leem vastgesteld . 
+Deze leem duidde op de aanwezigheid van een veldbrandoven.11 2.2 Inventariserend Veldonderzoek , waarderende fase 10 Van Dijk 2001 . 
+11 Van Dijk 2001 , 17 . 
+12 Kenemans & Goossens 2002 . 
+13 PvE door E. Rensink , juli 2001 . 
+14 Voor de dateringen van de verschillende perioden van de Bronstijd , zie Lanting & Van der Plicht 2001/2002 . 
+De ontdekking van vindplaats 1 en de verwachting dat het plaggendek het bodemarchief ter plaatse goed zou hebben beschermd , waren aanleiding om het oostelijke deel van het gebied door middel van een IVO , waarderende fase ( voorheen Aanvullend Archeologisch Onderzoek ) in de vorm van proefsleuven nader te onderzoeken . 
+Het veldwerk werd in maart 2002 uitgevoerd door het ADC.12 Als leidraad van dit onderzoek diende een Programma van Eisen dat door de ROB was opgesteld.13 Tijdens de IVO zijn zes proefsleuven gegraven ( putten 1 t/m 6 ) en is een oppervlak van ca . 
+2400 m2 onderzocht . 
+De putten waren parallel en haaks op elkaar georiënteerd ( afb . 
+5 ) . 
+Putten 1 tot en met 5 hadden een breedte van 4 meter en een lengte van 60 tot 150 m. Put 6 had een lengte van 17 m en een breedte van 6 m. Deze put was gegraven om de sporen van de mogelijke veldbrandoven ter hoogte van RAAP-boring 50 te traceren . 
+In de proefsleuven werden op het hoge deel van de dekzandrug talrijke grondsporen aangetroffen , waarvan de conservering en gaafheid goed was dankzij de aanwezigheid van het plaggendek . 
+Het meest duidelijk herkenbaar waren grondsporen uit de Late Middeleeuwen ( 1050-1500 n.Chr . ) 
+en Nieuwe tijd ( 1500 n.Chr.-heden ) . 
+Maar ook sporen uit de Bronstijd ( 1900-800 v.Chr . 
+) 14 en/of IJzertijd ( 800-12 v.Chr . 
+) , waaronder zeven crematiegraven uit de Late IJzertijd ( 250-12 v.Chr . 
+) , waren duidelijk zichtbaar in het opgravingsvlak . 
+Ook een mogelijke brandstapelplek , veldbrandovens en greppels uit de Late Middeleeuwen ( 12-14e eeuw ) kwamen aan het licht . 
+Naast deze sporen waren in put 1 vage , licht-grijs gekleurde sporen zichtbaar die uit het Neolithicum zouden kunnen dateren . 
+Met een vroege datering van deze grondsporen werd rekening gehouden vanwege het voorkomen van scherven aardewerk en vuursteen uit het Midden-Neolithicum ( 4200-2850 v.Chr . 
+) , vermoedelijk de Michelsbergcultuur ( 4200-3900 v.Chr . 
+) , in hetzelfde gebied als de grondsporen . 
+Op basis van de resultaten van het proefsleuven onderzoek heeft de ROB aan het gebied van vindplaats 1 een hoge archeologische waarde toegekend . 
+Dankzij de beschermende werking van het plaggendek was de fysieke kwaliteit van de sporen goed tot uitstekend . 
+Ook de inhoudelijke kwaliteit was hoog te noemen , om verschillende redenen . 
+In het zandgebied van Midden-Limburg 15 Afb . 
+4 Overzicht van het plangebied met de locatie van de boringen , gezet door RAAP ( Bron : Van Dijk 2001 ) . 
+16 197550 372150 put 7 put 3 put 1 put 13 put 8 put 10 p put 12 put 2 put 11 put 6 197550 put 9 put 14 372050 197400 put 4 372050 put 5 Afb . 
+5 Overzicht van alle sporen , opgetekend door het ADC ( Bron : Kenemans & Lohof 2005 ) . 
+15 Deze bioturbatielaag wordt in de archeologische volksmond ook wel ‘ mollenlaag ’ genoemd 0 50 m zijn bewoningssporen uit de Brons- en/of IJzertijd , evenals een compleet grafveld uit de Late IJzertijd bijzonder . 
+Mogelijk was er zelfs sprake van een nederzetting en een bijbehorend grafveld . 
+Daarnaast werd veel waarde gehecht aan het voorkomen van aardewerk en vuurstenen artefacten uit het MiddenNeolithicum op het hoogste deel van de dekzandrug . 
+In hetzelfde gebied tekenden zich grondsporen af onder een door bioturbatie verstoorde laag ( in dit rapport verder bioturbatielaag genoemd ) .15 Deze grondsporen zouden gelijktijdig kunnen zijn met het aangetroffen aardewerk . 
+Door middel van opgraving bestond de gelegenheid om een zeldzame vindplaats uit mogelijk het Midden-Neolithicum nader te onderzoeken . 
+17 2.3 Opgraving Omdat behoud in situ niet mogelijk was , heeft de gemeente Helden aan het ADC de opdracht gegeven het gebied van vindplaats 1 op te graven . 
+In totaal is een gebied met een oppervlak van ca . 
+5200 m2 opgegraven ( afb . 
+5 ) .16 Als uitgangspunt diende een Programma van Eisen van de ROB.17 Tijdens het veldwerk kwamen sporen en vondsten uit verschillende perioden aan het licht : een compleet crematiegrafveld uit de Late IJzertijd bestaande uit 33 graven , een veldbrandoven , kuilen , greppels en een waterput uit de Middeleeuwen en mogelijke vlaskuilen uit de Nieuwe Tijd . 
+Met betrekking tot de mogelijke aanwezigheid van neolithische grondsporen leverde met name put 13 belangrijke gegevens op . 
+Evenals in put 1 uit het proefsleuven onderzoek werd tijdens het verdiepen van put 13 onder het plaggendek in de bioturbatielaag aardewerk uit het Midden-Neolithicum ( Michelsbergcultuur ) aangetroffen . 
+Ook werden uit deze laag enkele onmiskenbare vuurstenen artefacten van de Michelsbergcultuur verzameld . 
+Onder de bioturbatielaag waren in geelbruin dekzand grondsporen zichtbaar die – mede gezien de kleur van de vullingen – als prehistorisch werden aangemerkt ( afb . 
+6 ) . 
+Gezien het voorkomen van Michelsbergaardewerk in de bioturbatielaag werd in eerste instantie aangenomen dat de grondsporen in het MiddenNeolithicum zouden dateren . 
+In de configuratie van de grondsporen kon zelfs een huisplattegrond worden herkend . 
+Daarmee zou het gaan om een unieke vondst : de eerste ‘ duidelijke ’ huisplattegrond uit het Midden-Neolithicum op de pleistocene zandgronden van Zuid-Nederland . 
+In het eindrapport van het ADC over de opgraving worden voor het gebied met de grootste dichtheid van prehistorische grondsporen uiteindelijk drie varianten van huisplattegronden gepresenteerd.18 Op basis van vorm en afmetingen wordt variant II ( datering : Late Bronstijd/Vroege IJzertijd ) het meest aannemelijk geacht . 
+Dit impliceert een veel jongere datering van ‘ de ’ huisplattegrond dan aanvankelijk , tijdens het veldwerk in het voorjaar van 2003 , werd verondersteld . 
+18 16 Kenemans & Lohof 2005 . 
+17 PvE 2002-058 , opgesteld door E. Rensink & L. Theunissen , oktober 2002 . 
+18 Kenemans & Lohof 2005 . 
+36 47 44 40 161 162 149 159 167 172 166 171 168 163 145 148 126 146 155 125 143 142 158 165 170 48 151 138 130 140 127 132 152 Afb . 
+6 De verdichting van prehistorische grondsporen in putten 1 en 13 ( Bron : Kenemans & Lohof 2005 ) . 
+0 10 m 19 20 3 Opgraving ROB 3.1 Inleiding De aanwezigheid van aardewerk en vuurstenen artefacten uit het MiddenNeolithicum en mogelijk gelijktijdige grondsporen , al dan niet onderdeel van een huisplattegrond , in de putten van het ADC was voor de ROB aanleiding om een in het noorden aangrenzend deel van de vindplaats nader te onderzoeken . 
+De opgraving vond plaats in 16 juni tot en met 5 juli 2003 onder de dagelijkse leiding van K. Greving ( ROB ) en nam 15 werkdagen in beslag.19 3.2 Doelstelling en onderzoeksvragen De doelstelling van de opgraving door de ROB was tweeledig : enerzijds om de mogelijke voortzetting van prehistorische grondsporen en vondsten ten noorden van de putten van het ADC vast te leggen en anderzijds om inzicht te krijgen in mogelijk ruimtelijk en chronologische relaties tussen het vondstmateriaal in de bioturbatielaag en onderliggende grondsporen . 
+Als uitgangspunt van de opgraving golden de volgende vraagstellingen:20 1 . 
+Bevinden zich in de noordelijke strook grenzend aan put 1 van de opgraving van het ADC grondsporen en vondsten ( aardewerk en vuursteen ) uit het Midden-Neolithicum ? 
+2 . 
+Wat is de ruimtelijke en chronologische relatie tussen vondsten in de bioturbatielaag en eventueel aanwezige grondsporen onder deze laag ? 
+3 . 
+Zijn er concentraties van vondsten in de bioturbatielaag aanwijsbaar en hoe dienen deze te worden geïnterpreteerd ? 
+Gaat het bijvoorbeeld om vondsten afkomstig uit grondsporen of om activiteitsgebieden in en rond het gebied van de mogelijke huisplattegrond ? 
+4 . 
+Wat kan er worden gezegd over de diepteligging en conservering van het prehistorische loopvlak ? 
+5 . 
+Kunnen grondsporen van neolithische ouderdom in zichtbare vorm zijn bewaard ? 
+6 . 
+Is het door archeologisch en bodemkundig onderzoek mogelijk om uitspraken te doen over het ontstaan en ouderdom van de bioturbatielaag ? 
+7 . 
+Welke bijdrage levert het zeven van grondsporen en het verzamelen van organische en anorganische vondsten aan het dateren van de sporen ? 
+De opgraving richtte zich op het noordelijke deel van de vindplaats , op een strook van ca . 
+20 x 80 m grenzend aan de putten 1 en 3 van het ADC ( afb . 
+7 ) . 
+Vanwege de nabijheid van mogelijk neolithische grondsporen in genoemde putten , was deze aangrenzende strook geschikt voor opgraving met het oog op een beantwoording van bovengenoemde vraagstellingen . 
+3.3 Methoden 19 Onderzoeksnummer 4279 . 
+20 B & O-formulier ( d.d . 
+26-052003 ) . 
+In de loop van de uitwerking zijn enkele vraagstellingen ( nrs . 
+3 , 4 en 5 ) toegevoegd aan de vraagstellingen die in het B & Oformulier waren verwoord . 
+Tijdens de opgraving van de ROB is een werkwijze van veldwerk gehanteerd die in bepaalde opzichten afwijkt van de gangbare methode van onderzoek voor prehistorische vindplaatsen met grondsporen onder een plaggendek . 
+Op dergelijke vindplaatsen worden in de regel het plaggendek en onderliggende bioturbatie- en/of oude akkerlagen laagsgewijs met een graafmachine verwijderd . 
+Vondsten die tijdens het verdiepen van de put aan het licht komen , worden per put of per vak ( bijvoorbeeld met afmetingen van 5 x 5 meter ) verzameld en voorzien van een vondstnummer . 
+Deze methode is ook in Panningen 21 ROBput 15 put 7 ROBput 14 put 3 put 1 put 13 put 8 put 10 put 12 put 2 put 11 put 9 put 6 put 14 put 4 lokatie zeefvakken put 5 tijdens de opgravingen van het ADC en conform het PvE toegepast . 
+Voordat het sporenvlak werd bereikt , zijn daarbij prehistorische scherven en enkele vuurstenen artefacten uit de bioturbatielaag verzameld . 
+Een belangrijk nadeel van deze werkwijze is dat tijdens de uitwerking ruimtelijke en chronologische correlaties tussen enerzijds ( concentraties van ) vondsten ( aardewerk , vuursteen ) direct boven het sporenvlak en anderzijds grondsporen moeilijk achterhaald kunnen worden . 
+Eenmaal op het sporenniveau aangekomen , zijn bovenliggende lagen machinaal verwijderd en zijn hieruit in de regel alleen artefacten en scherven met relatief grote afmetingen als vlakvondst verzameld . 
+Voor het dateren van onderliggende en ruimtelijk zeer begrensde archeologisch fenomenen , zoals paalkuilen , zijn deze vondsten van geringe waarde . 
+De exacte plaats van herkomst van deze vondsten in het opgravingsvlak is immers alleen bij benadering bekend . 
+22 0 50 m Afb . 
+7 Ligging van putten 14 en 15 ten opzichte van het door het ADC opgegraven gebied , met de locatie van de zeefvakken in put 14 . 
+Om eventuele ruimtelijke relaties wel te kunnen vaststellen en mogelijk meer houvast te hebben bij het dateren van grondsporen , werden voor de opgraving van de ROB de volgende uitgangspunten van belang geacht : 1. tijdens de opgraving dient uit de bioturbatielaag zoveel mogelijk archeologisch materiaal te worden verzameld en , 2. voor een juiste bepaling van de locatie van herkomst van dit materiaal dient te worden verzameld in kleine ruimtelijke eenheden , bijvoorbeeld in vakken van 1 x 1 m , of vakken van 50 x 50 cm . 
+De volgende werkzaamheden zijn in het veld uitgevoerd : Er is een nieuwe put ( ROB-put 14 ) met een lengte van 86 m en een breedte van 10 m machinaal uitgegraven ( afb . 
+7 ) . 
+ROB-put 14 grenst in het westen aan put 7 ( opgraving ADC 2003 ) en in het zuiden aan put 1 ( proefsleuf ADC 2002 ) . 
+In het gebied waar grondsporen met een mogelijk neolithische ouderdom werden verwacht , dat wil zeggen in de nabijheid van de cluster van prehistorische grondsporen in put 13 , is het eerste vlak tot op het niveau van de bioturbatielaag uitgegraven . 
+Deze laag heeft het ADC vastgesteld in de putten 8 , 10 en 13 en bevond zich stratigrafisch boven het sporenniveau bestaande uit geelbruin dekzand . 
+Om de bioturbatielaag archeologisch nauwkeurig te kunnen onderzoeken , is het eerste op te graven vlak ca . 
+20 cm hoger aangelegd dan het opgravingsvlak van het ADC . 
+Op het eerste vlak , dus op het niveau van de bioturbatielaag , zijn in het centrale deel van ROB-put 14 vervolgens zeefvakken van 50 x 50 cm uitgezet ( afb . 
+7 en 8 ) . 
+Deze vakken zijn in maximaal twee lagen van 10 cm handmatig uitgegraven tot op het sporenvlak . 
+Het uitgegraven sediment is in zeefkruiwagens met een maaswijdte van 3 x 3 mm nat gezeefd . 
+De residuen zijn per zeefeenheid ( vak en laag ) verzameld , gedroogd en gesorteerd per materiaal . 
+Nadat de te zeven lagen waren verwijderd , is het vlak opgeschaafd en zijn grondsporen ingemeten en ingetekend . 
+Afb . 
+8 Een blik op de zeefstrook . 
+In het onderste deel van de Bhorizont schemeren de eerste sporen door . 
+De zeefvakken zijn in eerste instantie uitgezet in een zone met een lengte van 25 m en een breedte van 10 m , dat wil zeggen over de volledige breedte van ROBput 14 ( afb . 
+7 ) . 
+De 50 x 50 cm-vakken zijn in de richting van zuid naar noord met letters benoemd en in de richting van west naar oost met cijfers , om zo unieke eenheden te creëren . 
+Binnen de beschikbare tijd kon de bioturbatielaag in dit gebied echter niet volledig worden gezeefd . 
+Van het gebied met de vakken 23 rij A B C D E F G H I J K L totaal laag 1 laag 2 30 50 30 50 30 16 30 20 7 7 7 7 7 7 7 7 28 7 28 7 28 7 28 7 260 192 A1 tot en met L30 is het merendeel van de vakken in twee lagen met elk een dikte van 10 cm gezeefd . 
+Ten oosten van dit gebied is laag 2 in een strook van 10 x 1 meter ( vakken A 31 t/m 50 en B 31 t/m 50 ) gezeefd . 
+Uiteindelijk is in 260 vakken het bovenste deel van de bioturbatielaag ( laag 1 ) en in 192 vakken het onderste deel ervan ( laag 2 ) gezeefd ( tabel 1 ) . 
+In totaal gaat het om 452 gezeefde lagen . 
+Delen van ROB-put 14 die niet zijn gezeefd , zijn volgens de gangbare methode van opgraving van vindplaatsen met grondsporen onderzocht . 
+Na het uitgraven van ROB-put 14 is ten noorden van en evenwijdig aan deze put een tweede put ( ROB-put 15 ) machinaal aangelegd ( afb . 
+7 ) . 
+Deze put had een lengte van 99 bij 11 m en een uitbouw van 27 bij 3 m. In deze put zijn geen zeefvakken uitgezet , maar is volgens de gangbare methode gericht op de documentatie van grondsporen gegraven . 
+In totaal is in de ROB-putten 14 en 15 een oppervlak van 2030 m2 opgetekend en archeologisch gedocumenteerd . 
+Als onderdeel van het bodemkundige onderzoek zijn van de noordelijke ( lange ) zijden van ROB-putten 14 en 15 om de 10 meter profielopnames gemaakt . 
+Met het oog op het onderzoek van de relatie tussen processen van bodemvorming en de zichtbaarheid van prehistorische grondsporen werd bovendien waarde gehecht aan bodemkundige waarnemingen door een specialist , inclusief een zorgvuldige beschrijving van een ‘ representatief ’ profiel . 
+Om deze reden is er in de noordelijke wand van put 15 met de graafmachine een ontsluitingsgat van 4 m diep gegraven . 
+De beschrijving en interpretatie van dit profiel is uitgevoerd door Theo Spek van de ROB ( zie hoofdstuk 4 ) . 
+Als bijdrage aan het onderzoek van de ouderdom van de grondsporen in ROB-put 14 is het sediment van 15 ( vermoedelijk ) prehistorische sporen met water gezeefd over een zeef met een maaswijdte van 1 mm . Deze werkwijze sluit aan bij de opgraving van put 13 door het ADC , waarbij eveneens en conform het PvE de vullingen van sporen volledig zijn gezeefd . 
+Het betreft de sporen waarvan op grond van de kleur en het nabij gevonden aardewerk een prehistorische datering aannemelijk is . 
+24 Tabel 1 Aantallen zeefvakken in ROB-put 14 . 
+4 Resultaten : geologie en bodem Th . 
+Spek 4.1 Landschappelijke ligging De archeologische vindplaats binnen het uitbreidingsgebied Panningen ligt in Midden-Limburg , in de uiterste zuidoosthoek van het Zuid-Nederlandse dekzandlandschap en ca . 
+20 km ten oosten van de Peelrandbreuk en ca . 
+5 km ten westen van het huidige Maasdal . 
+Het zeer uitgestrekte voormalige hoogveengebied van de Brabantse en Limburgse Peel begint op minder dan 4 km oostelijk van de vindplaats . 
+Het dekzandlandschap in de directe omgeving van de vindplaats wordt gedomineerd door een langgerekte en brede keten van dekzandruggen ( afb . 
+9 ) . 
+dekzandrug stuifduinen met uitgestoven laagten en vlakten dekzandwelvingen dekzandvlakte rivierenlandschap Maasterrassen dalvormige laagte met veen dalvormige laagte zonder veen Afb . 
+9 Natuurlijke landschapseenheden rond Panningen . 
+opgravingslokatie 0 1 km 2,5 km Deze dekzandruggen hebben zich in een halvemaanvormige krans rond een laaggelegen gebied langs de bovenloop van de Everlose beek gedrapeerd . 
+Op deze dekzandruggen ontstonden in de historische tijd de uitgestrekte open akkercomplexen van verscheidene nederzettingen : Maris , Beringe , Everlo , Vosberg , Stokx , Loo en Zandberg ( afb . 
+10 ) . 
+Ter plaatse van de opgraving bevindt zich eveneens een dekzandrug , waarvan het glooiende karakter in het veld goed waarneembaar was . 
+In het westen bevindt het maaiveld zich op 34,1 m +NAP , het hoogste deel op 34,5 m +NAP en het oostelijke deel op 33,8 m +NAP . 
+De vindplaats zelf ligt in het historische akkercomplex van het gehucht Loo . 
+Ten noorden van Loo lag tot aan het begin van de 20e eeuw een laaggelegen 25 en vochtig heidegebied met de kenmerkende naam Laagheide . 
+Nog wat verder noordelijk bevond zich een uitgestrekt en vlakgelegen broekgebied dat de al even sprekende naam Vlakbroek droeg . 
+Dit voormalige moerasgebied vormt vanouds een van de brongebieden van de Everlose beek , die ten noorden van Blerick in de Maas uitmondt . 
+Wat verder naar het zuiden zien we rond de bovenloop van de Kwistbeek een soortgelijke keten van dekzandruggen , met daarop de akkercomplexen van de oude nederzettingen Heuvelhoek , Panningen , Helden en Eindt . 
+Afb . 
+10 Historisch cultuurlandschap rond Panningen in het begin van de negentiende eeuw . 
+4.2 Geologie en geomorfologie In geologisch opzicht maakt de vindplaats deel uit van het zuidelijke deel van het Peel Blok ( voorheen Peelhorst genoemd ) , een door tektonische bewegingen opgeheven gebied dat tussen de Roerdalslenk ( voorheen : Centrale Slenk ) en het Maasdal ligt . 
+Het algemene stratigrafische beeld van de jongste geologische afzettingen in dit deel van het Peel Blok is dat van ( van boven naar beneden ) : 1. een 2-10 m dikke toplaag van dekzanden , leemlagen en fluvioperiglaciale zanden van de Formatie van Boxtel ( voorheen : Formatie van Twente , Nuenen groep ) , ontstaan tijdens de Weichsel-ijstijd ; 2. een 0-10 m dik pakket sneeuwsmeltwaterafzettingen en eolische afzettingen van de Formatie van Boxtel ( voorheen : Formatie van Eindhoven ) , ontstaan tijdens de Saale-ijstijd ; 3. een 8-12 m dik pakket grindhoudende grove rivierzanden van de Formatie van Beegden ( voorheen : Formatie van Veghel B ) , afgezet door de Maas in het Holsteinien , dat is de warme periode tussen de Elster- en de Saale-ijstijd.21 De geomorfologische hoofdstructuur van het onderzoeksgebied is in sterke mate bepaald door de tektonische opheffingen van het Peel Blok in het verre 26 21 Van den Toorn 1967 . 
+22 Wolfert & De Lange 1990. verleden ( o.a . Cromerien ) .22 Voor ons gebied zijn vooral de erosieprocessen uit de laatste drie ijstijden van belang . 
+In de nabije omgeving van het Maasdal had het terrein een zodanige helling dat sneeuwsmeltwater niet stagneerde , maar over de oppervlakte naar het toenmalige Maasdal afstroomde . 
+Zo ontstond in deze overgangszone een geulenpatroon dat in oost-noordoostelijke richting afwaterde op de toenmalige Maas . 
+Dit patroon bepaalde niet alleen de ligging van de latere beekdalen van de Neerbeek , Kwistbeek en Everlose beek , maar ook de aanwezigheid en de strekkingsrichting van vrijwel alle grote dekzandruggen in dit gebied . 
+Om dit te begrijpen , moeten we ons bedenken dat ter plekke van de huidige Peel indertijd een zeer vlak en nauwelijks door smeltwatergeulen doorsneden landschap lag . 
+In de koudste perioden van de Weichsel-ijstijd konden de aan de oppervlakte liggende zanden in dit vlakke landschap heel gemakkelijk gaan verstuiven . 
+De overheersende zuidwestenwinden zorgden voor een groot netto transport van sediment in de richting van het toenmalige Maasdal . 
+Eenmaal aangekomen in het wél door erosiegeulen doorsneden landschap direct ten westen van de Maas , werd het zand vaak vastgelegd op de plek waar het hoog en droog gelegen plateaulandschap overging in het veel lagergelegen en vochtiger landschap ter plekke van de erosiegeulen . 
+Zo ontstonden juist op de flanken van deze geulen de hoogste en breedste dekzandruggen . 
+Het spreekt voor zich dat dergelijke hoog- en drooggelegen zandeilanden in de onmiddellijke nabijheid van een door voedselrijk kwelwater en overstromingswater gevoede beekdalen en broekgebieden uitstekende vestigingsvoorwaarden boden voor de prehistorische en historische mens . 
+In de historische tijd zien we dan ook een sterke concentratie van bewoning op de flanken van deze ruggen . 
+Voor de prehistorische periode kunnen we hetzelfde veronderstellen . 
+De opgegraven vindplaats in het uitbreidingsgebied van Panningen vormt dan ook vrijwel zeker het topje van een grote ijsberg . 
+4.3 Geogenese 23 Stiboka ; Van den Toorn 1967 ; Bisschops , Broertjes & Dobma 1985 . 
+Zonder nader sedimentologisch en paleobotanisch onderzoek kunnen feitelijk geen betrouwbare uitspraken over de geogenese van het bodemprofiel worden gedaan , te meer daar in de regio rondom Helden-Panningen nog nauwelijks onderzoek is verricht naar de diverse afzettingen van de Formatie van Boxtel . 
+Wel kunnen we op basis van geologisch en bodemkundig onderzoek in de wijdere omgeving23 enkele hypothesen opstellen over de mogelijke ouderdom en ontstaanswijze van de bij de opgraving aangetroffen zand- en leempakketten ( zie afb . 
+11 en Bijlage 1 ) : 1 . 
+Het goed gesorteerde , zwak lemige , ongelaagde dekzand aan de top van het profiel ( 1AEb tot en met 1C-horizont ) dient vrijwel zeker als Jong Dekzand I uit het Vroege Dryas-stadiaal ( 12.000-11.800 BP ) van het Laat-Glaciaal te worden geïnterpreteerd . 
+Het is elders op het Peel Blok in grote arealen aan het maaiveld aangetroffen en is ook verantwoordelijk voor het uitgesproken dekzandreliëf in deze streek . 
+2 . 
+Het kryoturbaat verstoorde , sterk lemige , matig gesorteerde , fijn gelamineerde zand- en lössleempakket daaronder ( 2C1 tot en met 2C5 ) moet aan de oppervlakte hebben gelegen in een zeer koude periode , getuige de sterke kryoturbatie-verschijnselen én de vorming van zeer diepe vorstwiggen in die tijd . 
+We vermoeden dat dit pakket uit de zeer koude eindfase van het Pleniglaciaal dateert . 
+In dat geval zouden deze lagen tot het Oud Dekzand II moeten worden gerekend . 
+Ook de aanwezigheid van lössleem en de bekende spekkoek-gelaagdheid wijzen op Oud Dekzand . 
+3 . 
+De eveneens kryoturbaat verstoorde , goed gesorteerde , zand- en leemlaag aan de basis van het bestudeerde profiel ( 3C1- en 3C2-horizont ) dient vermoedelijk eveneens tot het Oude Dekzand te worden gerekend . 
+De goede 27 Afb . 
+11 Geologisch-bodemkundig proﬁel noordwand werkput 14 ( voor uitleg codes : zie Bijlage 1 ) . 
+1Aap1 1Aap2 1Aa2 1AEb 1Bhsb 1Bhwb 1BCw 1C 2C1 2C2 2C3 2C4 2C5 3C1 3C2 sortering en microgelaagdheid wijst op afzetting door de wind , de kryoturbate verschijnselen op een zeer koude periode na afzetting . 
+Mogelijk dateert dit pakket uit het Vroege of Midden-Pleniglaciaal . 
+4.4 Bodem- en landschapsgenese Uitgaande van de waargenomen profielkenmerken ( zie Bijlage 1 ) kunnen vier belangrijke fasen in de bodemgenese worden onderscheiden ( afb . 
+11 ) : Fase 1 Vorming van een bruine verweringsbodem onder bos In het droge fijne , zwak lemige Jonge Dekzand dat aan het einde van het LaatGlaciaal aan de oppervlakte lag , heeft zich in de eerste millennia van het Holoceen een diepe bruine verweringsbodem gevormd . 
+Bodemvormende processen waren onder meer : de verwering van kleimineralen uit de leemfractie van het dekzand , de vorming van moderhumus en een diepe homogenisatie van het bodemprofiel door boomwortels , andere soorten plantenwortels en bodemdieren . 
+Het resultaat was een diep ontwikkelde bruine bosbodem . 
+Deze bodem wordt in de bodemkunde doorgaans aangeduid met de benaming vorstvaaggrond 28 11 Helden-Panningen ( code Zb21 en Zb23 ) of , in het geval van inspoeling van aluminium , moderpodzolgrond ( code Y21 en Y23 ) . 
+Gezien de diepte van de verbruining ( ca . 
+60 cm ) , de talrijke wortel- en faunakanalen in de BCw-horizont en de afwezigheid van intensieve podzoleringskenmerken , is de kans groot dat deze verweringsbodem zich onder een goed ontwikkelde loofbosvegetatie heeft gevormd . 
+We denken daarbij vooral aan de zware loofbosontwikkeling , die de pleistocene zandgronden normaliter in de loop van het Boreaal en Atlanticum hebben ondergaan . 
+De rijke bosvegetatie zorgde voor een geringe uitspoeling van voedingsstoffen naar de diepere ondergrond en daarmee voor een relatief rijk bodemmilieu . 
+Palynologisch onderzoek van de 1Bwb-horizont kan nog een beeld geven van de prehistorische bosontwikkeling ter plekke , ondanks het feit dat de kans op grootschalige corrosie van pollen in dit soort dynamische bosbodems relatief groot is . 
+Omdat het hierbij mede gaat om de vegetaties tijdens de nog slechts weinig onderzochte periode van de Michelsbergcultuur , is een poging in deze richting bij toekomstig onderzoek gewenst . 
+De top van dit oorspronkelijke natuurlijke profiel heeft naar alle waarschijnlijkheid op een diepte van 50-56 cm beneden het huidige maaiveld ( -mv . ) 
+gelegen , dat wil zeggen op een hoogte van 33,89-33,95 m +NAP . 
+We leiden dit af uit de profielkenmerken van het onthoofde profiel en de uit de literatuur bekende historische ploegdiepte van 12-18 cm ten tijde van de ontginning ( diepste bewerkingsgrens ligt op 68 cm -mv . 
+; oorspronkelijk maaiveld lag 12-18 cm hoger , d.w.z . 
+op 50-56 cm -mv . ) . 
+24 Spek 1996 . 
+Fase 2 Podzolering van de toplaag van de verweringsbodem onder open vegetatie Aan de bovenzijde van de bruine verweringsbodem ( 1Bw-horizont ) waren op veel plaatsen in het profiel de resten van een ondiep ontwikkelde haarpodzolgrond te onderscheiden . 
+Deze profielresten bestaan uit een dunne grijsgekleurde uitspoelingshorizont ( 1AEb ) met daaronder een eveneens dunne roodbruingekleurde inspoelingshorizont ( 1Bhsb ) . 
+Beide horizonten hadden een voor haarpodzolgronden kenmerkende ‘ rode gloed ’ over zich . 
+In de profielwand van ROB-put 14 zagen we dat het haarpodzolprofiel op tal van plaatsen sterk verstoord was door latere ontginnings- en bodembewerkingsactiviteiten . 
+Uit de aanwezigheid van podzolkenmerken in de top van de oorspronkelijk aanwezige verweringsbodem , kunnen we afleiden dat de top van de oude bosbodem op een bepaald moment in haar bestaan is gedegradeerd . 
+In zwak lemige moedermaterialen treedt podzolering normaliter op wanneer de natuurlijke bosvegetatie door ingrijpen van de mens plaatsmaakt voor een meer open halfnatuurlijke vegetatie ( open parklandschap , grasheide , heide ) .24 In de meeste gevallen ontwikkelt zich onder dergelijke omstandigheden in de loop der eeuwen een diep ontwikkeld haarpodzolprofiel ( Hd21 ) . 
+Uit het feit dat ter plekke van de opgraving slechts een ondiep haarpodzolprofiel is gevormd , leiden we af dat de periode van bodemdegradatie relatief kort is geweest . 
+Met andere woorden : de dekzandkop zal gedurende grote delen van het Holoceen met bos bedekt zijn geweest en hooguit enkele eeuwen een open landschap hebben gehad . 
+Bij dat laatste denken we aan de IJzertijd , toen de dekzandrug is gebruikt voor in ieder geval de aanleg van een grafveld , en aan de latere Middeleeuwen en vroege Nieuwe Tijd . 
+In deze periode werd de dekzandrug in gebruik genomen als akkerland en ontstonden op de flanken van de rug talrijke akkergehuchten . 
+De relatief talrijk aanwezige boselementen ( loo , stok ) in de namenvoorraad van deze nederzettingen ( bijvoorbeeld Everlo , Loo , Stokx ) vormen een duidelijke aanwijzing voor de aanwezigheid van halfopen bos ( loo ) en hakhoutbos ( stock ) op de dekzandrug ten tijde van de stichting van deze nederzettingen . 
+We leiden hieruit af dat de dekzandrug na de IJzertijd opnieuw met bos overdekt moet zijn geraakt . 
+Dit is in overeenstemming met de relatief geringe podzolkenmerken van het bodemprofiel ter plekke . 
+Overigens komen loo-namen ook in Drenthe , Oost-Nederland en de Veluwe 29 hoofdzakelijk voor op lichte en hooggelegen zandgronden . 
+De bijbehorende vegetatie was een relatief open eiken-berkenbos dat in de late prehistorie en tijdens de Middeleeuwen werd gebruikt voor het weiden van de dorpskudden ( bosweide ) . 
+Voor ons onderzoeksgebied kunnen we vermoeden dat de dekzandrug lange tijd gefunctioneerd heeft als bosweide ( loo ) van de oudere nederzettingen in het desbetreffende nederzettingsterritorium . 
+De bruine verweringsbodem onder dit bos werd daarbij slechts in geringe mate aangetast door podzolisatie . 
+Toen in de Late Middeleeuwen of vroege Nieuwe Tijd een nederzetting in deze omgeving werd gesticht , kreeg deze de naam van het ter plekke aanwezige gebruiksbos ( Loo ) dat vervolgens in één of meer fasen werd ontgonnen tot akkerland . 
+Pollenonderzoek van de 1AEb- en 1Bhsbhorizont geeft mogelijk een beeld van de vegetatie van dit vroegere loo-bos . 
+Een probleem is echter wel de sterke beïnvloeding van deze lagen door bioturbatie , bodembewerking en recente doorworteling ( asperge ) . 
+Fase 3 Ontginning tot akkerland Uit de aanwezigheid van een plaggendek blijkt dat de licht gepodzoleerde verweringsgronden van de dekzandrug op zeker moment moeten zijn ontgonnen tot cultuurland . 
+Er zijn aanwijzingen dat deze ontginning relatief laat in de historische tijd heeft plaatsgevonden , mogelijk zelfs in de post-middeleeuwse periode . 
+Vrijwel al het aardewerk in het plaggendek , ook in de onderste laag daarvan , dateert van na 1400 n.Chr.. Een tweede aanwijzing vormt de afwezigheid van een fossiele akkerlaag uit de periode vóór de intensieve plaggenbemesting . 
+In oudere akkerontginningen zien we op de overgang van de natuurlijke ondergrond naar het later gevormde plaggendek vrijwel altijd nog sporen van de lichtgrijsbruin gekleurde akkerlagen , die tijdens de Middeleeuwen werden bewerkt . 
+De lichte kleur ervan is mede te danken aan de afwezigheid van de intensieve plaggenbemesting die in het Zuid-Nederlandse dekzandlandschap pas in de late 14e of vroege 15e eeuw werd geïntroduceerd.25 Daarentegen vertonen bodems die tijdens de periode van de intensieve plaggenbemesting zijn ontgonnen nooit sporen van dergelijke fossiele akkerlagen . 
+Daar gaat de natuurlijke ondergrond dus direct over in het meestal donkergrijs of zwart gekleurde plaggendek . 
+Zo ook in het bestudeerde profiel in ROB-put 14 , waar de natuurlijke 1AEb-horizont via een scherpe grens direct overgaat in de 1Aa2-horizont van het plaggendek . 
+We hebben hier te maken met een akker die tijdens de periode van de plaggenbemesting is ontgonnen , dat wil zeggen tijdens de Late Middeleeuwen of vroege Nieuwe Tijd . 
+Het late ontginningstijdstip is mede het gevolg van de geringe geschiktheid voor akkerbouw van de ter plekke aanwezige natuurlijke bodem . 
+Enerzijds was deze door zijn hoge ligging en relatief geringe leemgehalte zeer gevoelig voor verdroging en verstuiving , anderzijds was ook de natuurlijke bodemvruchtbaarheid relatief gering . 
+Illustratief is in dit verband de aangrenzende dekzandkop van de Vosberg , direct ten noordoosten van de opgraving . 
+Hier ligt een in alle opzichten met het opgravingterrein vergelijkbare natuurlijke vorstvaaggrond ( Zb21 ) die pas laat in de 20e eeuw is ontgonnen tot cultuurland . 
+Voor de vroegere boeren was dit soort sterk verdrogende gronden hooguit derde keus . 
+Zij prefereerden de meer lemige en vochthoudende zandbodems in de directe omgeving . 
+Fase 4 Ophoging van het maaiveld door plaggenbemesting De bodem van het studiegebied is naar alle waarschijnlijkheid vanaf het moment van ontginning bemest met zandhoudende plaggenmest . 
+In de loop der eeuwen leidde dit tot een plaggendek met een dikte van ca 70 cm . 
+In vergelijking met akkercomplexen elders in Zuid-Nederland die vaak dikten van het dek van 80100 cm te zien geven , is de dikte van het plaggendek hier vrij gering . 
+Mogelijk is dit een gevolg van een wat later ontginningstijdstip , hoewel ook tal van andere factoren een rol kunnen spelen . 
+De herkomst van de plaggen kan wellicht achterhaald worden met behulp van palynologisch onderzoek van het dek . 
+Ook 30 25 Spek 2004. de vroegere akkervegetaties ( cultuurgewassen , akkeronkruiden ) kunnen daarbij worden gereconstrueerd . 
+De donkergrijze en donkergrijsbruine kleuren van de diverse onderdelen van het plaggendek lijken te wijzen op een herkomst van de plaggen uit gebieden met podzolgronden en vorstvaaggronden , dat wil zeggen uit de gebieden die op 19e-eeuwse topografische kaarten nog als heidegebieden staan aangegeven , zoals bijvoorbeeld de voormalige Laagheide ten noordwesten van het gebied . 
+Of er ook intensief is geplagd in de beekdalen van de Everlose beek en Kwistbeek en in het broekgebied van het Vlakbroek moet worden betwijfeld . 
+In dat geval zou het plaggendek een hoger leemgehalte en een meer roodbruine kleur hebben gehad als gevolg van de aanrijking met slib- en ijzerhoudende plaggen . 
+31 32 5 Resultaten : archeologie 5.1 Inleiding De opgraving van de ROB heeft uit verschillende contexten aardewerk , vuursteen , verbrande leem en natuursteen opgeleverd . 
+Het merendeel daarvan is afkomstig uit de gezeefde vakken in ROB-put 14 , dat wil zeggen uit de bioturbatielaag waarvan 65 m2 ( laag 1 ) en 48 m2 ( laag 2 ) is gezeefd ( zie § 3.3 ) . 
+Daarnaast is een kleine hoeveelheid aardewerk en vuursteen aangetroffen in sporen en depressies , gevuld met sediment van de bioturbatielaag . 
+In de ROB-putten 14 en 15 zijn grondsporen uit verschillende perioden aangetroffen . 
+In tegenstelling tot de meer zuidelijk gelegen opgegraven putten van het ADC , zijn tijdens de opgraving door de ROB geen crematiegraven uit de IJzertijd vast-gesteld . 
+Het ondersteunt de opvatting dat de noordelijke begrenzing van het grafveld reeds tijdens de opgraving van het ADC was bereikt . 
+5.2 Grondsporen ( zie Bijlage 2 ) 5.2.1 Prehistorie In totaal zijn er 31 prehistorische sporen herkend , waarvan 23 sporen in ROB-put 14 en acht sporen in ROB-put 15 ( afb . 
+12 ) . 
+Afgezien van S1 in put 15 , die als een depressie is te omschrijven , kenmerkten de sporen zich door lichtgrijsbruine vullingen die zich licht aftekenden in het opgegraven vlak . 
+In het profiel van tien gecoupeerde sporen was geen dusdanige aftekenende 7 10 4 2 11 1 1 3 4 2 5 8 12 13 11 10 12 20 13 14 15 17 39 16 40 44 45 41 42 43 46 Afb . 
+12 Overzicht van de sporen in werkput 14 en 15 . 
+26 Het gaat om de volgende spoornummers : Put 14 : S1 , S2 , S12 , S13 , S14 en Put 15 : S2 , S4 , S7 , S11 , S13 . 
+0 10 50 m verkleuring zichtbaar dat deze in tekening kon worden vastgelegd.26 Het feit dat deze sporen alleen in het horizontale vlak waarneembaar waren , duidt er mogelijk op dat we hier te maken hebben met de minimale resten van de onderkant van de sporen of met een iets afwijkende verkleuring van de bodem ontstaan door natuurlijke processen onder de ingraving . 
+De prehistorische sporen zijn als paalsporen te beschrijven . 
+Het merendeel van deze sporen is min of meer verspreid in het vlak aangetroffen . 
+In het uiterste westen van ROB-put 14 bevinden zich met een tussenafstand van ca . 
+6 meter twee kuilen ( S1 en S2 ) . 
+Richting het oosten zijn vervolgens verscheidene lichtbruine verkleuringen waargenomen ( S3 tot en met S5 , S8 , S11 tot en met S17 ) met een doorsnede van 50-70 cm . 
+Hiervan vormen S3 en S4 , S12 tot en met 14 en S15-S16 drie kleine clusters van grondsporen . 
+Belangrijk in verband met de beantwoording van de vraagstellingen van 12 Helden-Panningen 33 Afb . 
+13 Spoor 39 kwam onder de gezeefde bioturbatielaag in put 14 te voorschijn . 
+Net als de andere mogelijk prehistorische sporen uit deze put is de vulling lichtgrijs van kleur . 
+onderzoek is het voorkomen van negen prehistorische grondsporen in het gebied waarvan het sediment in vakjes van 50 x 50 cm is gezeefd ( zie § 3.3 ) . 
+Het gaat om de sporen S17 en S39 tot en met S46 , alle gelegen in het zuidelijke deel van ROB-put 14 en ter hoogte van de zeefrijen A tot en met E ( afb . 
+13 ) . 
+De afmetingen van deze als paalspoor beschreven sporen varieert tussen 20 cm ( S42 en S46 ) en 95 cm ( S39 ) . 
+De sporen liggen min of meer in een west-oost georiënteerde strook met een bandbreedte van ca . 
+2 meter . 
+De dieptes variëren van 10 tot 40 cm ( afb . 
+14 ) . 
+In sommige coupes bleek het moeilijk een onderscheid te maken tussen antropogene verkleuring en sporen van bioturbatie . 
+De lichte kleur van de sporen wijst op uitloging . 
+In het westelijke deel van ROB-put 15 werd een onduidelijk spoor ( S1 ) herkend , waaruit scherven van een platgedrukte pot uit de Midden-Bronstijd ( ca . 
+15751200 v.Chr . ) 
+te voorschijn kwamen . 
+Het ging daarbij om een depressie gevuld met lichtgrijs zand dat sterk overeen komt met het zand in de bioturbatielaag onder het plaggendek . 
+Afgezien van een kleine hoeveelheid bodemfragmenten 34 Afb . 
+14 Van 20 van de 31 prehistorische sporen kon een proﬁel worden vastgelegd . 
+put 14 S10 33,5m +NAP S3 S4 S8 S5 S20 S17 33,5m +NAP S11 S15 S39 S16 put 14 put 15 33,5m +NAP S40 S41 S42 S43 S46 S44 S45 S10 S12 0 1 2,50 m bleken de scherven aan elkaar te passen , waaruit blijkt dat ze afkomstig zijn van één pot . 
+Naar schatting eenderde deel van deze pot was als een verzameling van scherven in de depressie bewaard gebleven ( zie afb . 
+17 ) . 
+Het is de vraag of de pot bij de ontginning van het gebied in historische tijd beschadigd is geraakt , waarbij het overgrote deel door aanploegen is verdwenen . 
+Een andere mogelijkheid is dat de pot destijds in incomplete vorm in de depressie terecht is gekomen . 
+De vulling van vijftien prehistorische sporen in ROB-put 14 is over een zeef met een maaswijdte van 1 x 1 mm gezeefd . 
+De residuen bleken nauwelijks archeologische indicatoren te bevatten . 
+Het merendeel van de zeefresten bestaat uit grof zand , wortels ( onder andere van aspergestokken ) en meestal een ( kleine ) hoeveelheid houtskool . 
+In monsters van negen sporen werden kleine , zwarte , ronde bolletjes herkend , die in eerste instantie als verkoolde zaden werden aangezien . 
+Deze bolletjes waren ook tijdens het zeven van de vakken waargenomen . 
+Raadpleging van botanisch specialist Otto Brinkkemper ( ROB ) leerde ons dat het niet om een cultuurgewas gaat , maar om onverkoolde bodemschimmels , zogenaamde Cenococcum . 
+Dergelijke organismen komen zeer regelmatig in het bodemmilieu voor en kunnen uit alle perioden dateren . 
+Het is een intrigerende vraag waarom uit de vulling van de zes andere gezeefde sporen geen bodemschimmels afkomstig zijn . 
+De residuen van twee sporen in ROB-put 14 , paalspoor 4 en 11 , bleken kleine , verbrande botfragmenten te bevatten . 
+Mogelijk houden ze verband met menselijke activiteiten ter plaatse . 
+5.2.2 Middeleeuwen en Nieuwe Tijd In de ROB-putten 14 en 15 zijn zes greppels opgetekend die uit de historische tijd dateren . 
+Ze zijn min of meer noord-zuid georiënteerd en hebben een donkerbruine tot donkergrijze vulling . 
+De greppels in het westelijke deel van put 15 zijn op grond van het jongste aardewerk in de Volle en Late Middeleeuwen te dateren , in de 12-14e eeuw ( afb . 
+12 ) . 
+Ook in de ADC-putten zijn deze greppels opgetekend . 
+Het verschil in oriëntatie van de greppels en de aanwezigheid van een waterput en veldbrandoven uit de 12-14e eeuw ( opgraving ADC ) wijzen 35 erop dat het terrein in deze periode voor verschillende doeleinden is gebruikt . 
+Bewoningssporen uit deze periode zijn niet aangetroffen , maar kunnen in de directe omgeving van het opgegraven gebied worden verwacht . 
+De greppels in het centrale en oostelijke deel van de putten zijn wat jonger : deze dateren uit de Late Middeleeuwen of Nieuwe tijd . 
+Een aantal is geflankeerd door rijen paalsporen ( afb . 
+12 ) . 
+Dergelijke structuren die als perceelsafscheidingen worden geïnterpreteerd , zijn ook in de putten van het ADC opgetekend , vooral in het oostelijke deel van het opgegraven terrein . 
+Het gaat om vrij forse structuren , waarvan de palen door het plaggendek heen zijn gegraven . 
+Aangezien de vulling van een brede greppel in het uiterste oosten van het opgegraven terrein materiaal uit de 15e eeuw en later bevatte , kan verondersteld worden dat het plaggendek ouder is . 
+De vele spitsporen die bij de aanleg van het vlak zijn waargenomen en die met name in de profielen in het westelijke deel van de putten zijn opgetekend , dateren ook uit de Late Middeleeuwen . 
+De meest recente sporen zijn de vier ronde kuilen , met zeer donkerbruine vullingen . 
+Deze tekenden zich scherp in het vlak af . 
+Het betreft kuilen met een doorsnede van circa 1,2 m en een vlakke bodem op circa 50 cm onder het opgegraven vlak . 
+De opvulling is duidelijk gelaagd en bestaat uit donkerbruin , Afb . 
+15 Put 15 : een van de 65 kuilen die tijdens het onderzoek op de dekzandkop van HeldenPanningen te voorschijn zijn gekomen . 
+De donkerbruine vulling tekent zich scherp af . 
+bijna zwart humeus gebrokkeld materiaal , vermengd met gele brokken zand . 
+De scherpe begrenzing , de vondsten van baksteen en ijzeren spijkers en het feit dat ze de greppels uit de Late Middeleeuwen oversnijden , maken duidelijk dat deze sporen vrij recent zijn , hoogstens een eeuw oud ( afb.15 ) . 
+Tijdens de opgraving van het ADC zijn ruim zestig identieke kuilen aangetroffen , waarvan wordt verondersteld dat ze hebben gediend voor het rotten van vlas . 
+De ligging op een markante , hooggelegen dekzandrug pleit echter tegen deze interpretatie als vlaskuil . 
+Uit navraag bij lokale bewoners werd duidelijk dat er niets bekend is van de activiteiten , waarvan de kenmerkende kuilen de archeologische neerslag vormen . 
+Op grond van het grote aantal kuilen kan verondersteld worden dat het gaat om een grootschalige of herhaalde activiteit . 
+Niets van deze activiteiten is kennelijk beklijfd in het collectieve geheugen van de tegenwoordige Heldense gemeenschap . 
+Wellicht dat archiefonderzoek meer informatie over dit deel van het bodemarchief oplevert . 
+36 5.3 Aardewerk ( zie Bijlage 3 ) 5.3.1 Inleiding De analyse van het prehistorische aardewerk is uitgevoerd door de tweede auteur . 
+Allereerst is er een onderscheid gemaakt in grootte . 
+Als onderdeel van de analyse zijn alleen fragmenten beschreven die zodanige afmetingen hadden ( groter dan 1 cm2 ) , dat er met enige zekerheid – op grond van diagnostische kenmerken en expert judgement – uitspraken over de datering ervan mogelijk waren . 
+Het dateren van het aardewerk geschiedde hoofdzakelijk op grond van baksel , afwerking van het oppervlak en magering , aangezien andere kenmerken , zoals versiering of randvormen , vrijwel geheel ontbreken . 
+Zoals vaak het geval bij de analyse van prehistorisch aardewerk , is een eenduidig onderscheid in duidelijk afgebakende groepen vrij lastig . 
+Slechts een deel van de scherven is op grond van een aantal criteria aan groepen toe te wijzen . 
+Voor de overige scherven is een toeschrijving twijfelachtig of niet mogelijk . 
+Deze fragmenten zijn als mogelijk Michelsbergaardewerk ( MK ? 
+) , mogelijk IJzertijdaardewerk ( IJT ? ) 
+of als niet determineerbaar bestempeld . 
+Bovendien lijkt het aardewerk van verschillende cultuurgroepen sterk op elkaar : onversierd , kwartsgemagerd aardewerk is enkel op subtiele verschillen in afwerking en randvorm aan de Michelsbergcultuur , Steingroep of aan aardewerk uit de Midden-Bronstijd toe te schrijven . 
+Het prehistorische aardewerk is onderverdeeld in drie groepen : Groep 1 bestaat uit aardewerkfragmenten met een dikte van 5 tot 10 mm vervaardigd van een hard baksel , waarin kleine kwartspartikels zichtbaar zijn . 
+In vergelijking met het grovere Bronstijdaardewerk steken ze nauwelijks uit het wandoppervlak van de scherven , ook krimpscheuren ontbreken . 
+Deze wandafwerking , in combinatie met het voorkomen van uitgetrokken randen en aanzetten tot rolopbouw zijn de belangrijkste criteria om scherven tot de groep van de Michelsbergcultuur te rekenen ( afb . 
+16 ) . 
+Afb . 
+16 Aardewerk uit het Midden-Neolithicum ( één randen twee wandscherven ) . 
+Schaal 1:4 . 
+Groep 2 bestaat uit aardewerkfragmenten met een dikte van 15 tot 20 mm , hard , brokkelig baksel met krimpscheuren en grove kwartspartikels , die uit het scherfoppervlak steken . 
+Fragmenten van dit aardewerk zijn hoofdzakelijk in depressies in het opgegraven gebied aangetroffen , ingebed in materiaal afkomstig uit de bioturbatielaag . 
+Met name op grond van het type baksel is een aantal scherven bestempeld als aardewerk uit de Midden-Bronstijd ( afb . 
+17 ) . 
+Groep 3 bestaat uit aardewerkfragmenten met een poreus baksel , waarin potgruis en af en toe wat organische materiaal is vermengd . 
+Kwartsmagering ontbreekt . 
+De wandafwerking is vrij glad , af en toe zijn besmeten fragmenten herkend . 
+Deze groep is bestempeld als IJzertijdaardewerk . 
+Ten slotte is een deel van het verzamelde aardewerk toe te wijzen aan de protohistorie . 
+De scherven uit deze groep dateren op grond van zeer duidelijke kenmerken , zoals gedraaid baksel en geglazuurd oppervlak , uit de Late Middeleeuwen en later . 
+De analyse van deze groep is uitgevoerd door Jan van Doesburg ( ROB ) . 
+37 Afb . 
+17 Aardewerk uit de Bronstijd ( één pot en fragment met aanzet knobbeloor ) . 
+Schaal 1:4 . 
+In het algemeen kan gesteld worden dat de fragmentatiegraad van het aardewerk vrij groot is : het gaat om kleine fragmenten . 
+Wel zijn de scherven afkomstig uit de bioturbatielaag iets groter van afmeting . 
+Dit geldt met name voor de zeefvakken met lage nummers van rij A , B en C en voor het aardewerk afkomstig uit depressies in het opgravingsvlak . 
+Ook in het uiterlijk van het wandoppervlak is een grote variatie zichtbaar . 
+De grotere fragmenten hebben vrij verse breuken , terwijl kleinere scherven afgeronde breukranden en een verweerd oppervlak hebben waaruit duidelijk zichtbaar kwartskorrels steken . 
+5.3.2 Aardewerk uit zeefvakken In de 452 zeefeenheden zijn 1034 aardewerkscherven herkend , met een gewicht van bijna 2 kilo ( 1967 g ) ( tabel 2 ) . 
+Van dit aantal konden 633 fragmenten op grond van macroscopische kenmerken aan een aardewerkgroep worden toegewezen . 
+Het is opvallend dat het hoofdzakelijk gaat om wandscherven : slechts 19 scherven zijn als randscherf herkend . 
+Daarnaast zijn twee bodemscherven gesignaleerd . 
+Het grootste aantal scherven , 299 fragmenten met een gewicht van 1069 g , is toegewezen aan groep 1 en als ( mogelijk ) Michelsbergaardewerk beschreven . 
+Scherven van groep 2 ontbreken nagenoeg volledig in het aardewerk afkomstig uit de zeefvakken . 
+Tussen het zeefresidu is eenmaal een fragment Bronstijdaardewerk herkend . 
+Beduidend groter is het aantal scherven dat als ( mogelijk ) IJzertijd-aardewerk ( groep 3 ) is geïnterpreteerd . 
+Het gaat daarbij om 273 fragmenten met een gewicht 578 g. Twee daarvan hadden dusdanige kenmerken dat ze wat scherper zijn te dateren : een fragment gepolijst aardewerk27 en een scherf met kamstreekversiering28 die het best in de Midden-IJzertijd passen.29 Van de aardewerkfragmenten afkomstig uit de gezeefde vakken zijn 40 exemplaren in groep 4 , Late Middeleeuwen of later , te plaatsen ( tabel 2 ) . 
+De oudste scherven , in aantal 14 , dateren uit de 14-15e eeuw . 
+Negen scherven zijn in de 18-19e eeuw te plaatsen en vijf zijn als recent aangemerkt . 
+38 27 Deze scherf is afkomstig uit vak D28-laag 2 . 
+28 Deze scherf is afkomstig uit vak B20-laag 1 . 
+29 Van den Broeke 1987 . 
+Michelsberg laag 1 mogelijk Michelsberg laag 2 n w vak A vak B vak C vak D vak E vak F vak G vak H vak I vak J vak K vak L 4 7 10 1 1 – – 2 – – 1 – 21,7 23 20,5 3,3 5,8 – – 2,9 – – 2,8 – totaal 26 80 n laag 1 vak A vak B vak C vak D vak E vak F vak G vak H vak I vak J vak K vak L totaal laag 1 mogelijk Bronstijd laag 2 laag 1 laag 2 w n w n w n w n w n w n w 42 160,8 68 317,1 83 341,2 33 94,3 10 20 6 13,1 1 0,4 1 0,6 1 0,5 – – – – – – – – 3 1 – – – 1 – – 1 – – – 4,9 1,5 – – – 1 – – 0,5 – – – 11 1 – 5 – 1 1 1 2 – – – 17,7 2,2 – 7,8 – 0,5 0,5 0,7 3,3 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 1 – – – – – – – – – – – 2,6 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – 6 7,9 22 32,7 0 0 0 0 1 2,6 0 0 245 948 IJzertijd laag 1 laag 2 Bronstijd mogelijk IJzertijd laag 2 laag 1 Late Middeleeuwen laag 2 laag 1 laag 2 indet laag 1 laag 2 totaal n w n w n w n w n w n w n w n w n w – 6 9 8 2 2 2 – 1 – – 1 – 41,9 18,3 23,8 1,8 5,9 3,8 – 11,6 – – 1,6 – 5 7 3 5 5 2 – – 2 3 1 – 17,5 14,6 4,8 7,7 10,6 3,9 – – 3,9 17,4 7,5 17 19 10 11 4 1 2 4 16 9 7 6 37,6 40,1 15,1 22,2 4,4 1,5 1,4 4 22,5 11,8 7,5 6,4 20 24 7 10 5 4 10 1 11 7 1 3 40,1 56,1 14,7 18,2 3,4 11,3 11,8 0,7 37,6 7,9 2,2 2,7 5 7 2 6 – 3 – – 6 4 2 1 14,2 38,6 3,3 8,4 – 1,5 – – 11,5 15,1 1,3 0,8 4 – – – – – – – – – – – 23,6 – – – – – – – – – – – – – 4 1 3 – – – – 2 – 1 – – 4,6 3,5 4,6 – – – – 2,9 – 0,5 1 – 2 4 1 – – – – – 1 – 0,6 – 2,9 5 1,4 – – – – – 0,6 – 93 136 148 80 31 26 17 10 36 25 18 13 298,6 534,3 457,8 189,8 49,1 51,7 21,3 9,7 84,2 42,3 35,6 19,5 31 108,7 33 87,9 103 206,7 36 94,7 4 23,6 11 16,1 9 10,5 Tabel 2 Aardewerk ( > 1 cm ) uit zeefvakken . 
+106 174,5 633 1793,9 5.3.3 Aardewerk uit opgravingsvlak en sporen De oogst aan aardewerk uit een duidelijke spoorcontext is mager : in totaal zijn er 77 scherven uit sporen verzameld . 
+Slechts twee scherven zijn uit een prehistorisch spoor afkomstig . 
+Het merendeel van het materiaal is afkomstig uit laat-middeleeuwse greppels . 
+Van het totaal zijn 66 scherven als prehistorisch en 11 als protohistorisch aan te duiden . 
+De hoeveelheid aardewerk , aangetroffen bij de aanleg van het opgravingsvlak is eveneens gering : 52 fragmenten , waarvan 31 als prehistorisch zijn beschreven . 
+Twee scherven bleken ondetermineerbaar . 
+Neolithisch aardewerk Het neolithische aardewerk kan aan twee perioden toegewezen worden ( tabel 3 ) : 11 fragmenten ( 39,6 g ) behoren tot groep 1 en kunnen worden toegeschreven aan de Michelsbergcultuur . 
+Deze scherven zijn zowel bij de aanleg van het opgravingsvlak als in prehistorische en laat-middeleeuwse sporen aangetroffen . 
+Drie sporen zouden op grond van het voorkomen van Michelsbergaardewerk 39 put vlak spoor omschrijving 14 1 14 1 S007 vulling greppel 9 14 15 1 1 S008 vulling kuil – vlakvondst 1 2 15 1 15 15 15 1 1 1 – vlakvondst – vlakvondst S001 depressie 15 15 1 1 S002 vulling kuil S003 vulling greppel 15 15 15 15 1 1 1 1 S008 S012 S015 S016 totaal – – vlakvondst aardewerk vnd . 
+n w aard vlakvondst vulling kuil vulling kuiltje vulling kuil vulling greppel 2 1 1 6 1 1 – 10,8 4,4 12,5 4,7 17,7 – 10 wds wds wds wds wds 2 3,7 wds 2 21,4 wds 11 72 wds 17 87,5 wds 1 7,3 rds 2 7 wds 1 14 149,8 wds 12 1 17 wds 3 44 3297,8 wds 7 87,6 bds 1 16 oorfr . 
+6 1 2,4 wds 4 1 4,7 wds 1 11,2 bds 1 17,2 bds 8 – – 5 1 2,3 wds 9 – – 11 2 6,9 wds 1 6,5 wds 8 24,9 wds 1 9,3 rds 129 3902,6 datering n BT LNEO/VBT MK BT ? 
+MK – – – 5 MK ? 
+BT ? 
+IJT 12e 12e indet . 
+BT 12e BT BT BT MK IJT BT 14e – MK ? 
+– IJT RT ? 
+12e 12e 1 1 – – 1 – – – – – VST w STN n leem n w w – – – – – – 6,2 15 111,3 43,6 37 – – 37 – – – – 2 8,5 – – – – – – – – – – – – – 7 60,4 – – ja 1 – 2 3,6 – 67,4 – – – – – – – – – – – 3 1,5 – – – – – – – ja – ja – – 13 162,2 – – – – – – – 3 6 – 1 8,6 8 123,8 42 419,5 5 mesolithisch kernbijltje ( Wommersomkwartsiet ) klein fragm . 
+verbr . 
+bot ( 0,2 g ) twee fragmenten van spijker 10 in het Midden-Neolithicum gedateerd kunnen worden . 
+Het gaat om spoor 8 in ROB-put 14 en sporen 2 en 12 in put 15 . 
+Een scherf met reliëfversiering kwam als een vlakvondst aan het licht . 
+Een precieze datering bleek een onmogelijk opgave . 
+Het fragment kan afkomstig zijn van bekerachtig aardewerk uit het Laat-Neolithicum ( 2750-1900 v.Chr . ) 
+of van versierd aardewerk uit de Vroege of Late IJzertijd.30 Bronstijdaardewerk In tegenstelling tot de zeefvakken is de hoeveelheid Bronstijdaardewerk uit de putten 14 en 15 redelijk aanzienlijk . 
+In totaal zijn 71 fragmenten met een totaal gewicht van 3599 g verzameld . 
+Het gaat om onversierd aardewerk . 
+Put 15 leverde tijdens de aanleg van het vlak twee concentraties scherven van Bronstijdaardewerk op . 
+Een groot aantal scherven is in een depressie ( S1 ) aangetroffen . 
+Tijdens de aardewerkanalyse is een poging gedaan om het materiaal dat bij de aanleg van de put is verzameld te passen aan de scherven uit dit spoor . 
+Helaas waren deze te klein en bezaten ze te weinig diagnostische kenmerken om vast te kunnen stellen of beide aardewerkgroepen tot dezelfde pot behoren . 
+Het merendeel van de schervenverzameling uit de depressie is afkomstig van één pot ( afb . 
+17 ) . 
+Het gaat om een vrij fors exemplaar , met een gereconstrueerde hoogte van 40 cm en een randdiameter van 28 cm . 
+De randvorm , type C in de typologie van Glasbergen , doet vroeg aan.31 Wellicht dateert de pot uit de vroege fase van de Midden-Bronstijd . 
+Uit de vondstcontext kan worden afgeleid dat de pot – waarschijnlijk in gebroken toestand – in een kleine depressie is gedumpt , samen met scherven van minimaal een andere pot en twee kooksteenfragmenten . 
+40 sintel opmerking Tabel 3 Vondsten uit sporen en vlakken . 
+30 Mondelinge mededeling P. van den Broeke . 
+31 Glasbergen 1954b , 90 . 
+Het feit dat de onderkant vrijwel ontbreekt , zou een aanwijzing kunnen zijn dat de pot op de kop is geplaatst . 
+Maar of we hier te maken hebben met een uiting van de traditie om potten – al dan niet op de kop – op specifieke plekken in het landschap te plaatsen , is de vraag . 
+De aanwezigheid van kooksteenfragmenten in hetzelfde spoor doet vermoeden dat de pot door intensief gebruik als kookpot de bodem is kwijtgeraakt . 
+Een duidelijke aanwijzing voor een tweede exemplaar is een scherf met een ooraanzet , afkomstig van een kleinere pot ( afb . 
+17 ) . 
+Potten met dergelijke ‘ worstoren ’ zijn van de zuidelijke zandgronden vrij zeldzaam . 
+Fragmenten van IJzertijdaardewerk , in totaal 14 fragmenten met een totaal gewicht van 83,6 g , zijn bij de aanleg van de werkputten of als opspit in greppels uit de Late Middeleeuwen aangetroffen . 
+Een laat-middeleeuwse greppel , spoor 16 in werkput 15 , bleek een mogelijk Romeinse scherf te bevatten . 
+Het laat-middeleeuwse materiaal , afkomstig van het vlak en uit de vulling van greppels , kan worden aangemerkt als kogelpotaardewerk met een datering in de 12e eeuw . 
+5.4 Leem uit de zeefvakken Het zeven van het sediment uit de 412 zeefeenheden leverde een groot aantal ( N = 1006 ) kleine fragmenten verbrande klei ( leem ) op met een totaal gewicht van 214,4 g. Het merendeel is vrij klein , kleiner dan 1 cm . 
+Uit de sporen zijn geen leembrokken afkomstig . 
+Het is lastig om de materiaalcategorie leem eenduidig te verklaren . 
+Leembrokjes hebben geen diagnostische kenmerken waarmee ze in een specifieke periode geplaatst kunnen worden . 
+Het kan gaan om prehistorisch leem dat tijdens het bakken van aardewerken potten op het oppervlak terecht is gekomen . 
+Ook kan het gaan om fragmentjes klei die afkomstig zijn uit haardplaatsen en oventjes of oorspronkelijk deel uitmaakten van de wandconstructies van boerderijen en aan verbranding onderhevig zijn geweest . 
+Maar het leem kan ook verband houden met ( veel ) latere activiteiten waarbij vuur werd gebruikt . 
+Een voorbeeld is het stoken van veldbrandovens in de Late Middeleeuwen . 
+5.5 Vuursteen ( zie Bijlage 4 ) 5.5.1 Inleiding De beschrijving van de vuurstenen artefacten is uitgevoerd met behulp van de codelijst voor laat-paleolithische , mesolithische en neolithische artefacten.32 5.5.2 Vuursteen uit zeefvakken 32 Deeben & Schreurs 1997 . 
+33 Voor een beschrijving van kenmerken van vuursteentypen , zie onder andere Verhart 2000 . 
+Het zeven van het sediment in ROB-put 14 , rijen A tot en met L , leverde in totaal 60 stuks vuursteen op ( tabel 4 ) . 
+Hiervan zijn 11 als verbrande vuurstenen zonder artificiële kenmerken ( potlids ) beschreven , die hier verder buiten beschouwing worden gelaten . 
+De overige 49 zijn als vuurstenen artefacten beschreven , waarvan twee werktuigen , 45 ( fragmenten van ) afslagen en twee ( fragmenten van ) klingen . 
+De artefacten zijn zonder uitzondering vervaardigd van vuursteen , waarbij onderscheid kan worden gemaakt tussen Rijckholtvuursteen , Zuid-Limburgse vuursteen , terrasvuursteen en lichtgrijs-Belgische vuursteen ( tabel 5 ) .33 Daarbij dient te worden opgemerkt dat het toeschrijven van zeer kleine artefacten aan een van genoemde typen veelal niet mogelijk is . 
+De meeste artefacten zijn dan 41 artefacttype 1510 schrabber op afslag 3050 afslag 3060 kling 3090 potlid totaal A B C D E F G H I J K L totaal 1 9 1 6 – 13 – – – 6 – – 1 7 1 1 – 2 – 1 – – – – – 2 – 1 – – – 2 – 1 – – – – – – – 3 – – – 2 – – 2 45 2 11 17 13 6 10 3 0 3 2 1 0 3 2 60 grondstof w 510 ( terras ) vuursteen 2 3,7 521 Zuid-Limburgs 26 14,2 522 Rijckholt-vuursteen 9 63,1 Belgisch lichtgrijs 1 0,1 verbrand 11 2,7 totaal ook onder de algemene noemer van Zuid-Limburgse vuursteen beschreven . 
+Door het ontbreken van specifieke kenmerken is een nadere precisering niet mogelijk . 
+Er moet rekening mee worden gehouden dat in de groep ZuidLimburgse vuursteen artefacten uit zowel terrasvuursteen als Rijckholtvuursteen vertegenwoordigd zijn . 
+Twee artefacten hebben een karakteristieke gerolde cortex ten gevolge van fluviatiel transport . 
+Ze zijn om deze reden als terrasvuursteen beschreven . 
+Tot het type Rijckholtvuursteen zijn negen artefacten gerekend , waaronder twee schrabbers , een fragment van een kling en een grote afslag . 
+Genoemde artefacten laten een grijsblauwe kleur met donkere banden en lichte vlekjes zien . 
+De grote afslag heeft nauwelijks verweerde cortex en is vermoedelijk gemaakt van gemijnde vuursteen uit de omgeving van Rijckholt . 
+Slechts een artefact , een kleine splinter vuursteen , is vervaardigd uit Belgische lichtgrijze vuursteen . 
+Zowel de kleur , insluitsels en de mate van fijnkorreligheid n 49 83,8 Tabel 4 ( links ) Verdeling van de vuurstenen artefacttypen per zeefvak . 
+Tabel 5 ( rechts ) Aantallen en gewichten van het vuursteen uit zeefvakken , verdeeld naar grondstof . 
+Afb . 
+18 Een kerntje uit Wommersomkwartsiet ( nr . 1 ) en drie vuurstenen artefacten van de Michelsbergcultuur . 
+Schaal 1:1 . 
+2 1 3 42 4 wijzen hierop . 
+De overige tien artefacten zijn grotendeels of volledig verbrand . 
+Een bepaling van het type grondstof is in deze gevallen niet mogelijk . 
+Werktuigen De twee werktuigen zijn complete schrabbers gemaakt van dikke afslagen uit Rijckholtvuursteen ( afb . 
+18 ) . 
+Een schrabber ( L : 3,5 cm , B : 3,9 cm en D : 1,1 cm ) heeft een gewicht van 20 g en is afkomstig uit zeefvak A5 , laag 2 . 
+De tweede schrabber ( L : 3,3 cm , B : 4,4 cm en D : 0,8 cm ) heeft een gewicht van ruim 16 g en werd gevonden tussen het zeefresidu van zeefvak D5 , laag 2 . 
+Cortexresten zijn op beide artefacten niet aanwezig . 
+De schrabbers hebben een deels gebogen ( halfronde ) en plaatselijk steile schrabberkap . 
+Op grond van de dikte van de schrabbers en van het restslagvlak , en ( op één exemplaar ) het voorkomen van een geprononceerde slagbult kan worden uitgegaan van oorspronkelijk aanmerkelijk grotere afslagen . 
+De huidige vorm is het resultaat van gebruik en onderhoud ( retouchering ) van het werktuig . 
+Wat betreft typologische kenmerken sluiten beide schrabbers naadloos aan bij exemplaren afkomstig van opgegraven vindplaatsen van de Michelsbergcultuur in Zuid-Nederland . 
+Voorbeelden zijn Beers-Gassel , Linden-Kraaienberg , Sint-Odiliënberg-Neliske , Maastricht-Klinkers en Heerlen-Schelsberg.34 Ook schrabbers bekend van Belgische vindplaatsen van de Michelsbergcultuur laten een sterke verwantschap met de schrabbers uit Panningen zien.35 Het feit dat beide schrabbers uit ( gemijnde ? ) 
+Rijckholtvuursteen zijn gemaakt , wijst eveneens op een datering in het Midden-Neolithicum . 
+Afslagen Van de 45 afslagen hebben 21 exemplaren een maximale afmeting van minder dan 1 cm . 
+Het gaat om kleine splinters die vrijkomen tijdens de bewerking van vuursteen . 
+16 afslagen hebben een afmeting tussen 1 en 2 cm . 
+Ook bij deze artefacten gaat het om afval van de vuursteenbewerking zonder dat nadere modificering ( retoucheren ) heeft plaatsgevonden . 
+Van de acht overige afslagen , met afmetingen groter dan 2 cm , heeft het grootste exemplaar een lengte van 4,8 cm . 
+De afslag ( zeefvak K3 , laag 2 ) is gemaakt van Zuid-Limburgs eluviaal vuursteen van het Rijckholt type dat mogelijk uit de omgeving van Banholt of Mheer afkomstig is . 
+Een tweede grote afslag ( zeefvak B1 , laag 2 ) kenmerkt zich door een breed restslagvlak , een duidelijke slagbult en een nauwelijks verweerd cortex deel . 
+Dit artefact is gemaakt van Rijckholtvuursteen en lijkt wat betreft kenmerken van de debitage sterk op een van bovenbeschreven schrabbers . 
+Klingen Twee artefacten zijn beschreven als fragmenten van klingen . 
+Bij het grootste artefact ( lengte 4,2 cm ) gaat het om een proximaal deel van een kling uit Rijckholtvuursteen ( zeefvak A30 , laag 1 ; afb . 
+18.4 ) . 
+Aan de linker zijde is mogelijk wat gebruiksretouche zichtbaar . 
+Het tweede fragment , het distale deel van een kling , is gemaakt van iets afwijkende , grijszwarte vuursteen met lichte vlekjes . 
+Het artefact is afkomstig uit zeefvak D29 , laag 2 . 
+Verbrande artefacten Elf artefacten zijn grotendeels of volledig verbrand . 
+In alle gevallen gaat het om fragmenten van afslagen . 
+34 Verhart & Louwe Kooijmans 1989 ; Louwe Kooijmans & Verhart 1990 ; Schreurs 1992 ; Wansleeben & Verhart 1993 ; mondelinge mededeling F. Brounen ( ROB ) . 
+35 Vermeersch 1987-1988 . 
+5.5.3 Vuursteen uit opgravingvlak en sporen Het aantal vuurstenen artefacten afkomstig uit het opgravingvlak en sporen is klein ( tabellen 6 en 7 ) . 
+In ROB-put 14 , spoor 8 , werd een grote complete afslag uit Zuid-Limburgse vuursteen ( mogelijk terrasvuursteen ) aangetroffen . 
+43 artefacttype put 14 , spoor 7 put 14 , spoor 8 put 15 , vlak totaal 1611 kernbijl ? 
+1720 gebruikte afslag 3050 afslag 3090 potlid – 1 3 1 – – 1 – 1 – – – 1 1 4 1 totaal 5 1 1 7 Drie verbrande stukjes vuursteen , waarvan twee afslagen , en een onverbrande afslag en fragment van een afslag of kling met mogelijk gebruiksretouche zijn afkomstig uit een middeleeuwse greppel ( spoor 7 ) in ROB-put 14 . 
+Een opvallende vlakvondst in ROB-put 15 is een ( laat- ) mesolithisch kerntje of kernbijltje uit Wommersomkwartsiet ( afb . 
+18.1 ) . 
+5.6 Overig steen 5.6.1 Overig steen uit zeefvakken Tijdens de uitwerking zijn de overige fragmenten van steen met een minimale afmeting van 10 mm gewogen en kort beschreven . 
+Het aantal van deze stenen bedraagt 157 met een totaal gewicht van 787 g. Een aantal fragmenten ( > 3 cm ) van kwartsitische zandsteen heeft scherpe breuken en laat kleine krimpscheurtjes zien . 
+Deze kenmerken en de roodgrijze kleur van het oppervlak en van breukvlakken wijzen op verhitting . 
+Vermoedelijk gaat het hier om fragmenten van kook- of haardstenen . 
+Uit de zeefvakken zijn verder kleinere brokjes kwarts en ( kwartsitische ) zandsteen afkomstig . 
+Ook deze stukjes laten scherpe breukvlakken zien . 
+Mogelijk gaat het bij de brokjes kwarts om grondstof voor de magering van het aardewerk . 
+Vooral voor de kleinere fragmenten kan niet worden aangegeven of ze verband houden met menselijke activiteit . 
+Kleine afgeronde exemplaren bevonden zich van nature in de top van de dekzandafzettingen en hebben geen archeologische betekenis . 
+5.6.2 Overig steen uit opgravingsvlak en sporen Ook bij de aanleg van de putten en uit de sporen is steen tevoorschijn gekomen ( tabel 3 ) . 
+In totaal gaat het om 42 stuks , met een totaal gewicht van 419 g. Het merendeel van de fragmenten is afkomstig uit de vullingen van laat middeleeuwse greppels of is aangetroffen tijdens de aanleg van putten . 
+In alle gevallen betreft het gebroken kwartsitische zandstenen , die waarschijnlijk door gebruik als kookstenen – met herhaalde verhitting en afkoeling – uiteen zijn gevallen . 
+Ook fragmenten steen uit twee sporen in put 15 , uit de depressie met de Bronstijdpot en een ( mogelijk ) prehistorisch spoor , zijn herkend als kwartsitische zandsteen . 
+Dit laatste spoor bevatte bovendien een kwartskiezel en een fragment gerolde vuursteen ( niet antropogeen ) . 
+44 grondstof n w 521 Zuid-Limburgs 534 Wommersomkw . 
+verbrand 3 1 2 46,5 37,0 3,1 totaal 6 86,6 Tabel 6 ( links ) Vuurstenen artefacttypen uit sporen en het vlak . 
+Tabel 7 ( rechts ) Aantallen en gewichten van het vuursteen uit sporen en vlakken , verdeeld naar grondstof . 
+6 Probleemstelling : grondsporen uit de Michelsbergcultuur ? 
+6.1 Vindplaatsen van de Michelsbergcultuur in het Limburgse zandgebied 36 Van Haaren & Modderman 1973 . 
+37 Louwe Kooijmans & Verhart 1990 . 
+38 Theunissen 1990a , 1990b , 1991 ; Schreurs 1992 . 
+39 Verhart & Louwe Kooijmans 1989 . 
+40 Verhart 1989 . 
+41 Wansleeben & Verhart 1993 ; Verhart 2000 . 
+42 Brounen 1994 , 1995 . 
+43 Verhart & Wansleeben 1999 . 
+44 Schreurs & Brounen 1998 . 
+45 Deze sites worden in de publicaties verschillend benoemd , als Roermond-Breidberg , RoermondKeulse Baan en als RoermondPlangebied Roerstreek-Zuid ; Verhart & Wansleeben 1999 ; Van Dijk 2004a , b . 
+46 Kenemans & Goossens 2002 ; Kenemans & Lohof 2005 . 
+47 Verhart 2000 , Schreurs 2005 . 
+48 Modderman & Deckers 1984 ; Van Haaren & Modderman 1973 ; Creemers & Vermeersch 1989 . 
+49 Van der Velde & Kenemans 2003 . 
+50 Wansleeben & Verhart 1993 ; Verhart 2000 . 
+Het onderzoek van midden-neolithische vindplaatsen in Zuid-Nederland kent inmiddels een jarenlange traditie . 
+Vanuit het Instituut voor Prehistorie ( IPL ) , thans Faculteit der Archeologie ( Universiteit Leiden ) , het Rijksmuseum van Oudheden ( RMO ) en de gemeente Maastricht zijn diverse vindplaatsen met bewoningssporen onderzocht , zoals Koningsbosch36 , Linden-Kraaienberg37 , Maastricht-Klinkers38 , Beers-Gassel39 , Grave-Pater Berthierstraat40 , Sint Odiliënberg-Neliske41 , Maastricht-Vogelzang42 en Roermond-Keulse Baan-Zuid.43 Vanaf het einde van de jaren negentig van de 20e eeuw hebben ook andere instanties opgravingen op de pleistocene gronden van Brabant en Limburg uitgevoerd , mede als gevolg van de intrede van marktwerking in de Nederlandse archeologie en een verschuiving van aandacht van de Leidse universiteit naar wetlandsites uit het Laat-Mesolithicum en/of Neolithicum ( Polderweg en De Bruin te Hardinxveld-Giessendam , Harnaschpolder bij Schipluiden ) in WestNederland . 
+Zo onderzocht de ROB in 1998 sporen van een uniek aardwerk uit de Michelsbergcultuur op de Schelsberg te Heerlen.44 Ook RAAP , Stone Age en het ADC hebben de laatste jaren vindplaatsen van de Michelsbergcultuur onderzocht . 
+De onderzoeken vond plaats in het kader van de aanleg van bedrijventerreinen in Midden-Limburg , zoals Roermond Roerstreek-Zuid45 en industrieterrein Panningen ( fase 2 ) .46 De vindplaatsen van de Michelsbergcultuur in het oostelijke deel van ZuidNederland zijn vooral oppervlaktesites , waar ook vondsten uit oudere en jongere perioden tevoorschijn zijn gekomen ( gemengde complexen ) . 
+Op grond van landschappelijke kenmerken waren deze locaties blijkbaar aantrekkelijk voor bewoning en/of andere activiteiten : de prehistorische mens keerde er herhaaldelijk naar terug . 
+Hoewel het aantal bekende vindplaatsen in het Limburgse zandgebied behoorlijk groot is , zijn er maar weinig systematisch en vlakdekkend opgegraven.47 Opvallend daarbij is dat er meestal geen grondsporen zijn waargenomen of als zodanig zijn herkend . 
+Zo leverde het onderzoek van Helden-Keuperheide , Koningsbosch en Meeuwen-Donderslagheide ( B ) aardewerk en vuurstenen artefacten , maar geen enkel grondspoor op.48 Alleen incidenteel en min of meer bij toeval komt tijdens opgravingen een grondspoor met aardewerk aan het licht dat onmiskenbaar aan de Michelsbergcultuur kan worden toegewezen , zoals in Venray-De Hulst.49 Goed beschouwd zijn er vandaag de dag uit het Limburgse zandgebied twee vindplaatsen bekend , waarvan prehistorische sporen ( meer dan één ) aan de Michelsbergcultuur kunnen worden toegewezen : Sint Odiliënberg-Neliske en Roermond-Roerstreek-Zuid . 
+Een algemeen kenmerk is dat de sporen vaag zijn , een vaalbruine tot grijze vulling hebben en vaak geen vondstmateriaal bevatten . 
+Vanwege de omvang , kleur en textuur en het voorkomen van aardewerk of vuursteen in de directe nabijheid worden deze grondsporen – meestal met een aantal slagen om de arm – aan de Michelsbergcultuur toegewezen . 
+Om de resultaten van het onderzoek te Panningen beter te plaatsen , wordt in de onderstaande tekst meer in detail ingegaan op beide vindplaatsen . 
+Sint Odiliënberg-Neliske In het najaar van 1992 werd nabij Sint Odiliënberg ( gemeente Ambt-Montfort ) de vindplaats Neliske over een oppervlakte van 4800 m2 onderzocht.50 Sinds 45 de jaren zeventig stond de locatie bekend als een terrein waar relatief veel neolithisch vondstmateriaal aan het oppervlak kon worden aangetroffen . 
+Het merendeel van het aardewerk en de vuurstenen artefacten bleek uit het MiddenNeolithicum te dateren . 
+Dit is opmerkelijk omdat veel bekende vindplaatsen in de regio gekenmerkt worden door het voorkomen van vondstmateriaal uit verschillende perioden ( zie boven ) , zowel uit de pre- als de protohistorie . 
+Bij de vindplaats Neliske kon het gaan om een kortstondig bewoonde locatie en wel in het Midden-Neolithicum . 
+Dat gegeven maakte een nader onderzoek gerechtvaardigd . 
+In het oostelijke deel van de opgraving stelde men twee parallelle rijen van prehistorische paalsporen vast , die geïnterpreteerd werden als een mogelijke huisplattegrond . 
+De serie van zeven houtskoolmonsters voor 14C-analyse leverde echter een grote variatie van dateringen op : het houtskool uit vijf prehistorische sporen werd gedateerd in het Laat-Neolithicum , Bronstijd en IJzertijd en dat uit recente sporen bleek uit het Laat-Neolithicum te dateren . 
+Dit resultaat bracht de opgravers tot de veronderstelling dat het houtskool secundair in sporen terecht was gekomen . 
+Omdat er sprake was van een duidelijke concentratie van prehistorische grondsporen ( zonder oversnijdingen ) en van een ruimtelijke associatie met midden-neolithische vondsten , werden de sporen in het MiddenNeolithicum gedateerd.51 Met wat voorzichtige slagen om de arm presenteerden de opgravers de vindplaats Neliske als een locatie met de resten van een huisplaats uit de Michelsbergcultuur . 
+Het zou daarbij gaan om een enkele huisplaats . 
+Hogestijn en Drenth vinden deze interpretatie te ver voeren en plaatsten vraagtekens bij een aantal argumenten.52 Zo blijkt uit een heranalyse van het aardewerk afkomstig van het oppervlak en uit de brede variatie in 14Cdateringen dat de locatie in verschillende perioden is bezocht . 
+Uit deze discussie komt duidelijk naar voren dat een datering van de vermeende huisplattegrond enkel en alleen op grond van een ruimtelijke associatie met het vondstmateriaal , gezien wordt als een te magere basis . 
+Roerstreek-Zuid In het kader van een uitbreiding van het industriegebied ten oosten van Roermond , het bedrijvenpark Keulse Baan-Zuid , ook wel Roerstreek-Zuid genoemd , is de afgelopen jaar een reeks van onderzoeken uitgevoerd . 
+In 1997 heeft RAAP met een IVO , karterende fase uitgevoerd in het plangebied , waarbij veertien archeologische vindplaatsen aan het licht zijn gekomen.53 Op zeven terreinen is vervolgens een kleinschalig proefsleuvenonderzoek uitgevoerd , te weten op de vindplaatsen RORO 1 , RORO 2 , RORO 3 , RORO 5 , RORO 7 , RORO 9 en RORO 12.54 Op vier daarvan , RORO 1 , RORO 2 , RORO 7 en RORO 9 , leverden de proefsleuven midden-neolithisch vondstmateriaal uit de Michelsbergscultuur , maar geen grondsporen op . 
+Op twee vindplaatsen was dat wel het geval . 
+Op RORO 5 troffen de opgravers drie prehistorisch paalkuilen aan , die in kleur en vulling overeenkwamen met de sporen van de midden-neolithische vindplaats Sint-Odiliënberg-Neliske . 
+RORO 12 leverde één paalspoor op , met een duidelijke paalschaduw en Michelsbergaardewerk in de vulling . 
+Daarnaast werd in de directe nabijheid een grote hoeveelheid aardewerk van de Michelsbergcultuur vastgesteld . 
+Omdat ouder en jonger materiaal afwezig is , wordt verondersteld dat beide locaties alleen in het MiddenNeolithicum zijn gebruikt . 
+In 2003 is het zuidelijke deel van het te ontwikkelen bedrijventerrein met proefsleuven verkend , waarbij vindplaats RORO 9 werd aangesneden.55 Daar bevonden zich drie materiaalclusters die in het Midden-Neolithicum zijn te plaatsen . 
+Cluster 1 en 2 leverden vooral aardewerk op en lijken de neerslag te vormen van kortstondige activiteiten of bewoning . 
+In cluster 3 werden ook vuurstenen werktuigen aangetroffen . 
+Deze cluster wordt eveneens geïnterpreteerd als een kortstondig bewoonde locatie waar mogelijk een tijdelijke eenvoudige constructie heeft gestaan . 
+In het gebied waar de drie 46 51 Verhart 2000 , 213 . 
+52 Hogestijn & Drenth 2000/2001 . 
+53 Rensink 1997 . 
+54 Verhart & Wansleeben 1999 . 
+55 Van Dijk 2004a , b . 
+clusters voorkomen , zijn relatief weinig sporen vastgesteld ( acht in totaal ) , die vooralsnog geen onderdeel lijken uit te maken van herkenbare structuren . 
+Bovendien bevatten ze geen vondstmateriaal , zodat een datering ontbreekt . 
+Op grond van omvang , kleur en textuur zijn ze door de opgravers als prehistorisch aangemerkt . 
+Uit het bovenstaande overzicht kan worden geconcludeerd dat clusters van goed gedateerde grondsporen van de Michelsbergcultuur , laat staan een onomstreden huisplattegrond van deze cultuur vooralsnog niet bekend zijn van de Limburgse ( en Brabantse ) zandgronden . 
+De afwezigheid of slechte mate van zichtbaarheid van neolithische sporen in het gebied is opvallend . 
+Er lijkt in dit opzicht een duidelijk verschil te bestaan met andere gebieden , waarbij verschillende faktoren een rol kunnen hebben gespeeld : de diepte van ingraving , aard van de vulling , ouderdom van het spoor en aard van bodemprocessen . 
+Diep ingegraven kuilen in de löss ( Maastricht-Klinkers56 en Heerlen-Schelsberg57 ) en oude rivierklei ( Maastricht-Vogelzang58 ) tekenen zich op grotere diepte relatief goed af , zeker als de vullingen van de grondsporen veel houtskool en/of ( ander ) nederzettingsafval bevatten . 
+Dergelijke vondstrijke sporen kunnen worden verwacht op vindplaatsen waar veel afval in en rondom het huis is gedeponeerd en waarvandaan weinig spullen ( waaronder potten van aardewerk ) zijn meegenomen bij het verlaten van de nederzetting . 
+Indien de bewoners het huis en erf regelmatig schoonhielden van afval , is de kans op opname van vondsten en houtskool in sporen kleiner . 
+Daarnaast is de zichtbaarheid van sporen afhankelijk van de kleur van het oorspronkelijke loopvlak . 
+Als dit oppervlak humusrijk of vervuild is , is de kans groter dat prehistorische ingravingen van palen en kuilen kunnen worden herkend aan de hand van een donker gekleurde grond . 
+Bij afwezigheid van een donker gekleurde vulling zal ook de zichtbaarheid van grondsporen minder groot zijn . 
+Ten slotte speelt de mate van bodemvorming op het moment van het ontstaan van het grondspoor een rol . 
+Indien paalkuilen deel uitmaken van een bodem waarin sterke bodemvorming plaatsvindt , is de kans groot dat de restanten van deze kuilen ( lees : grondsporen ) volledig zijn vervaagd . 
+In dit verband speelt ook de ouderdom van de grondsporen een rol . 
+Hoe ouder de grondsporen ( en gelegen aan of nabij het maaiveld ) , hoe langer ze in de regel aan processen van bodemvorming ( bijvoorbeeld podzolering , verbruining , bioturbatie ) worden blootgesteld en hoe groter de kans dat deze sporen vervagen . 
+Buiten Nederland , zoals in Duitsland en Noord-Frankrijk , is wel een aantal huisplattegronden uit de Michelsbergcultuur opgegraven , maar de variatie daarin is breed : van relatief kleine plattegronden te Echzell-Wannkopf tot de zeer forse huisplattegronden van Mairy-Les Hautes in de Franse Ardennen.59 Het is dan ook de vraag welk type huisplattegrond we op de pleistocene zandgronden van Zuid-Nederland kunnen verwachten . 
+6.2 Industrieterrein Panningen 6.2.1 Inleiding 56 Theunissen 1990a , b , 1991 ; Schreurs 1992 . 
+57 Schreurs & Brounen 1998 . 
+58 Brounen 1994 , 1995 . 
+59 Höhn 2002 ; Marolle 1989 ; Schreurs 2005 . 
+In Panningen zijn tijdens de opgravingen door het ADC talrijke prehistorische grondsporen aangetroffen . 
+Ze zijn geïnterpreteerd als paalgaten , paalkuilen en grotere kuilen . 
+De sporen bevonden zich hoofdzakelijk op of direct nabij het hoogste deel van de dekzandrug , vooral in de putten 1 en 13 op de noorden de noordwest-flank van de rug ( zie afb . 
+5 ) . 
+In totaal heeft het ADC – de crematiekuilen uit de Late IJzertijd niet meegeteld – 287 grondsporen als prehistorisch aangemerkt . 
+Een datering van grondsporen in het Midden-Neolithicum leek in eerste instantie plausibel , dat wil zeggen tijdens de ADC-opgraving in maart en april 47 van 2003 en op basis van een eerste evaluatie van het vondstmateriaal en de grondsporen . 
+Zo bevinden zich onder het aardewerk uit het centrale deel van put 13 Tupfenleiste die onomstotelijk aan de Michelsbergcultuur kunnen worden toegewezen . 
+Op basis van de magering , wanddikte en afwerking is ook voor ( het merendeel van ) de andere prehistorische scherven een toewijzing aan het Midden-Neolithicum aannemelijk . 
+Ook werden in hetzelfde gebied als de grondsporen enkele typische vuurstenen artefacten van de Michelsbergcultuur aangetroffen.60 Desondanks werden ook problemen verbonden met deze datering onderkend , ten dele al in het veld en ten dele tijdens de uitwerking : 1 . 
+Het merendeel van de scherven prehistorisch aardewerk bestaat uit onversierde wandfragmenten en kan niet met zekerheid worden gedateerd . 
+Hoewel het voorkomen van aardewerk van de Michelsbergcultuur voor enkele scherven onomstotelijk vaststaat ( Tupfenleiste ) en voor andere scherven op basis van magering , wanddikte en hardheid aannemelijk is , heeft een deel van het aardewerk mogelijk een latere datering ( Late Bronstijd ; ca . 
+1200-800 v.Chr . ) 
+in de prehistorie ; 2 . 
+Slechts weinig grondsporen hebben vondsten of houtskool opgeleverd.61 Zelfs in grotere sporen , bijvoorbeeld in een grote kuil in het westelijke deel van put 11 , en in vrijwel alle gezeefde sporen werden geen vondsten aangetroffen . 
+De weinige scherven aardewerk die wel uit sporen afkomstig zijn , zijn sterk gefragmenteerd en laten zich vaak niet nauwkeuriger dan “ neolithisch of Bronstijd ” dateren . 
+Daarnaast moet rekening moet worden gehouden met de mogelijkheid van opspit.62 Voor spoor 36 in put 1 is de situatie anders ( zie afb . 
+6 ) . 
+In de vulling ervan werden 13 scherven afkomstig van vermoedelijk één en dezelfde pot van Michelsbergaardewerk aangetroffen . 
+Een datering van dit spoor in het Midden-Neolithicum is aannemelijk . 
+3 . 
+Kenmerken van het aardewerk en het grafveld uit de Late IJzertijd tonen aan dat het hoogste deel van de dekzandrug gedurende verschillende fasen in de prehistorie is bewoond en gebruikt . 
+Met andere woorden : we hebben te maken met een accumulatie ( palimpsest ) van prehistorische vondsten en sporen , die een tijdspanne bestrijken van minstens 3500 jaar , vanaf het Midden-Neolithicum tot aan het einde van de IJzertijd . 
+Ook de 14 C-dateringen van houtskool afkomstig uit door het ADC opgegraven grondsporen wijzen op meerfasige bewoning en/of gebruik ( zie verder ) . 
+4 . 
+Hoewel veel vindplaatsen van de Michelsbergcultuur van de Limburgse zandgronden bekend zijn , zijn grondsporen uit deze periode bijzonder schaars ( zie bespreking in § 6.1 ) . 
+Onomstotelijke huisplattegronden ontbreken . 
+Om deze reden is het niet mogelijk om ( een deel van ) de prehistorische grondsporen in Panningen toe te schrijven aan een bepaald type plattegrond , waarvan vaststaat ( op basis van opgravingen elders ) dat het een huis van de Michelsbergcultuur weerspiegelt . 
+6.2.2 Put 13 : het gebied van de gereconstrueerde huisplattegrond Tijdens de opgraving van het ADC werd een grote dichtheid van prehistorische grondsporen in het noordelijke deel van put 13 vastgesteld . 
+Hier bevonden zich onder andere de sporen 125 , 126 , 127 , 130 , 132 , 138 , 140 , 142 , 143 , 145 , 146 , 148 , 149 , 151 , 152 , 155 , 158 , 159 , 160 , 161 , 162 , 163 , 165 , 166 , 167 , 168 , 170 , 171 , 172 ( afb . 
+6 ) . 
+Belangrijk is de veldwaarneming van het ADC dat deze grondsporen beter geconserveerd leken dan andere en eveneens als prehistorische paalkuilen geïnterpreteerde sporen in hetzelfde gebied . 
+Hoewel ook door bioturbatie en uitloching aangetast , waren ze relatief goed herkenbaar aan de bruine kleur ervan ( grijsbruine tot bruingevlekte vulling ) . 
+De ruimtelijke samenhang van de sporen wees bovendien in de richting van een west-oost georiënteerde structuur of huisplattegrond . 
+Omdat Michelsberg-aardewerk in 48 60 Kenemans & Lohof 2005 , 2830 . 
+61 Kenemans & Lohof 2005 , 20 . 
+62 Deze mogelijkheid wordt genoemd voor spoor 10 in put 1 en sporen 3 , 33 en 186 in put 13 ( Kenemans & Lohof 2005 , 32-33 ) . 
+Uit deze sporen is aardewerk van de Michelsbergcultuur afkomstig , maar aantallen zijn dusdanig laag dat het om opspit kan gaan . 
+Afb . 
+19 De drie varianten van de veronderstelde huisplattegrond in ADC-putten 1 en 13 ( Bron : Kenemans & Lohof 2005 ) . 
+variant I variant II variant III 0 10 m de nabijheid van de sporen was gevonden , achtte het ADC een datering van de plattegrond in het Midden-Neolithicum in eerste instantie het meest plausibel . 
+In het rapport van de opgraving worden drie mogelijke varianten onderscheiden ( afb . 
+6 en 19 ) .63 variant I : afmetingen 21 x 5 meter , licht afgeronde korte zijden en wellicht gedeeltelijk tweebeukig . 
+Deze variant correspondeert met huisplattegronden uit het Laat-Neolithicum en de Vroege Bronstijd ; variant II : afmetingen 21 x 6 meter , gedeeltelijk vierbeukig . 
+Deze variant toont sterke gelijkenis met Bronstijdhuizen van de Elp-variant ; variant III : een kleine versie van variant I die in vrijwel de gehele prehistorie kan voorkomen . 
+63 Kenemans & Lohof 2005 , 14-18 . 
+Op deze plaats wordt volstaan met het kort benoemen van bovenstaande varianten , zoals in het rapport van het ADC in uitgebreide vorm besproken . 
+Wel 49 is het van belang te vermelden dat het ADC in het rapport niet langer uitgaat van een unieke huisplattegrond uit het Midden-Neolithicum . 
+Variant II wordt uiteindelijk gepresenteerd als de meest plausibele variant . 
+Als argumentatie wordt het volgende vermeld : “ Aan deze variant II wordt hier de voorkeur gegeven als de waarschijnlijkste huisconstructie omdat ze consistent is met een deel van het vondstmateriaal en een bevredigende interpretatie geeft voor het grootste aantal beschikbare paalkuilen ” .64 De sporen in put 13 worden beschouwd als onderdeel van een gedeeltelijk vierbeukige huisplattegrond ( variant II ) . 
+De gereconstrueerde vorm en afmetingen sluiten het best aan bij bekende plattegronden van de Elp-variant , die in de Late Bronstijd en/of Vroege IJzertijd ( 800-500 v.Chr . ) 
+worden gedateerd . 
+Kijken we meer in detail naar de gegevens van de ADC-opgraving van put 13 en van het gebied van de gereconstrueerde huisplattegrond in het bijzonder , blijkt dat de eerder beschreven problemen van datering ( zie § 6.2.1 ) bij uitstek ook op dit gebied van toepassing zijn . 
+Evenals voor andere delen van de opgraving moet ook in put 13 rekening worden gehouden met een palimpsest van grondsporen . 
+Hierop wijzen niet alleen verschillen in conservering tussen sporen , maar ook de 14C-dateringen van houtskool uit grondsporen . 
+Hieronder bevinden zich drie sporen ( S145 , S149 en S161 ) die deel uitmaken van de gereconstrueerde huisplattegrond . 
+Deze dateringen beslaan uiteenlopende periodes:65 spoor 145 : AMS-datering van houtskool : 2570 ± 40 BP ( 810-760 / 690-660 / 630-590 / 580-560 v.Chr . ) . 
+Deze datering wijst op het staartje van de Late Bronstijd en de Vroege IJzertijd.66 Ten aanzien van deze datering kan sprake zijn van een eventuele vertekening , omdat oud hout in de vorm van houtskool is gedateerd . 
+spoor 149 : AMS datering van houtskool : 5250 ± 45 BP ( 4220-4190 / 41604120 / 4110-4100 / 4050-3980 v.Chr . ) . 
+Deze datering valt in de periode van de Michelsbergcultuur.67 spoor 161 : conventionele datering van houtskool : 4310 ± 50 BP ( 2920-2885 v.Chr . ) . 
+Deze datering wijst in de richting van Steingroep ( 34502500 v.Chr . ) 
+of het begin van de Enkelgrafcultuur ( EGK ) .68 Omdat de EGK rond deze tijd nog niet voorkwam in ZuidNederland69 , mag met enige voorzichtigheid worden aangenomen dat de datering verband houdt met de Steingroep . 
+De aard van het gedateerde monster , houtskool , kan echter een vertekening veroorzaakt hebben . 
+Er moet rekening worden gehouden met een veroudering die tot enkele eeuwen kan oplopen . 
+Tevens is er een conventionele 14C-datering van houtskool uit spoor 174 beschikbaar : 4515 ± 30 BP ( 3350-3100 v.Chr . ) . 
+Deze datering wijst in de richting van de Steingroep.70 Spoor 174 bevond zich ten oosten van de gereconstrueerde huisplattegrond . 
+In hoeverre bovengenoemde 14C-dateringen een betrouwbare indicatie zijn van de ouderdom van de grondsporen waaruit het houtskool afkomstig is , is echter de vraag . 
+Er dient rekening mee te worden gehouden dat het gedateerde houtskool als opspit in de grondsporen is terecht gekomen . 
+Hetzelfde geldt voor de vondsten die in de vullingen van de prehistorische grondsporen zijn gedaan . 
+Ondanks het feit dat deze vullingen in put 13 met water zijn gezeefd , werd slechts in vier sporen behorende tot de gereconstrueerde huisplattegrond archeologisch materiaal aangetroffen : spoor 145 : twee wandfragmenten en een randfragment kleiner dan 4 cm2 . 
+Het randfragment dateert mogelijk uit het Neolithicum ; spoor 146 : wandfragment , mogelijk neolithisch ( meest associaties met scherven uit groep 1 ) ; spoor 148 : fragment gedraaid Romeins aardewerk ; spoor 155 : stukje gruis dat gedeeltelijk is gepolijst ( IJzertijd ? ) . 
+50 64 Kenemans & Lohof 2005 , 38 . 
+65 Kenemans & Lohof 2005 , 34 . 
+Alle calibraties zijn berekend door het programma Oxcal . 
+V 3.9 . 
+66 Lanting & Van der Plicht 2001/ 2002 . 
+67 Lanting & Van der Plicht 1999/ 2000 . 
+68 Lanting & Van der Plicht 1999/ 2000 . 
+69 Drenth & Lanting 1991 . 
+70 Lanting & Van der Plicht 1999/ 2000 . 
+Het kleine aantal scherven uit grondsporen in ADC-put 13 staat in schril contrast met de vele prehistorische scherven die boven het sporenvlak zijn aangetroffen . 
+Voordat de grondsporen zich in het opgravingsvlak aftekenden , zijn tijdens het verdiepen van de werkput talrijke prehistorische scherven uit de bioturbatielaag verzameld . 
+In het gebied van de gereconstrueerde huisplattegrond dateert dit aardewerk voornamelijk uit het ( Midden- ) Neolithicum . 
+Zo kwam ter hoogte van de oostelijke korte zijde van de gereconstrueerde huisplattegrond en iets boven het sporenvlak een concentratie van prehistorisch aardewerk aan het licht . 
+Onder deze scherven bevinden zich twee Tupfenleiste . 
+Verder zijn uit dit gebied een neolithische of Bronstijdscherf en 44 neolithische scherven afkomstig , waarvan een onbekend aantal vermoedelijk in het Midden-Neolithicum dateert . 
+Ook werd aardewerk van de Michelsbergcultuur in het aangrenzende deel van put 1 ( waaronder scherven van een pot met ronde bodem ) en in het noordwestelijke deel van put 8 aangetroffen . 
+Op basis van bovenstaande waarnemingen kan voor de putten 1 en 13 van het ADC de volgende conclusie worden getrokken : er is sprake van een discrepantie tussen enerzijds kenmerken van het archeologische materiaal ( voornamelijk aardewerk en vuursteen van de Michelsbergcultuur ) en beschikbare 14C-dateringen ( drie van de vier dateringen in het Midden-Neolithicum ) en anderzijds de voorgestelde datering van variant II van de vermeende huisplattegrond in de Late Bronstijd en/of Vroege IJzertijd . 
+Hoewel aardewerk uit de late prehistorie in de putten van het ADC is herkend , gaat het vooral om kleine aantallen scherven waarvan het merendeel uit put 1 afkomstig is.71 Het merendeel van het aardewerk uit put 13 is als Neolithicum onbepaald ( NEOX ) of Neolithicum/Bronstijd ( NEO/BT ) beschreven . 
+6.3 ROB-put 14 : het gebied van de zeefvakken 6.3.1 Inleiding In deze paragraaf wordt nader ingegaan op de resultaten van de opgraving van de ROB en met name het onderzoek van de zeefvakken in ROB-put 14 en van het onderliggende sporenvlak . 
+Centrale vraag daarbij is welke bijdrage het zeven van de bioturbatielaag en het verzamelen van materiaal uit deze laag heeft geleverd aan de datering van prehistorische grondsporen in ROB-put 14 en directe omgeving . 
+6.3.2 Bodemopbouw 71 Zie Kenemans & Lohof 2005 , bijlage tabel 3 : overzicht van prehistorisch aardewerk . 
+Het bodemprofiel in ROB-put 14 duidt erop dat op de noordelijke flank van de dekzandrug wordt afgedekt door een plaggendek van minstens 50 cm dik . 
+Het bovenste deel van dit dek , circa 35 tot 40 cm onder maaiveld , is de recente bouwvoor . 
+Het onderste deel is in recente tijden niet aangeploegd en was op grond van scherpe begrenzing en lichte kleur in het profiel duidelijk te onderscheiden . 
+Het gehele plaggendek is vermoedelijk omstreeks de 14e eeuw ontstaan ( zie hoofdstuk 4 ) . 
+In profielkolom A werd onder het plaggendek een dunne , donker roodgrijs tot roodbruine laag waargenomen ( afb . 
+20 , Profiel A ) . 
+Deze laag is ook in de noordwand van ROB-put 14 herkend en daar als twee aparte lagen beschreven ( 1AEb en 1Bhsb , zie afb . 
+11 en bijlage 1 ) . 
+De laag is in het eindrapport van het ADC geïnterpreteerd als een oude ‘ akkerlaag ’ . 
+In hoofdstuk 4 zijn vraagtekens geplaatst bij deze interpretatie en dat het om een antropogeen verschijnsel zou gaan . 
+Een alternatieve interpretatie is een begraven deel van een zwak ontwikkelde haarpodzol . 
+Deze laag kon in ROB-put 14 op verscheidene plaatsen worden waargenomen , waaronder het gebied van de zeefvakken . 
+Alleen in profielkolom B was deze laag niet aanwezig , of is deze laag niet als zodanig herkend . 
+51 profiel A 50 cm profiel B 0 34,00 m +NAP niveau zeefvakken bouwvoor in plaggendek plaggendek begraven haarpodzol bioturbatielaag verwerings - BC Op een dieper niveau , direct onder de donker roodgrijs tot roodbruine laag , bestond het bodemprofiel uit een verwerings-B van een diep ontwikkelde moderpodzolprofiel , waarin onder andere mollengangen aanwezig zijn ( 1Bwb ) . 
+Het gaat hier om de ook in de putten van het ADC vastgestelde bioturbatielaag . 
+Vanwege een sterke verstoring door bioturbatie van dit deel van het bodemprofiel waren grondsporen pas na het verwijderen van deze laag zichtbaar . 
+De bioturbatielaag varieert in dikte van 10 tot 30 cm . 
+Ter plaatse van de zeefvakken was de laag ca . 
+15 tot 20 cm dik ( afb . 
+20 , Profiel B ) . 
+Tot slot was onder de bioturbatielaag een geelbruine laag zichtbaar , die als verwerings-BC van een diep ontwikkelde moderpodzol is geïnterpreteerd . 
+Ter hoogte van de zeefvakken varieert deze laag van ca . 
+33,28 tot ca . 
+33,58 m +NAP . 
+In deze geelbruine laag tekenden zich de meeste prehistorische grondsporen als lichtgrijsbruine verkleuringen af . 
+52 Afb . 
+20 Twee bodemproﬁelen in het zeefvakgebied , met een foto van het bodemproﬁel in het gebied van de zeefvakken . 
+6.3.3 Archeologische vondsten Aardewerk Het aantal diagnostische scherven uit de zeefvakken komt op een totaal van 633 , waarvan 42,8 % ( 271 scherven ) met een vrij grote zekerheid aan de Michelsbergcultuur kan worden toegeschreven ( tabel 2 ) . 
+De categorie vermoedelijk Michelsbergaardewerk omvat 28 scherven ( 4,4 % ) . 
+Ruim 10,1 % ( 64 scherven ) is bestempeld als ijzertijdaardewerk en 33 % ( 209 scherven ) als mogelijk daterend uit IJzertijd . 
+Eén mogelijke bronstijdscherf is afkomstig uit de gezeefde laag . 
+Wanneer we alleen laag 2 in ogenschouw nemen , dan blijkt het percentage Michelsbergaardewerk nog hoger te zijn : 58,9 % . 
+IJzertijdaardewerk , zowel zeker als mogelijk , scoort wat lager , respectievelijk 7,9 en 24,8 % . 
+Met andere woorden , in het aardewerk uit de zeefvakken domineert het Michelsbergaardewerk . 
+Met name in laag 2 in de zuidwesthoek van de zeefstrook bevindt zich een aantal rijke vakken ( afb . 
+24 ) : vak B6 bevatte 32 scherven ( 64,7 g ) , vak C7 bevatte 35 scherven ( 47,5 g ) en vak C8 bevatte 48 scherven ( 86,4 g ) . 
+Deze concentratie strekte zich in ieder geval uit tot in put 1 en mogelijk tot in put 13 . 
+Leem Het verspreidingsbeeld van de leemfragmenten is voor laag 1 vrij uniform ( afb . 
+25 ) . 
+Voor laag 2 lijkt er een lichte concentratie van deze fragmenten voor te komen in het centrale deel van de zeefstrook ( afb . 
+26 ) . 
+De kanttekening daarbij is wel dat het gaat om lage aantallen van kleine leembrokjes . 
+De vraag is dan ook hoe significant dat beeld is . 
+Het zijn bij uitstek fragmenten die door bioturbatie kunnen zijn verplaatst . 
+Vuursteen Uit laag 1 van de gezeefde vakken zijn 16 vuurstenen artefacten afkomstig . 
+In de noordelijke rijen ( rij I tot en met L ) gaat het om slechts twee artefacten , in de rijen E tot en met H om drie artefacten , en in de zuidelijke rijen ( A tot en met D ) om elf artefacten ( afb . 
+27 ) . 
+Van laatstgenoemde artefacten zijn zes exemplaren aangetroffen in het zuidwestelijke deel , namelijk rijen A tot en met C en zeefvakken 1 tot en met 7 . 
+Dit deel bevond zich op minder dan 6 meter ten noordoosten van de gereconstrueerde huisplattegrond , zoals door het ADC herkend in put 13 . 
+De artefacten bestaan grotendeels uit kleine splinters vuursteen . 
+Uit laag 2 zijn 33 vuurstenen artefacten afkomstig . 
+Ook voor laag 2 geldt dat het merendeel van de artefacten ( N = 23 ) verzameld is uit het zeefresidu van de vakken in het zuidwestelijke deel ( afb . 
+28 ) . 
+Het gaat om de rijen A tot en met D en de zeefvakken 1 tot en met 9 . 
+Onder de vondsten bevinden zich twee schrabbers ( vakken A5 en D5 ) . 
+Van de overige acht artefacten lagen drie artefacten circa 4 meter naar het noorden dicht bij elkaar . 
+6.4 Relatie vondstmateriaal – grondsporen Na het verwijderen van de bioturbatielaag waren in ROB-put 14 in het gebied van de zeefvakken in de verwerings-BC dertien grondsporen zichtbaar ( afb . 
+12 ) : een ronde , recente kuil ( S21 ) , twee greppels uit de Late Middeleeuwen ( S18 , S19 en S38 ) en tien vermoedelijk prehistorische paalsporen ( sporen S17 , S20 en S39 tot en met 46 ) ( zie afb . 
+13 ) . 
+De vulling van laatstgenoemde sporen was – ondanks het zeven van de vullingen met water – vondstloos . 
+Wanneer we de verspreiding van het midden-neolithische aardewerk in de zeefvakken vergelijken met de ligging van de prehistorische sporen in ROB-put 14 , is er geen duidelijke ruimtelijke relatie zichtbaar . 
+In de vakken waaruit het meeste Michelsbergaardewerk – laag 2 van de vakken B8 , C7 en C8 – afkomstig is , ontbreken grondsporen . 
+Bovendien was de bioturbatielaag boven de locaties 53 van de prehistorische sporen , vanaf vak C22 in het westen tot vak D49 in het oosten , niet significant vondstrijker . 
+Uit het verspreidingsbeeld van de leembrokjes uit laag 2 lijkt wel een correlatie met de prehistorische sporen naar voren te komen : de zuidelijke strook bevat meer leemfragmenten dan bijvoorbeeld het noordwestelijke deel . 
+Vanwege de kleine afmetingen en de gevoeligheid voor verplaatsing van de leembrokjes , levert deze materiaalcategorie echter de nodige problemen van interpretatie op . 
+Het verspreidingsbeeld en de correlatie met grondsporen heeft om deze reden veel minder zeggingskracht . 
+Voor de vuurstenen artefacten geldt hetzelfde als voor het prehistorische ( midden-neolithische ) aardewerk . 
+Het merendeel van de artefacten is aangetroffen in het zuidwestelijke deel van de zeefstrook , waaronder twee vuurstenen schrabbers die met zekerheid aan de Michelsbergcultuur kunnen worden toegewezen . 
+In dit deel van de zeefvakken werden geen grondsporen waargenomen , zodat er niet van een ruimtelijke associatie met grondsporen in ROB-put 14 kan worden gesproken . 
+De conclusie is dat de verspreiding van het aardewerk uit de zeefvakken geen ruimtelijke relatie laat zien met grondsporen in ROB-put 14 . 
+In de loop van de uitwerking werd duidelijk dat een dergelijke relatie ook niet in de lijn der verwachting ligt : de restanten van de prehistorische sporen in deze put , maar ook in de putten 1 en 13 van het ADC bevatten immers weinig tot geen vondsten . 
+Een relatie tussen de verspreiding van vondsten , bijvoorbeeld in een bioturbatielaag , en onderliggende grondsporen lijkt eerder van toepassing op vindplaatsen waar ( van origine ) vondstrijke sporen aanwezig zijn . 
+Door het verstoren van de bodem door dieren en planten worden in dat geval vondsten in de bioturbatielaag opgenomen , terwijl tegelijkertijd op hetzelfde niveau de herkenbaarheid van het grondspoor afneemt als gevolg van bioturbatie . 
+Voor de opname van vondsten uit grondsporen in de bioturbatielaag ontbreken echter aanwijzingen in het gezeefde deel van ROB-put 14 . 
+Nemen we een iets groter gebied in ogenschouw , moet echter ook worden gewezen op grondspoor 36 in put 1 ( zie afb . 
+6 ) . 
+Dit spoor kwam reeds tijdens het IVO , waarderende fase van het ADC in 2002 aan het licht . 
+De vulling van dit spoor bevatte 13 scherven van vermoedelijk een en dezelfde pot van de Michelsbergcultuur ( zie § 6.2.1 ) . 
+Grondspoor 36 bevond zich in het noordelijke deel van put 1 en op korte afstand van het gebied van de zeefvakken , waaruit de meeste scherven midden-neolithisch aardewerk te voorschijn kwamen . 
+Toch is het niet aannemelijk dat deze scherven zich oorspronkelijk in de vulling van grondspoor 36 bevonden : het grondspoor heeft een maximale diameter van ca . 
+70 cm en is daarmee vrij klein . 
+Gezien het grote aantal scherven en de oppervlakte ( ca . 
+12 m2 ) van de concentratie aardewerk in het zuidwestelijke deel van de zeefvakken , kan een herkomst van ( het merendeel van ) de scherven uit grondspoor 36 worden uitgesloten . 
+54 aantal L K > 5 3,4 1,2 0 J I H D C B A 1 2 3 4 5 10 11 12 13 15 17 19 21 22 23 24 26 28 29 30 gewicht ( gram ) L K J > 20 10 - 20 0 - 10 0 F E D C B A 5 12 13 21 22 23 24 30 Afb . 
+21 Verspreiding van het aardewerk in laag 1. aantal L K > 5 3,4 1,2 0 J I H D C B A 1 2 3 4 5 10 12 13 15 17 19 21 22 23 24 26 28 30 31 32 33 35 37 39 41 42 43 44 46 gewicht ( gram ) L K J 48 49 50 > 40 20 - 40 0 - 20 0 F E D C B A 1 5 12 13 21 22 23 24 32 33 41 42 43 44 50 Afb . 
+22 Verspreiding van het aardewerk in laag 2 . 
+55 aantal L K > 5 3,4 1,2 0 J I H G F E D C B A 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 27 28 29 30 gewicht ( gram ) L K J I H G > 20 10 - 20 0 - 10 0 F E D C B A 1 2 3 4 5 6 7 8 9 10 11 12 13 15 17 19 20 21 22 23 24 25 26 27 28 29 30 Afb . 
+23 Verspreiding van het Michelsbergaardewerk in laag 1 . 
+> 5 3,4 1,2 0 aantal L K J I H G F E D 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 gewicht ( gram ) L K J I H G > 40 20 - 40 0 - 20 0 F E D C B A 1 5 10 12 13 15 17 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 Afb . 
+24 Verspreiding van het Michelsbergaardewerk in laag 2 . 
+56 aantal > 5 3,4 1,2 0 A 5 10 12 13 15 17 19 21 22 23 24 26 28 30 gewicht ( gram ) L K > 20 10 - 20 0 - 10 0 J F E D C B A 5 12 13 21 22 23 24 30 Afb . 
+25 Verspreiding van het leem in laag 1. aantal > 5 3,4 1,2 0 J I A 1 2 3 4 5 10 12 13 15 17 19 21 22 23 24 26 28 30 32 33 35 37 39 41 42 43 44 46 gewicht ( gram ) L K J 48 50 > 40 20 - 40 0 - 20 0 F E D C B A 1 5 12 13 21 22 23 24 32 33 41 42 43 44 50 Afb . 
+26 Verspreiding van het leem in laag 2 . 
+57 > 5 3,4 1,2 0 aantal L K J I H G F 1 2 3 4 5 10 11 12 13 15 17 19 21 22 23 24 26 28 29 30 gewicht ( gram ) L H G > 20 10 - 20 0 - 10 0 F E D C A 5 12 13 21 22 23 24 30 Afb . 
+27 Verspreiding van het vuursteen in laag 1. aantal L K > 5 3,4 1,2 0 J I H D C B A 1 2 3 4 5 10 11 12 13 15 17 19 21 22 23 24 26 28 30 32 33 35 37 39 41 42 43 44 46 gewicht ( gram ) L K J 48 49 50 > 40 20 - 40 0 - 20 0 F E D C B A 1 5 12 13 21 22 23 24 32 33 41 42 43 44 50 Afb . 
+28 Verspreiding van het vuursteen in laag 2 . 
+58 7 Discussie 7.1 Inleiding De resultaten van de opgravingen in het uitbreidingsgebied Panningen wijzen op een langdurige ( maar niet continue ) bewonings- en gebruiksgeschiedenis van een markante dekzandrug in het gebied . 
+Talrijke scherven aardewerk en – in beduidend kleinere aantallen – vuurstenen artefacten houden verband met de vroegste bewoning in het Midden-Neolithicum ( Michelsbergcultuur ) . 
+Ook is er aardewerk uit de Midden-Bronstijd en de Vroege en Midden-IJzertijd aangetroffen . 
+Een bijzondere vondst zijn de crematiegraven uit de Late IJzertijd op het hoogste deel van de dekzandrug . 
+Scherven van laat-middeleeuws aardewerk dateren het vroegste gebruik van het gebied in historische tijd in de 12-14e eeuw . 
+Uit deze periode dateren greppels , palissades , een waterput en een veldbrandoven , waarvan de overblijselen door het ADC zijn opgegraven . 
+Ruim zestig ronde kuilen wijzen bovendien op activiteiten in de Nieuwe tijd . 
+De exacte functie van deze kuilen is echter niet met zekerheid vastgesteld . 
+7.2 Locatiekeuze 72 R. Bakker 2003 , zie ook J.A . Bakker 1982 . 
+De locatiekeuze van de mensen uit het Midden-Neolithicum ( Michelsbergcultuur ) in Panningen lijkt in eerste instantie enigszins verwonderlijk . 
+Gaan wij uit van de opvatting dat de dekzandrug in deze periode werd bewoond en beakkerd , kan de vraag worden gesteld : waarom kozen ze een relatief lichte , leemarme en onvruchtbare bodem uit , terwijl in de nabije omgeving voor akkerbouw veel geschiktere leemhoudende zandgronden lagen ? 
+De volgende twee factoren lijken bij deze keuze een rol te hebben gespeeld : ( 1 ) de relatief lichte bossen op deze gronden waren met de hen ter beschikking staande werktuigen en middelen het meest gemakkelijk te ontginnen , en ( 2 ) de leemarme en zwak lemige zandgronden waren in het Midden-Neolithicum nog niet volledig gedegradeerd en veel vruchtbaarder dan de gepodzoleerde bodems van later tijd . 
+Opvallend is de sterke overeenkomst tussen de locatiekeuze van de mensen van de Michelsbergcultuur in Panningen en die van de Trechterbekercultuur op het Drents Plateau . 
+Uit onderzoek van R. Bakker is gebleken dat de nederzettingen en hunebedden van de Trechterbekercultuur voor het overgrote deel zijn aangelegd op goed ontwaterde , leemarme tot zwak lemige zandgronden.72 Het kan gaan om zowel hooggelegen dekzandruggen als goed ontwaterde flanken van beekdalen en smeltwatergeulen . 
+De bodems op deze locaties zijn nadien vaak sterk gepodzoleerd , waardoor ze tegenwoordig voor het overgrote deel uit lichte , droge haarpodzolgronden ( Hd21 , grondwatertrap VII , VIII ) bestaan . 
+Een tweede kenmerk van de vindplaatsen van de Trechterbekercultuur is de nabijheid van open water , veelal beken of vennen . 
+De overeenkomst in landschappelijke ligging met de vindplaats in Panningen is , ondanks de grote geografische afstand , frappant . 
+Ook deze vindplaats ligt immers op een hooggelegen , goed ontwaterde dekzandrug met een vrij lichte zandbodem , op korte afstand van de Everlose beek en Kwistbeek . 
+De boeren van de Michelsbergscultuur en de Trechterbekercultuur leefden in het Laat-Atlanticum , waarin sprake was van zeer dicht beboste landschappen . 
+In deze ‘ oerwouden ’ dienden ze geschikte locaties voor de aanleg van nederzettingen , grafvelden en cultuurland te vinden . 
+Dat zij kozen voor de nog niet gedegradeerde lichtere zandgronden , is begrijpelijk wanneer men bedenkt dat de bomen hier in een veel lagere dichtheid groeiden en het bos meer open was . 
+Bovendien hadden de bomen veel dunnere stammen dan in de zware loofwouden , die toentertijd 59 op de meer lemige en vochtige locaties in het landschap groeiden . 
+Ook waren de lichte zandgronden veel gemakkelijker te bewerken met een graafstok of primitief eergetouw . 
+In de late prehistorie en in historische tijd waren de lichtere , leemarme zandgronden veel minder favoriet . 
+De voortschrijdende stand van de techniek ( de komst van metalen bijlen , eergetouw met ijzeren ploegschoen etc . ) 
+én de voortgaande degradatie van de bodems onder de Atlantische en Subboreale loofwouden maakten het steeds beter mogelijk om ook lemiger en vochtiger gronden te gaan ontginnen . 
+De oude nederzettingslocaties kwamen meer perifeer te liggen en werden mogelijk alleen in perioden met een hoge bevolkingsdichtheid en een grote ruimtebehoefte tijdelijk bewoond . 
+Bij de historische akkerontginningen waren zij evenmin populair , getuige het zeer late ontginningstijdstip van de dekzandrug in Panningen . 
+Ook hier zien we een duidelijke parallel met Drenthe , waar leemarme en zwak lemige haarpodzolgronden ( Hd21 ) en veldpodzolgronden ( Hn21 ) pas in de allerlaatste fasen van de ontginningen aan bod kwamen , veelal pas in de post-middeleeuwse periode.73 Het vormt een fraaie illustratie van de stelling dat elk tijdvak zijn eigen locatiekeuze heeft gekend . 
+7.3 Conservering en datering van grondsporen Welke betekenis het onderscheid tussen leemarme en leemrijke bodems heeft voor de conservering en zichtbaarheid van prehistorische grondsporen , is nog niet goed onderzocht . 
+Uit opgravingen blijkt dat neolithische grondsporen in de Pleistocene zandgronden vaak sterk zijn vervaagd of niet meer als verkleuring in de bodem kunnen worden herkend . 
+Welke factoren ( bijvoorbeeld vegetatie , grondgebruik en leemgehalte van de bodem ) daarbij precies een rol hebben gespeeld en op welke wijze ze elkaar hebben beïnvloed , is niet bekend . 
+Problemen verbonden met de herkenbaarheid van grondsporen zijn in feite van toepassing op alle opgegraven vindplaatsen met midden-neolithisch materiaal in het Limburgse zandgebied ( zie § 6.1 ) . 
+Waar tijdens de opgraving prehistorische sporen wel duidelijk herkenbaar zijn , zoals in Panningen , spelen problemen van datering , bijvoorbeeld als gevolg van het ontbreken van vondsten in de grondsporen . 
+Maar ook het feit dat veel locaties in de latere perioden van de prehistorie zijn gebruikt , speelt een rol . 
+Deze locaties kenmerken zich door een accumulatie en vermenging van archeologisch materiaal ( vuursteen en aardewerk ) uit verschillende perioden , bijvoorbeeld in de bouwvoor of in een oude akkerlaag direct onder een plaggendek . 
+Welke vondsten met welke onderliggende ( vondstloze ) grondsporen gelijktijdig zijn , is vaak niet eenvoudig te achterhalen . 
+De mogelijkheid om grondsporen te dateren , lijkt verder te worden ingeperkt door de wijze waarop vindplaatsen met neolithisch materiaal op de Pleistocene zandgronden worden opgegraven . 
+Deze opgravingen richten zich in de regel op de documentatie van het vlak waar archeologische grondsporen zichtbaar zijn of worden verwacht . 
+Aan de aard en verspreiding van het archeologische materiaal dat zich boven het sporenvlak bevindt ( vaak in een oude akkerlaag of in een bioturbatielaag ) , wordt tijdens de opgravingen zelden systematisch aandacht besteed . 
+Het aantal opgegraven vindplaatsen met midden-neolithisch materiaal waarvan de archeologische laag boven het sporenniveau is gezeefd , is beperkt tot twee : Grave-Pater Berthierstraat en Haelen A1.74 In hoeverre dit materiaal een bijdrage kan leveren aan het dateren van de onderliggende grondsporen , is tot op heden echter niet systematisch onderzocht . 
+Tijdens de opgraving van ROB-put 14 in Panningen is de bioturbatielaag door middel van het zeven van sediment in vakken van 50 x 50 cm op 60 73 Spek 2004 . 
+74 Verhart 1989 ; Lohof in druk . 
+systematische wijze onderzocht . 
+Het verspreidingsbeeld van het aardewerk laat geen ruimtelijke relatie zien met de grondsporen die na het verwijderen van genoemde laag op een dieper niveau in ROB-put 14 te voorschijn kwamen ( zie § 6.4 ) . 
+Ook voor de vuurstenen artefacten uit de zeefvakken kan niet van een ruimtelijke relatie met onderliggende grondsporen worden gesproken . 
+Opvallend is dat de fragmentjes verbrande leem wel in grotere aantallen voorkomen in het gebied van de prehistorische grondsporen S17 en S39 . 
+De betekenis hiervan is echter onduidelijk . 
+Omdat kleine fragmenten verbrande leem uit alle prehistorische perioden kunnen dateren , heeft de aanwezigheid ervan geen waarde voor het dateren van onderliggende of nabijgelegen grondsporen . 
+Om deze reden kan worden geconcludeerd dat het zeven van de bioturbatielaag in ROB-put 14 geen bijdrage heeft geleverd aan het dateren van de grondsporen in het gebied . 
+7.4 Bodemprocessen en zichtbaarheid van grondsporen Omdat het tijdens ons onderzoek niet mogelijk is gebleken om grondsporen in ROB-put 14 met zekerheid aan het Midden-Neolithicum toe te wijzen , blijft de vraag relevant of sporen uit deze periode ( en als zodanig herkenbaar ) kunnen worden verwacht . 
+Is er in Panningen mogelijk sprake van gunstige omstandigheden van conservering , waardoor neolithische grondsporen niet volledig zijn vervaagd of verstoord ten gevolge van bodemvorming , bioturbatie of grondgebruik in historische tijd ? 
+Zoals in hoofdstuk 4 is beschreven , bestaat het bovenste deel van de dekzandrug uit goed gesorteerd , zwak lemig , ongelaagd dekzand . 
+Dit zand is afgezet in de laatste fase van het Weichselien , waarna in de eerste millennia van het Holoceen in de top ervan een diepe bruine verweringsbodem is ontwikkeld tot een diepte van ca . 
+60 cm onder het toenmalige oppervlak . 
+In het profiel in ROB-put 14 waren tot op deze diepte ( tot 116 cm -mv . ) 
+sporen van zowel verbruining als bioturbatie zichtbaar ( Bijlage 1 ) . 
+Zo is de oorspronkelijke gelaagdheid van het dekzand tot op een diepte van 149 cm -mv . 
+volledig verdwenen . 
+De gegevens wijzen op processen van bodemvorming en biologische activiteit in het bovenste deel van het bodemprofiel , inclusief het deel waar de prehistorische grondsporen zichtbaar waren . 
+In de top van de verweringsbodem heeft zich vervolgens een ondiepe haarpodzol ontwikkeld met een dunne inspoelings- en een dunne uitspoelingshorizont . 
+Deze bodem duidt er op dat de periode van degradatie van de bruine verweringsbodem relatief kort is geweest . 
+Een mogelijke verklaring is dat de dekzandrug gedurende grote delen van het Holoceen een ‘ natuurlijke situatie ’ heeft gekend en met bos bedekt is geweest . 
+Met andere woorden : in prehistorische tijd is er hooguit gedurende enkele eeuwen van een open landschap sprake geweest , waardoor er slechts in beperkte mate een podzol is gevormd . 
+Op basis van de archeologische gegevens komen twee perioden in aanmerking , waarin het landschap een open karakter heeft gekend : het ( Midden- ) Neolithicum en de late prehistorie , wanneer een grafveld op de dekzandrug wordt aangelegd en er in het opgegraven gebied mogelijk ook bewoning heeft plaatsgevonden ( cf . 
+de mogelijke huisplattegrond uit de Late Bronstijd / Vroege IJzertijd ) . 
+75 Kenemans & Lohof 2005 . 
+76 In de rapportage van het AAO ( Kenemans & Goossens 2002 ) wordt de verploegde , paarsbruine laag evenals als restant van een haarpodzol geïnterpreteerd . 
+Vanwege het ontbreken van vondsten uit de Romeinse tijd en Vroege Middeleeuwen kan er van uit worden gegaan dat gedurende deze beide perioden de dekzandrug weer bedekt was met bos . 
+Uit de resultaten van het onderzoek van het ADC blijkt dat het vroegste gebruik van de dekzandrug in historische tijd teruggaat tot in de 12e tot en met 14e eeuw en verband houdt met industriële activiteiten . 
+Een verploegde , paarsbruine laag ( dikte 10-20 cm ) aan de basis van het plaggendek is vermoedelijk geen middeleeuwse akkerlaag die na deze 61 industriële activiteiten is ontstaan75 , maar onderdeel van een haarpodzolprofiel ( Bijlage 1 ) .76 Uitgaande van deze interpretatie dient het begin van de akkerbouw in historische tijd te worden gelijkgesteld met het begin van de plaggenbemesting aan het einde van de Late Middeleeuwen ( 14e-15e eeuw ) ( zie hoofdstuk 4 ) . 
+Dat niet eerder ontginning heeft plaatsgevonden , kan te maken hebben met hoge ligging van de dekzandrug , het relatief laag gehalte leem ( zeer gevoelig voor verdroging en verstuiving ) en een geringe natuurlijke bodemvruchtbaarheid . 
+Bovenstaande gegevens ten aanzien van de bodem en het gebruik van de dekzandrug zijn ook van betekenis voor het onderzoek van de conservering en herkenbaarheid van prehistorische grondsporen in het gebied . 
+Deze sporen waren zichtbaar tussen ca . 
+40-60 cm onder de basis van het plaggendek , ofwel op een diepte van ca 95-115 cm -mv . 
+De positie ervan correspondeert met het deel van de bodem waarin zich een bruine verweringsbodem heeft ontwikkeld ( 1BCw ) en waar eveneens sporen van bioturbatie zichtbaar waren . 
+In het veld kon echter worden vastgesteld dat de mate van zowel verbruining als bioturbatie op het niveau van de grondsporen , direct onder de bioturbatielaag ( 1Bwb ) , niet bijzonder groot is geweest . 
+Een mogelijke verklaring hiervoor is het lage leemgehalte van het dekzand waarin de sporen zijn ingebed . 
+Verbruining is vooral een kenmerk van leemrijke bodems , waaronder de lössgronden van Zuid-Limburg en de oude rivierkleigronden langs de Maas . 
+Voor deze gronden geldt in algemene zin geen of een slechte zichtbaarheid van prehistorische grondsporen ( met name indien houtskool en/of vondsten ontbreken ) voor de verbruinde delen van het bodemprofiel . 
+Voor de vindplaats in Panningen is de bodemkundige situatie echter anders . 
+Ten gevolge van het lage leemgehalte van de dekzandrug is een sterke mate van verbruining waarschijnlijk beperkt gebleven tot de bovenste decimeters van het bodemprofiel . 
+Het leemarme karakter van de bodem kan er tevens de reden van zijn dat de verstorende werking van dieren en planten onder de bioturbatielaag gering is gebleven . 
+Dit in tegenstelling tot leemrijke bodems die voedselrijker zijn en zich kenmerken door een hoge mate van activiteit van dieren en planten tot op grotere diepte . 
+Dat de prehistorische grondsporen vervolgens niet in de bouwvoor zijn opgenomen of anderszins door modern grondgebruik zijn verstoord , is te danken aan afdekking van het prehistorische oppervlak door een plaggendek . 
+Dit dek heeft bijgedragen aan een minimale verstoring van het ( oorspronkelijke ) bodemprofiel . 
+7.5 Drie scenario ’ s De in § 7.4 gepresenteerde gegevens wijzen op gunstige omstandigheden van conservering van de prehistorische vindplaats op de dekzandrug te Panningen . 
+Op grond ervan concluderen we dat niet alleen grondsporen uit de late prehistorie , maar ook ( configuraties van ) grondsporen van neolithische ouderdom gedurende duizenden jaren bewaard en als zodanig herkenbaar kunnen zijn gebleven . 
+De volgende drie scenario ’ s dienen zich aan : 1 . 
+Alleen grondsporen van de Michelsbergcultuur Het eerste scenario gaat uit van de opvatting dat de prehistorische bewoningssporen op het hoge deel van de dekzandrug ( ADC-putten 1 en 13 en ROB-put 14 ) uitsluitend uit de Michelsbergcultuur dateren . 
+Gezien de dichtheid en aard ( onder andere paalkuilen ) van de sporen gaan in de configuratie van grondsporen vermoedelijk een of meer houten structuren uit het Midden-Neolithicum schuil . 
+Hoewel sporen uit de latere fasen van de prehistorie ontbreken , kan niet met zekerheid een huisplattegrond worden gereconstrueerd . 
+We kennen een dergelijke plattegrond immers nog niet van 62 de Zuid-Nederlandse zandgronden en van de aangrenzende gebieden . 
+Gaan we uit van de resultaten van opgravingen van neolithische vindplaatsen in West-Nederland77 , komt een tweebeukige structuur het meest in aanmerking . 
+Kijken we naar de drie varianten ( I , II en III ) van de huisplattegronden die het ADC heeft gepresenteerd , zou het om variant III kunnen gaan . 
+In scenario 1 houdt het voorkomen van aardewerk uit de late prehistorie in de bioturbatielaag niet verband met activiteiten in of rondom een of meer houten structuren ( huis of boerderij ) uit deze periode . 
+De scherven wijzen op het uitvoeren van kortstondige en/of specifieke activiteiten , op enige afstand van de nederzetting ( en ) . 
+2 . 
+Grondsporen van de Michelsbergcultuur en uit de late prehistorie Dit scenario gaat uit van bewoning van het opgegraven , hoge deel van de dekzandrug in ( ten minste ) twee prehistorische perioden : het MiddenNeolithicum en de Late Bronstijd/Vroege IJzertijd . 
+De vindplaats bestaat uit een palimpsest van niet alleen vondsten ( vooral aardewerk ) , maar ook van prehistorische grondsporen . 
+Precies op de plaats waar mensen van de Michelsbergcultuur in een of meer huizen hebben gewoond , is ruim 3000 jaar later opnieuw gewoond . 
+In de Late IJzertijd is een deel van de dekzandrug bovendien gebruikt als grafveld met crematiegraven . 
+Uitgaande van scenario 2 dient het aardewerk uit de Late Bronstijd en IJzertijd uit de bioturbatielaag te worden beschouwd als nederzettingsaardewerk . 
+In dit scenario kan worden vastgehouden aan het voorkomen van de laat-prehistorische huisplattegrond , die door het ADC als variant II is beschreven . 
+Met andere woorden : in de Late Bronstijd en/of Vroege IJzertijd heeft ter hoogte van put 13 en het aangrenzende , zuidelijke deel van put 1 een boerderij van de Elp-variant gestaan . 
+Het feit dat scherven aardewerk uit de late prehistorie relatief schaars in het vondstspectrum vertegenwoordigd zijn , kan verband houden met het ontbreken van grote afvalkuilen in het opgegraven gebied . 
+Evenals in andere vindplaatsen in het Zuid-Nederlandse dekzandgebied ( onder andere Haps , Oss , Someren ) zijn de paalkuilen zelf vondstarm . 
+3 . 
+Alleen grondsporen uit de late prehistorie In scenario 3 wordt ervan uitgegaan dat op het hoge deel van de dekzandrug alleen grondsporen uit de late prehistorie gedocumenteerd zijn . 
+Oudere grondsporen die even oud zijn als het Michelsbergaardewerk , zijn volledig in de bioturbatielaag opgenomen of als gevolg van bodemprocessen vervaagd . 
+Een alternatieve mogelijkheid is dat in het Midden-Neolithicum op het hoogste deel van de dekzandrug nooit een structuur met paalkuilen e.d . heeft gestaan . 
+In dat geval moet het aardewerk en de vuurstenen artefacten uit de Michelsbergcultuur in verband worden gebracht met activiteiten , op enige afstand van de nederzetting ( en ) . 
+Ook in scenario 3 kan worden vastgehouden aan variant II van de huisplattegronden : een boerderij uit de Late Bronstijd/ Vroege IJzertijd . 
+Nabijgelegen grondsporen die geen deel uitmaken van de huisplattegrond dateren eveneens uit de late prehistorie en weerspiegelen mogelijk een of enkele andere structuren . 
+77 Bijvoorbeeld Schipluiden , Haamstede-Brabers , Wateringen 4 , Vlaardingen en Zeewijk . 
+78 Kenemans & Lohof 2005 , 11 . 
+Een goede beoordeling van de scenario ’ s 1 , 2 en 3 en het maken van een beredeneerde keuze tussen de scenario ’ s is niet eenvoudig . 
+Toch zijn er een aantal aanknopingspunten . 
+Zo is scenario 3 niet in overeenstemming met onze conclusie ( zie boven ) dat ook grondsporen van neolithische ouderdom bewaard kunnen zijn en als zodanig herkend kunnen worden . 
+Dat grondsporen ouder dan de late prehistorie in het gebied van de putten 1 , 13 en 14 aanwezig zijn , wordt het best aangetoond door grondspoor 36 in put 1 . 
+Dit spoor kan op basis van 13 scherven aardewerk van de Michelsbergcultuur in het MiddenNeolithicum worden gedateerd . 
+Door de aanwezigheid van spoor 36 wordt de 63 opvatting dat grondsporen alleen uit de late prehistorie zouden dateren , feitelijk reeds ontkracht . 
+Beperken we ons tot de scenario ’ s 1 en 2 , spreekt voor scenario 2 de waarneming van het ADC dat de grondsporen die deel uitmaken van variant II van de huisplattegrond in put 13 beter geconserveerd waren dan andere ( in de prehistorie gedateerde ) sporen.78 In het sporenvlak leken ze minder door bioturbatie en uitloging aangetast dan andere sporen en waren ze relatief goed herkenbaar aan de grijsbruine tot bruingevlekte vulling . 
+Deze waarneming kan wijzen op een verschil in ouderdom tussen de grondsporen van variant II van de huisplattegrond ( Late Bronstijd/Vroege IJzertijd ) en andere ( en minder duidelijk waarneembare ) prehistorische grondsporen in het gebied . 
+Een nadere beoordeling van de scenario ’ s 1 en 2 is helaas niet goed mogelijk , mede omdat vondsten in sporen nagenoeg ontbreken . 
+Maar ook zijn er beperkingen van analyse en interpretatie als gevolg van de fasering en methodiek van het archeologische veldwerk . 
+De concentraties vondsten en de grondsporen zijn in drie verschillende campagnes opgegraven : twee campagnes van het ADC ( 2002 en 2003 ) en een van de ROB ( 2003 ) . 
+In de loop van het veldwerk was om deze reden de mogelijkheid tot het creëren van overzicht en het in samenhang beoordelen van sporen en vondsten beperkt . 
+Een ander aspect is dat in de PvE ’ s die ten grondslag liggen aan de opgravingen van het ADC te weinig rekening is gehouden met het archeologische materiaal in de bioturbatielaag . 
+Waar een gedetailleerde documentatie ( bijvoorbeeld driedimensionaal inmeten van vondsten en het zeven van sediment ) op zijn plaats was , is volstaan met het verzamelen in vakken van 5 x 5 meter van vondsten die tijdens het machinaal verdiepen van de opgravingsput zichtbaar waren . 
+Omdat de bioturbatielaag in de putten 1 en 13 niet is gezeefd , zijn de exacte begrenzing en samenstelling van concentraties van aardewerk in deze laag niet bekend . 
+Bovendien is tijdens de opgraving van de ROB vastgesteld dat het opgravingsvlak van put 1 dieper is aangelegd dan in ROB-put 14 . 
+Om deze reden zijn mogelijk grondsporen in put 1 gemist en moet er rekening mee worden gehouden dat put 1 een vertekend beeld van de werkelijke verspreiding van grondsporen in het gebied . 
+Tot slot kan er op worden gewezen dat het beschrijven en dateren van het prehistorische aardewerk en het toewijzen van de scherven aan groepen niet door een en dezelfde specialist is uitgevoerd . 
+Hierdoor bestaat de mogelijkheid dat er discrepanties bestaan in de uitkomsten van de aardewerkanalyse , niet omdat er sprake is van verschillend materiaal , maar omdat door de materiaalspecialisten van het ADC en de ROB verschillende interpretaties zijn gegeven van dezelfde typen scherven . 
+64 8 Conclusies en aanbevelingen 8.1 Conclusies Enkele belangrijke conclusies van het ROB-onderzoek kunnen als volgt , aan de hand van antwoorden op de onderzoeksvragen ( zie § 3.2 ) , worden gepresenteerd : 1 Bevinden zich in de noordelijke strook grenzend aan de ADC-opgraving grondsporen en vondsten uit het Midden-Neolithicum ? 
+In de noordelijke , door de ROB opgegraven strook zijn in totaal 31 prehistorische sporen herkend , waarvan 23 sporen in ROB-put 14 en acht sporen in ROB-put 15 . 
+Deze sporen zijn voor een deel een voortzetting van de sporen in het gebied dat door het ADC is opgegraven ( met name in de putten 1 en 13 ) . 
+Ook het voorkomen van prehistorisch aardewerk en vuurstenen artefacten in ROB-put 14 sluit aan bij de waarnemingen in de putten 1 en 13 . 
+Het aardewerk dat uit de gezeefde vakken werd verzameld , kan voor het merendeel worden toegewezen aan de Michelsbergcultuur . 
+De vondsten wijzen op activiteiten en/of bewoning in het Midden-Neolithicum op de noordelijke flank van de dekzandrug . 
+Of prehistorische grondsporen in ROB-put 14 uit het Midden-Neolithicum dateren , is niet met zekerheid vastgesteld . 
+2 Zo ja , wat is de ruimtelijke en chronologische relatie tussen vondsten ( aardewerk en vuursteen ) uit de bioturbatielaag en onderliggende grondsporen . 
+Er kan geen ruimtelijke relatie worden waargenomen tussen aantallen en verspreiding van vondsten ( aardewerk en vuursteen ) in de bioturbatielaag en prehistorische grondsporen in ROB-put 14 . 
+Onder de gezeefde vakken met het meeste prehistorische aardewerk ( hoofdzakelijk Michelsbergcultuur ) werden geen grondsporen waargenomen . 
+Als we ervan uitgaan dat deze concentratie van Michelsbergaardewerk zich heeft uitgestrekt tot in put 1 , bestaat er in ruimtelijke en chronologische zin wel een duidelijke relatie met grondspoor 36 in put 1 . 
+Dit spoor bevatte 13 scherven aardewerk van de Michelsbergcultuur en kan in het Midden-Neolithicum worden gedateerd . 
+3 Zijn er concentraties van vondsten in de bioturbatielaag aanwijsbaar en hoe dienen deze te worden geïnterpreteerd ? 
+Gaat het bijvoorbeeld om vondsten uit grondsporen of om activiteitsgebieden in en rond het gebied van de mogelijke huisplattegrond ? 
+De resultaten van het zeefonderzoek duiden op een concentratie ( oppervlakte van ca . 
+12 m2 ) van hoofdzakelijk midden-neolithisch aardewerk in het zuidwestelijke deel van het gezeefde gebied in ROB-put 14 . 
+Hier bevatte de bioturbatielaag duidelijk grotere aantallen van midden-neolithisch aardewerk . 
+Ook kwamen in het zuidwestelijke deel twee vuurstenen schrabbers van de Michelsbergcultuur aan het licht . 
+Gezien de oppervlakte van de concentratie en het grote aantal scherven , is het aardewerk waarschijnlijk niet afkomstig uit grondspoor S36 in put 1 . 
+Eerder gaat het om een activiteitsgebied of een locatie waar nederzettingsmateriaal is afgedankt . 
+Wanneer we een groter gebied in ogenschouw nemen , bijvoorbeeld het gebied van de gereconstrueerde huisplattegrond in put 13 en een strook van 10 m daaromheen , ontstaat er een beeld van een zone met een hoge dichtheid aan grondsporen . 
+Tijdens het veldwerk van het ADC is in het oostelijke deel van de gereconstrueerde huisplattegrond een tweede concentratie van Michelsbergaardewerk waargenomen . 
+Ook hier kan het gaan om een activiteitsgebied of om een locatie waar nederzettingsmateriaal is afgedankt . 
+65 4 Wat kan worden gezegd over de diepteligging en conservering van het prehistorische loopvlak ? 
+In Panningen hebben we te maken met een archeologisch vondstniveau op enkele decimeters onder de basis van het plaggendek . 
+Hoewel de diepteligging ervan niet exact kan worden aangegeven , is het prehistorische loopvlak ten tijde van het Midden-Neolithicum vermoedelijk ( grotendeels ) geconserveerd . 
+De aanwezigheid van een bioturbatielaag en de positie van talrijke scherven van neolithisch en ( in kleinere hoeveelheden ) later aardewerk vooral in het onderste deel van deze laag , zijn hiervoor aanwijzingen . 
+Omdat de vondsten uit de bioturbatielaag in ROB-put 14 geen verband lijken te houden met grondsporen en ook aanwijzingen voor post-depositionele verplaatsing ( bijvoorbeeld in een depressie ) ontbreken , weerspiegelt de bioturbatielaag bij benadering het prehistorische loopvlak uit het Midden-Neolithicum . 
+5 Kunnen grondsporen van neolithische ouderdom in zichtbare vorm zijn bewaard ? 
+Het feit dat prehistorische grondsporen zich in het opgravingsvlak aftekenden , is te danken aan de ( relatieve ) intactheid van het bodemprofiel en de geringe mate van verbruining en bioturbatie van de bodem direct onder de bioturbatielaag . 
+Op basis van deze gunstige omstandigheden kan worden verondersteld dat ook ( configuraties van ) grondsporen van neolithische ouderdom gedurende duizenden jaren kunnen zijn bewaard en als zodanig herkenbaar zijn gebleven . 
+Zoals bij de beantwoording van vraag 3 opgemerkt , vormt grondspoor 36 in put 1 hiervoor het beste ‘ zichtbare ’ bewijs . 
+6 Is het door archeologisch en bodemkundig onderzoek mogelijk om uitspraken te doen over het ontstaan en ouderdom van de bioturbatielaag ? 
+Het blijkt in de praktijk zeer lastig om grond van macroscopische waarnemingen aan de inhoud en aard van de bioturbatielaag uitspraken te formuleren over het ontstaan en de ouderdom . 
+Zeker is dat de laag voorafgaande aan de vorming van het plaggendek ( dus vóór 1400 ) is ontstaan . 
+7 Welke bijdrage levert het zeven van grondsporen en het verzamelen van organische en anorganische vondsten aan het dateren van de sporen ? 
+De gezeefde prehistorische sporen in ROB-putten 14 en 15 bevatten nauwelijks aardewerk of vuursteen , waardoor een datering op basis van archeologisch vondstmateriaal in de vulling niet mogelijk is . 
+Uit verscheidene sporen zijn wel organische resten in de vorm van onverkoolde bodemschimmels afkomstig , zogenaamde Cenococcum . 
+Dergelijke organismen komen zeer regelmatig in het bodemmilieu voor . 
+Resten ervan hebben echter geen daterende waarde , aangezien ze uit alle perioden kunnen dateren . 
+8.2 Aanbevelingen Naar aanleiding van het archeologische onderzoek in het uitbreidingsgebied Panningen worden de volgende aanbevelingen gedaan : 1 De discussie in deze rapportage ( hoofdstuk 7 ) is vooral gevoerd in het licht van de gegevens van de opgravingen van het ADC en de ROB in Panningen . 
+Gegevens van andere vindplaatsen met midden-neolithisch materiaal op de Limburgse zandgronden worden weliswaar in dit rapport genoemd , maar zijn niet systematisch vanuit vergelijkbare vraagstellingen geanalyseerd . 
+Een dergelijke analyse is feitelijk nodig om de bevindingen van het onderzoek in Panningen te kunnen vergelijken en toetsen . 
+Zo verdient het aanbeveling om opgegraven vindplaatsen met midden-neolithisch materiaal in het Limburgse zandgebied systematisch op landschappelijke en bodemkundige kenmerken te onderzoeken . 
+Vervolgens dienen de resultaten van dit onderzoek in relatie tot 66 2 3 4 5 de conservering en zichtbaarheid van prehistorische grondsporen te worden geanalyseerd . 
+Tijdens het toekomstige onderzoek van vindplaatsen met middenneolithisch materiaal op de Limburgse zandgronden dient ( zowel tijdens proefsleuvenonderzoek als opgraving ) systematisch aandacht te worden besteed aan de aanwezigheid , aard , datering en verspreiding van vondstmateriaal in een oude akkerlaag of bioturbatielaag . 
+Dergelijke lagen kunnen worden verwacht onder een plaggendek en direct boven het vlak waar grondsporen aanwezig zijn . 
+Indien bij het verdiepen van de opgravingsput in een oude akkerlaag of bioturbatielaag scherven midden-neolithisch aardewerk worden aangetroffen , verdient het aanbeveling vondsten drie-dimensionaal in te meten of vakken van 50 x 50 cm uit te zetten en het sediment nat te zeven . 
+Palynologisch onderzoek kan mogelijk een beeld geven van de prehistorische bosontwikkeling op vindplaatsen met midden-neolithisch materiaal . 
+Wel moet er rekening mee worden gehouden dat de kans op grootschalige corrosie van pollen in dynamische bosbodems relatief groot is . 
+Omdat het hierbij mede gaat om de vegetaties tijdens de nog slechts weinig onderzochte periode van de Michelsbergcultuur , is een poging in deze richting bij toekomstig onderzoek gewenst . 
+Met een studie naar de bioturbatielaag door een bodemkundig goedonderlegd micromorfoloog kunnen vragen naar de ouderdom en het ontstaan van deze laag opgelost worden . 
+Voor het deel van de dekzandrug ten noorden van het opgegraven gebied wordt aanbevolen deze op de archeologische monumentenkaart ( AMK ) van Limburg te plaatsen als een terrein van hoge archeologische waarde . 
+In dit gebied kunnen prehistorische bewoningssporen worden verwacht , die een voortzetting zijn van de gedocumenteerde sporen in het opgegraven deel van de vindplaats . 
+Bovendien kan worden uitgegaan van een vergelijkbare bodemopbouw en daarmee een goede conservering van archeologische sporen en resten . 
+Daarnaast bevat het bodemarchief waarschijnlijk ook de resten van een breed scala aan laat-middeleeuwse activiteiten . 
+Laatstgenoemde resten kunnen – indien gecombineerd met historische informatie uit archieven – een waardevolle bijdrage leveren aan het ontrafelen van de bewoning- en gebruiksgeschiedenis van dit deel van de gemeente Helden . 
+67 68 Literatuur Bakker , J.A. , 1982 : TRB settlement patterns on the Dutch sandy soils , Analecta Praehistorica Leidensia 15 , 87-124 . 
+Bakker , R. , 2003 : The emergence of agriculture on the Drenthe Plateau . 
+A palaeo-botanical study supported by high-resolution 14C dating , Bonn ( Archäologische Berichte 16 ) . 
+Bisschops , J.H. , J.P . 
+Broertjes & W. Dobma 1985 . 
+Toelichting bij de Geologische Kaart van Nederland 1:50.000 , Blad Eindhoven West ( 51W ) . 
+Uitgave Rijks Geologische Dienst , Haarlem . 
+Broeke van den , P.W. , 1987 : De dateringsmiddelen voor de ijzertijd van ZuidNederland , in : W.A.B . 
+van der Sanden & P.W . 
+van den Broeke ( red . 
+) , Getekend Zand . 
+Tien jaar archeologich onderzoek in Oss-Ussen , Waalre ( Bijdragen tot de studie van het Brabantse Heem , deel 31 ) , 23-43 . 
+Brounen , F.T.S. , 1994 : Maastricht-Vogelzang : een vindplaats van de Michelsbergcultuur in het Maasdal , Notae Praehistoricae 14 , 175-177 . 
+Brounen , F.T.S. , 1995a : Verrassende vondsten uit Vogelzang , in : B. Knippels , F. Brounen , W. Dijkman & R. Hulst , Sandwich ondergronds . 
+De resultaten van 10 jaar archeologisch bodemonderzoek , Maastricht , 12-19 . 
+Brounen , F.T.S. , 1995b : Watermolen-Vogelsang , in : T.A.S.M . 
+Panhuijsen ( red . 
+) , Archeologische kroniek van Maastricht 1994 , Publications de la Société historique et archéologique dans le Limbourg 131 , 218-223 . 
+Dijk van , X.C.C. , 2001a : Plangebied Koningslust-oost , gemeente Helden . 
+Een aanvullende archeologische inventarisatie ( AAI-1 ) , RAAP-brief 2001-2022/RT , Amsterdam . 
+Dijk van , X.C.C. , 2001b : Plangebieden Egchel-Noord , bedrijven J.F . Kennedylaan en industrieterrein Panningen , gemeente Helden . 
+Een Aanvullende Archeologische Inventarisatie , RAAP-rapport 693 , Amsterdam . 
+Dijk van , X.C.C. , 2003 : Plangebied Loo 13A te Pannningen , gemeente Helden . 
+Een inventariserend archeologisch onderzoek , RAAP-notitie 455 , Amsterdam . 
+Dijk van , X.C.C. , 2004a : Plangebied Roerstreek Zuid . 
+Gemeente Roermond . 
+Een inventariserend archeologisch onderzoek , waarderende fase : proefsleuven , RAAP-rapport 994 , Amsterdam . 
+Dijk van , X.C.C. , 2004b : Een proefsleuvenonderzoek bij de Breidberg in bedrijventerrein Roerstreek Zuid , gemeente Roermond , Roerstreek 2004 , heemkundevereniging Roerstreek 36 , 95-118 . 
+Dijk van , X.C.C. , 2004c : Plangebied Kerkenbosch , gemeente Helden . 
+Een inventariserend archeologisch onderzoek , RAAP-notitie 739 , Amsterdam . 
+Drenth , E. & A.E . 
+Lanting 1991 : De chronologie van de enkelgrafcultuur in Nederland : Enkele voorlopige opmerkingen , Paleo-aktueel 2 , 42-46 . 
+69 Geraerds , J.J.G. , 2003 : Plangebied ‘ De Pit ’ te Panningen , gemeente Helden . 
+Een archeologische begeleiding , RAAP-notitie 282 , Amsterdam . 
+Gheysen , K. , 2004 : Panningen-Groenstraat ( gemeente Helden ) . 
+Een archeologisch vooronderzoek , BILAN-rapport 2004/9 ( 1572-3194 ) , Tilburg . 
+Grooth , de M.E.Th. , 1987 : De sierschijf van Helden , Oudheidkundige Mededelingen uit het Rijksmuseum van Oudheden te Leiden 67 , 67-84 . 
+Grooth , de M.E.Th , 1990 : De sierschijf van Helden . 
+Thracische edelsmeedkunst uit de Peel , Spiegel Historiael 25 , 548 . 
+Haaren , van H.M.E . 
+& P.J.R . 
+Modderman 1973 : Ein mittelneolithischer Fundort unter Koningsbosch , Prov . 
+Limburg , Analecta Praehistorica Leidensia 6 , Leiden , 1-49 . 
+Hogestijn , J.W.H . 
+& E. Drenth 2000/2001 : In Slootdorp stond een Trechterbeker-huis ? 
+Over midden- en laat-neolithische huisplattegronden uit Nederland , Archeologie 10 , 42-79 . 
+Höhn , B. , 2002 : Michelsberger Kultur in der Wetterau , Archäologie der Wetterau . 
+Bonn ( Universitätsforschungen zur prähistorischen Archäologie 87 ) . 
+Kenemans , M.C . 
+& T.A . 
+Goossens 2002 : Aanvullend Archeologisch Onderzoek te Helden-Panningen , ADC-rapport 131 , Bunschoten . 
+Kenemans , M.C . 
+& E. Lohof 2005 : Helden , archeologische resten in Panningen , ADC-rapport 319 , Amersfoort . 
+Keysers , D.M.G. , 2004 : Plangebied Beringe-Kampweg , gemeente Helden . 
+Een inventariserend archeologisch onderzoek , RAAP-notitie 503 , Amsterdam . 
+Lanting , J.N. , & J. van der Plicht 1999/2000 : De 14C-chronologie van de Nederlandse pre- en protohistorie III : Neolithicum , Palaeohistoria 41/42 , 1-110 . 
+Lanting , J.N. , & J. van der Plicht 2001/2002 : De 14C-chronologie van de Nederlandse pre- en protohistorie IV : Bronstijd en vroege ijzertijd , Palaeohistoria 43/44 , 117-262 . 
+Lauwerier , R.C.G.M . 
+& R.M . 
+Lotte 2002 : Archeologiebalans 2002 , Amersfoort . 
+Lohof , E. , in druk : Archeologisch onderzoek op de locatie HaelenNapoleonsweg ( A1 ) , in : J. Schreurs , J. Schotten & E. Rensink ( red . 
+) : Archeologie in de Via Limburg , Omleiding N273 Haelen . 
+Louwe Kooijmans , L.P . 
+& L.B.M . 
+Verhart 1990 : Een middenneolithisch nederzettingsterrein en een kuil van de Stein-groep op de voormalige Kraaienberg bij Linden , gemeente Beers ( N.-Br . 
+) , Oudheidkundige Mededelingen van het Rijksmuseum van Oudheden 70 , Leiden , 49-108 . 
+Marolle , C. , 1989 : Le village Michelsberg des Hautes Chanvières à Mairy ( Ardennes ) , Gallia Préhistoire , tome 31 , 93-117 . 
+Modderman , P.J.R . 
+& P.H . 
+Deckers , 1984 : Verblijfssporen uit mesolithicum , neolithicum en bronstijd op de Keuperheide , gem . 
+Helden ( L. ) , Analecta Praehistorica Leidensia 17 , 29-55 . 
+70 Rensink , E. , 1997 : Gemeenten Roermond en Roerdalen . 
+Plangebied Roermond Roerdalen , deelgebied 1 . 
+Een archeologische inventarisatie , kartering en waardering , RAAP-rapport 294 , Amsterdam . 
+Robberechts , B. , 2004 : Plangebied Molenstraat , gemeente Helden . 
+Een inventariserend archeologisch onderzoek , RAAP-notitie 535 , Amsterdam . 
+Schreurs , J. , 1992 : The Michelsberg site of Maastricht-Klinkers : a functional interpretation , Analecta Praehistorica Leidensia 25 , Leiden , 129-171 . 
+Schreurs , J. , 2005 : Het Midden-Neolithicum in Zuid-Nederland , in : J. Deeben , E. Drenth , M. van Oorsouw & L. Verhart ( red . 
+) : De Steentijd in Nederland ( Archeologie 11/12 ) , 301-332 . 
+Schreurs , J . & F. Brounen 1998 : Resten van een Michelsberg aardwerk op de Schelsberg te Heerlen . 
+Een voorlopig bericht , Archeologie in Limburg 76 , 21-32 . 
+Schutte , A.H. , 2005 : Helden-Beringe-Centrum . 
+IVO-3 , ADC-rapport 407 , Amersfoort . 
+Spek , Th. , 1996 : Die bodenkundliche und landschaftliche Lage von Siedlungen , Äckern und Gräberfeldern in Drenthe ( nördliche Niederlande ) . 
+Eine Studie zur Standortwahl in vorgeschichtlicher , frühgeschichtlicher und mittelalterlicher Zeit ( 3400 v. Chr . – 1500 n . Chr . ) , Siedlungsforschung 14 , 95-193 . 
+Spek , Th. , 2004 : Het Drentse esdorpenlandschap . 
+Een historisch-geografische studie , Utrecht ( Proefschrift Wageningen Universiteit ) . 
+Stiboka , 1972 : Bodemkaart van Nederland , Schaal 1:50.000 . 
+Blad 57 Oost Valkenswaard en Blad 58 West Roermond . 
+Uitgave Stichting voor Bodemkartering , Wageningen . 
+Theunissen , L. 1990a : Maastricht-Klinkers , een opgraving op de Caberg ( doctoraalscriptie Rijksuniversiteit Leiden ) . 
+Theunissen , L. , 1990b : Maastricht-Klinkers , een opgraving op de Caberg , Archeologie in Limburg 46 , 325-328 . 
+Theunissen , L. , 1991 : Maastricht-Klinkers , een opgraving op de Caberg ( slot ) , Archeologie in Limburg 48 , 24-26 . 
+Toorn , van den , J.C . 
+: Toelichtingen bij de Geologische Kaart van Nederland 1 : 50.000 . 
+Blad Venlo West ( 52 W ) . 
+Uitgave Geologische Dienst . 
+Haarlem . 
+Velde van der , H.M . 
+& M.C . 
+Kenemans 2003 : Een nederzetting uit de IJzertijd en Romeinse tijd op De Hulst ( Oostrum , gemeente Venray ) , ADC-rapport 202 , Bunschoten Verhart , L.B.M. , 1989 : Nederzettingssporen uit het Midden-Neolithicum langs de Pater Berthierstraat te Grave , Westerheem 38 , 190-197 . 
+Verhart , L.B.M . 
+2000 : Times fade away . 
+The neolithization of the southern Netherlands in an anthropological and geographical perspective , Archaeological Studies Leiden University 6 , Leiden . 
+71 Verhart , L.B.M . 
+& L.P . 
+Louwe Kooijmans 1989 : Een midden-neolithische nederzetting bij Gassel , gemeente Beers ( N.-Br . 
+) , Oudheidkundige Mededelingen Rijksmuseum van Oudheden Leiden 69 , 75-117 . 
+Verhart , L.B.M . 
+& M. Wansleeben 1999 : Bouwen op een verleden . 
+Een aanvullend archeologisch onderzoek voor het bedrijvenpark Keulse Baan-zuid , gemeente Roermond , Leiden . 
+Verlinde , A.D. , 1971 : Spätneolithische und frühbronzezeitliche Siedlungsspuren auf der Meerloër Heide , Gem . 
+Meerlo , Prov . 
+Limburg , und ihre Stellung , Analecta Praehistorica Leidensia 4 , 26-47 . 
+Vermeersch , P.M. , 1987-1988 : Le Michelsberg en Belgique , Acta Archaeologica Lovaniensia 26-27 , 1-20 . 
+Wansleeben , M. & L.B.M . 
+Verhart 1993 : Sint Odiliënberg . 
+Nederzetting van de Michelsberg-cultuur , in : H. Stoepker ( red . 
+) , Archeologische kroniek van Limburg over 1992 en 1993 , Publications de la Société historique et archéologique dans le Limbourg 129 , 309-313 . 
+Wolfert , H.P . 1989 : Geomorfologische waarden in het streekplangebied Noorden Midden-Limburg . 
+Rapport 12 Staring Centrum . 
+Wageningen . 
+Wolfert , H.P . & G. de Lange 1990 : Geomorfologische Kaart van Nederland 1 : 50.000 . 
+Toelichting op Blad 52 Venlo . 
+Uitgave Staring Centrum & Rijks Geologische Dienst . 
+Wageningen/Haarlem . 
+Zee van der , R.M. , 2004 : Helden , Schrames inventariserend archeologisch veldonderzoek : karterende fase , BAAC-rapport 04.048 , ‘ s-Hertogenbosch . 
+72 Bijlage 1 Profielbeschrijving Op 23 juni 2003 is een geologische en bodemkundige beschrijving gemaakt van een ruim 4 m diep profiel in de noordwand van ROB-put 14 ( zie afb . 
+3 ) . 
+Het maaiveld ligt hier op 34,45 m + NAP . 
+Profielbeschrijving : 0 – 27 cm 1Aap1 Plaggendek ; bovenzijde bouwvoor ; zwak lemig fijn zand ; ca . 
+5 % organische stof ; zeer donkergrijsbruin 10YR3/2 ; fragmenten van houtskool , baksteen en postmiddeleeuws aardewerk ; golvende , scherpe ondergrens ( = meest recente ploeggrens ) ; 27 – 36 cm 1Aap2 Plaggendek ; onderzijde bouwvoor ; zwak lemig fijn zand ; ca . 
+4 % organische stof ; donkergrijsbruin 10YR4/ 2 ; sterk gebioturbeerd ; fragmenten van houtskool , baksteen en postmiddeleeuws aardewerk ; veel aspergewortels ; golvende , scherpe ondergrens ( = subrecente ploeggrens ) ; 36 – 68 cm 1Aa2 Plaggendek , vermoedelijk met ingeploegde restanten oude natuurlijke bovengrond ; zwak lemig fijn zand ; ca . 
+5 % organische stof ; zeer donkergrijs 10YR3/1 ; sterk gebioturbeerd ; groot aantal zeer kleine houtskool- en aardewerkfragmenten ; scherpe , golvende ondergrens ; 68 – 75 cm 1AEb Begraven deel van bovengrond zwak ontwikkeld haarpodzolprofiel ; zwak lemig fijn dekzand ; ca . 
+2 % organische stof ; veel loodzandkorrels ; roodachtige gloed ; donker roodgrijs 5YR4/2 ; sterk verstoord door bioturbatie en grondbewerking ; scherpe , sterk golvende ondergrens ; 75 – 80 cm 1Bhsb Begraven inspoelingslaag van zwak ontwikkeld haarpodzolprofiel ; zwak lemig fijn dekzand ; ca.1,5 % organische stof ; roodbruin 5YR4/3 ; sterk verstoord door bioturbatie 80 – 96 cm 1Bwb Verwerings-B van een diep ontwikkeld moderpodzolprofiel ( ‘ bruine bosgrond ’ ) ; zwak lemig fijn dekzand ; geelbruin 10YR5/6 ; ( o.a . mollengangen ) ; 96 – 116 cm 1BCw Verwerings-BC van een diep ontwikkeld moderpodzolprofiel ( ‘ bruine bosgrond ’ ) ; zwak lemig fijn dekzand ; geelbruin 10YR5/8 ; sterke bioturbatie ; geen oorspronkelijke dekzandgelaagdheid zichtbaar ; 116 – 149 cm 1C Zwak lemig fijn dekzand ; matig gesorteerd ( ‘ schuurpapier-structuur ’ ) ; zeer bleekbruin 10YR8/3 ; geen oorspronkelijke gelaagdheid meer zichtbaar ; 73 149 – 169 cm 2C1 Kryoturbaat verstoord pakket ; sterk lemig zand ; talrijke mestkevergangen ; daardoor aangerijkt met leemmateriaal afkomstig uit 2C2-horizont ; grijs 10YR6/1 ; geen oorspronkelijke gelaagdheid meer zichtbaar ; bovenzijde van meerdere diepe vorstwiggen begint op zelfde niveau ( ca . 
+150 cm –mv ) ; 169 – 173 cm 2C2 Kryoturbaat verstoorde leemlaag ; ca . 
+30 % leem ; sterke pseudogleyverschijnselen ( stagnatieroest ) ; grijze matrix ( 10YR 6/1 ) met roodbruine pseudogleyvlekken ( 5YR4/3 ) ; 173 – 184 cm 2C3 Sterk lemig matig fijn dekzand ; sedimentaire gelaagdheid nog vrijwel intact ; ‘ spekkoekgelaagdheid ’ dat wil zeggen afwisseling van 1-2 mm dikke zand- en leemlaagjes ; leemlaagjes grijs ( 10YR6/1 ) , zandlaagjes zeer bleekbruin ( 10YR7/4 ) ; 184 – 283 cm 2C4 Zwak lemig , matig fijn dekzand ; sedimentaire gelaagdheid nog grotendeels intact ; lokaal enkele diepe mestkevergangen ( doorsnede ca . 
+15 mm ) ; matrix geel 10YR7/6 ; plaatselijk licht gebleekte zandbandjes ( oud oppervlak ? 
+) ; kleine variaties in korrelgrootte ( textuurbandjes ) , soms van wat grover dekzand , soms van lemige bandjes met pseudogleyverschijnselen , deels roodbruin ( ijzeroxide ) , deels zwart ( mangaanoxide ) ; 283 – 313 cm 2C5 Sterk lemig , matig fijn dekzand ; sedimentaire gelaagdheid nog grotendeels intact ; lokaal enkele diepe mestkevergangen ( doorsnede ca . 
+15 mm ) ; matrix lichtgrijs 10YR7/1 ; talrijke roodbruin gekleurde leembandjes ( pseudogley ) ; 313 – 389 cm 3C1 Kryoturbaat verstoorde sterk lemige zandlaag ; licht geelbruine matrix ( 10YR6/4 ) met talrijke grijsgekleurde involuties ; randen involuties geoxideerd ( pseudogley ) ; 389 - 3C2 Kryoturbaat verstoorde leemlaag ; grijze matrix met bruinrode oxidatievlekken 74 Bijlage 2 Spooranalyse datering put vlak spoor aard 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 S001 S002 S003 S004 S005 S006 S007 S008 S009 S010 S011 S012 S013 S014 S015 S016 S017 S018 S019 S020 S021 S022 S023 S024 S025 S026 S027 S028 S029 S030 S031 S032 S033 S034 S035 S036 S037 S038 S039 S040 S041 S042 S043 S044 S045 S046 S047 S048 S049 S050 S051 S052 S053 S054 S055 S056 S057 S058 kuil kuil paalspoor paalspoor paalspoor kuil greppel paalspoor paalspoor kuil paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor greppel greppel paalspoor kuil kuil paalspoor kuil paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor greppel paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor vondst inhoud spooraard vondsten interpretatie – 7 – 6 – – 9 1 en 5 – 4 3 – – – – – 11 en 18 – – – – – – – – – – – – – – – – – – – – – 10,19,20 12 en 21 13 en 22 14 en 23 15 en 24 16 en 25 17 en 26 27 – – – – – – – – – – – – – gezeefd – gezeefd – – aw , vs , st , lm aw+gezeefd – gezeefd gezeefd – – – – – gezeefd – – – – – – – – – – – – – – – – – – – – – gezeefd gezeefd gezeefd gezeefd gezeefd gezeefd gezeefd gezeefd – – – – – – – – – – – – prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+natuurlijk LME prehist . ? 
+LME prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+LME LME prehist . ? 
+recent recent LME ? 
+NT/recent ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+– prehist . ? 
+– prehist . ? 
+– – LME ? 
+MK – prehist . ? 
+prehist . ? 
+– – – – – prehist . ? 
+– – – – – – – – – – – – – – – – – – – – – prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+– – – – – – – – – – – – prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor LME-greppel prehistorisch spoor LME-spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor LME-greppel LME-greppel prehistorisch spoor '' vlaskuil '' '' vlaskuil '' 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem 23 t/m 38 ontginningssysteem prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 75 datering put vlak spoor 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 S059 S060 S061 S062 S063 S064 S065 S066 S067 S068 S069 S070 S071 S072 S073 paalspoor paalspoor paalspoor paalspoor paalspoor greppel paalspoor paalspoor greppel kuil greppel paalspoor zone zone paalspoor vondst inhoud spooraard vondsten – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+NT/recent recent recent recent recent recent – – – – – – – – – – – – – – – interpretatie 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem 47 t/m 67 ontginningssysteem zandwinningskuil Vondstnummer 2 betreft vlakvondsten . 
+datering put vlak spoor aard 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 S001 S002 S003 S004 S005 S006 S007 S008 S009 S010 S011 S012 S013 S014 S015 S016 S017 S018 S019 S020 S021 S022 S023 S024 S025 S026 S027 S028 S029 S030 S031 S032 S033 S034 S035 S036 S037 S038 depressie paalspoor greppel paalspoor greppel greppel paalspoor greppel greppel paalspoor paalspoor paalspoor paalspoor kuil kuil greppel paalspoor kuil paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor 76 vondst inhoud spooraard vondsten interpretatie 3 6 4 – – – – – – 7 – 5 – 8 9 11 – – – – – – – – – – – – – – – – – – – – – – aw aw aw , vs en st – – – – – – gezeefd – aw – ijzer vs en st aw en st – – – – – – – – – – – – – – – – – – – – – – prehist . ? 
+prehist . ? 
+LME prehist . ? 
+LME ? 
+LME ? 
+prehist . ? 
+LME ? 
+LME ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+prehist . ? 
+recent recent LME recent recent LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+MBT MK 14e eeuw – – – – – – – – MK ? 
+– – – 12e eeuw – – – – – – – – – – – – – – – – – – – – – – midden-bronstijdpot in depressie prehistorisch spoor LME-greppel prehistorisch spoor LME-greppel LME-greppel prehistorisch spoor LME-greppel LME-greppel prehistorisch spoor prehistorisch spoor prehistorisch spoor prehistorisch spoor '' vlaskuil '' '' vlaskuil '' vondstnr . 
+12 , uit spitsporenzone 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem datering put vlak spoor aard 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 S039 S040 S041 S042 S043 S044 S045 S046 S047 S048 S049 S050 S051 S052 S053 S054 S055 S056 S057 S058 S059 S060 S061 S062 S063 S064 S065 S066 S067 S068 S069 S070 S071 S072 S073 S074 paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor greppel greppel greppel paalspoor kuil paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor paalspoor greppel paalspoor kuil zone zone zone kuil vondst inhoud spooraard vondsten – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+recent recent LME ? 
+LME ? 
+recent LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+LME ? 
+recent recent recent natuurlijk – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – interpretatie 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem 19 t/m 52 ontginningssysteem LME-greppel LME-greppel 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem 57 t/m 68 ontginningssysteem LME-spoor LME-spoor zandwinning boomval Vondstnummers 1 , 2 , 10 en 11 betreffen vlakvondsten . 
+77 78 Bijlage 3 Aardewerk totaal ( n = aantal , w = gewicht ) diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering A1 A1 1 2 – 11 – 24,7 – 4 – 22,6 A2 A2 1 2 2 9 0,6 16,4 – 2 – 12,6 A3 A3 1 2 4 15 5,9 38,0 3 8 5,7 35,8 A4 A4 A5 A5 1 2 1 2 1 7 2 6 0,4 4,7 0,3 28,7 1 2 – 4 0,4 2,9 – 28,3 A6 A6 1 2 2 6 1,6 20,7 1 5 1,4 19,3 A7 A7 1 2 4 8 2,3 41,5 1 6 1,1 40,2 A8 A8 A9 A9 1 2 1 2 – 3 1 11 – 0,8 0,1 20,2 – – – 9 – – – 19,6 A10 A10 A11 A11 A12 A12 A13 A13 A14 A14 1 2 1 2 1 2 1 2 1 2 1 – 5 4 – 8 – 4 1 7 1,5 – 3,9 1,7 – 3,8 – 1,8 0,4 11,4 1 – 1 1 – 2 – 1 – 5 1,5 – 1,9 1,1 – 2,0 – 0,9 – 10,2 A15 A15 A16 A16 A17 A17 A18 A18 A19 A19 A20 A20 A21 A21 A22 A22 A23 A23 A24 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 2 2 4 1 2 2 1 1 – – 3 – 2 2 4 – 2 4 1,9 2,4 2,5 2,3 0,4 3,0 18,7 1,3 0,2 – – 3,0 – 4,3 4,6 1,5 – 1,2 13,1 1 1 1 1 – 1 1 1 – – – – – 1 1 1 – 1 3 1,6 1,8 2,0 1,7 – 1,8 17,7 1,3 – – – – – 3,8 3,8 0,2 – 0,8 12,5 A24 2 5 6,2 2 4,2 – 3 wds 1 rds – 1 wds 1 rds 3 wds 7 wds 1 rdw 1 wds 2 wds – 2 wds 1 rds 1 wds 1 wds 4 wds 1 rds 1 wds 5 wds 1 dakpan – – – 8 wds 1 wds 1 wds – 1 wds 1 wds – 2 wds – 1 wds – 4 wds 1 wds 1 wds 1 wds 1 wds 1 wds – 1 wds 1 wds 1 wds – – – – – 1 wds 1 baksteen 1 wds – 1 wds 2 wds 1 wds 2 wds – 16,9 5,7 – 3,1 9,5 5,7 27,7 8,1 0,4 2,9 – 5,5 17,2 5,6 1,4 4,8 14,5 1,1 21,6 18,6 – – – 15,1 4,5 1,5 – 1,9 1,1 – 2,0 – 0,9 – 7,4 2,8 1,6 1,8 2,0 1,7 – 1,8 17,7 1,3 – – – – – 3,8 3,8 0,2 – 0,8 9,3 3,2 4,2 – MK MK – MK MK IJT ? 
+MK MK MK MK – MK MK IJT ? 
+IJT ? 
+MK MK IJT ? 
+MK LME ? 
+– – – MK IJT ? 
+IJT ? 
+– IJT ? 
+IJT ? 
+– IJT ? 
+– IJT ? 
+– IJT ? 
+MK MK IJT ? 
+MK MK – MK MK MK – – – – – IJT ? 
+recent NT – IJT ? 
+16e-17e ? 
+IJT ? 
+IJT ? 
+79 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering A25 1 4 8,5 4 8,5 A25 A26 A26 A27 A27 A28 A28 A29 A29 2 1 2 1 2 1 2 1 2 3 3 1 2 2 2 1 2 4 6,8 3,4 0,6 4,1 1,7 1,9 0,6 3,7 7,7 2 1 – 1 1 1 1 1 2 5,7 1,0 – 3,2 1,2 1,4 0,6 2,6 6,6 A30 A30 A31 A32 A33 A34 A35 A36 A37 A38 A39 A40 A41 A42 A43 A44 A45 A46 A47 A48 A49 A50 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 4 1 1 1 2 1 – – – – – – – – – – – – – – – – 4,7 0,6 2,1 0,5 0,5 1,2 – – – – – – – – – – – – – – – – 2 1 1 1 – 1 – – – – – – – – – – – – – – – – 2,7 0,6 2,1 0,5 – 1,2 – – – – – – – – – – – – – – – – 3 wds 1 wds 2 wds 1 pijpesteel – 1 wds 1 wds 1 wds 1 wds 1 wds 1 wds 1 rds 2 wds 1 wds 1 wds 1 wds – 1 wds – – – – – – – – – – – – – – – – 8,4 0,1 5,7 1,0 – 3,2 1,2 1,4 0,6 2,6 3,9 2,7 2,7 0,6 2,1 0,5 – 1,2 – – – – – – – – – – – – – – – – IJT ? 
+NT IJT ? 
+18e-19d – IJT ? 
+IJT ? 
+IJT ? 
+Indet . 
+IJT ? 
+IJT ? 
+Recent IJT ? 
+MK 14e-15e IJT ? 
+– IJT ? 
+– – – – – – – – – – – – – – – – B1 B1 1 2 1 9 1,6 33,6 1 6 1,6 31,4 B2 B2 B3 B3 B4 B4 1 2 1 2 1 2 2 6 2 7 2 10 3,3 35,7 9,4 92,4 0,8 49,5 1 6 1 7 – 7 2,5 35,7 9,0 92,4 – 46,1 B5 B5 1 2 3 8 2,2 21,5 1 7 1,2 21,0 B6 1 12 13,5 5 11,8 B6 B7 B7 2 1 2 8 4 14 11,9 1,6 27,1 6 1 9 10,0 0,6 25,1 B8 1 9 9,8 4 7,4 B8 2 32 64,7 22 60,2 B9 B9 1 2 2 2 12,6 10,1 1 1 11,9 9,7 1 wds 5 wds 1 wds 1 rds 6 wds 1 wds 7 wds – 5 wds 1 bds 1 rds 1 wds 6 wds 1 wds 3 wds 2 wds 6 wds 1 wds 6 wds 3 wds 2 wds 2 wds 16 wds 2 rds 4 wds 1 wds 1 wds 1,6 26,9 4,5 2,5 35,7 9,0 92,4 – 37,5 8,3 0,4 1,2 19,4 1,6 4,4 7,2 10,0 0,6 16,6 8,5 4,4 3,0 39,5 12,4 8,3 11,9 9,7 IJT ? 
+MK IJT ? 
+IJT ? 
+MK MK MK – MK IJT ? 
+IJT ? 
+IJT ? 
+MK IJT ? 
+IJT ? 
+MK MK IJT ? 
+MK IJT ? 
+IJT ? 
+MK MK MK IJT ? 
+IJT ? 
+MK 80 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering B10 B10 1 2 1 6 0,6 10,4 – 6 – 10,4 B11 B11 B12 1 2 1 3 2 7 1,1 0,4 27,9 – – 4 – – 27,1 B12 B13 B13 B14 B14 2 1 2 1 2 2 1 – 1 7 7,2 5,6 – 1,0 11,5 2 1 – 1 5 7,2 5,6 – 1,0 10,7 B15 B15 B16 B16 B17 1 2 1 2 1 3 2 3 2 4 1,3 2,1 2,4 2,4 6,3 – 1 – 1 3 – 1,5 – 1,6 5,9 B17 B18 2 1 – 3 – 1,5 – 2 – 1,0 B18 B19 B19 B20 2 1 2 1 – – 2 3 – – 11,1 18,9 – – 2 3 – – 11,1 18,9 B20 B21 B21 B22 B22 B23 B23 B24 B24 B25 B25 B26 2 1 2 1 2 1 2 1 2 1 2 1 2 2 1 2 3 1 1 4 – 1 3 4 5,2 1,1 1,2 1,7 6,3 1,3 1,7 16,0 – 1,3 3,1 7,9 2 – 1 1 2 1 1 1 – – 1 2 5,2 – 1,2 1,4 5,1 1,3 1,7 12,9 – – 1,6 3,9 B26 B27 B27 B28 B28 B29 B29 B30 B30 B31 B32 B33 B34 B35 B36 B37 B38 B39 B40 B41 2 1 2 1 2 1 2 1 2 2 2 2 2 2 2 2 2 2 2 2 – 1 4 1 – 3 – 1 – 1 – – – – – – – – – – – 5,6 2,0 1,0 – 4,9 – 7,5 – 0,8 – – – – – – – – – – – 1 1 1 – 2 – 1 – 1 – – – – – – – – – – – 5,6 0,9 1,0 – 4,6 – 7,5 – 0,8 – – – – – – – – – – – 3 wds 3 wds – – 1 oorfragm , 1 wds 2 wds 2 wds 1 wds – 1 wds 2 wds 3 wds – 1 wds – 1 rds 2 wds 1 wds – 1 wds 1 wds – – 2 wds 1 wds 1 wds 1 wds 2 wds – 1 wds 1 wds 2 wds 1 wds 1 wds 1 wds – – 1 wds 1 wds 1 wds – 1 wds 1 wds 1 wds – 2 wds – 1 wds – 1 wds – – – – – – – – – – – 4,0 6,4 – – 24,3 0,9 1,9 7,2 5,6 – 1,0 4,3 6,4 – 1,5 – 1,6 3,1 2,8 – 0,2 0,8 – – 11,1 6,7 6,4 5,7 5,2 – 1,2 1,4 5,1 1,3 1,7 12,9 – – 1,6 1,2 2,8 – 5,6 0,9 1,0 – 4,6 – 7,5 – 0,8 – – – – – – – – – – – MK IJT – – PME recent 18e-19e ; ? 
+MK 14e-15e – MK MK IJT ? 
+– MK – IJT ? 
+IJT ? 
+IJT – 18e-19e IJT ? 
+– – IJT IJT IJT 14e ? 
+IJT ? 
+– IJT ? 
+IJT ? 
+IJT ? 
+IJT ? 
+IJT ? 
+IJT – – IJT ? 
+IJT ? 
+MK – IJT IJT ? 
+IJT ? 
+– IJT ? 
+– IJT – IJT ? 
+– – – – – – – – – – 81 diagnostische scherven ( > 1 cm2 ) vak laag n n w B42 B43 B44 B45 B46 B47 B48 B49 B50 2 2 2 2 2 2 2 2 2 – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – C1 C1 1 2 3 7 3,4 48,4 2 6 3,2 47,9 C2 C2 C3 C3 1 2 1 2 1 11 2 13 3,0 78,8 0,6 62,7 1 10 – 10 3,0 78,6 – 61,5 C4 C4 C5 C5 1 2 1 2 2 2 2 7 2,1 31,5 2,3 5,5 1 2 2 4 2,0 31,5 2,3 5,1 C6 1 3 3,0 2 3,0 C6 2 10 9,2 5 7,8 C7 1 7 11,7 6 11,4 C7 2 35 47,5 28 45,1 C8 C8 1 2 4 48 3,6 86,4 2 28 3,0 81,9 C9 C9 C10 1 2 1 – 4 3 – 4,4 3,6 – 3 2 – 4,3 3,3 C11 C12 1 1 2 7 0,3 4,4 – 2 – 3,1 C13 C14 C15 1 1 1 2 – 2 1,0 – 2,3 – – 2 – – 2,3 C16 C17 C18 C19 C20 1 1 1 1 1 1 3 1 3 2 0,2 2,2 0,7 2,8 2,8 – 1 – 1 2 – 1,3 – 2,1 2,8 C21 C22 C23 C24 C24 1 1 1 1 2 3 1 1 1 7 7,3 1,2 0,4 1,3 6,1 2 1 – 1 3 7,0 1,2 – 1,3 4,9 C25 1 5 4,4 2 3,9 82 w aard – – – – – – – – – 2 wds 5 wds 1 rds 1 wds 10 wds – 9 wds 1 wds 1 wds 2 wds 2 wds 2 wds 1 wds 1 wds 1 wds 1 wds 4 wds 1 wds 4 wds 1 rds 1 wds 22 wds 5 wds 1 rds 2 wds 22 wds 5 wds 1 wds ? 
+– 3 wds 1 wds 1 wds – 1 wds 1 wds – – 1 wds 1 wds – 1 wds – 1 wds 1 wds 1 wds 2 wds 1 wds – 1 wds 2 wds 1 wds 2 wds w datering – – – – – – – – – 3,2 42,2 5,6 3,0 78,6 – 54,0 7,0 2,0 31,5 2,3 3,3 1,2 0,6 0,8 1,8 5,7 2,1 8,3 2,3 0,7 34,7 9,2 1,2 3,0 73,0 7,3 1,6 – 4,3 2,5 0,8 – 1,2 1,9 – – 0,8 1,4 – 1,3 – 2,1 1,3 1,6 7,0 1,2 – 1,3 2,9 2,0 3,9 – – – – – – – – – IJT ? 
+MK MK MK MK – MK IJT IJT ? 
+MK indet . 
+MK IJT ? 
+IJT MK IJT ? 
+MK IJT MK MK ? 
+indet . 
+MK MK ? 
+MK ? 
+MK MK MK ? 
+IJT ? 
+– MK MK IJT ? 
+– IJT 14e-15e – – IJT ? 
+14e-15e – MK ? 
+– IJT MK ? 
+indet . 
+IJT IJT ? 
+– IJT indet . 
+MK IJT diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering C25 C26 C26 C27 C27 C28 2 1 2 1 2 1 7 5 4 – 3 5 3,4 2,6 8,1 – 9,6 7,2 2 1 2 – 2 2 2,4 1,3 6,2 – 9,3 5,2 C28 C29 C29 C30 C30 2 1 2 1 2 4 2 2 1 3 1,7 3,1 1,9 1,5 2,9 2 2 1 1 2 1,3 3,1 1,3 1,5 2,5 2 wds 1 wds 2 wds – 2 wds 1 wds 1 wds 2 wds 2 wds 1 wds 1 wds 2 wds 2,4 1,3 6,2 – 9,3 2,9 2,2 1,3 3,1 1,3 1,5 2,5 IJT IJT MK – IJT ? 
+MK IJT ? 
+IJT ? 
+IJT ? 
+IJT ? 
+IJT IJT D1 D1 D2 D2 1 2 1 2 – 1 1 3 – 0,4 0,6 4,6 – – – 2 – – – 4,1 D3 D3 D4 D4 1 2 1 2 1 4 1 10 0,2 1,4 1,1 41,2 – 1 1 9 – 0,5 1,1 40,9 D5 1 4 6,0 2 5,2 D5 2 6 5,9 3 5,2 D6 D6 D7 D7 D8 1 2 1 2 1 1 7 2 13 10 1,0 9,9 2,7 27,9 20,5 1 6 1 10 5 1,0 9,6 2,3 26,8 19 D8 D9 D9 D10 D11 D12 D13 2 1 2 1 1 1 1 11 1 2 – 2 1 3 16,4 1,3 0,9 – 3,8 0,8 4,3 6 1 1 – 2 1 3 13,9 1,3 0,7 – 3,8 0,8 4,3 D14 D15 D16 1 1 1 – 1 2 – 0,8 7,0 – – 2 – – 7,0 D17 D18 D19 D20 D20 D21 D21 1 1 1 1 2 1 2 3 2 1 3 – 4 7 1,3 1,1 0,5 2,1 – 2,8 6,7 – – – 1 – 2 5 – – – 1,5 – 2,1 6,0 D22 D22 D23 D23 D24 1 2 1 2 1 – – 2 – 2 – – 6,3 – 4,5 – – 2 – 2 – – 6,3 – 4,5 D24 2 – – – – – – – 1 wds 1 wds – 1 wds 1 wds 6 wds 1 rds 2 wds 1 wds 1 wds 2 wds 1 wds 1 wds 6 wds 1 wds 10 wds 4 wds 1 wds 6 wds 1 wds 1 wds – 2 wds 1 wds 1 wds 1 wds 1 wds – – 1 wds 1 wds – – – 1 wds – 2 wds 1 wds 4 wds – – 2 wds – 1 wds 1 wds – – – – 0,8 3,3 – 0,5 1,1 30,6 8,2 2,0 3,5 1,7 3,6 1,7 1,0 9,9 2,3 26,8 15,7 3,3 13,9 1,3 0,7 – 3,8 0,8 0,9 0,6 2,8 – – 2,6 4,3 – – – 1,5 – 2,1 1,0 5,0 – – 6,3 – 1,9 2,7 – – – – MK IJT ? 
+– MK NT MK MK IJT ? 
+indet . 
+IJT ? 
+MK IJT ? 
+IJT ? 
+MK IJT ? 
+MK IJT MK MK IJT ? 
+IJT ? 
+– IJT ? 
+14e-15e IJT ? 
+18e-19e 18e-19e – – BT ? 
+IJT ? 
+– – – MK ? 
+– IJT IJT ? 
+indet . 
+– – IJT ? 
+– IJT LME – 83 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering D25 D26 D26 D27 D27 2 1 2 1 2 1 – 2 3 8 3,9 – 3,6 5,8 9,2 1 – 1 1 5 3,9 – 2,9 4,1 7,4 D28 1 3 1,4 2 1,0 D28 D29 D29 D30 D30 2 1 2 1 2 6 2 3 – 3 5,0 1,1 3,0 – 0,9 1 – – – – 2,0 – – – – 1 wds – 1 wds 1 wds 2 wds 2 wds 1 wds 1 wds 1 wds 1 wds – – – – 3,9 – 2,9 4,1 2,8 2,7 2,2 0,4 0,6 2,0 – – – – IJT ? 
+– IJT ? 
+IJT IJT IJT ? 
+MK ? 
+18e-19e IJT ? 
+IJT – – – – E1 E1 E2 E2 E3 E3 E4 1 2 1 2 1 2 1 1 3 1 3 2 2 2 0,8 1,3 0,7 1,3 3,9 1,4 6,8 1 2 1 3 2 1 2 0,8 1,2 0,7 1,3 3,9 1,1 6,8 E4 2 4 12,2 2 11,6 E5 E5 1 2 1 5 1,1 2,6 1 2 1,1 1,9 E6 E6 1 2 3 6 2,3 6,0 1 5 1,1 5,7 E7 E7 1 2 2 11 2,2 11,1 2 6 2,2 9,8 1 wds 2 wds 1 wds 3 wds 2 wds 1 wds 1 wds 1 rds 1 wds 1 wds 1 wds 1 wds 1 wds 1 wds 1 wds 4 wds 2 wds 4 wds 2 wds 0,8 1,2 0,7 1,3 3,9 1,1 1,0 5,8 4,4 7,2 1,1 1,0 0,8 1,1 1,4 4,3 2,2 7,7 2,1 IJT IJT indet . 
+IJT ? 
+indet . 
+IJT ? 
+IJT MK IJT MK IJT ? 
+IJT ? 
+MK IJT ? 
+indet . 
+MK IJT ? 
+MK IJT F1 F1 1 2 3 3 1,0 4,6 2 2 0,6 4,3 F2 F2 F3 F3 F4 F4 1 2 1 2 1 2 1 3 – 1 3 6 0,6 2,0 – 0,5 3,8 11,9 – 1 – – 1 6 – 1,1 – – 2,9 11,9 F5 F5 1 2 1 3 1,5 8,7 1 3 1,5 8,7 F6 1 3 4,7 2 3,9 F6 2 11 7,5 5 6,1 F7 F7 1 2 – 3 – 10,7 – 3 – 10,7 2 wds 1 rds ? 
+1 wds – 1 wds – – 1 wds 3 wds 3 wds 1 wds 1 wds 2 wds 1 wds 1 rds 2 wds 1 wds 2 wds – 1 wds 2 wds 0,6 3,0 1,3 – 1,1 – – 2,9 3,0 8,8 1,5 6,6 2,1 3,0 0,9 2,7 1,6 1,8 – 1,9 8,9 14e-15e ; LME MK ? 
+IJT ? 
+– IJT ? 
+– – IJT MK IJT IJT ? 
+MK MK ? 
+IJT 19e-20e MK ? 
+MK IJT – MK IJT ? 
+G1 G1 G2 G2 G3 1 2 1 2 1 2 4 – 2 1 2,2 1,5 – 1,7 0,7 1 1 – 2 1 1,9 0,8 – 1,7 0,7 1 wds 1 wds – 2 wds 1 wds 1,9 0,8 – 1,7 0,7 IJT IJT ? 
+– IJT ? 
+IJT ? 
+84 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering G3 G4 G4 G5 G5 G6 G6 G7 G7 2 1 2 1 2 1 2 1 2 2 1 4 – 4 2 6 1 2 0,9 0,4 0,9 – 5,7 2,6 4,8 0,7 3,9 – – 1 – 3 1 4 1 2 – – 0,4 – 5,1 1,9 4,2 0,7 3,9 – – 1 wds – 3 wds 1 wds 4 wds 1 wds 2 wds – – 0,4 – 5,1 1,9 4,2 0,7 3,9 – – MK – IJT ? 
+IJT IJT ? 
+IJT ? 
+IJT H1 H1 H2 H2 H3 H3 H4 H4 H5 H5 H6 H6 H7 1 2 1 2 1 2 1 2 1 2 1 2 1 – – – 1 – – – 1 1 1 – – 5 – – – 0,7 – – – 0,5 1,0 0,9 – – 6,0 – – – 1 – – – 1 1 1 – – 5 – – – 0,7 – – – 0,5 1,0 0,9 – – 6,0 H7 2 1 0,6 1 0,6 – – – 1 wds – – – 1 wds 1 wds 1 wds – – 3 wds 2 wds 1 wds – – – 0,7 – – – 0,5 1,0 0,9 – – 3,1 2,9 0,6 – – – IJT ? 
+– – – MK ? 
+MK ? 
+IJT ? 
+– – IJT ? 
+MK MK I1 I1 I2 I2 1 2 1 2 2 – – 6 2,0 – – 26,4 2 – – 4 2,0 – – 26,2 I3 I3 1 2 – 2 – 0,7 – 2 – 0,7 I4 I4 I5 I5 I6 I6 I7 1 2 1 2 1 2 1 – 1 2 2 – 2 2 – 3,1 1,5 3,1 – 3,1 6,3 – 1 2 2 – 2 2 – 3,1 1,5 3,1 – 3,1 6,3 I7 2 2 2,6 2 2,6 I8 I9 I10 I11 I12 1 1 1 1 1 * * 1 – 6 – – 0,5 – 9,1 – – 1 – 4 – – 0,5 – 8,4 I13 I14 I15 I16 I17 I18 I19 I20 I21 I22 I23 1 1 1 1 1 1 1 1 1 1 1 – 3 3 – – 1 2 – – 3 – – 3,1 2,6 – – 11,6 5,3 – – 2,2 – – 3 1 – – 1 2 – – 2 – – 3,1 1,9 – – 11,6 5,3 – – 2,1 – 2 wds – – 2 bds 2 wds – 1 wds 1 wds – 1 wds 2 wds 2 wds – 2 wds 1 wds 1 wds 1 wds 1 wds – – 1 wds – 1 wds 2 wds 1 tegelfr , ? 
+– 3 wds 1 wds – – 1 wds 2 wds – – 2 wds – 2,0 – – 24,3 1,8 – 0,5 0,1 – 3,1 1,5 3,1 – 3,1 2,6 3,8 0,5 2,1 – – 0,5 – 1,6 4,1 2,7 – 3,1 1,9 – – 11,6 5,3 – – 2,1 – IJT ? 
+– – IJT ? 
+IJT ? 
+– MK IJT ? 
+– IJT ? 
+14e-15e ; LME IJT ? 
+– IJT ? 
+IJT ? 
+14-15e MK ? 
+IJT ? 
+– – IJT ? 
+– 14-15e IJT ? 
+recent – IJT ? 
+18-19e – – IJT IJT ? 
+– – IJT ? 
+– 85 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering I24 I25 I26 I27 I28 I29 I30 1 1 1 1 1 1 1 1 – 1 – – 1 – 0,8 – 1,6 – – 0,4 – 1 – 1 – – 1 – 0,8 – 1,6 – – 0,4 – 1 wds – 1 wds – – 1 wds – 0,8 – 1,6 – – 0,4 – IJT ? 
+– IJT ? 
+– – IJT ? 
+– J1 J1 J2 J2 J3 J3 J4 J4 J5 J5 J6 J6 1 2 1 2 1 2 1 2 1 2 1 2 – 1 1 – – 2 2 1 1 1 1 3 – 1,7 0,8 – – 1,7 1,3 1,3 0,7 1,6 1,1 2,3 – 1 1 – – 2 1 1 1 1 1 3 – 1,7 0,8 – – 1,7 0,6 1,4 0,7 1,6 1,1 2,3 J7 J7 J8 J9 J10 J11 J12 J13 J14 J15 J16 J17 J18 J19 J20 J21 J22 J23 J24 J25 J26 J27 J28 J29 J30 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 – 2 * * 2 1 1 – – – 1 – – – – – 1 – 1 1 – 1 2 – – – 3,9 – – 3,0 2,3 2,2 – – – 1,7 – – – – – 1,6 – 2,7 0,5 – 0,5 12,1 – – – 2 – – 2 1 1 – – – 1 – – – – – 1 – 1 1 – 1 2 – – – 3,9 – – 3,0 2,3 2,2 – – – 1,7 – – – – – 1,6 – 2,7 0,5 – 0,5 12,1 – – – 1 wds 1 wds – – 2 wds 1 wds 1 wds 1 wds 1 wds 1 wds 2 wds 1 wds – 2 wds – – 2 wds 1 wds 1 wds – – – 1 wds – – – – – 1 wds – 1 wds 1 wds – 1 wds 2 wds – – – 1,7 0,8 – – 1,7 0,6 1,4 0,7 1,6 1,1 1,5 0,7 – 3,9 – – 3,0 2,3 2,2 – – – 1,7 – – – – – 1,6 – 2,7 0,5 – 0,5 12,1 – – – IJT ? 
+IJT ? 
+– – IJT ? 
+IJT ? 
+IJT ? 
+indet . 
+IJT ? 
+IJT ? 
+IJT ? 
+MK ? 
+– IJT – – 18e-19e IJT ? 
+indet . 
+– – – IJT ? 
+– – – – – IJT ? 
+– IJT ? 
+IJT ? 
+– IJT ? 
+( 14e- ) 15e – – K1 K1 K2 K2 K3 K3 1 2 1 2 1 2 – 2 – – 3 2 – 0,8 – – 2,3 3,6 – 1 – – 2 2 – 0,6 – – 2,0 3,6 K4 1 3 2,1 2 1,5 K4 K5 K5 K6 K6 2 1 2 1 2 – – – – 2 – – – – 5,1 – – – – 2 – – – – 5,1 – 1 wds – – 2 wds 1 wds 1 wds 1 wds 1 wds – – – – 1 wds 1 wds – 0,6 – – 2,0 2,2 1,4 0,9 0,5 – – – – 3,2 1,9 – indet . 
+– – IJT ? 
+IJT ? 
+MK ? 
+IJT ? 
+MK ? 
+– – – – IJT MK ? 
+86 diagnostische scherven ( > 1 cm2 ) vak laag n w n w aard w datering K7 K7 K8 K9 K10 K11 K12 K13 K14 K15 K16 K17 K18 K19 K20 K21 K22 K23 K24 K25 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 – * * – – – – 1 – – – 1 – 1 – – – 2 3 0,5 – – – – – – – 0,8 – – – 1,3 – 2,8 – – – 2,8 14,8 1 – – – – – – – 1 – – – 1 – 1 – – – 2 3 0,5 – – – – – – – 0,8 – – – 1,3 – 2,8 – – – 2,8 14,8 0,5 – – – – – – – 0,8 – – – 1,3 – 2,8 – – – 2,8 14,2 0,5 IJT ? 
+– – – – – – – 17e-18e – – – IJT ? 
+– MK – – – IJT ? 
+IJT 14e-15e K26 K27 K28 K29 K30 1 1 1 1 1 1 – – – – 0,4 – – – – – – – – – – – – – – 1 wds – – – – – – – 1 rds – – – 1 wds – 1 rds ? 
+– – – 2 wds 2 wds 1 wds – – – – – L1 L1 L2 L2 L3 L3 L4 L4 L5 L5 L6 L6 L7 L7 L8 L9 L10 L11 L12 L13 L14 L15 L16 L17 L18 L19 L20 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 – – – 1 – 3 – – – 3 – – – 1 * * – – – – 2 – – 1 – – 2 – – – 7,5 – 0,8 – – – 1,5 – – – 1,5 – – – – – – 1,9 – – 1,4 – – 1,3 – – – 1 – 1 – – – 1 – – – 1 – – – – – – 2 – – 1 – – 2 – – – 7,5 – 0,3 – – – 0,9 – – – 1,5 – – – – – – 1,9 – – 1,4 – – 1,3 L21 L22 L23 L24 L25 L26 L27 1 1 1 1 1 1 1 1 2 – – – 1 – 0,5 2,6 – – – 1,6 – 1 2 – – – 1 – 0,5 2,6 – – – 1,6 – – – – 1 wds – 1 wds – – – 1 wds – – – 1 wds – – – – – – 2 wds – – 1 wds – – 1 wds 1 wds 1 wds 2 wds – – – 1 wds – – – – 7,5 – 0,3 – – – 0,9 – – – 1,5 – – – – – – 1,9 – – 1,4 – – 0,5 0,8 0,5 2,6 – – – 1,6 – – – – – – – – – – – – IJT – IJT ? 
+– – – IJT ? 
+– – – IJT ? 
+– – – – – – IJT ? 
+– – IJT ? 
+– – IJT ? 
+14e-15e indet . 
+IJT ? 
+– – – IJT – 87 diagnostische scherven ( > 1 cm2 ) vak laag n L28 L29 L30 1 1 1 – – – * = vak niet gezeefd . 
+88 w – – – n w aard – – – – – – – – – w datering – – – – – – Bijlage 4 Vuursteen totaal vak/ put A2 A29 A3 A 30 A4 A5_1 A5_2 A5_3 A6_1 A6_2 A9 B1 B1 B12 B14 B23 B3 B4_1 B4_2 B48 B5 B7 B8 B9 C13 C3_1 C3_2 C5_1 C5_2 C7 D21 D29 D30 D4 D5 D6_1 D6_2 D6_3 D6_4 E2 E5 G1 G6 I4 K28 K3_1 K3_2 L5 L7 laag/ spoor arteftacttype 2 2 2 1 1 2 2 2 2 2 2 2 1 2 1 1 2 2 2 2 1 1 2 2 1 1 1 2 2 2 1 2 2 2 2 2 2 2 2 2 1 1 1 2 1 2 2 2 1 Put14 S7 Put14 S7 Put14 S7 Put14 S7 Put14 S8 Put15 vlak lengte breedte dikte ( cm ) ( cm ) ( cm ) w ( g ) 3050 afslag 3050 afslag 3050 afslag ? 
+3060 kling 3050 afslag 1510 schrabber 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag ? 
+3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3060 kling 3050 afslag 3050 afslag 1510 schrabber 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag ? 
+3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag ? 
+3050 afslag 0,8 0,7 0,7 4,2 0,6 3,9 2,7 0,6 0,7 1,7 0,8 4,4 0,5 0,5 1,7 1,5 1,2 0,7 0,3 2,3 2,0 0,8 1,2 1,2 2,8 0,9 0,5 1,1 1,2 0,7 1,0 1,3 2,0 1,6 4,4 0,9 1,2 1,0 1,3 1,1 0,6 0,6 1,1 0,5 2,1 4,8 1,0 0,6 1,9 0,5 0,6 0,4 1,8 0,5 3,5 2,0 0,5 0,4 1,2 0,6 3,1 0,4 0,4 1,6 1,0 0,8 0,5 0,3 1,6 1,4 0,6 0,9 1,1 1,8 0,6 0,5 0,7 0,6 0,6 0,6 1,2 1,6 1,1 3,3 0,6 0,9 0,5 1,0 0,8 0,4 0,5 0,8 0,5 2,0 2,6 0,7 0,5 1,6 0,1 0,1 0,1 0,5 0,1 1,1 0,4 0,1 0,1 0,3 0,1 1,3 0,1 0,1 0,5 0,2 0,1 0,1 0,1 0,9 0,2 0,1 0,2 0,2 0,6 0,1 0,1 0,2 0,3 0,1 0,1 0,2 0,4 0,2 0,8 0,1 0,2 0,1 0,2 0,4 0,3 0,1 0,3 0,1 0,3 0,8 0,2 0,1 0,5 < 0,1 < 0,1 < 0,1 4,0 < 0,1 20,0 1,7 < 0,1 < 0,1 0,6 < 0,1 16,1 < 0,1 < 0,1 0,8 0,4 0,1 < 0,1 < 0,1 2,5 0,7 < 0,1 0,3 0,3 3,5 0,1 < 0,1 0,2 0,1 < 0,1 0,1 0,5 1,8 0,3 16,1 0,1 0,1 0,1 0,1 0,2 0,1 < 0,1 0,2 < 0,1 1,7 8,5 0,2 < 0,1 1,5 1720 gebruikte afslag 3050 afslag 3050 afslag 3050 afslag 3050 afslag 1611 kern ( bijl ? ) 
+2,7 2,1 2,1 2,3 6,6 5,1 1,1 1,6 1,5 1,3 5,6 3,3 0,3 0,4 0,3 0,3 1,4 1,7 1,2 1,7 1,6 1,5 43,6 37,0 grondstof datering Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs Rijckholt verbrand Rijckholt MK Rijckholt Zuid-Limburgs Zuid-Limburgs verbrand Zuid-Limburgs Rijckholt verbrand Zuid-Limburgs verbrand Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs verbrand Rijckholt Rijckholt Zuid-Limburgs verbrand verbrand Terrasvuursteen Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs verbrand Zuid-Limburgs verbrand Zuid-Limburgs Rijckholt Rijckholt Rijckholt MK Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs verbrand Belgisch lichtgrijs Zuid-Limburgs Terrasvuursteen Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs verbrand Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs Zuid-Limburgs verbrand verbrand Zuid-Limburgs Wommersom MESO 89 90 

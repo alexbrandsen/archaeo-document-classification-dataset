@@ -1,0 +1,4504 @@
+VLAK-verslag 15.1 Basisverslag C. Van Loon en T. de Ridder Dienst Welzijn maart 2006 VLAK VLAK-verslag 15.1 Gat in de Markt 1.101 Basisverslag van het archeologische onderzoek C. Van Loon en T. de Ridder maart 2006 De reeks VLAK-verslagen is een uitgave van het Vlaardings Archeologisch Kantoor ( VLAK ) , gemeente Vlaardingen ISBN 90-8706-002-5 1.101 - Basisverslag Inhoudsopgave 1 Inleiding . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+1 2 Bewoningsgeschiedenis . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+2 3 Inventarisatie archeologische waarden en verwachtingen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+6 4 Onderzoek VLAK . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.1 Randvoorwaarden . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.2 Vraag- en doelstellingen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.3 Methoden . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4 Resultaten . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.1 Oeverwal en natuurlijke afzettingen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.2 Eerste ingebruikname van het onderzoeksterrein 4.4.3 Overige . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.4 Structuur 1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.5 Structuur 2 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.6 Grote mestkuil . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.7 Structuur 3 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.8 Structuur 4 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.9 Structuur 5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+4.4.10 Periodisering . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+7 7 7 7 8 8 8 9 9 10 12 12 13 18 19 5 Beantwoording vraagstellingen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+20 6 Synthese . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+22 7 Nieuwe hypothesen en vraagstellingen voor toekomstig onderzoek . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+25 Dankwoord . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+26 Eindnoten . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+27 Literatuur . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+28 Bijlagen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 1 : Lijst van medewerkers . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 2 : Overzicht werkputten en profielen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 3 : Sporenlijst . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 4 : Noordprofiel WP 2 ( profiel 7 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 5 : Westprofiel WP 2 ( profiel 6 + 10 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 6 : Oostprofiel WP 2 ( profiel 9 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 7 : Noordprofiel 2 , WP 3 ( profiel 11 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 8 : Oostprofiel WP 3 ( profiel 12 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 9 : Noordprofiel WP 3 ( profiel 13 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 10 : Westprofiel WP 3 ( profiel 14 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 11 : Oostprofiel 2 , WP 3 ( profiel 15 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 12 : Legenda voor bijlage 4 t/m 11 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 13 : Geschematiseerde vlaktekeningen van werkput 2 en 3 . 
+. 
+. 
+. 
+Bijlage 14 : Samengesteld profiel met de substructuren . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 15 : Samengesteld profiel met de periodiseringen en insnijdingen Bijlage 16 : Reconstructie NAP-waarden reliëf van periode 1 t/m 3b . 
+. 
+. 
+Bijlage 17 : Reconstructie NAP-waarden reliëf van periode 3b t/m 5d . 
+. 
+Bijlage 18 : Reconstructie NAP-waarden reliëf grafveld . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 19 : Fasering grafveld ( structuur 2 ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 20 : Grafiek met 14C-dateringen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 21 : Tabel met overzicht 14C-gedateerde structuren . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 22 : Grafiek met dendrochronologische dateringen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 23 : Structuurformulieren . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Bijlage 24 : VLAK-formulier . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+31 . 
+. 
+. 
+. 
+. 
+. 
+. 
+31 . 
+. 
+. 
+. 
+. 
+. 
+. 
+32 . 
+. 
+. 
+. 
+. 
+. 
+. 
+33 . 
+. 
+. 
+. 
+. 
+. 
+. 
+42 . 
+. 
+. 
+. 
+. 
+. 
+. 
+43 . 
+. 
+. 
+. 
+. 
+. 
+. 
+45 . 
+. 
+. 
+. 
+. 
+. 
+. 
+46 . 
+. 
+. 
+. 
+. 
+. 
+. 
+47 . 
+. 
+. 
+. 
+. 
+. 
+. 
+48 . 
+. 
+. 
+. 
+. 
+. 
+. 
+49 . 
+. 
+. 
+. 
+. 
+. 
+. 
+50 . 
+. 
+. 
+. 
+. 
+. 
+. 
+50 . 
+. 
+. 
+. 
+. 
+. 
+. 
+51 losse kaartbijlage losse kaartbijlage . 
+. 
+. 
+. 
+. 
+. 
+. 
+59 . 
+. 
+. 
+. 
+. 
+. 
+. 
+60 . 
+. 
+. 
+. 
+. 
+. 
+. 
+61 . 
+. 
+. 
+. 
+. 
+. 
+. 
+62 . 
+. 
+. 
+. 
+. 
+. 
+. 
+63 . 
+. 
+. 
+. 
+. 
+. 
+. 
+64 . 
+. 
+. 
+. 
+. 
+. 
+. 
+65 . 
+. 
+. 
+. 
+. 
+. 
+. 
+66 . 
+. 
+. 
+. 
+. 
+. 
+. 
+67 Colofon . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+i 71 VLAK-verslag 15.1 In de tekst gebruikte figuren Figuur 1 : Kaart van Vlaardingen met daarop aangegeven de onderzoekslocatie 1.101 Figuur 2 : Reconstructie van de nederzetting Vlaardingen gebaseerd op Hoek . 
+. 
+. 
+. 
+. 
+Figuur 3 : Situering van de begraafplaats volgens Hoek . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 4 : Luchtfoto met aanduiding van de onderzoekslocatie . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 5 : Substructuur 4.1 , houten constructie . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 6 : Substructuur 4.2 , houten constructie . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 7 : Rietlaag ter versteviging van de dijk . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 8 : Vlechtwerk aangebracht ter versteviging van de dijk , spoor 316 . 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 9 : Substructuur 4.8 , ingraving met kloostermoppen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 10 : Ingraving met kloostermoppen , spoor 12 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuur 11 : Reconstructie van de nederzetting Vlaardingen volgens De Ridder . 
+. 
+. 
+. 
+ii . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+1 3 4 5 14 15 16 16 16 17 23 1.101 - Basisverslag 1 Inleiding Van 17 december 2001 tot en met 6 maart 2002 verrichtte het VLAK archeologisch onderzoek op de locatie ‘ Gat in de Markt ’ ( figuur 1 ) . 
+Het toponiem ‘ Gat in de Markt ’ verwijst naar een onderbreking in de toenmalige bebouwing rondom de Markt en de aansluiting met de Maassluissedijk te Vlaardingen . 
+Op dit terrein was de bouw gepland van enkele herenhuizen in oude stijl die zouden aansluiten bij het historische karakter van de Markt . 
+Het onderzoek werd uitgevoerd door het Vlaardings Archeologisch Kantoor ( VLAK ) . 
+In dit verslag worden de opgravingsresultaten gepresenteerd . 
+In de synthese ( hoofdstuk 6 ) worden de conclusies van het onderzoek , voor de periode van de 9e tot en met de 12e eeuw , in een bredere context besproken . 
+In het laatste hoofdstuk ( 7 ) worden de nieuwe hypothesen en onderzoeksvragen voor toekomstig onderzoek samengevat . 
+Het onderzoek naar de grafkisten , het menselijk botmateriaal , de keermuur , het aardewerk en andere onderwerpen zullen in afzonderlijke VLAK-verslagen aan de orde komen . 
+Figuur 1 : Kaart van Vlaardingen met daarop aangegeven de onderzoekslocatie 1.101 ( tekening : Dienst Stadswerk , nabewerking E. van der Linden , VLAK ) . 
+1 VLAK-verslag 15.1 2 Bewoningsgeschiedenis De onderzoekslocatie ligt in het oude centrum van Vlaardingen en is daarmee nauw verbonden met de bewoningsgeschiedenis van Vlaardingen . 
+Omdat bij de bespreking van de resultaten juist de periode van de 10e eeuw tot en met de 13e eeuw een prominente rol zal blijken te spelen , zal in dit hoofdstuk specifiek aandacht worden besteed aan de bewoningsgeschiedenis in deze periode . 
+In het bijzonder zal de band tussen het Westfriese graafschap en Vlaardingen belicht worden . 
+De nederzetting Vlaardingen ligt op een oeverwal waarvan de oorsprong teruggaat tot in de IJzertijd.1 Daarmee kunnen op de onderzoekslocatie bewoningsporen verwacht worden vanaf de Midden-IJzertijd . 
+In de directe omgeving zijn vondsten gedaan die wijzen op bewoning in de Midden- of Late IJzertijd en de Romeinse Tijd . 
+Het is mogelijk dat deze bewoning tot het begin van de vierde eeuw heeft geduurd . 
+Na die tijd , tot circa 700 , ontbreekt elk spoor van bewoning . 
+Een pollendiagram , dat gemaakt is van een laat-Romeins veenpakket ter hoogte van het ‘ Van Schravendijkplein ’ ( VLAK-code 1.090 ) , laat zien dat de omgeving geen bewoning meer lijkt te kennen aan het einde van de Romeinse Tijd en dat het landschap zich heeft hersteld.2 Een eerste aanwijzing voor menselijk aanwezigheid in het gebied betreft de vermelding van een schenking . 
+In 726/727 schonk de geestelijke Willibrord een kerk met toebehoren aan het door hem beheerde klooster te Echternach . 
+Deze goederen had hij op zijn beurt ontvangen van de geestelijke Heribald . 
+De goederen lagen temidden van gorzen waar schapen geweid werden . 
+Over het algemeen wordt aangenomen dat deze kerk te Vlaardingen gezocht moet worden.3 Het Westfriese graafschap en Vlaardingen Over de periode van de 8e eeuw tot en met 10e eeuw zwijgen de historische bronnen over Vlaardingen . 
+Latere historische ( 15e-eeuwse en latere ) geschriften vermelden een “ Sclaavenburch ” en “ Verschansingen , welke de Noormannen in of omtrent den jaren 889 tegen de Franken ” zouden hebben gebouwd.4 Deze vermeldingen zijn echter uiterst onbetrouwbaar . 
+De nederzetting Vlaardingen maakte vanaf het einde van de tiende eeuw wel een turbulente ontwikkeling door . 
+Dit werd direct veroorzaakt door de bemoeienis van de Westfriese graven , de voorouders van het Hollandse gravenhuis , met Vlaardingen . 
+De band tussen de Westfriese graven en Vlaardingen gaat minstens terug tot 985 . 
+In dat jaar krijgt Dirk II van keizer Otto III het recht op het wildernisregaal en alle kerkelijke goederen tussen de Lier en Hollandse IJsel , die reeds door Dirk II in leen werden gehouden.5 Waarschijnlijk behoorde de streek Vlaardingen ook daartoe . 
+In ieder geval duikt de naam Vlaardingen kort daarna voor het eerst op in de geschriften , vermoedelijk niet zonder toeval in relatie met de graaf . 
+Tussen 988-993 schenkt graaf Arnulf de kerk van Vlaardingen met de bijbehorende tienden aan de abdij van Egmond.6 Graaf Arnulf heeft zich de kerk , die nog altijd toebehoorde aan het klooster te Echternach , blijkbaar illegaal toegeëigend . 
+Het is mogelijk dat de Westfriese graven de kerk als voogden hebben beheerd.7 In 993 sneuvelt graaf Arnulf bij een opstand in zijn gebied.8 Waar deze opstand gezocht moet worden , is onbekend , maar men vermoedt bij de monding van de Oude Rijn.9 Na de dood van Arnulf verschuift het grafelijke machtsgebied naar het zuiden . 
+Volgens de kroniek van Kamerijk heeft Arnulfs zoon , Dirk III , zich vervolgens teruggetrokken in het Merwedegebied waar hij een vestiging ( municipio ) bouwde en zware belasting hief.10 Deze vesting komen we ook in andere contemporaine bronnen tegen , met als bekendste Alpertus van Metz die tussen 1021-1023 een heel relaas schreef over de slag bij Vlaardingen in 1018 . 
+Waar deze burcht gezocht moet worden , is nog onderwerp van discussie . 
+Uit latere historische bronnen is tevens bekend dat er een grafelijk hof te Vlaardingen heeft gelegen.11 In tegenstelling tot de burcht , is het hof op historische gronden wel getraceerd en ook archeologisch vastgesteld . 
+De aanlegdatum van het grafelijk hof kan op grond van het archeologische onderzoek bepaald worden tussen 903 - 1023 , waarbij aannemelijk is gemaakt dat de aanlegdatum na 985 ligt.12 Gezien bovenstaande informatie over het sneuvelen van Arnulf en het terugtrekken van Dirk III in het Merwedegebied , kan men opperen dat het hof in of kort na 993 is aangelegd . 
+Het is mogelijk dat vrijwel tegelijkertijd ook de burcht bij Vlaardingen , die genoemd wordt in verband met de slag bij Vlaardingen , is gebouwd . 
+Door de aanwezigheid van de graven groeit Vlaardingen aan het begin van de elfde eeuw al snel uit tot de belangrijkste nederzetting binnen het Westfriese graafschap . 
+De ontwikkeling die Vlaardingen doormaakte , blijkt ook uit de weinige contemporaine vermeldingen van Vlaardingen en de grafelijke burcht . 
+In 1018 is er nog sprake van een kleine versterking . 
+Alpertus gebruikt verschillende termen om de grafelijke burcht aan te duiden : “ municiunculam , munitione , oppidanorum , oppido en castellum ” .13 In 1047 wordt in verband met de burcht te Vlaardingen en de burcht te Rijnsburg gesproken van “ duas urbes munitissimas ” . 
+Dit wordt vertaald als een versterkte burcht14 en door Lampert van Hersfeld omschreven als “ zeer sterk ” .15 Het lijkt alsof de 2 1.101 - Basisverslag Figuur 2 : Reconstructie van de nederzetting Vlaardingen gebaseerd op Hoek ( bron : Hoek 1973A ) . 
+kleine burcht die Alpertus vermeldt , inmiddels aanzienlijk versterkt is . 
+Tussen 1046 en 1049 maakt Vlaardingen een woelige tijd door . 
+De burcht zou in deze periode tot driemaal toe zijn ingenomen.16 Op 19 oktober 1049 bepaalt keizer Hendrik III op een synode in Mainz , dat de Echternachtse kerken die Graaf Dirk II en zijn zoons wederrechtelijk in bezit hadden genomen , teruggegeven moesten worden aan Utrecht en Echternach.17 Het ging daarbij om de moederkerken : Vlaardingen , Oegstgeest , Velsen , Heiloo , en Petten en een reeks gestichte dochterkapellen . 
+Begin 1076 is er sprake van een aanslag door graaf Dirk IV op hertog Godfried , die op dat moment in het “ castrum Flardengis ” verbleef.18 Opvallend is dat er niet langer meer gesproken wordt van een burcht , maar van een “ castrum ” , wat duidt op een versterkte nederzetting waarbinnen zich een versterking bevindt.19 Het lijkt erop dat de grafelijke burcht is opgegaan in de versterkte nederzetting Vlaardingen . 
+In een ander artikel zal daar nog nader op worden ingegaan . 
+Aan het einde van de 11e eeuw ( vanaf circa 1080 ) had Vlaardingen een eigen muntslag.20 Op één van de munten staat het opschrift “ comes ” en op de andere zijde “ Flardiga ” , hetgeen zoveel betekent als “ Graaf van Vlaardingen ” . 
+Mogelijk is de naam Vlaardingen op dat moment van toepassing op het hele Westfriese graafschap , wat het belang van de prestedelijke nederzetting Vlaardingen verder onderstreept . 
+De elfde eeuw kan dan ook als de gouden eeuw van Vlaardingen worden omgeschreven . 
+Deze situatie duurde zeker nog voort tot in de 12e eeuw . 
+De graven lijken ook in de tweede helft van de 12e eeuw nog grootse plannen met Vlaardingen te hebben . 
+Rond 1156 geven ze immers opdracht voor de bouw van een grote tufstenen kerk . 
+Er zijn aanwijzingen dat meer dan alleen een kerk gebouwd zou worden . 
+Daarbij kan gedacht worden aan een klooster , kapittelkerk of zelfs een abdij.21 Wat de oorspronkelijke bedoeling ook geweest moge zijn , het gebouw werd niet voltooid omdat Vlaardingen in de winter van 1163/1164 getroffen werd door een enorme overstromingsramp . 
+3 VLAK-verslag 15.1 Overstromingen Al eerder was Vlaardingen getroffen door een grote overstroming , namelijk in 1133/1134 . 
+Een groot deel van de ontginningen raakte daarbij overdekt met een dikke laag modder . 
+Kort erop wordt het dijkstelsel aangelegd . 
+De uiterwaarden worden echter ook ingedijkt , zodat bij hoge waterstanden het water geen kant op kan . 
+Op 21 december 1163 breekt de dijk ter hoogte van Vlaardingen door en laat wederom een dikke laag klei achter tot ver in het achterland . 
+De dijk wordt na deze gebeurtenis aanzienlijk teruggelegd en verloopt dan volgens het huidige tracé van de Maassluissedijk , die aansluit op de kerkheuvel . 
+Maar ook nadien staat het water regelmatig aan de poort van Vlaardingen . 
+Dit blijkt ondermeer uit 14e- en 15e-eeuwse grafelijke rekeningen over het herstel van dijkvakken ter plaatse van de Markt.22 In 1459 wordt in opdracht van het Hoogheemraadschap de zuidzijde van de dijk versterkt door een stenen muur . 
+In 1494 vindt er wederom afslag plaats , waarbij de Vlaardingers zich beklagen dat zij de stenen dijk van 15 roeden ( 56,51 m ) moeten onderhouden . 
+Door de slag van het water was er grond weggeslagen en waren er “ dooden , daer hiervoortijts begraven zijn in uytgehouden boomen ” 23 ( vermoedelijk boomstamkisten ) blootgespoeld . 
+De Vlaardingers weten ook nog te vermelden dat er ooit straten en huizen hebben gestaan die door de overstromingen zijn verdwenen . 
+Bij een onderzoek van de regering in 1514 beklagen de Vlaardingers zich wederom dat zij 15 roeden stenen dijk moeten onderhouden en dat deze in 15 jaar tijd tot tweemaal toe is ingestort.24 Figuur 3 : Situering van de begraafplaats volgens Hoek ( bron : Hoek 1973A ) . 
+Aan het einde van de 15e eeuw werden er aan de zuidzijde van de terp , haaks erop , langwerpige dijken ( zogeheten kribben ) aangelegd . 
+Deze moesten de verdere aantasting van de dijk voorkomen . 
+Zo wordt in 1492 gesproken van “ die crebbe van de hoeffel te Vlaerdinge die Claes Bousz gemaekt heeft ” .25 In 1498 moet de krebbe hersteld worden : “ crebbe onder sinte willebrorts huysyen in oude grootte ” .26 De kribbe ( “ crebbe ” ) bevond zich dus haaks ten opzichte van het Willibrordushuisje . 
+Ten gevolge van de aanleg van deze kribben slibden in de eerst helft van de 16e eeuw de gorzen ten zuiden van de kerkheuvel op . 
+Uit een getuigenverklaring van 1589 blijkt dat men omstreeks 1540 nog met een schip , vermoedelijk alleen bij hoog water , tot aan de teen van de dijk kon komen.27 De aanslibbingen zijn in het midden van de 16e eeuw zover gevorderd dat ten zuiden van de nederzetting een nieuwe polder kan worden aangelegd . 
+Deze Vettenoortse polder wordt in 1552 voorzien van een kade.28 Uit dezelfde getuigenverklaring blijkt dat de Vettenoord sinds 1575 niet meer onder water heeft gestaan.29 4 1.101 - Basisverslag Is het oude Vlaardingen vergaan ? 
+De vele overstromingen die Vlaardingen van de 12e eeuw tot en met de 16e eeuw troffen , tezamen met vermeldingen over blootgespoelde boomstamkisten en verdwenen huizen , deden latere historici schrijven dat het oude Vlaardingen geheel zou zijn vergaan : “ door het gestadig aankletzen der stroomen , zijne muren zoude hebben verloren en als uit zyne eerste plaatze zoude zijn verzet ” .30 De Rotterdamse stadsarcheoloog Hoek , die in de jaren zestig en het begin van de jaren zeventig ook veel onderzoek in Vlaardingen verrichtte , vond ten zuiden van de kerkheuvel riviersedimenten met verspoeld materiaal . 
+Het aardewerk bestond uit Pingsdorf , Paffrath en een enkele Karolingische scherf vermengd met 15e-eeuws materiaal.31 Hoek schreef daarom : “ Dit maakt het plausibel dat ten zuiden van het kerkhof bewoning is geweest , de handelsnederzetting of portus , welke zich mogelijk naar het noordoosten voortzette langs de mond van de Vlaarding , ter plaatse van de tegenwoordige haven ” .32 Op grond hiervan reconstrueerde hij een nederzetting ( zie figuur 2 ) met begraafplaats . 
+De begraafplaats situeerde hij meer ten zuiden van de huidige kerk ( zie figuur 3 ) . 
+Op basis van deze reconstructie konden verschillende elementen ter plaatse van de onderzoekslocatie ‘ Gat in de Markt ’ worden verwacht : 1 ) mogelijke restanten ( al dan niet in verspoelde context ) van de vroegmiddeleeuwse nederzetting en 2 ) de restanten van de middeleeuwse begraafplaats . 
+Daarbij ontstond de vraag waar de oude kerk gezocht moest worden . 
+Hoek vermoedde dat de bouw van de grote tufstenen kerk niet ter plaatse van de oude kerk kon hebben plaatsgevonden , vanwege een grote terreinophoging die vooraf ging aan de kerkbouw : “ Deze terreinophoging is in meer dan één opzicht interessant . 
+Allereerst blijkt hieruit , dat de oorspronkelijke kerk niet op deze plaats heeft gelegen , daar deze door de ophoging onbruikbaar zou zijn geworden . 
+Ten tweede blijkt de kerk van de nederzetting hier niet aanwezig te zijn geweest , daar deze dan onder de kerkheuvel zou zijn verdwenen ” .33 In Hoeks reconstructie ligt de begraafplaats zuidelijker en daarmee is de gedachte dat ook de kerk zuidelijker lag , een logische consequentie . 
+Daarbij komt dat vrijwel in het midden van de gereconstrueerde begraafplaats inderdaad een bijzonder gebouwtje blijkt te hebben gestaan . 
+De heer Struijs heeft aangetoond dat ter hoogte van Markt 34 ( direct ten westen van de Bredesteeg ) , het Willibrordshuisje gelegen moet hebben . 
+Hij oppert de mogelijkheid dat dit wel eens de plek van de oudste kerk zou kunnen zijn , die zich mogelijk zelfs uitstrekte tot op de locatie van ‘ Gat in de Markt ’ .34 Figuur 4 : Luchtfoto met aanduiding van de onderzoekslocatie . 
+5 VLAK-verslag 15.1 3 Inventarisatie archeologische waarden en verwachtingen Hieronder worden voor de locatie ‘ Gat in de Markt ’ , in het kort en per periode , de archeologische waarden en verwachtingen benoemd die voorafgingen aan het onderzoek . 
+IJzertijd en Romeinse Tijd Uit archeologisch onderzoek in de omgeving blijkt dat vanaf de Marktzijde , op enkele meters diepte , een Romeinse bewoningslaag ( en mogelijk uit de Late IJzertijd ) verwacht mocht worden ( zie bijvoorbeeld VLAKcode 1.076 ) . 
+Verwacht werd dat restanten van deze leeflaag tijdens het onderzoek aangesneden zouden worden . 
+Middeleeuwen en Post-Middeleeuwen Op basis van de historische gegevens en de reconstructie van Hoek ( 1973A ) was de verwachting dat de volgende archeologische complexen zouden worden aangetroffen : de middeleeuwse begraafplaats , de dijk ( vermoedelijk aangelegd eind 12e eeuw ) , de dijkmuur uit 1459 en mogelijk verspoelde restanten van de vroegmiddeleeuwse nederzetting Vlaardingen . 
+Voorts mocht op grond van de historische bronnen , bewoning verwacht worden die tenminste teruggaat tot in de 14e eeuw.35 Daarnaast was er de hypothese dat ter plaatse mogelijk de oudste kerk van Vlaardingen had gestaan.36 6 1.101 - Basisverslag 4 Onderzoek VLAK 4.1 Randvoorwaarden Het gehele onderzoeksterrein werd door de aannemer ontgraven tot 0,95 m onder het maaiveld . 
+De werkputten mochten ontgraven worden tot 0 m NAP . 
+Indien elementen , zoals de keermuur , verder onderzocht moesten worden , werd ontgraven in sleuven . 
+Deze hadden in werkput 1 een maximale breedte van 1,5 tot 2 m en mochten maximaal 1,5 m diep zijn . 
+De ontgraven gedeelten moesten na afloop opgevuld worden met zand tot op de door de aannemer gewenste diepte . 
+4.2 Vraag- en doelstellingen De doelstelling van het onderzoek is het beantwoorden van de vragen die ontstaan zijn bij het bestuderen van de historische bronnen en die voortkomen uit het archeologische onderzoek . 
+De vraagstellingen die hieronder worden geformuleerd , zijn hoofdvragen die tijdens het onderzoek nader gespecificeerd worden . 
+De beantwoording van de vragen en de aanvullende vraagstellingen komen in de synthese ( hoofdstuk 6 ) aan de orde . 
+IJzertijd en Romeinse Tijd - Zijn er sporen en vondsten die dateren uit de IJzertijd en/of Romeinse Tijd ? 
+- Zo ja , wat is de aard van het complex ? 
+Middeleeuwen - Klopt het model zoals geschetst door Hoek voor het vroegmiddeleeuwse Vlaardingen ? 
+- Heeft hier ter plaatse een deel van het vroegmiddeleeuwse Vlaardingen gelegen en is dat ten dele verspoeld ? 
+Begraafplaats - Heeft op de onderzoekslocatie een begraafplaats gelegen ? 
+Zo ja , wat was de gebruiksduur ? 
+Dijk - Sluit de dijk aan op de kerkheuvel ? 
+- Wanneer is deze dijk aangelegd ? 
+- Welke bouwfasen zijn er vast te stellen ? 
+- Zijn de afspoelingen die zich voordeden in de 13e en de 14e eeuw archeologisch terug te vinden ? 
+- Zijn er sporen van herstel zichtbaar en waaruit bestaan die ? 
+- Is de dijkmuur uit 1459 aanwezig ? 
+Zijn er reparaties aantoonbaar ? 
+Bebouwing - Wat is de oudst aantoonbare middeleeuwse bebouwing binnen de onderzoekslocatie ? 
+- Zijn er bewoningshiaten aan te wijzen ? 
+Kerk - Heeft er ter plaatse een kerk gestaan ? 
+4.3 Methoden Voor de stabiliteit van de omliggende huizen en om het verzakken van de dijkgrond te voorkomen , werden voor aanvang van de werkzaamheden ten zuidwesten van Markt 32 en langs de Zomerstraat damwanden in de grond gedrukt . 
+Bij de planning en aanleg van de werkputten moest hiermee rekening gehouden worden . 
+In totaal werden drie werkputten aangelegd ( bijlage 2 ) . 
+Werkput 1 was circa 21 m lang en situeerde zich langs de Zomerstraat . 
+Deze put kon integraal onderzocht worden . 
+Ten westen en zuidwesten van Markt 32 bevonden zich respectievelijk werkput 3 en 2 . 
+Beide putten werden van elkaar gescheiden door een oost-west georiënteerde damwand . 
+Werkput 2 was oorspronkelijk 6 x 5 m , maar werd niet in zijn geheel onderzocht . 
+Daarentegen werd gekozen voor twee sleuven ; een noord-zuid sleuf van 9 x 2 m en een oost-west sleuf van 4,50 x 2 m. Werkput 3 lag ten noorden van werkput 2 en grensde dus aan de Markt . 
+De onderzochte oppervlakte van put 7 VLAK-verslag 15.1 3 bedroeg in totaal 5,70 x 5,60 m. Aanvankelijk werd de werkput in twee vakken verdeeld door een 2 m brede aarden dam , die in een later stadium verwijderd werd . 
+Door de kleine dimensies van deze terreindelen dienden de profielwanden zo dicht mogelijk langs de reeds aanwezige damwanden en betonplaatfundering gezet te worden . 
+Daar de profielen hier weinig structuur meer boden , dienden deze bij elke verdieping van het vlak getekend te worden , waarna ze verwijderd werden tot het aangelegde vlak . 
+De sporen werden bij de verwerking ondergebracht in spoorgroepen , waarna structuren en substructuren onderscheiden werden . 
+In de bijlagen zijn de sporenlijst ( bijlage 3 ) , profielen ( bijlage 4-11 ) en geschematiseerde vlaktekeningen ( bijlage 13 ) opgenomen waarop deze gegevens terug te vinden zijn . 
+4.4 Resultaten In de onderstaande uiteenzetting worden de onderscheiden structuren behandeld en de daarbij horende substructuren en fasering . 
+De beschrijving is gebaseerd op de veldgegevens . 
+De vermelde dateringen zijn gebaseerd op de resultaten van verschillende disciplines : dendrochronologie37 , 14C-dateringen38 en aardewerkstudie . 
+De gekalibreerde 14C-resultaten in dit verslag weerspiegelen 2 sigma , of 95,4 % zekerheid . 
+4.4.1 Oeverwal en natuurlijke afzettingen Tijdens het onderzoek werden geen sporen aangetroffen die ouder waren dan de Middeleeuwen . 
+Wel werd op verschillende plaatsen de oeverwal ( spoorgroep 19 en 34 , bijlage 4 -11 ) aangesneden , waarbij op één plek ook vier IJzertijd/ Inheems-Romeinse scherven werden gevonden . 
+De toppen van de oeverwallen in de Romeinse Tijd worden rond - 0,70 m NAP verondersteld.39 De aardewerkvondsten werden echter gedaan op een diepte van - 1,78 m NAP . 
+Daar een verzakking van de zandige oeverwal door de druk van recentere structuren onwaarschijnlijk lijkt , mag men aannemen dat het materiaal zich op de flank van de oeverwal bevindt . 
+De top van deze oeverwal moet in noordelijke richting gezocht worden . 
+Eerder werden rond de nederzettingskern van Vlaardingen al vondsten uit de Romeinse periode gedaan.40 In samenhang met de scherven aangetroffen op de locatie ‘ Gat in de Markt ’ mag worden verondersteld dat er in de Late IJzertijd/ Romeinse Tijd bewoning was in de omgeving . 
+Bij het optekenen van de profielen werd duidelijk dat de oeverwal op verschillende plaatsen weggeslagen was . 
+Zowel in het zuidelijke als in het noordelijke gedeelte van het onderzoeksterrein werden gelamineerde , soms grofzandige kleipakketten ( spoorgroep 76 , 81 ) aangetroffen die bestempeld kunnen worden als natuurlijke afzettingen . 
+4.4.2 Eerste ingebruikname van het onderzoeksterrein Het eerste bewijs van menselijke aanwezigheid op de locatie was een grote ingraving ( spoorgroep 16 ) die zowel in grondvlak als in het profiel opgetekend werd . 
+De functie van de ingraving is niet geheel duidelijk , hoewel de dwarsdoorsnede ( zie bijlage 11 ) en de in het vlak dagzomende lagen suggereren dat het een kuil betreft . 
+De kuil had een diameter van circa 2,20 m en was minstens 94 cm diep . 
+De opvulling van de ingraving toonde een sequentie van humeuze kleipakketten en mestachtige laagjes . 
+In één van de vulpakketten ( sp.424f ) werd tussen de mestlaagjes fijn zand en fijn houtskool aangetroffen . 
+De fijne samenstelling wijst erop dat deze in de kuil gestoven zijn . 
+De afzettingen waren het duidelijkst aan de noordzijde van de kuil . 
+Het fijne houtskool wijst op een mogelijke brandhaard ten noorden van de kuil , richting de nederzetting . 
+De aard van de opvulling doet vermoeden dat de kuil soms langere tijd heeft open gelegen . 
+Het hoogste niveau waarop de ingraving werd waargenomen lag op - 0,85 m NAP . 
+Vermoedelijk lag deze waarde nog iets onder het toenmalige maaiveld , daar deze niet werd aangetroffen . 
+Bij de poging tot reconstructie van dit maaiveld werd rekening gehouden met de oplopende trend die de bovenste vullaag ( sp.423 ) van de kuil liet zien . 
+Uiteindelijk werd een waarde berekend van circa - 0,55 m NAP . 
+Dit is bijna 125 cm hoger dan de nabijgelegen flank van de oeverwal met de scherven Romeins aardewerk ( spoorgroep 19 ) . 
+Het onderzoek toonde aan dat de kuil op een gegeven moment aan de zuidzijde doorsneden werd door een kleine greppel die aan de noordzijde voorzien was van vlechtwerk ( spoorgroep 66 ) . 
+Op grond van de doorsnijding kan worden gesteld dat de greppel van recentere datum moet zijn dan de kuil , maar hoeveel later kan niet precies worden bepaald . 
+Opvallend was overigens dat de oriëntatie van de greppel ( noordoost- zuidwest ) afweek van de oriëntatie van recentere waterlopen ( structuur 1 : zuidoost- noordwest ) aangetroffen op deze locatie . 
+Blijkbaar werd de ruimtelijke indeling in de loop van de 10e eeuw grondig veranderd . 
+8 1.101 - Basisverslag De opvulling van de kuil bevatte slechts één stukje aardewerk , namelijk een scherf van een Karolingische bolpot . 
+Deze vondst situeert de opvulling van de ingraving tussen de 8e eeuw en het begin van de 10e eeuw.41 Om deze datering te verfijnen werden twee monsters geselecteerd voor 14C-analyse . 
+Een houtsnipper met bast ( vnr.1748 ) diende om de ouderdom van de vullingslaag met stuifzand en fijn houtskool te bepalen . 
+Van een sterk humeus bandje uit het bovenste gedeelte van de kuil werd wat grond verstuurd voor onderzoek ( vnr.1747 ) . 
+De houtsnipper werd gedateerd op 1066 ± 44 BP ( vnr.1748 ) , met andere woorden tussen 891 en 1027 AD . 
+Dit betekent dat de opvulling van de kuil eerder in de late 9e of 10e eeuw plaatsvond . 
+Met een resultaat van 1558 ± 42 BP ( 423-567 , 569-597 AD ) ( vnr.1747 ) , gaf het grondmonster duidelijk een te oude datering . 
+Vermoedelijk betreft het grond dat van elders afkomstig is en gebruikt is om de kuil mee dicht te gooien . 
+Vondstnummer 1747 wordt in het onderzoek verder buiten beschouwing gelaten . 
+Het resultaat van vondstnummer 1748 stemt overeen met de datering van de greppel met vlechtwerk ( spoorgroep 66 ) . 
+Van het vlechtwerk werd namelijk een 14C-datering genomen , met als resultaat 1160 ± 30 BP ( vnr.612 : zie bijlage 20 ) . 
+In combinatie met de stratigrafische gegevens ( de kuil wordt doorsneden door structuur 1 ) kan gesteld worden dat de kuil en de greppel tussen 891 en circa 933 in gebruik waren . 
+4.4.3 Overige In de profielen van de noordelijke werkput werden de restanten van enkele , vermoedelijk natuurlijke , lagen opgetekend die moeilijk in tijd te situeren zijn en waarvoor verschillende interpretaties geopperd kunnen worden ( spoorgroep 75,77,78,79,80 ) . 
+Wel kan met zekerheid gesteld worden dat deze pakketten afgezet werden voordat het noordelijke terrein als grafveld in gebruik werd genomen . 
+De lichthumeuze kleilagen uit spoorgroep 78 ( bijlage 9 ) vormden mogelijk de vulling van een greppeltje . 
+Het wegduiken van laag spoor 541 in noordelijke richting zou op een insteek kunnen wijzen ( spoorgroep 77 , bijlage 8 ) . 
+Indien het hier inderdaad een greppeltje betrof , zou deze de begrenzing gevormd kunnen hebben van een oudere fase van het grafveld . 
+Door de beperkte gegevens waarover we beschikken , kan deze hypothese echter niet bevestigd noch ontkracht worden . 
+Onder het niveau van de eerste fase van het grafveld werden twee ( verschillende ? ) 
+zwarte , compacte humeuze kleilagen opgetekend . 
+Uit spoor 541 ( spoorgroep 77 ) kwam één scherfje Pingsdorfaardewerk . 
+Uit spoor 440 ( spoorgroep 79 ) konden diverse scherven Paffrath en Pingsdorf worden verzameld . 
+Het aardewerk uit deze lagen doet vermoeden dat deze afgezet werden na de aanleg van de hierboven vermelde greppel ( spoorgroep 66 ) . 
+Er bestond echter geen stratigrafische relatie tussen de verschillende spoorgroepen die deze stelling kon bevestigen . 
+4.4.4 Structuur 1 In de loop van de 10e eeuw werd het onderzoeksgebied doorsneden door een grote waterloop ( structuur 1 ) . 
+In verschillende profielen werden de restanten hiervan opgetekend . 
+De situering van deze stroom op de grens van twee werkputten zorgde ervoor dat deze niet als zodanig in het veld herkend werd ( fase 1 ) . 
+Na verloop van tijd lijkt de waterloop zijn bedding in meer noordelijke richting te verleggen ( fase 2 ) . 
+Fase 1 Bij de uitwerking van de veldgegevens werd duidelijk dat in de westelijke profielen de restanten zichtbaar waren van een brede stroom ( bijlage 4 , 5 , 10 ) . 
+De reconstructie leverde het beeld van een waterloop met een breedte van meer dan 9 m en een diepte van minstens 1,75 m ( bijlage 14 ) . 
+Hoewel structuur 1 , fase 1 mogelijk een natuurlijke oorsprong had , was het overgrote deel van de vullingslagen van antropogene aard . 
+Op de bodem lag een pakket heel fijnzandig materiaal waarin af en toe kleine kluitjes klei voorkwamen ( sp.278 en sp.417 ) . 
+Naar de onderzijde toe kreeg deze een gelamineerd beeld . 
+Bij het insnijden van de waterloop werd een gedeelte van de oeverwal ( sp.276 , sp.418 ) weggeslagen , wat het zandige karakter van de bodemlaag verklaart . 
+Het bovenste gedeelte van dit bodempakket deed daarentegen eerder aan stuifzand denken . 
+Boven deze zandige vulling werd een sequentie van zeer humeuze lagen opgetekend met een wisselend kleigehalte . 
+Deze vullingen zijn waarschijnlijk van antropogene aard . 
+Aanwijzingen hiervoor zijn de houtsnippers en mestpakketten aangetroffen in de verschillende lagen . 
+Het niveau vanwaar structuur 1 zich ingesneden heeft in de natuurlijke kleiafzettingen en de oeverwal kon niet bepaald worden . 
+De maximaal bewaarde hoogte van de insteek van fase 1 situeerde zich op - 1,27 m NAP . 
+Bij de reconstructie van het oorspronkelijke maaiveld 9 VLAK-verslag 15.1 werd de gereconstrueerde maaiveldhoogte van de mestkuil ( spoorgroep 16 ) als uitgangspunt genomen . 
+De insnijdingshoogte van de eerste fase van structuur 1 zou dan op circa - 0,50 m NAP gelegen hebben ( bijlage 16 ) . 
+Dit betekent dat in de loop der tijd meer dan 70 cm vergraven is . 
+Van de verschillende humeuze vullingslagen van structuur 1 werden vijf monsters genomen voor 14C-dateringen . 
+Naast een grondmonster ( vnr.1742 ) van spoor 270 , werd uit deze mestlaag ook een houtsnipper met bast ( vnr.1743 ) verzameld en gedateerd . 
+De resultaten van de vijf monsters vertoonden sterke overeenkomsten ( bijlage 20 ) , met uitzondering van monster 1742 . 
+Zoals het geval was bij de kuil ( spoorgroep 16 ) gaf ook dit grondmonster een ( te ) oude datering . 
+De andere 14C- dateringen tonen aan dat de eerste fase van structuur 1 in de 10e eeuw te situeren is . 
+De resultaten van deze monsters lijken sterk op de dateringen van spoorgroep 16 en 66 . 
+Daar structuur 1 duidelijk jonger is dan de kuil en beide structuren langere tijd in gebruik zijn geweest , zou er een verdere verfijning aangebracht kunnen worden in de dateringen . 
+In bijlage 21 wordt de aanleg of het ontstaan van structuur 1 rond 933 AD gesitueerd . 
+Fase 2 In de tweede helft van de 10e eeuw lag de waterpartij meer in noordelijke richting . 
+De bedding doorsneed de vullingen van de eerste fase . 
+Structuur 1 had in deze tweede fase een breedte van circa 5 m en was minstens 1,40 m diep . 
+Mogelijk heeft deze tweede fase een antropogene oorsprong , waarbij structuur 1 opnieuw werd verdiept om de doorstroming te bevorderen . 
+Het oorspronkelijke maaiveld kon niet met zekerheid vastgesteld worden , maar lag vermoedelijk hoger dan in de eerste fase van structuur 1 . 
+Op basis van de profielen mag een niveau van circa - 0,45 m NAP verondersteld worden ( bijlage 16 ) . 
+De vullingen van deze tweede fase bestaan uit verschillende bruine , zeer humeuze kleipakketten met houtsnippers en houtresten . 
+Enkele lagen ( sp.238 , 297 , 299 ) bevatten een aanzienlijke hoeveelheid schervenmateriaal . 
+De functie van structuur 1 en de precieze relatie met structuur 2 blijft onduidelijk . 
+De tweede fase van de waterloop is in ieder geval ouder dan fase 2 van het grafveld ( structuur 2 ) , daar diens ophogingslagen ten dele doorlopen tot in de waterpartij . 
+Een 14C-datering ( vnr . 
+1755 : 1081 ± 36 BP ) van een houtsnipper uit de onderste vullaag van de waterloop toont aan dat de tweede fase wel in gebruik is geweest ten tijde van fase 1 van het grafveld . 
+Op het einde van de 10e eeuw en in het eerste kwart van de 11e eeuw was het gebied ten noorden van de waterloop dus in gebruik als grafveld . 
+Het gevonden aardewerk wijst evenwel ook op menselijke activiteiten , zoals bewoning , in de onmiddellijke omgeving . 
+Deze bewoning zou dan ten zuiden van structuur 1 gelegen moeten zijn . 
+Dit leidde tot de hypothese dat de tweede fase van de waterloop ( ter onderscheid structuur 1b ) mogelijk een nieuwe structuur was . 
+Structuur 1b had als functie het begrenzen van de begraafplaats en vormde op deze manier een fysieke barrière tussen het grafveld en enige vorm van bewoning . 
+Om afwatering uit het achterland toch te waarborgen , zou structuur 1 ( fase 1 ) aan het einde van de 10e eeuw in zuidelijke richting verlegd zijn ( buiten het onderzoeksgebied , zie paragraaf 6 ) . 
+4.4.5 Structuur 2 Rond 1000 AD werd het grafveld ( structuur 2 ) rondom de parochiekerk uitgebreid . 
+Op een oppervlakte van 4,80 x 5,90 m kwamen 45 graven aan het licht die deels gelicht konden worden . 
+Na onderzoek bleek het mogelijk om in dit gedeelte van de begraafplaats een fasering te onderscheiden ( zie bijlage 19 ) . 
+De uitbreiding gebeurde schijnbaar in twee fasen waarbij de omgrenzing steeds verder naar het zuiden werd gelegd . 
+De totale gebruiksduur omvat circa 50 jaar . 
+Fase 1 De oudste uitbreidingsfase wordt aan de zuidzijde omzoomd door een greppel met vlechtwerkwand ( structuur 2.1 ) . 
+Enkele humeuze , vettige kleilagen hangen samen met de ingebruikname van dit deel van het grafveld . 
+Deze ophogingspakketten zijn waargenomen tussen - 0,75 m NAP en - 0,12 m NAP . 
+De uiterste bovenzijde van deze fase van het grafveld wordt evenwel gevormd door het niveau vanwaar een inhumatie ( spoor 554 ) is ingegraven . 
+Dit skelet werd aangetroffen in de noordoostelijke hoek van het onderzochte terrein op een maximale hoogte van - 0,23 m NAP . 
+Daar het oorspronkelijke maaiveld niet bewaard is gebleven , werd een reconstructie gemaakt . 
+Hierbij werd verondersteld dat de graven minimaal 40 tot 60 cm diep zijn ingegraven ( gemiddeld 50 cm ) . 
+Daarmee komt de gereconstrueerde maaiveldhoogte uit op circa + 0,27 m NAP . 
+De reconstructie laat ook een lichte glooiing in het terrein zien , met het hoogste punt in het noordoostelijke gedeelte ( bijlage 16 & 18 ) . 
+10 1.101 - Basisverslag Structuur 2.1 Tijdens het blootleggen van enkele skeletten kwam in het zuidelijke gedeelte van het grafveld een rij staakjes vrij te liggen . 
+Nader onderzoek toonde aan dat het om vlechtwerk ging dat behoorde tot een greppeltje dat de eerste fase van het grafveld afzoomde . 
+Structuur 2.1 was grofweg oost-west georiënteerd . 
+Het vlechtwerk kon gevolgd worden over meer dan 3,60 m. Een datering van structuur 2.1 werd verkregen door een 14C-monster van een houten staakje ( vnr.718 : 1025 ± 25 BP ) . 
+Verschillende elementen bieden een tijdskader voor deze oudste uitbreidingsfase van de begraafplaats . 
+Uit een kleilaag die werd afgezet voor de ingebruikname van het grafveld , komen enkele scherven Pingsdorfaardewerk . 
+Deze vondst betekent dat de eerste inhumaties ten vroegste in de tweede helft van de 10e eeuw gesitueerd kunnen worden . 
+De veldatum van enkele grafkisten ( bijlage 22 ) en de 14C-datering van het vlechtwerk uit de greppel bevestigen en verfijnen het tijdskader . 
+De eerste uitbreiding van het grafveld op het onderzoeksterrein vond rond 1000 AD plaats . 
+Het meest noordelijke gedeelte van het opgegraven deel van het grafveld is gedurende beide fasen in gebruik geweest . 
+Het onderscheid tussen de graven die behoren tot fase 1 en fase 2 is dus in een aantal gevallen onduidelijk . 
+Wel kan worden gesteld dat fase 1 van de begraafplaats vermoedelijk slechts korte tijd in gebruik is geweest . 
+Aanwijzingen hiervoor zijn de 14C-dateringen afkomstig van onder andere het vlechtwerk uit fase 1 ( vnr.718 ) en de boomstamkist uit fase 1/2 ( vnr.1720 ) . 
+Beide monsters leverden eenzelfde datering , 1025 ± 25 BP ( 981-1027 cal AD met 95,4 % zekerheid ) , maar hun stratigrafische positie verschilt danig . 
+De bovenzijde van de greppel met vlechtwerkwand situeert zich op - 0,33 m NAP , terwijl de boomstamkist op maximaal + 0,24 m NAP geplaatst mag worden . 
+De boomstamkist ligt bovendien boven drie graven ( sp.554 , 526 en 556 ) die in de eerste fase ter aarde gesteld zijn . 
+Vergelijkbare voorbeelden werden ook elders in het grafveld opgetekend.42 Fase 2 In deze fase wordt de begraafplaats verder uitgebreid in zuidelijke richting . 
+Eén graf werd aangelegd in de vulling van de greppel uit fase één , wat er op wijst dat deze zijn functie verliest . 
+Een nieuwe greppel ( structuur 2.2 ) begrenst nu de funeraire zone . 
+Een grijsbruin , gevlekt kleipakket met enkele humeuze bandjes vormt de ophogingslaag waarin de graven uit deze tweede fase zijn ingegraven . 
+Deze pakketten bevatten grotere fragmenten houtskool en houtsnippers . 
+In de profielen werden deze lagen opgetekend tussen - 0,90 m NAP en 0 m NAP . 
+In de nabijheid van structuur 2.1 werd een graf blootgelegd ( sp.446 ) dat behoorde tot de tweede fase van het grafveld . 
+Aan de binnenzijde van de kist werd , langs de zuidelijke wand , een rij staakjes aangetroffen ( sp.447 ) . 
+Aanvankelijk werd gedacht dat deze beschoeiing onderdeel vormde van de bijzetting . 
+Elders in het grafveld werden echter geen andere voorbeelden vastgesteld . 
+Vermoedelijk is de beschoeiing onderdeel van de begrenzing van de eerste fase van het grafveld . 
+De maximale bovenzijde van fase 2 wordt gevormd door een kindergraf op ongeveer + 0,55 m NAP . 
+Ook hier werd een reconstructie van het oorspronkelijke maaiveld gemaakt . 
+Rekening houdend met dezelfde elementen als in fase 1 , verkrijgt men een maaiveldhoogte van circa + 1,05 m NAP ( in de noordoostelijke hoek van het grafveld ) . 
+Het niveauverschil in het terrein is op dat moment nog steeds zichtbaar ( bijlage 18 ) . 
+Enkele veldata ( bijlage 22 ) voorzien deze tweede uitbreidingsfase van een tijdskader . 
+De meeste data zijn afkomstig van secundair gebruikt hout en bieden weinig houvast . 
+Graf spoor 446 bevatte een fragment primair verwerkt hout en leverde een datering van 1044 AD ( vnr.1508 ) . 
+De jongste datering was afkomstig van graf spoor 475 ( vnr.1595 : 1045/6 AD ) . 
+Met zekerheid kan dus worden gesteld dat dit gedeelte van de begraafplaats tot het midden van de 11e eeuw in gebruik bleef . 
+De exacte sluitdatum is niet te bepalen , maar is mogelijk rond 1050 te plaatsen . 
+Structuur 2.2 Met de aanleg van structuur 2.2 werd het grafveld circa 140 cm uitgebreid in zuidelijke richting . 
+De nieuwe structuur had dezelfde oriëntatie als structuur 2.1 . 
+De vulling van de greppel bestond uit pakketten licht humeuze klei . 
+11 VLAK-verslag 15.1 4.4.6 Grote mestkuil Naast het materiaal in de opvulling van ‘ structuur 1b ’ ( zie 4.4.4 , fase 2 ) geeft ook spoor 256 aan dat er ten zuiden van het grafveld andere activiteiten plaatsvonden . 
+Deze relatief grote mestkuil , spoor 256 , kan op basis van de stratigrafie en een 14C-datering ( vnr.1745 : 981 ± 36 BP ) in het begin van de 11e eeuw zijn aangelegd . 
+Hoewel deze kuil wijst op een vorm van bewoning in de onmiddellijke omgeving , werd in de vulling geen scherfje aardewerk gevonden . 
+4.4.7 Structuur 3 Zoals vermeld , was het onderzochte terrein ten zuiden van de begraafplaats voor andere doeleinden beschikbaar . 
+Na het in onbruik raken van de grote mestkuil werd een eerste aanvang genomen met het opwerpen van een terplichaam , structuur 3 . 
+De vorming van deze terp gebeurde vermoedelijk in drie fasen en strekte zich , vanaf fase 2 , uit over het gehele onderzoeksterrein . 
+Fase 1 De oudste fase van terpvorming bestond uit een sequentie van ophogingslagen . 
+Deze bruine , heel humeuze , grofzandige pakketten bleven slechts over een beperkte oppervlakte bewaard , daar het grootste deel door menselijke ( ingraven van kuilen ) en natuurlijke processen ( weggeslagen dijk ) werd verstoord . 
+Op de plaats van de mestkuil , spoor 256 , zakten de lagen uit deze eerste terpfase na . 
+Hoewel er geen rechtstreeks verband bestaat tussen de tweede fase van het grafveld en deze oudste terpophogingen , mag er toch een gelijktijdigheid verondersteld worden . 
+Rekening houdend met het oplopen van het terrein in noordelijke richting , bevinden de NAP-waarden van deze humeuze ophogingslagen ( - 0,61 m NAP en - 0,17 m NAP ) zich immers binnen eenzelfde bereik . 
+Een datering in het tweede kwart van de 11e eeuw is daarmee aannemelijk , maar kan door het ontbreken van enig vondstmateriaal niet bevestigd worden . 
+Fase 2 Enkele humeuze , grof zandige kleilagen opgeworpen na het in onbruik raken van het onderzochte grafveld , vormen de tweede fase van terpophoging . 
+Deze pakketten zijn opvallend beter bewaard en konden overal opgetekend worden . 
+Enkele lagen bevatten houtsnippers en schelpfragmenten , maar helaas geen aardewerk . 
+Het terrein werd in het zuiden ongeveer 25 cm opgehoogd ( - 0,15 m NAP tot + 0,13 m NAP ) . 
+In het noorden werd een bijna even dik pakket opgebracht ( + 0,11 m NAP tot + 0,31 m NAP ) , behalve op de locatie van structuur 1 ( - 0,70 m NAP tot - 0,20 m NAP ) . 
+Ondanks een gedeeltelijke nivellering bleef de glooiing in het landschap dus bewaard ( bijlage 17 ) . 
+Tot deze tweede terpfase behoorden ook twee substructuren : twee vlechtwerkwandjes ( 3.1 ) en een kleine kuil ( 3.2 ) . 
+De gehele tweede terpfase kan enkel op stratigrafische gronden aan een bepaalde periode toegeschreven worden , daar verder elk middel tot datering ontbreekt . 
+De ophogingen werden in ieder geval opgebracht na het midden van de 11e eeuw ( einde uitbreidingsfase grafveld ) . 
+De volgende structuur die met enige zekerheid gedateerd kon worden , was de dijk ( eerste fase : tweede helft 12e eeuw ) . 
+Het ontbreken van vondsten doet vermoeden dat bewoning in ieder geval niet in de onmiddellijke omgeving plaatsvond . 
+Structuur 3.1 Op de plaats waar het donkere terplichaam in zuidelijk richting dook , werd een vlechtwerkwandje aangetroffen ( sp.175 ) . 
+Het vlechtwerk had een zuidoost - noordwest oriëntatie en werd over een afstand van circa 1,40 m blootgelegd . 
+Iets ten noorden van spoor 175 kwam een identieke constructie aan het licht ( sp.179 ) . 
+Dit vlechtwerk werd over een lengte van ongeveer 1 m onderzocht . 
+De oriëntatie hiervan week iets af van het andere wandje . 
+Beide structuren helden in noordoostelijke richting over . 
+Door de beperkte oppervlakte waarover de wandjes bestudeerd konden worden , was het niet mogelijk hun juiste context te bepalen . 
+Fase 3 Verscheidene ingravingen ( structuur 3.3 , 3.4 , 3.5 ) tonen aan dat het terrein in deze fase duidelijk intensief in gebruik was . 
+De twee grootste kuilen werden praktisch naast elkaar aangetroffen . 
+Structuur 3.4 lag iets oostelijker . 
+Structuren 3.3 en 3.5 De structuren 3.3 en 3.5 ( bijlage 14 ) werden beide ingegraven in de ophogingslagen van de tweede terpfase . 
+Zowel wat vorm betreft als qua afmetingen waren de kuilen erg gelijkend . 
+Beide hadden een lengte van meer dan 1,70 m en waren tussen de 85 en 126 cm diep . 
+De afmetingen van structuur 3.5 waren steeds net iets 12 1.101 - Basisverslag groter dan deze van structuur 3.3 . 
+Bij de aanleg van de kuilen werden in beide gevallen de vullingslagen van structuur 1 doorsneden . 
+Zowel structuur 3.3 als 3.5 had een kleiige vulling met bijmenging van humeuze brokken of plantaardig materiaal . 
+In de opvulling van structuur 3.5 werden bovendien nogal wat visresten aangetroffen . 
+In geen van de kuilen werd echter aardewerk gevonden . 
+Het motief om twee grote ingravingen naast elkaar aan te leggen , aan wat vermoedelijk de rand van de terp was , blijft onduidelijk . 
+Structuur 3.4 De vullingspakketten van structuur 3.4 werden enkel in het profiel opgetekend . 
+De bruingrijze kleilaagjes met brokjes lichte klei waren in het vlak dan ook moeilijk te onderscheiden van de vulling van de gracht of van structuur 3.2 . 
+De bovenste vulling van de kuil bevatte wat houtskool . 
+Met een doorsnede van bijna 1 m en een diepte van 44 cm is deze structuur beduidend kleiner dan structuur 3.3 of 3.5 . 
+Ook hier werd geen aardewerk aangetroffen . 
+4.4.8 Structuur 4 Gedurende het onderzoek kon de opbouw van het dijklichaam op de locatie nader onderzocht worden . 
+Bij structuur 4 werden de verschillende ophogingspakketten van de dijk ondergebracht evenals kleinere sporen ingegraven in het dijklichaam . 
+De omvang van het onderzoeksgebied liet toe om de verschillende verstevigingen van het dijklichaam die in de loop der tijd werden aangebracht , nader te onderzoeken . 
+De dijksloot die normaliter samenhangt met een dijk , werd apart ondergebracht in structuur 5 . 
+In de afgelopen jaren ontstond reeds de mogelijkheid om het dijklichaam op andere opgravingen van het VLAK te onderzoeken . 
+De opgraving op de locatie ‘ Gat in de Markt ’ bood de mogelijkheid om de dijkopbouw te bestuderen in relatie met de historische kern van Vlaardingen . 
+Bovendien kon voor de eerste maal een volledig profiel opgetekend worden , waarbij ook de oudste fase van de dijk bestudeerd werd . 
+Fase 1 De oudste dijkfase die tijdens het onderzoek bestudeerd kon worden , bestond uit een aantal humeuze kleilagen met bovenop een dik pakket vette klei . 
+De humeuze lagen bevatten houtsnippers wat eventueel kan wijzen op ambachtelijke activiteiten in de omgeving . 
+De dijkpakketten werden opgeworpen over de oudere terplagen en dekten zo structuur 3.3 en 3.5 af . 
+De onderste dijklaag ( sp.195 ) , die gedeeltelijk nagezakt is in structuur 3.5 , werd beschreven als een soort ‘ loopniveau of vloer ’ . 
+Het ontbreken van enig vondstmateriaal in deze laag doet echter vermoeden dat het hier niet een daadwerkelijk leefniveau betreft . 
+Vermoedelijk vormde dit pakket een basis waarop de overige dijklagen werden opgebracht . 
+Gedurende deze eerste fase werd het westelijke gedeelte van het terrein opgehoogd tot circa + 0,50 m NAP ( bijlage 15 ) . 
+Om dit niveau te bereiken moest op de plaats waar structuur 3.3 ingegraven was , een dik pakket van 90 cm opgebracht worden . 
+Ter hoogte van structuur 3.5 werd maximaal 78 cm opgebracht ( spoor 194 en 195 ) . 
+De dijklagen lopen op in westelijke richting en vinden op deze manier aansluiting met de hoger gelegen kerkheuvel . 
+Uiteindelijk werd een dijkje gecreëerd met een maximale hoogte van circa 90 cm ( noordprofiel werkput 2 ) . 
+Waarschijnlijk strekte de dijk zich ten zuiden van de terp verder uit , maar door het gedeeltelijk wegslagen van de dijk in een latere fase , kan zijn oorspronkelijke zuidelijke grens niet achterhaald worden . 
+Wel konden twee houten constructies worden onderzocht , structuur 4.1 en 4.2 , die vermoedelijk min of meer aan de rand van de dijk gelegen waren . 
+Voor de datering van deze eerste dijkfase beschikken we over enige fragmenten aardewerk uit de ophogingslagen en twee veldata afkomstig van palen behorende tot structuur 4.2 . 
+Een nauwkeurige datering werd verkregen door de twee dendro ’ s , die de eerste dijkfase in de tweede helft van de 12e eeuw plaatsen ( zie structuur 4.2 ) . 
+De samenstelling van het vondstmateriaal , zijnde Pingsdorf , Paffrath en Andenne bevestigt deze datering . 
+Structuur 4.1 Bij het verdiepen van een compact pakket gelaagde humeuze klei stootte men op circa + 0,48 m NAP op een houten constructie ( sp.174 ) . 
+Deze structuur 4.1 bestond uit liggend hout ( een gekloofde paal met schors ) , geflankeerd door verticaal ingeslagen paaltjes ( figuur 5 ) . 
+Het horizontale hout was halfrond en bovenaan afgevlakt . 
+De paaltjes bevonden zich aan de noordzijde . 
+Structuur 4.1 had een oost-west oriëntatie en werd over een afstand van 94 cm vrijgelegd . 
+Mogelijk is deze houten constructie een onderdeel van een pad dat over het dijkje liep en aansloot bij de terpheuvel . 
+Het ontbreken van enig loopniveau laat evenwel niet toe deze veronderstelling verder te beargumenteren . 
+13 VLAK-verslag 15.1 Figuur 5 : Substructuur 4.1 , houten constructie ( foto : VLAK , inv . 
+nr . 2002-003-26 ) . 
+Structuur 4.2 Op een hoogte van circa + 0,80 m NAP werd de opvolger van structuur 4.1 blootgelegd . 
+Het betrof eveneens een oost- west georiënteerde houten beplating aangelegd in een humeuze , gelamineerde laag . 
+In tegenstelling tot structuur 4.1 stonden de paaltjes echter aan de zuidzijde van het horizontale hout ( figuur 6 ) . 
+Structuur 4.2 had een lengte van ongeveer 2 m , maar liep oorspronkelijk mogelijk in westelijke richting door . 
+De dendrodateringen van een houten plankje en paaltje ( respectievelijk vnr.124 : 1165 AD ± 6 en vnr.133 : 1176 AD ± 6 ) bieden een datering voor de eerste fase van de dijk . 
+Hoewel de beplating zich niet op het diepste niveau van de eerste fase bevindt , kan de oudste dijkfase toch vrij zeker rond 1170-1180 geplaatst worden . 
+Fase 2 Kenmerkend voor de tweede fase zijn enkele sporen ( structuur 4.3 en 4.4 ) die ingegraven werden in het dijklichaam . 
+Hoewel de ingravingen op verschillende delen van het onderzoeksterrein werden aangetroffen en er geen duidelijke relatie was , werden deze sporen op basis van de stratigrafie beide in fase 2 ondergebracht ( bijlage 13 ) . 
+Structuur 4.3 en 4.4 Structuur 4.3 ( sp.374 ) en structuur 4.4 ( spoorgroep 26 ) mogen als kuilen geïnterpreteerd worden . 
+Beide werden ingegraven in het vette kleipakket opgebracht gedurende de eerste dijkfase . 
+Structuur 4.4 lag ten zuiden van structuur 4.3 en vormde de grootste ingraving in deze fase . 
+Deze kuil had een diameter van meer dan 2,60 m en was maximaal 1,06 m diep . 
+De vulling van structuur 4.4 bestond uit een opeenvolging van humeuze zandige kleipakketten . 
+Eén van de vullingslagen ( sp.151 ) bevatte relatief veel vondstmateriaal , waaronder natuursteen en aardewerk . 
+De verschillende vulpakketten wijzen erop dat deze grote kuil langere tijd open heeft gelegen . 
+De brokkelige , kluiterige structuur van enkele lagen duidt erop dat de kuil tenminste gedeeltelijk door mensenhanden gedempt is . 
+De eigenlijke functie van zowel structuur 4.4 als deze van structuur 4.3 blijft onduidelijk . 
+In één van de vullingen ( sp.151 ) van structuur 4.4 werd een grote hoeveelheid aardewerk gevonden . 
+Het vondstenspectrum plaatst de opvulling in het begin van de 13e eeuw . 
+Fase 3 Fase drie vertegenwoordigt een nieuw stadium van dijkophogingen . 
+In het noordelijke gedeelte van de locatie werden vette kleilagen ( spoorgroep 10 ) opgebracht die onder andere structuur 4.3 ( fase 2 ) afdekten . 
+De dikte van het opgebrachte kleipakket nam af van west naar oost en varieerde van respectievelijk 60 cm tot ongeveer 20 cm . 
+Dit verschil betekende een verdere egalisering van het noordelijke gedeelte van het terrein , waarbij een hoogte van circa + 0,90 m NAP bereikt werd ( bijlage 17 ) . 
+Een kleine kuil ( structuur 4.5 ) , opgevuld met verschillende mestlaagjes , werd mogelijk gelijktijdig aangelegd . 
+Tijdens het onderzoek ging 14 1.101 - Basisverslag veel aandacht naar een ander spoor aangetroffen in deze kleilagen , namelijk de kistbegraving spoor 320 . 
+Dit was het eerste graf dat blootgelegd werd tijdens de opgraving en verwacht werd dat meerdere zouden volgen . 
+Opvallend was echter dat dit de enige bijzetting betrof op dit niveau . 
+In een later stadium werden op een dieper niveau wel de restanten van een 11e-eeuwse begraafplaats vrijgelegd ( zie structuur 2 ) . 
+De bovenzijde van de kist werd aangetroffen op ( maximaal ) + 0,41 m NAP . 
+Rekening houdend met een ingravingsdiepte van ± 50 cm , lag het toenmalige maaiveld op circa + 0,90 m NAP ( zie boven ) . 
+Ruimtelijk gezien is spoor 320 dus een geïsoleerd graf . 
+In tegenstelling tot het vette kleipakket in het noordelijke gedeelte , bracht men naar het zuiden toe enkele rietlagen ( sp.138 en 141 ) en humeuze kleilagen aan . 
+De lagen liepen sterk op in noordelijke richting ( onderzijde van + 0,30 NAP tot circa + 1,05 NAP ) wat erop kan wijzen dat deze tegen de zuidelijke flank van de dijk werden opgeworpen . 
+De rietpakketten zouden dan ter versteviging van de dijk zijn aangelegd . 
+De totale dikte van de lagen bedroeg 34 cm . 
+De datering van fase 3 werd bekomen door een 14C-datering ( vnr.116 : 740 ± 40 BP ) van één van de rietlagen , spoor 138 . 
+Gekalibreerd betekent dit een datering tussen 1217 en 1379 AD ( 95,4 % zekerheid , zie bijlage 21 ) . 
+Het weinige aardewerk aangetroffen in deze ophogingspakketten wijst op een ophoging in de eerste helft van de 13e eeuw . 
+Figuur 6 : Substructuur 4.2 , houten constructie ( foto : VLAK , inv . 
+nr . 2002-001-31 ) . 
+Fase 4 De vette kleiophogingen uit fase 1 en 3 werden doorsneden door een grote ingraving , structuur 4.6 , die als kuil bestempeld kon worden . 
+Verschillende insteken toonden aan dat structuur 4.6 drie maal hergraven werd op dezelfde locatie . 
+In de eerste ( sub ) fase werd structuur 4.6 tot 1,20 m diep ingegraven . 
+In de kuil kwam onderaan een rietpakket voor . 
+Mogelijk mag dit pakket als beschoeiing geïnterpreteerd worden . 
+De overige vullagen bestonden uit verschillende humeuze , zandige kleipakketten , waarin wat houtsnippers werden aangetroffen ( spoorgroep 23 , bijlage 5 ) . 
+De opvulling in de tweede ( sub ) fase werd gevormd door verschillende mestachtige pakketten met een wisselend kleigehalte . 
+De ingraving doorsneed de vullingen uit de eerste fase en in het profiel werd duidelijk een nieuwe insteek opgetekend ( spoorgroep 22 , bijlage 5 ) . 
+De bovenste vulling van de tweede fase ( sp.200 ) bevatte relatief veel bouwpuin . 
+De vondst van puin en aardewerk in de opvulling wijzen op menselijke bewoning in de onmiddellijke omgeving van het onderzoeksterrein . 
+De laatste fase van structuur 4.6 was maximaal 36 cm diep ingegraven in de opvulling uit fase 2 . 
+De puinrijke , kleiige vulling suggereert dat er in de buurt bouwactiviteiten plaatsvonden . 
+Het aardewerk aangetroffen in de vulling , plaatst structuur 4.6 in de eerste helft van de 13e eeuw . 
+15 VLAK-verslag 15.1 Figuur 7 : Rietlaag ter versteviging van de dijk ( foto : VLAK , inv . 
+nr . 2002-010-27 ) . 
+Figuur 8 : Vlechtwerk aangebracht ter versteviging van de dijk , spoor 316 ( foto : VLAK , inv . 
+nr . 2002-010-10 ) . 
+Fase 5 Tijdens het onderzoek konden de restanten van een ingrijpende gebeurtenis opgetekend worden , namelijk het weggeslagen van een gedeelte van het dijklichaam . 
+In het westprofiel ( bijlage 5 ) is duidelijk de grens zichtbaar tussen de oude dijk- en terplagen en de nieuw aangebrachte dijklagen . 
+Het vondstmateriaal duidt erop dat men op het einde van de 13e eeuw – begin 14e eeuw een aanvang nam met de reparatie van de dijk . 
+Fase 6 Fase 6 representeert de herstelfase van de dijk . 
+Sporen die toegeschreven konden worden aan deze fase werden dan ook voornamelijk in werkput 1 en 2 aangesneden . 
+Naast nieuwe ophogingen behoort vermoedelijk ook structuur 4.7 , een ondiepe ingraving , tot deze zesde dijkfase . 
+De bovenzijde van de herstelde dijk was opgebouwd uit vette kleipakketten afgewisseld met humeuze kleilagen . 
+Naar onderen toe trof men meer zandige kleipakketten aan . 
+Op het diepste niveau , - 1,42 m NAP was er sprake van een 10 cm dikke rietlaag . 
+De daaropvolgende 50 cm was opgebouwd uit kleilagen afgewisseld met rietpakketten . 
+De rietlagen functioneerden als basis en ter versteviging van de dijk . 
+Vanaf circa - 0,51 m NAP bevatten enkele lagen voor de eerste maal grote fragmenten baksteenpuin . 
+Hoewel in totaal ongeveer vijftien lagen onderscheiden konden worden , zijn deze toch tot één fase gerekend . 
+Het ontbreken van ingravingen en de gelijkvormigheid van het aangetroffen aardewerk in de ophogingslagen , laten dit immers toe . 
+Naast het gebruik van rietlagen ter versteviging van het dijklichaam ( figuur 7 ) werd ook een andere techniek toegepast , namelijk het aanbrengen van horden . 
+In de zuidelijke werkput werd over een afstand van 4,30 m een ‘ mat ’ aangetroffen van gevlochten takken , spoor 316 ( figuur 8 ) . 
+Het vlechtwerk was bedekt met een laagje riet en liep sterk in noordoostelijke richting op ( van - 0,13 m NAP tot + 0,59 m NAP ) . 
+Figuur 9 : Substructuur 4.8 , ingraving met kloostermoppen ( foto : VLAK , inv . 
+nr . 2002-001-14 ) . 
+16 1.101 - Basisverslag Uit één van de onderste dijklagen ( sp.288 ) kwamen verschillende scherven die een eerder verspoelde indruk gaven . 
+Op basis van dit aardewerk kan de aanvang van de herstelling van de dijk op het einde van de 13e eeuw of in het begin van de 14e eeuw gesitueerd worden . 
+Uit verschillende hoger gelegen ophogingspakketten ( bijvoorbeeld spoor 104 en 116 ) kwam gelijksoortig aardewerk . 
+Fase 7-11 De volgende vijf fasen werden onderscheiden op basis van nieuwe ingravingen in het dijklichaam , het oprichten van bouwwerken of het opbrengen van nieuwe dijklagen . 
+De fasen overspannen een periode van bijna drie eeuwen en omvatten zeven substructuren , waaronder de keermuur . 
+De bouwtechnische kenmerken en het historische kader van de keermuur zullen in een apart VLAK-verslag aan bod komen en worden hier verder niet behandeld . 
+De oudste structuren , 4.8 en 4.9 ( fase 7 ) werden ingegraven in de herstelde dijk . 
+Structuur 4.8 vormde een langwerpige ingraving opgevuld met kloostermoppen ( figuur 9 ) . 
+Naast aardewerk en kloostermoppen bevatte de kuil een grote zandsteenplaat en een fragment kalksteen . 
+Ten zuidwesten van deze ingraving werd een vergelijkbare concentratie aangesneden , spoor 12 ( figuur 10 ) . 
+Het aardewerk uit structuur 4.8 suggereerde aanvankelijk een datering in de 13e eeuw . 
+De stratigrafische positie van de kloostermoppen en de hoge ligging ( + 0,65 m NAP ) plaatsen de ingraving echter in de 14e eeuw . 
+De functie van structuur 4.8 blijft onduidelijk . 
+Mogelijk was dit een stortplaats voor afval afkomstig van de afbraak van een nabijgelegen gebouw of een looppad aangelegd over de dijk . 
+Een paalkuil , structuur 4.10 en een niet nader onderzochte waterput ( structuur 4.11 ) vertegenwoordigen fase 8.9 . 
+Een mestlaagje op de bodem van structuur 4.10 bevatte twee scherven ( Pingsdorf en Paffrath ) . 
+Deze vondsten waren te klein om als dateringsmiddel te dienen . 
+De recentste ophoging van de dijk ( fase 10 ) bestond uit een humeus zandig kleipakket waarin veel vondstmateriaal ( aardewerk , een handmolen en kloostermoppen ) werd aangetroffen . 
+De vondst van onder andere rood aardewerk en steengoed plaatste de ophoginglaag in de 14e eeuw . 
+In deze ophoging werden de eerste bakstenen fundamenten ingegraven , bijvoorbeeld structuur 4.13 en het muurwerk , spoor 306 . 
+Bij het ontgraven van werkput 2 werden op een hoog niveau drie forse palen ( ø 20 cm - 26 cm ) blootgelegd . 
+Hoewel ze moeilijk aan een bepaalde dijkfase toe te schrijven zijn , werden ze vermoedelijk in de viertiende eeuw in de dijk ingegraven . 
+Eén van deze palen ( sp.148 ) vertoont inkepingen , wat erop wijst dat dit secundair gebruikt hout is . 
+In de verspreiding van de palen is geen structuur te herkennen . 
+Mogelijk kunnen de palen in verband worden gebracht met bewoning , maar een andere functie valt niet uit te sluiten . 
+Figuur 10 : Ingraving met kloostermoppen , spoor 12 ( foto : VLAK , inv . 
+nr . 2001-024-08 ) . 
+17 VLAK-verslag 15.1 4.4.9 Structuur 5 De restanten van de dijksloot ( structuur 5 ) werden pas als zodanig herkend bij het verwijderen van de tussendam in de noordelijke werkput . 
+Hierdoor kon het oostprofiel over een lengte van 5,60 m getekend worden en werd de insteek van structuur 5 zichtbaar . 
+De oorspronkelijke interpretaties gingen in de richting van een droge sloot of zelfs een grote knekelkuil , daar er menselijk botmateriaal op de bodem van de structuur gevonden werd . 
+De hypothese van knekelkuil kon echter al snel verworpen worden . 
+De aanwezigheid van menselijke beenderen kon immers verklaard worden door het feit dat bij het graven van de gracht de bovenste laag van het 11e-eeuwse grafveld verstoord werd . 
+Een eerste vluchtige blik op de macrobotanische resten uit de gracht wijst in de richting van een structuur die minstens een gedeelte van de tijd onder water heeft gestaan . 
+Bij de aanleg van de dijk op het einde van de 12e eeuw , werd hoogst waarschijnlijk ook een dijksloot aangelegd . 
+Deze diende immers voor het ontwateren van het dijklichaam . 
+Mogelijk kan structuur 5 als zodanig geïnterpreteerd worden . 
+Het aardewerk uit de vulling van de gracht plaatst het gebruik van deze structuur in de 13e eeuw . 
+Mogelijk werden de oudste vullagen van de gracht vergraven in latere fasen . 
+Op basis van de opvulling konden nog vijf fasen onderscheiden worden . 
+Deze werden , zover mogelijk , verbonden met de hierboven beschreven dijkfasen ( structuur 4 ) . 
+De samenhang tussen de dijkfasen en de fasen van de gracht komt kort aan bod in het overzicht van de onderscheiden periodisering . 
+Fase 1 De eerste insteek ( sp.557 ) van structuur 5 die opgetekend kon worden , werd aangetroffen op + 0,75 m NAP . 
+Dit betekende dat op het moment dat deze fase van de gracht ingegraven werd , al een dijkophoging ( fase 1 ) plaatsgevonden had . 
+Structuur 5 was in deze eerste fase maximaal 1 m diep . 
+De breedte kon niet met zekerheid gereconstrueerd worden , daar de structuur niet volledig in het vlak of het profiel aangesneden werd . 
+Zeker is dat deze meer dan 3 m breed was . 
+De opvulling van de gracht bestond uit een vet kleipakket op de bodem ( sp.451 ) en een zeer humeuze kleilaag ( sp.355 ) met veel houtsnippers , stro en humeuze brokken daarboven . 
+Het aardewerk dat werd aangetroffen in de humeuze kleilaag maakte een datering in de eerste helft van de 13e eeuw mogelijk . 
+Fase 2 De tweede grachtfase bestond uit een vette humeuze klei ( sp.365 ) met houtsnippers , houtskool en leisteengruis . 
+In het meest noordelijke profiel ( bijlage 9 ) werd de opvulling van fase 2 aangetroffen op een maximale diepte van - 0,04 m NAP . 
+Dit profiel toont aan dat deze tweede opvulling ontstond nadat een gedeelte van de grachtvulling , afgezet in fase 1 , verwijderd was . 
+Dat bij het graven van deze tweede fase de oudste vulling en mogelijk zelfs een gedeelte van het grafveld verspit raakte , werd mede bevestigd door het vondstmateriaal . 
+Naast duidelijk 13e-/14e- eeuws aardewerk werd ook een aanzienlijke hoeveelheid , vermoedelijk 12e-eeuws , Pingsdorf verzameld . 
+Fase 3 Op een gegeven moment lijkt de gracht aangeplempt te zijn met een zeer compact en humeus kleipakket . 
+Dit pakket lag gedeeltelijk in de gracht en dekte de insteken uit de twee eerste fasen af . 
+Mogelijk gebeurde dit in de periode waarin het dijklichaam weggeslagen werd ( fase 5 van de dijk ) . 
+Fase 4 en 5 Bij de heraanleg van de dijk werd vermoedelijk ook de gracht in ere hersteld . 
+Een nieuwe insteek en enkele compacte humeuze vullingslagen ( fase 4 ) lijken dit te bevestigen . 
+De bodem van de gracht bevond zich nu op + 0,12 m NAP . 
+Uiteindelijk kwam de gracht echter in onbruik . 
+De homogene humeuze en zandige kleipakketten ( sp.353 , 352 , 351 ) wijzen in de richting van een langzaam , natuurlijk dichtslibben van structuur 5 . 
+18 1.101 - Basisverslag 4.4.10 Periodisering De onderscheiden structuren en bijbehorende substructuren kunnen in vijf periodes worden ondergebracht ( bijlage 15 ) . 
+Periode 1 Alle restanten en sporen die te plaatsen zijn in de Romeinse Tijd of vroeger , werden ondergebracht in periode 1 . 
+In deze periode werden geen structuren onderscheiden . 
+De enige aanwijzingen voor menselijke aanwezigheid in de omgeving zijn de scherven IJzertijd/ Inheems-Romeins aardewerk op de flanken van de oeverwal . 
+Periode 2 Periode 2 omvat het einde van de 9e eeuw tot en met de 10e eeuw . 
+Tot deze periode behoren onder andere de kleilagen afgezet voor 1000 AD , dus voor de uitbreiding van het grafveld op het onderzoeksterrein . 
+In periode 2 wordt het onderzoeksterrein voor de eerste maal in gebruik genomen . 
+Tussen 891 en 933 wordt een kuil ( spoorgroep 16 ) ingegraven die binnen genoemd tijdsbestek doorsneden werd door een greppeltje met vlechtwerk ( spoorgroep 66 ) . 
+Opvallend is dat de oriëntatie van deze greppel niet correspondeert met de latere ruimtelijke indeling van het terrein . 
+Rond 933 wordt het terrein doorsneden door een waterloop ( structuur 1 , fase 1 ) . 
+Aan het einde van de tiende eeuw ( tussen 975-1000 AD ) wordt op ongeveer dezelfde locatie opnieuw een waterloop ingegraven ( structuur 1 , fase 2 of 1b ) . 
+Deze waterpartij blijft tot in het begin van de elfde eeuw in gebruik ( uiterlijk tot circa 1027 AD ) , dus nog tot in periode 3 . 
+Daarmee is structuur 1b dus deels gelijktijdig met de oudste fase van het grafveld ( structuur 2 ) functioneel . 
+Periode 3 Structuur 2 is ondergebracht in periode 3 . 
+Deze korte periode strekt zich uit van circa 1000 - 1050 AD . 
+Voor de geschematiseerde vlaktekeningen werd onderscheid gemaakt tussen de twee uitbreidingsfasen van het grafveld ( periode 3a en 3b ) . 
+In het eerste kwart van de 11e eeuw was het terrein ten zuiden van het grafveld vermoedelijk bewoond . 
+Spoor 256 , een grote kuil , is hier een aanwijzing voor en kan tot periode 3a gerekend worden . 
+Op basis van de stratigrafie behoort de oudste terpfase tot periode 3b . 
+Periode 4 De tweede en derde fase van structuur 3 behoren tot periode 4 . 
+Deze twee terpfasen ontstonden tussen 1050 en de tweede helft van de 12e eeuw . 
+Periode 5 De structuren die te dateren zijn tussen 1170 en de Moderne Tijd , behoren tot periode 5 . 
+Dit betekent dat zowel structuur 4 als 5 volledig tot deze periode gerekend kunnen worden . 
+De verschillende fasen van de gracht kunnen met enige zekerheid in verband gebracht worden met de fasen van de dijk . 
+Om het overzicht te bewaren werd periode 5 onderverdeeld in verschillende subperiodes . 
+Rond 1170 werden de eerste dijklagen opgebracht ( periode 5a ) . 
+De eerste fase van structuur 5 valt iets later te situeren , namelijk in periode 5c . 
+Het is onduidelijk of dit de oudste fase van de gracht is of dat structuur 5 al eerder in gebruik was . 
+Op het einde van de 13e - begin 14 eeuw ( periode 5e ) werd een groot gedeelte van het dijklichaam weggeslagen . 
+Eveneens in periode 5e lijkt de gracht gedeeltelijk gedempt . 
+Vermoedelijk werden in de 16e - 17e eeuw de eerste stenen gebouwen op deze locatie opgetrokken . 
+19 VLAK-verslag 15.1 5 Beantwoording vraagstellingen IJzertijd en Romeinse Tijd - Zijn er sporen en vondsten die dateren uit de IJzertijd en/of Romeinse Tijd ? 
+- Zo ja , wat is de aard van het complex ? 
+Op het onderzoeksterrein is een dunne afvallaag ( spoor 418 ) op de flank van de oeverwal aangetroffen , met daarin scherven die dateren uit de IJzertijd/ Romeinse Tijd . 
+Deze laag wijst op bewoning in de directe omgeving . 
+Over de aard van deze bewoning kan verder niets gezegd worden . 
+Opvallend is wel dat de weinige scherven ( 4 ) die aangetroffen zijn , van inheems-Romeinse herkomst zijn . 
+Dit wijst of op bewoning in de Late IJzertijd of in de vroeg-Romeinse Tijd . 
+Middeleeuwen - Klopt het model zoals geschetst door Hoek voor het vroegmiddeleeuwse Vlaardingen ? 
+- Heeft hier ter plaatse een deel van het vroegmiddeleeuwse Vlaardingen gelegen en is dat ten dele verspoeld ? 
+Het onderzoek heeft aangetoond dat het model van Hoek voor het vroegmiddeleeuwse Vlaardingen niet correct is . 
+De onderzoekslocatie sneed immers niet het centrum van de oude , vroegmiddeleeuwse begraafplaats aan , maar enkel de rand . 
+Dit wijst erop dat de begraafplaats toch meer noordelijk gelegen moet hebben . 
+De oudste activiteiten op de locatie gaan terug tot het einde van de 9e eeuw en wijzen op een niet- intensief gebruik van dit deel van de nederzetting . 
+Er is geen enkele aanwijzing dat de vroegmiddeleeuwse nederzetting ter hoogte van de onderzoekslocatie en ten zuiden ervan heeft doorgelopen . 
+Begraafplaats - Heeft op de onderzoekslocatie een begraafplaats gelegen ? 
+Zo ja , wat was de gebruiksduur ? 
+Zoals hierboven al is aangegeven is net de rand van de middeleeuwse begraafplaats aangetroffen bij het onderzoek . 
+Deze rand betreft een uitbreiding van de oudere begraafplaats in zuidelijke richting , die te situeren is rond 1000 AD . 
+Deze zone van het grafveld was tot circa 1050 AD in gebruik . 
+Dijk - Sluit de dijk aan op de kerkheuvel ? 
+- Wanneer is deze dijk aangelegd ? 
+- Welke bouwfasen zijn er vast te stellen ? 
+- Zijn de afspoelingen die zich voordeden in de 13e en de 14e eeuw archeologisch terug te vinden ? 
+- Zijn er sporen van herstel zichtbaar en waaruit bestaan die ? 
+- Is de dijkmuur uit 1459 aanwezig ? 
+Zijn er reparaties aantoonbaar ? 
+Het onderzoek heeft de ligging van de dijk aangetoond . 
+De oudste fase is tussen 1170 en 1180 aangelegd . 
+Het eerste dijkje was slechts vijftig cm hoog en sloot ter hoogte van de onderzoekslocatie aan bij de kerkheuvel . 
+Het terplichaam was in deze periode nog hoger gelegen . 
+De dijklagen vertonen naar het westen toe een oplopende trend om aansluiting te vinden bij de kerkheuvel . 
+De dijk kent vele bouwfasen , met name vanaf de 14e eeuw neemt het aantal ophogingslagen en herstellingen snel toe . 
+Archeologisch kon worden vastgesteld dat een groot gedeelte van de dijk rond 1300 werd weggeslagen . 
+Het herstel blijkt niet alleen uit de ophogingslagen , maar ook uit de dikke rietpakketten die zijn opgebracht en een vlechtwerk ( horde ) uit het einde van de 13e eeuw die in de dijk is aangetroffen . 
+Bij het onderzoek kon ook voor het eerst de dijkmuur uit 1459 goed worden onderzocht . 
+Bebouwing - Wat is de oudst aantoonbare middeleeuwse bebouwing binnen de onderzoekslocatie ? 
+- Zijn er bewoningshiaten aan te wijzen ? 
+De oudste , aantoonbare menselijke activiteiten op het terrein gaan terug tot het einde van de 9e eeuw . 
+In die periode wordt een kuil aangelegd die doorsneden wordt door een greppel met vlechtwerk . 
+Opvallend is dat de richting van deze greppel met vlechtwerk geen relatie heeft met de latere ruimtelijke indeling van het onderzoeksterrein . 
+Gezien het ontbreken van nederzettingsafval liggen deze sporen niet temidden van een nederzetting . 
+Ook als rond 933 een waterloop het gebied doorsnijdt , ontbreken er bewoningssporen . 
+Pas aan 20 1.101 - Basisverslag het begin van de elfde eeuw , als de begraafplaats in zuidelijke richting wordt uitgebreid , wordt in de waterloop ( structuur 1 , fase 2 of 1b ) veel aardewerk aangetroffen wat vermoedelijk wijst op bewoning ten zuiden van de begraafplaats . 
+Tevens is een grote kuil aangesneden ten zuiden van de begraafplaats . 
+Opvallend is echter dat in deze kuil geen nederzettingsafval is gevonden . 
+Deze oudste bewoningsfase lijkt samen te vallen met de oudste uitbreidingsfase van het grafveld ( 1000-1027 AD ) . 
+Rond het tweede kwart van de 11e eeuw doen de eerste terpophogingen zich voor . 
+Opvallend is dat deze lagen betrekkelijk weinig aardewerk bevatten en dus niet lijken te wijzen op bewoning ter plaatse . 
+Twee vlechtwerkwandjes en een kuil wijzen wel op andere activiteiten op deze locatie . 
+Met de aanleg van de dijk tussen 1170 en 1180 wordt het terrein langzamerhand voor andere doeleinden gebruikt . 
+In de oudste lagen is nog weinig nederzettingsafval aanwezig , maar in de dertiende eeuw neemt het nederzettingafval in de dijk sterk toe . 
+Theoretisch gezien kan het afval in de kuilen en lagen nog verplaatst nederzettingsafval betreffen . 
+Deze verklaring lijkt echter niet aannemelijk voor het vele afval dat is aangetroffen in de gracht , die aan de binnenzijde van de dijk heeft gelegen . 
+De datering van de oudste fase van de gracht ligt in het begin van de dertiende eeuw . 
+Vanaf die tijd zal in de directe nabijheid van de onderzoekslocatie bewoning zijn geweest . 
+De drie forse palen die in de dijklagen zijn aangetroffen en vermoedelijk dateren uit de 14e eeuw kunnen mogelijk met bewoning in verband worden gebracht . 
+Structuren die samenhangen met bewoning doen zich echter pas in de 16e/17e eeuw voor , in de vorm van muurwerken . 
+Kerk - Heeft er ter plaatse een kerk gestaan ? 
+Sporen van een kerk zijn op de locatie ‘ Gat in de Markt ’ niet aangetroffen . 
+Bovendien blijkt uit het onderzoek dat het model van Hoek niet correct is . 
+Een situering van de oudste kerk langs de Bredesteeg ( waarvan ten westen het Willibrordushuisje gezocht moet worden ) is daarmee onaannemelijk . 
+Een ligging van de vroegmiddeleeuwse kerk op de onderzoekslocatie is uit te sluiten . 
+Daar het Willibrordushuisje niet als oudste kerk geïdentificeerd kan worden , moet deze een andere functie hebben gehad . 
+Een mogelijkheid zou bijvoorbeeld een pastoriewoning kunnen zijn of een kleine kapel . 
+21 VLAK-verslag 15.1 6 Synthese In deze paragraaf zullen de conclusies in verband met de historische en archeologische gegevens in een bredere context worden besproken voor de periode van de 9e tot en met de 12e eeuw . 
+Tevens worden er enkele hypothesen geformuleerd , die in hoofdstuk 7 worden samengevat . 
+Op basis van specialistisch onderzoek is het wellicht mogelijk om later een aantal hypothesen te toetsen , waarna deze mogelijk deels herschreven of aangevuld kunnen worden . 
+Het model van Hoek voor het vroegmiddeleeuwse Vlaardingen , blijkt op basis van het onderzoek op de locatie ‘ Gat in de Markt ’ , niet te kloppen . 
+Voor het vroegmiddeleeuwse Vlaardingen kan een nieuw model worden vervaardigd ( zie figuur 11 ) 43 . 
+Dit model zal door toekomstig onderzoek nader getoetst moeten worden . 
+De resultaten van het onderzoek wijzen erop dat dit deel van de nederzetting enkele markante ontwikkelingen doormaakte op het vlak van ruimtelijke ordening . 
+De eerste spaarzame aanwijzingen voor menselijke activiteit dateren uit de periode 891-933 . 
+In deze periode wordt een kuil op de locatie ingegraven , die op een later moment door een greppel met vlechtwerk wordt doorsneden . 
+De oriëntatie van deze greppel met vlechtwerk staat geheel los van de latere ruimtelijke indeling . 
+Rond 933 bevindt zich in het zuidelijk deel van de onderzoekslocatie een circa 9 meter brede waterloop , waarvan onduidelijk is of deze een natuurlijke of een antropogene oorsprong heeft . 
+De gedachte ontstaat dat deze waterloop mogelijk in verbinding heeft gestaan met de Poeldijkse watering , die op latere historische kaarten tegen het centrum van Vlaarding doodloopt . 
+Het lijkt aannemelijk dat de Poeldijkse watering , voor de periode van de dijkaanleg , in directe verbinding heeft gestaan met de Vlaarding . 
+Ten zuiden van de onderzoekslocatie zijn er immers aanwijzingen gevonden voor een zeer ( enige tientallen meters ) brede waterloop . 
+Waarschijnlijk was deze vanaf de 11e eeuw in gebruik en bleef ze tot ver in de Late Middeleeuwen functioneel.44 Hiermee krijgt de hypothese vorm dat de waterloop , die op de onderzoekslocatie werd aangetroffen , rond 1000 in zuidelijke richting is verplaatst en aanzienlijk is verbreed . 
+Deze hypothese correspondeert echter niet met de aanvankelijke gedachte dat de waterloop ter plaatse rond 1000 opnieuw zou zijn uitgegraven ( aangeduid als structuur 1 , fase 2 ) . 
+Deze laatste waterloop ( ter onderscheid structuur 1b genoemd ) zou volgens de hypothese namelijk een nieuwe structuur zijn ( zie verderop ) . 
+De hypothese van twee aparte structuren verklaart in ieder geval wel waarom er ten zuiden van waterloop 1b aanwijzingen zijn voor bewoning . 
+De bewoning ligt in dit geval immers nog steeds ‘ veilig ’ ten noorden van de grote waterloop . 
+Op deze manier vormde de grote waterloop zeer waarschijnlijk de zuidgrens van de nederzetting Vlaardingen . 
+De vraag blijft evenwel wat de exacte functie van de zuidelijke waterloop is geweest . 
+Het is een zeer aantrekkelijk idee om een verband te zien met de tekst van Alpertus van Metz . 
+In de tekst met betrekking tot de slag bij Vlaardingen schrijft hij het volgende : “ Een ding was hun ( de Friezen , een verwijzing naar de Vlaardingers ) tot groot voordeel : rond de gehele vlakte hadden ze ‘ fossis ’ aangelegd , hetzij om zich te beschermen tegen het tij , dat bij volle maan altijd sterk opkomt , ofwel om vijanden de weg te versperren. ” Het is verleidelijk om deze beschrijving te betrekken op de grote waterloop die is aangetroffen op de onderzoekslocatie en de waarschijnlijk zuidelijker gelegen opvolger . 
+De ligging is immers ideaal om het teveel aan opgestuwd rivierwater op te vangen en om te leiden . 
+Daarnaast vormt de waterloop een goede verdediging voor het zuidelijke deel van de nederzettingsterp . 
+Opvallend is evenwel dat de aanlegdatum van de waterloop , zijnde aan het begin van de tiende eeuw , niet in verband kan worden gebracht met de aanwezigheid van de Westfriese graven . 
+Voor het mogelijke verdedigbare karakter moet daarom een andere reden gezocht worden . 
+Kan hier eventueel een verband gelegd worden met de verdediging tegen de Vikingen ? 
+Het is bekend dat aan het einde van de negende eeuw veel plaatsen beschermd werden tegen de Vikingaanvallen . 
+De waterloop lijkt echter pas rond 933 te zijn aangelegd en niet in de periode van de grote aanvallen . 
+De kuil , greppel en het vlechtwerk wijzen wel op activiteiten in de periode 891-933 . 
+Daarmee houden ze de mogelijkheid open dat er ook in deze vroege periode een begrenzing in de vorm van een waterloop zou kunnen zijn geweest . 
+Het ontbreken van archeologische restanten kan dan bijvoorbeeld verklaard worden doordat de oude versie rond 933 geheel vergraven is , of dat deze wat meer naar het zuiden lag . 
+Daarmee verkrijgen we een interessante hypothese die evenwel om een nadere toetsing vraagt : is aan het einde van de negende eeuw ten zuiden van Vlaardingen een waterloop aangelegd , die ( mede ) diende ter bescherming tegen de Vikingaanvallen ? 
+Een tweede belangrijke verandering in de ruimtelijke ordening doet zich eveneens rond 1000 voor . 
+Zoals vermeld wordt de waterloop in zuidelijke richting verplaatst , maar ook het grafveld krijgt een zuidelijke uitbreiding . 
+Ten zuiden van het grafveld legt men een nieuwe waterloop ( 1b ) aan . 
+Mogelijk heeft deze waterloop als begrenzing van het grafveld gefunctioneerd . 
+In dat geval mag verondersteld worden dat deze waterloop heeft doorgelopen rondom de gehele begraafplaats . 
+Deze veranderingen in de ruimtelijke ordening kunnen vermoedelijk in verband gebracht worden met de aanwezigheid van de Westfriese graven kort voor 1000 AD . 
+Uit de schenking van Arnulf ( 988-993 ) bleek al dat hij de kerk en de begraafplaats als zijn eigendom beschouwde . 
+22 1.101 - Basisverslag Figuur 11 : Reconstructie van de nederzetting Vlaardingen volgens De Ridder ( bron : De Ridder 2002 ) . 
+23 VLAK-verslag 15.1 Het ligt dus voor de hand dat er rondom de kerk diverse grafelijke gebouwen verrezen . 
+Misschien mogen we zelfs ergens rond de kerk de grafelijke burcht situeren . 
+De meest strategische plaats zou ten ( zuid ) westen van de kerk zijn . 
+De grafelijke burcht zou daarmee controle voeren over de Vlaarding en de waterloop die langs de zuidzijde van de nederzetting verondersteld wordt . 
+Tevens beschermde het zo optimaal de nederzetting en de noordelijker gelegen haven . 
+Een gedetailleerde analyse van de teksten van Alpertus van Metz doet vermoeden dat de nederzetting en burcht van Dirk III inderdaad zeer dicht bij elkaar lagen.45 Een derde markante verandering doet zich voor rond 1050 AD , als de uitgebreide begraafplaats weer buiten werking raakt . 
+Deze verandering valt samen met de woelige jaren 1046-1049 , die zich rondom de grafelijke burcht afspelen en waarbij de burcht tot driemaal toe wordt ingenomen . 
+Hoe we het in onbruik raken van de begraafplaats moeten zien in het licht van de historische gebeurtenissen , kunnen we niet bepalen . 
+Mogelijk vonden er belangrijke veranderingen plaats om het defensieve karakter van de nederzetting te kunnen versterken . 
+De inname van de burcht laat immers zien dat de verdediging niet meer voldeed . 
+Interessant is dat in 1076 wordt gesproken van het “ castrum Flardengis ” , hetgeen erop wijst dat de nederzetting een verdediging kende met daarbinnen vermoedelijk een versterking . 
+Het lijkt alsof de grafelijke burcht met de nederzetting is versmolten en dat sinds de periode van 1046-1049 de nederzetting een sterker defensief karakter heeft gekregen . 
+De gedachte dat deze zuidelijke zone van de nederzetting gereserveerd is voor defensieve doeleinden , wordt versterkt door het ontbreken van enige bewijs voor bewoning in de 11e en 12e eeuw . 
+Tot aan het einde van de 12e eeuw zijn er bovendien geen archeologische aanwijzingen meer voor veranderingen in de ruimtelijke ordening . 
+Dit strookt ook met het zwijgen van de historische bronnen na 1076 over Vlaardingen . 
+Pas aan het einde van de 12e eeuw , rond 1170 , treedt er een belangrijke verandering op met de aanleg van de dijk . 
+Het is vermoedelijk geen toeval , dat deze precies op de plaats komt te liggen waar al sinds de 10e eeuw de zuidgrens van de nederzetting Vlaardingen is gelegen . 
+De vraag is dan ook of de dijk hier enkel een waterkerende functie heeft gehad , of mogelijk ook ter verdediging diende . 
+Opvallend is dat aan het begin van de dertiende eeuw in de marktheuvel een nieuwe waterpartij wordt aangelegd . 
+Het vondstmateriaal toont aan dat de gracht tot het begin van de veertiende eeuw open heeft gelegen . 
+De waterloop lag aan de binnenzijde van de dijk en functioneerde mogelijk als ( brede ) dijksloot . 
+Ook elders zijn vergelijkbare voorbeelden aangetroffen . 
+Het is echter ook denkbaar dat deze brede en met afval gevulde waterpartij de begrenzing heeft gevormd van een woonareaal . 
+Deze bewoning zou dan eventueel in verband kunnen worden gebracht met de hypothese van grafelijke hofsteden in deze omgeving . 
+Hierbij wordt gesteld dat rond de kerk , aan het begin van de veertiende eeuw , grafelijke hofsteden hebben gelegen . 
+Eén daarvan zou op dat moment bewoond zijn door een zekere “ te Gelre ” .46 De naam doet vermoeden dat de persoon van adellijke herkomst is . 
+Als de nieuwe waterpartij inderdaad in verband kan worden gebracht met een hofstede , wijst dit op bewoners met aanzienlijke status . 
+Misschien dat het kloostermopmateriaal dat in de dijk is aangetroffen , samenhangt met de sloop van een dergelijk stenen gebouw in de veertiende eeuw . 
+24 1.101 - Basisverslag 7 Nieuwe hypothesen en vraagstellingen voor toekomstig onderzoek Het archeologische onderzoek op de locatie Gat in de Markt heeft enkele nieuwe hypothesen opgeleverd die door middel van verder onderzoek getoetst moeten worden . 
+Ter hoogte van de Zomerstraat kan een tientallen meters brede waterloop worden verondersteld die : - in verbinding heeft gestaan met de Poeldijkse watering en de Vlaarding ; - de opvolger is van de 9 meter brede waterloop ( structuur 1 , fase 1 ) die op de onderzoekslocatie is aangetroffen . 
+Kan deze waterloop mogelijk reeds een verdedigende functie hebben gehad aan het einde van de 9e eeuw tegen de Vikingen ? 
+Deze waterloop en de opvolgers , vormde tot ver in de Middeleeuwen de zuidgrens van de nederzetting Vlaardingen . 
+De veranderingen in de ruimtelijke ordening rond 1000 AD is te relateren aan grafelijke bouwactiviteiten rondom de kerk . 
+De grafelijke burcht van Dirk III heeft ten ( zuid ) westen van de kerk gelegen . 
+De waterloop die net ten zuiden van de begraafplaats is aangetroffen , heeft mogelijk rondom de begraafplaats doorgelopen . 
+In het tweede kwart van de 11e eeuw werd , ter hoogte van de kerkheuvel , een aanvang genomen met het ophogen van de terp . 
+De veranderingen die zich in de ruimtelijke ordening rond 1050 voordoen , hebben te maken met een verdere versterking van de nederzetting tot het “ Castrum Flardengis ” . 
+De oudste fase van de dijk kan op archeologische gronden tussen 1170 en 1180 worden geplaatst . 
+In de omgeving van de onderzoekslocatie sloot de oudste fase van de dijk aan op de kerkheuvel . 
+Hoever lopen de dijk en de keermuur nog door in westelijke richting ? 
+Is de reconstructie van Hoek voor de keermuur correct ? 
+Vanaf circa 1300 krijgt de dijk veel te leiden van afslag , hetgeen wijst op het verder oprukken van de Maas . 
+De waterpartij de in de 13e eeuw aan de binnenzijde van de dijk heeft gelegen , kan ofwel worden gezien als een ‘ dijksloot ’ of als begrenzing van een woning met een zeer hoge status . 
+Daarmee samenhangend zouden de kloostermoppen in de dijk afkomstig kunnen zijn van de sloop van dit stenen gebouw in de 14e eeuw . 
+De Hofsteden , waarvan melding gemaakt wordt in de historische bronnen , liggen ten westen van de opgravingslocatie . 
+Waar moet de woonstede ‘ te Ghelre ’ gesitueerd worden ? 
+Vormt structuur 5 de begrenzing van dit woonareaal ? 
+25 VLAK-verslag 15.1 Dankwoord Bij het project waren veel mensen betrokken die ieder een bijdrage hebben geleverd aan het onderzoek . 
+Een woord van dank gaat uit naar het aannemingsbedrijf van der Lugt en in het bijzonder naar Rob van Leeuwen voor zijn bijdrage aan het vlotte verloop van het archeologisch onderzoek . 
+De dienst Geo-Informatie van de Gemeente Vlaardingen zorgde voor het inmeten van onze meetpunten en enkele structuren zoals de keermuur . 
+We danken de archeologische dienst Nijmegen voor het ter beschikking stellen van een zeefinstallatie , zodat een gedeeltelijke verwerking ter plaatse mogelijk werd . 
+Daarnaast wil het VLAK de talrijke vrijwilligers bedanken voor hun enthousiaste inzet . 
+26 1.101 - Basisverslag Eindnoten De Ridder 2002 . 
+Brinkkemper en De Ridder 2002 . 
+3 Henderikx 1987 , p. 46 . 
+4 De Ridder 2004 , p. 6-7 . 
+5 Henderikx 1997 , p. 112 . 
+6 Henderikx 1987 , p. 87 : vermelding als Flardinghe en Flardinga . 
+In de lijst van Echternach ( eerste helft elfde eeuw ) als Flerethinga ( Hoek 1973 , p. 119 ) . 
+7 Henderikx 1997 , p. 116 en noot 62 . 
+8 Bron : Thietmarus Chronicon , zie : Poelman 1910 en Hulshof 1916 , XXXVI . 
+9 De Boer en Cordfunke 1995 , p. 23 . 
+10 Poelman , 1910 , p. 362 . 
+11 Hoek 1973B . 
+12 Defilet en De Ridder 2001 . 
+13 Van Rij 1980 . 
+14 De Graaf 1996 , p. 97 . 
+15 Nieuwenhuijsen 2004 . 
+16 1046 ( De Graaf 1996 , p. 103 ) ; 1047 ( Henderikx 1997 , p. 121 ) ; 1049 ( Henderikx 1997 , p. 121-122 ) . 
+17 De Boer en Cordfunke , 1995 , p. 33 18 Henderikx 1997 , p. 123 . 
+19 Impe 2000 . 
+20 Jacobi 1997 , p. 286 . 
+21 De Ridder 2000 , p. 37 . 
+22 De Ridder en Struijs 2002 . 
+23 Citaat in Winsemius 1966 , p. 65-67 : “ Ende oock noch te houden hebben , 15 roeden steenen dyxc , daer men gheen laste mede plach te hebben , daer zij gheen lant toe en hebben , wantet noch veel luyden heugen dattet al landt was voor desen voorsr dijck , want die straten ende huysen van der voorscr stede al meest daer stonden , als men wel bevonden heeft ende noch wel bevindt an die dooden , daer hiervoortijts begraven zijn in uytgehouden boomen , ende dat nu al tsamen metten water vergaen is , zoedat alsnu grooten last hebben mitten voorscr dijck , als die heemraden wel weten , want de slach van den water aldaer zoe groot es , datter er wel 6 roeden steenen muyers gestort is ... ... ” . 
+24 Postma 1989 , p. 223 . 
+25 Winsemius 1966 , p. 60 , DA 22 folio 102 . 
+26 Winsemius 1966 p. 60 , DA folio 131 . 
+27 Winsemius 1966 , p. 60 . 
+28 Ridder en Struijs 2002 , p. 31 . 
+29 Winsemius 1966 , p. 61 . 
+30 Van Nievelt 1772 , p. XXX ; De Ridder 2002 . 
+31 De Ridder 2002 , p. 44 . 
+32 Hoek 1973A , p. 129 . 
+33 Hoek 1973A , p. 128 : commentaar De Ridder : beide argumenten lijken hetzelfde te beweren . 
+34 Struijs 1998 , p. 57 . 
+35 Ridder en Struijs 2002 . 
+36 Struijs 1998 , p. 57 . 
+37 De dendrochronologische analyses werden uitgevoerd door het Nederlands Centrum voor Dendrochronologie . 
+38 De 14C- monsters werden geanalyseerd door Het Centrum voor Isotopen Onderzoek , Rijksuniversiteit Groningen en door het R.J . 
+Van de Graaff laboratorium van de Universiteit Utrecht . 
+39 De hoogste NAP-waarde betreffende de top van de oeverwal is tot op heden op het Kolpabadterrein aangetroffen en bedraagt circa - 0,70/ 0,80 m NAP ( Defilet en De Ridder 2002 ) . 
+40 Bijvoorbeeld de vindplaatsen : Hoogstad ( VLAK-code 06.036 ) , ‘ d Engelsche Boomgaert ( VLAK-code 06.123 ) , Hogewerf ( VLAK-code 01.006 ) , Van Schravendijkplein ( VLAK-code 01.090 ) en Oude Haven ( VLAK-code 01.088 ) . 
+41 Mittendorff 2004 , p. 8 . 
+42 Vredenbregt en De Ridder 2004 . 
+43 De Ridder 2002 . 
+44 Defilet en De Ridder 2005 . 
+45 De Ridder in voorbereiding . 
+46 De Ridder en Struijs 2002 , p. 32 . 
+1 2 27 VLAK-verslag 15.1 Literatuur Boer , D.E.H . 
+en E.H.P . 
+Cordfunke , 1995 : Graven van Holland . 
+Portretten in woord en beeld ( 880-1580 ) . 
+Zupthen . 
+Brinkkemper , O. en T. de Ridder , 2003 : Van Schravendijkplein 1.90 . 
+Het botanische onderzoek . 
+Een pollencurve uit de Romeinse Tijd en een vlijlaag uit een grafelijke gracht . 
+VLAK-verslag 5.2 . 
+Brugge , ter , J.P , 1992A : De opgraving ‘ Hogewerf ’ te Vlaardingen . 
+In : Terra Nigra 124 , p. 4-6 . 
+Brugge , ter , J.P. , 1992B : Ad Flaridingun . 
+Een onderzoek naar de middeleeuwse ontginningsgeschiedenis van Vlaardingen . 
+Afstudeerscriptie . 
+Leiden . 
+Defilet , M.P. , en T. de Ridder , 2001 : Grafelijk hof te Vlaardingen kort na 985 aangelegd . 
+Datering oudste hof van Holland door 14C-datering bevestigd . 
+In : Terra Nigra 150 , p. 50-54 . 
+Defilet , M.P. , en T. de Ridder , 2002 : ‘ d ’ Engelsche Boomgaert ’ . 
+Basisverslag 6.123 . 
+VLAK-verslag 4.1 . 
+Defilet , M.P. , en T. de Ridder , 2004 : Van Schravendijkplein 1.090 . 
+Basisverslag . 
+VLAK-verslag 5.1 . 
+Defilet , M.P. , en T. de Ridder , 2005 : Vettenoordsepolder . 
+Bureauonderzoeken 14 . 
+Enklaar , D. Th , 1924 : De verovering van het Merwede-gebied door graaf Dirk III in 1018 . 
+In Tijdschrift voor geschiedenis , jaargang 39 , p. 1-24 , p. 189-104 . 
+Graaf , R.P. , de , 1996 : Oorlog om Holland . 
+1000-1375 . 
+Hilversum . 
+Halbertsma , H. 2000 : Frieslands oudheid . 
+Het rijk van de Friese koningen , opkomst en ondergang . 
+Utrecht . 
+Heinsbroek , P. , 2004 : De slag bij Vlaardingen ( 1018 ) . 
+In : Terra Nigra 159 , p. 8-21 . 
+Henderikx , P.A. , 1987 : De beneden-delta van Rijn en Maas . 
+Landschap en bewoning van de Romeinse tijd tot ca . 
+1000 . 
+Hollandse Studiën . 
+Hendrikx , J.A. , 1997 : De bisschop van Utrecht en het Maas-Merwedegebied in de 11e en de 12e eeuw . 
+In : De kerk en de Nederlanden . 
+Archieven , instellingen samenleving . 
+Henderikx , J.A. , 1998 : De ontginning van Nederland . 
+Het ontstaan van de agrarische cultuurlandschappen in Nederland . 
+Utrecht . 
+Hoek , C. , 1973A : De Middeleeuwen . 
+In : T. Vos-Dahmen von Buchholz ( red . 
+) : Van steurvisser tot stedeling . 
+Hoek , C. , 1973B : De hof te Vlaardingen . 
+In : Holland , vijfde jaargang , nr . 2 , p. 57-91 . 
+Hulshof , A. , 1916 : Alperti Mettensis de diversitate temporum . 
+Impe , S. van , 2000 : Een bijdrage tot de stedelijke lexicografie . 
+Een terminologisch onderzoek aan de hand van diplomatische bronnen . 
+Scriptie voorgelegd aan de Faculteit Letteren en Wijsbegeerte , voor het behalen van de graad van Licentiaat in de Geschiedenis . 
+Academiejaar : 1999-2000 . 
+Universiteit Gent . 
+Jacobi , H.W. , 1997 : Muntvondsten uit het tracé van de Willemspoortunnel te Rotterdam . 
+In : BOOR-balans 3 , p. 279-298 . 
+Mittendorff , E. , 2004 : Kelders vol scherven . 
+Onderzoek naar keramiekcomplexen uit de 9e tot de 12e eeuw afkomstig uit de Polstraat te Deventer . 
+In : Rapportages Archeologie Deventer , nummer 13 . 
+Nievelt , M. , 1772 : Handvesten , octroyen , privilegiën en regten aan de stede Vlaardingen . 
+‘ s Gravenhage . 
+28 1.101 - Basisverslag Poelman , H.A. , 1910 : De verovering van het Merwede-gebied door graaf Dirk III . 
+In : BVGO , 4e reeks 8 , p. 349-372 . 
+Postma , C. , 1989 : Het hoogheemraadschap van Delfland in de middeleeuwen . 
+Hilversum . 
+Ridder , T. de , 2000 : Van donk tot stad . 
+Vlaardingen . 
+VLAK-overdruk 3 . 
+Ridder , T. de , en M. Struijs , 2002 : Bewoningsgeschiedenis van de locatie ‘ Gat in de Markt ’ . 
+In : Terra Nigra 154 , p.27-34 . 
+Ridder , T. de , 2002 : Waar ligt het oude Vlaardingen ? 
+Een nieuw model voor een oude stad . 
+In : Terra Nigra 155 , p. 36-53 . 
+Ridder , T. de , K. Vlierman , A.H.L . 
+Vredenbregt , 2004 : Vikingen in Vlaardingen . 
+De betekenis van de resten van gesloopte Vikingschepen in elfde-eeuwse Vlaardingse begravingen . 
+In : Westerheem , jaargang 53 , nr.4 , p.142-154 . 
+Ridder , T. de , 2004 : De burcht van Dirk III . 
+In : Tijdschrift 93 , september 2004 , p.11-15 . 
+Ridder , T. de , in voorbereiding : De slag bij Vlaardingen . 
+Analyse van de beschrijving van Alpertus van Metz . 
+Rij , H. van , 1980 : Alperus van Metz . 
+Gebeurtenissen van deze tijd . 
+Amsterdam . 
+Schut , P.A.C. , 2003 : ‘ De Montferlandsche berg , het sieraad der tusschen IJssel en Rijn gelegene landen ’ . 
+De motte Montferland ( gemeente Bergh ) en een overzicht van motteversterkingen in Gelderland . 
+In : Nederlands Archeologische Rapporten 24 . 
+Struijs , M.A. , 1998 : Willibrord in Vlaardingen . 
+In : Terra Nigra 143 , p. 49-60 . 
+Winsemius , J.P. , 1966 : Vlaardingen voorheen die quade porte . 
+( ongepubliceerd in collectie : stadsarchief Vlaardingen ) 29 VLAK-verslag 15.1 30 1.101 - Basisverslag Bijlagen Bijlage 1 Lijst van medewerkers . 
+Projectleiding Drs . T. de Ridder ( VLAK ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: gemeentelijk archeoloog VLAK- medewerkers Drs . G. van den Berg . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+J. van den Berg . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . P.C . 
+de Boer . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . M.P . 
+Defilet . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . Y. Eijskoot . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+E. van der Linden . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . R. Torremans . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . A-L. Vredenbregt . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: archeoloog : veldwerk , vondstverwerking : archeoloog : archeoloog : archeoloog , uitwerking keermuur : bewerken kaartmateriaal : archeoloog : gedeeltelijke verwerking Archeologen van buiten het VLAK Drs . R. van Genabeek ( BAAC ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . C. den Hartog ( BAAC ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . C. Van Loon ( Vriens Archeo Flex ) . 
+. 
+. 
+. 
+. 
+Drs . P. Nilson ( BAAC ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Drs . K. Spijker ( BAAC ) . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: advisering keermuur : archeoloog : uitwerking : archeoloog : archeoloog Heliniumleden/ vrijwilligers VLAK Drs J.P . 
+ter Brugge . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+J. van Dam . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+T. Dikstra . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+R. van Grevenhof . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+E. Groen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+P. Heinsbroek . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+G. Koning . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+G. van der Poel . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+A. Rosinga . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+J. Sla . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+A. Tolhuisen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+A. Uleman . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+H. van Wensveen . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+R. Wijk . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: veldwerk : veldwerk : veldwerk : veldwerk : fotografie : veldwerk : medewerker Visserijmuseum : veldwerk : veldwerk : veldwerk : veldwerk : veldwerk : veldwerk : veldwerk Graafmachinisten W. den Hollander . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: firma Poot J. Verkade . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: Verkagrond B.V. 31 VLAK-verslag 15.1 Bijlage 2 Overzicht werkputten en profielen . 
+83105 83110 83115 83120 8 7 28 13 11 30 15 435970 9 435970 14 12 Werkput 3 3 1a 435975 83100 435975 83095 5 435965 6 + 10 435965 9 . 
+7 4 16 6 1 435955 435955 ijk d e iss u l ass a M 435960 435960 Werkput 2 435950 4 435950 5 3 3 Werkput 1 8 435945 4 t aa r t rs e m Zo 2 435945 1 2 83095 Legenda 83100 83105 83110 Punten op de hoofdmeetlijnen : Profiel met nummer in de kijkrichting 1 : X=83092 , Y=435948 Grens werkput 3 : X=83111 , Y=435954 2 : X=83094 , Y=435944 4 : X=83114 , Y=435968 5 : X=83120 , Y=435969 6 : X=83116 , Y=435958 7 : X=83113 , Y=435975 8 : X=83118 , Y=435976 9 : X=83114 , Y=435972 32 83115 83120 Vlaardings Archeologisch Kantoor Postbus 1006 3130 EG Vlaardingen �������� ����������� Project : 01.101 Gat in de Markt Basisverslag Bijlage 2 : Locatie van de werkputten , profielen en meetpunten Getekend door : E. van der Linden December 2005 0 5m 1.101 - Basisverslag Bijlage 3 Sporenlijst . 
+spoor put 001 1 spoorgroep periode 45 5h structuur 4 fase aard spoor Bakstenen keermuur . 
+grondsoort 002 1 45 5h 4 Bakstenen steunbeer . 
+003 1 45 5h 4 Bakstenen steunbeer . 
+004 1 45 5h 4 Bakstenen steunbeer . 
+005 1 45 5h 4 Bakstenen steunbeer . 
+006 1 45 5h 4 Bakstenen steunbeer . 
+007 1 45 5h 4 Bakstenen steunbeer . 
+008 1 45 5h 4 Bakstenen steunbeer . 
+009 1 45 5h 4 Bakstenen steunbeer . 
+010 1 45 5h 4 Bakstenen steunbeer . 
+011 1 59 5 4 012 1 59 5g 4.8 013 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+014 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+015 1 59 5 4 Ophogingslaag dijk . 
+Vette klei + wat puin . 
+016 1 59 5 4 Ophogingslaag dijk . 
+Vette klei + wat puin . 
+017 1 59 5 4 Ophogingslaag dijk . 
+Vette klei + wat puin . 
+018 1 59 5 4 Ophogingslaag dijk . 
+Vette klei + puin + schelpjes . 
+019 1 59 5 4 Ophogingslaag dijk . 
+Vette klei + wat puin . 
+020 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+021 1 62 5 4 Muur . 
+022 1 59 5 4 Ophogingslaag dijk . 
+Licht zandige , humeuze klei . 
+023 1 59 5 4 Ophogingslaag dijk . 
+Klei . 
+024 1 59 5 4 Ophogingslaag dijk . 
+Klei met zand . 
+025 1 - 5 4 Ophoging ? 
+Zand . 
+026 1 59 5 4 Ophogingslaag dijk . 
+Zandige , humeuze klei . 
+027 1 59 5 4 Ophogingslaag dijk . 
+Zandige klei + puin . 
+028 1 59 5 4 Ophogingslaag dijk . 
+Klei met zand . 
+029 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+030 1 57 5 4 Ophogingslaag dijk . 
+Klei , plaggenachtig . 
+031 1 57 5 4 Ophogingslaag dijk . 
+Als sp.30 . 
+032 1 57 5 4 Ophogingslaag dijk . 
+Kluiterige klei . 
+033 1 57 5 4 Ophogingslaag dijk . 
+Als sp.32 . 
+034 1 57 5 4 Mestlaag . 
+Mestlaag +fijn puin , hout . 
+035 1 57 5 4 Ophogingslaag dijk . 
+Vette klei . 
+036 1 57 5 4 Ophogingslaag dijk . 
+Licht zandige , kluiterige klei . 
+037 1 54 5 4 Ophogingslaag dijk . 
+Klei + puin . 
+038 1 55 5 4 Bakstenen vloer . 
+039 1 55 5 4 Vlijlaag . 
+Zand . 
+040 1 61 5 4 Vulling . 
+Vette klei + mortel . 
+041 1 61 5 4 Uitbraaksleuf . 
+Kleiig zand + puin . 
+042 1 61 5 4 Uitbraaksleuf . 
+043 1 60 5 4 Ophogingslaag dijk . 
+Gelamineerde klei met zand . 
+044 1 60 5 4 Ophogingslaag dijk . 
+Vette klei . 
+045 1 57 5 4 Ophogingslaag dijk . 
+Klei + puin . 
+046 1 57 5 4 Ophogingslaag dijk . 
+Licht zandige klei + puin . 
+047 1 57 5 4 Ophogingslaag dijk . 
+Vette klei . 
+048 1 57 5 4 Ophogingslaag dijk . 
+Vette klei + puin + mosselen . 
+049 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+050 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+051 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+052 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+053 1 58 5 4 Ophogingslaag dijk . 
+Als sp.52 . 
+054 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+055 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+056 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+057 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+058 1 47 5 4 Vulling . 
+Vette klei . 
+059 1 47 5 4 Insteek + vulling . 
+Licht zandige , kluiterige klei + mortel . 
+060 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+061 1 57 5 4 Ophogingslaag dijk . 
+Licht zandige , humeuze klei + mortel . 
+Ophoging ? 
+7 Vette klei + puin . 
+Ingraving met kloostermoppen . 
+33 VLAK-verslag 15.1 spoor put 062 1 spoorgroep periode 57 5 structuur 4 fase aard spoor Ophogingslaag dijk . 
+Vette klei + zand . 
+063 1 57 5 4 Ophogingslaag dijk . 
+Vette , licht humeuze klei . 
+064 1 59 5 4 Ophogingslaag dijk . 
+Licht humeuze klei . 
+065 1 59 5 4 Ophogingslaag dijk . 
+Licht humeuze klei + plaggen ? 
++ puin . 
+066 1 59 5 4 Ophogingslaag dijk . 
+Kleiig zand + puin . 
+067 1 59 5 4 Ophogingslaag dijk . 
+Zandige klei + schelpen . 
+068 1 52 5 4 Insteek + vulling . 
+Vette klei + puin . 
+069 1 52 5 4 Vulling . 
+Klei + puin . 
+070 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+071 1 59 5 4 Ophogingslaag dijk . 
+Klei + wat puin . 
+072 1 59 5 4 Ophogingslaag dijk . 
+Gelamineerde zandige klei + schelpen + mortel . 
+073 1 59 5 4 Ophogingslaag dijk . 
+Zandige klei + zandinclusies . 
+074 1 59 5 4 Ophogingslaag dijk . 
+Zandige klei + zandinclusies + humeuze kluiten . 
+075 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+076 1 49 5 4 Insteek + vulling . 
+Vette klei . 
+077 1 58 5 4 Ophogingslaag dijk . 
+Vette klei . 
+078 1 46 5 4 Insteek . 
+Humeuze klei . 
+079 1 58 5 4 Ophogingslaag dijk . 
+Klei + plaggenstructuur . 
+080 1 58 5 4 Ophogingslaag dijk . 
+Klei + plaggenstructuur . 
+081 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+082 1 58 5 4 Ophogingslaag dijk . 
+Klei . 
+083 1 59 5 4 Ophogingslaag dijk . 
+Klei . 
+084 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+085 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+086 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+087 1 57 5 4 Ophogingslaag dijk . 
+Vette klei + wat puin . 
+088 1 57 5 4 Ophogingslaag dijk . 
+Vette klei + humeuze bandjes . 
+089 1 57 5 4 Ophogingslaag dijk . 
+Mestachtig . 
+090 1 57 5 4 Ophogingslaag dijk . 
+Vette klei + puin . 
+091 1 46 5 4 Insteek steunbeer 4 . 
+Klei + fijn puin . 
+092 2 38 5h 4 10 Ophogingslaag dijk . 
+Veraarde , humeuze laag . 
+093 2 - 5h 4 10 Ophogingslaag dijk . 
+Schoon zand . 
+094 2 38 5h 4 10 Zodenpakket . 
+Vette klei met humeuze banden . 
+095 2 38 5h 4 10 Ingraving ? 
+Humeuze klei . 
+096 2 38 5h 4 10 Ophogingslaag dijk . 
+097 2 38 5h 4 10 Ophogingslaag dijk . 
+Humeuze klei + puin . 
+098 2 38 5h 4 10 Ophogingslaag dijk . 
+Humeuze klei . 
+100 2 21 5g 4.9 7 Ingraving ? 
+Vulling . 
+Vette klei . 
+101 2 42 5g 4.8 7 Ingraving met kloostermoppen . 
+102 2 22 5d 4.6 4.2 Vulling sp.234 . 
+Mestlaag met kluiten . 
+103 2 40 5f 4 6 Ophogingslaag dijk . 
+Zand . 
+104 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette klei . 
+105 2 20 5d 4.6 Insteek + vulling . 
+Klei + puin . 
+106 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze klei . 
+107 2 21 5g 4.9 7 Vulling . 
+Humeuze klei . 
+108 2 22 5d 4.6 4.2 Vulling sp.234 . 
+Mestlaag met kluiten . 
+109 2 24 5c 4 Ophogingslaag dijk . 
+Samengekit riet . 
+110 2 22 5d 4.6 Vulling sp.234 . 
+Humeuze klei . 
+111 3 01 112 3 04 5f 5 5 Vulling . 
+Humeuze , zandige klei + humeuze brokken . 
+113 2 21 5g 4.9 7 Ingraving . 
+Zand . 
+114 2 24/ 27 ? 
+5 4 ? 
+- Humeuze laag met kluiten . 
+115 2 22 5d 4.6 Vulling sp.234 . 
+Mestlaag . 
+116 2 40 5f 4 6 Ophogingslaag dijk . 
+Zodenpakket . 
+117 2 24 5c 4 3 Ophogingslaag dijk . 
+Mestlaag/ samengekit riet . 
+118 3 04 5f 5 ? 
+Vulling . 
+Heel humeuze ( veraarde ) , zandige laag . 
+119 3 04 5f 5 ? 
+Vulling . 
+Zandige klei . 
+120 3 04 5f 5 ? 
+Vulling . 
+Als sp.118 . 
+121 2 - - Humeuze klei . 
+122 2 - - Humeuze klei . 
+123 2 - - Humeuze grofzandige klei . 
+124 2 - - Humeuze klei . 
+125 3 - Plaggenlaag . 
+4.3 3 4.2 grondsoort Verstoorde laag . 
+4.2 34 1.101 - Basisverslag spoor put 126 3 spoorgroep periode - 127 3 05 ? 
+128 3 01 129 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze klei . 
+130 2 40 5f 4 6 Ophogingslaag dijk . 
+Klei . 
+131 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.129 . 
+132 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.130 . 
+133 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.129 . 
+134 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.130 . 
+135 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.129 . 
+136 2 37 5h 4.13 11 Bakstenen fundering . 
+137 2 27 5a 4.2 1 Houten beplating . 
+138 2 24 5c 4 3 Rietplaggenlaag . 
+Rietplaggenlaag . 
+139 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze vette klei . 
+140 2 40 5f 4 6 Ophogingslaag dijk . 
+Zandige klei + riet . 
+141 2 24 5c 4 3 Rietplaggenlaag . 
+142 2 23 5d 4.6 4.1 Vulling sp.147 . 
+143 2 - 5h 4 11 Muur . 
+144 2 25 5f 4.7 6 Kuil . 
+Humeuze , zandige klei . 
+145 2 21 5g 4.9 7 Vulling . 
+Zand . 
+146 2 29 4a 3 2 Terplaag . 
+Humeuze , zandige klei + houtsnippers/ schelpen . 
+147 2 23 5d 4.6 148 2 43 5 ? 
+4 Insteek + vulling . 
+Humeuze , zandige klei . 
+149 2 - 5 ? 
+4 Rietlaag . 
+Rietlaag . 
+150 2 29 4a 3 2 Schepsteek . 
+151 2 26 5b 4.4 2 Vulling sp.245 . 
+152 2 - 153 2 29 4a 3 154 1 60 5 4 Ophogingslaag dijk . 
+155 1 60 5 4 Ophogingslaag dijk . 
+Humeuze klei . 
+156 1 60 5 4 Ophogingslaag dijk . 
+Vette klei . 
+157 1 60 5 4 Ophogingslaag dijk . 
+Vette klei . 
+158 1 60 5 4 Ophogingslaag dijk . 
+Klei . 
+159 1 60 5 4 Ophogingslaag dijk . 
+Vette klei . 
+160 1 60 5 4 Ophogingslaag dijk . 
+Vette klei . 
+161 1 60 5 4 Slooplaag . 
+Licht zandige klei . 
+162 1 60 5 4 Ophogingslaag dijk . 
+Zandige klei + fijn puin . 
+163 1 60 5 4 Ophogingslaag dijk . 
+Zandige klei . 
+164 1 60 5 4 Ophogingslaag dijk . 
+Zandige klei . 
+165 1 60 5 4 Ophogingslaag dijk . 
+Grofzandige klei + puin . 
+166 1 60 5 4 Ophogingslaag dijk . 
+Zandige klei . 
+167 2 23 5d 4.6 4.1 Vulling sp.147 . 
+Humeuze , zandige klei + houtsnippers . 
+168 2 23 5d 4.6 4.1 Vulling sp.147 . 
+169 2 23 5d 4.6 4.1 Insteek + vulling . 
+170 2 23 5d 4.6 4.1 Riet/ strolaag . 
+171 1 48 5 4 172 2 26 5b 4.4 2 Vulling sp.245 . 
+Vette klei . 
+173 2 29 3b/4a 3 - Terplaag . 
+Humeuze klei + mosselschelpen . 
+174 2 27 5a 4.1 1 Houten constructie . 
+175 2 70 4a 3.1 2 Vlechtwerk . 
+176 1 55 5h 4 11 Muur . 
+177 1 62 5h 4 11 Vloer . 
+178 2 40 5f 4 6 Trekbalkconstructie . 
+179 2 69 4a 3.1 2 Vlechtwerk . 
+180 2 - 5 ? 
+4 181 2 - 5 ? 
+4 Ophogingslaag . 
+Zandige klei + riet . 
+182 1 48 5h 4 11 Vulling sp.171 . 
+Humeus zand . 
+183 2 39 5h 4.12 9 Ingraving . 
+Grofzandige klei . 
+184 2 40 5f 4 6 Ophogingslaag dijk . 
+Zandige klei + schelpfragmenten . 
+185 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze klei . 
+186 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette , wat humeuze klei . 
+187 2 38 5h 4 10 Ophogingslaag dijk . 
+Zand + puin . 
+188 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze , grofzandige klei . 
+5e structuur 5 fase aard spoor 3 grondsoort - Humeuze , zandige klei . 
+Vulling . 
+Humeuze , zandige klei . 
+Recente verstoring . 
+4.1 Humeuze , zandige klei + houtsnippers . 
+Insteek + vulling . 
+Humeuze klei . 
+Boorgat . 
+2 Terplaag . 
+Veel schelpen . 
+Humeuze , zandige klei . 
+Bakstenen waterput . 
+Rieten matten . 
+35 VLAK-verslag 15.1 spoor put 189 2 spoorgroep periode 40 5f structuur 4 fase aard spoor 6 Ophogingslaag dijk . 
+Grofzandige klei . 
+190 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette klei + schelpjes . 
+191 2 40 5f 4 6 Ophogingslaag dijk . 
+Klei ( met spoellaagjes ? ) . 
+192 2 40 5f 4 6 Ophogingslaag dijk . 
+Als sp.139 . 
+193 2 40 5f 4 6 Ophogingslaag dijk . 
+Kleiig zand . 
+194 2 27 5a 4 1 Ophogingslaag dijk . 
+Humeus zand + houtsnippers . 
+195 2 27 5a 4 1 Ophogingslaag dijk . 
+Licht humeuze , zandige klei . 
+196 2 28 4b 3.5 3 Vulling sp.264 . 
+Humeuze klei . 
+197 2 23 5d 4.6 4.1 Vulling sp.147 . 
+Humeuze , zandige klei . 
+198 2 23 5d 4.6 4.1 Vulling sp.147 . 
+199 2 23 5d 4.6 4.1 Vulling sp.147 . 
+Grofzandige klei + schelpjes . 
+200 2 22 5d 4.6 4.2 Vulling sp.234 . 
+Grofzandige klei . 
+201 2 21 5g 4.9 7 Vulling . 
+Zandige klei . 
+202 2 21 5g 4.9 7 Vulling . 
+Zandige klei . 
+203 2 21 5g 4.9 7 Vulling . 
+Zandige klei . 
+204 2 21 5g 4.9 7 Vulling . 
+Grofzandige klei . 
+205 2 21 5g 4.9 7 Vulling . 
+Humeuze , grofzandige klei . 
+206 2 21 5g 4.9 7 Vulling . 
+Klei . 
+207 2 29 3b 3 1 Terplaag . 
+Humeuze , grofzandige klei . 
+208 2 29 3b 3 1 Terplaag . 
+Als sp.207 . 
+209 2 29 4a 3 2 Terplaag . 
+Humeuze laag + houtsnippers + schelpen . 
+210 2 40 5f 4 6 Ophogingslaag dijk . 
+Humeuze , zandige klei . 
+211 1,2 40 5f 4 6 212 1 53 5h 4 11 Demping sp.171 . 
+Humeuze klei . 
+213 1 53 5h 4 11 Demping sp.171 . 
+Zand . 
+214 1 53 5h 4 11 Demping sp.171 . 
+Zand . 
+215 1 53 5h 4 11 Demping sp.171 . 
+Klei . 
+216 1 53 5h 4 11 Demping sp.171 . 
+Klei . 
+217 1 48 5h 4 11 Insteek . 
+Kleiig zand + puin . 
+218 1 56 5 4 Ophogingslaag dijk . 
+Klei . 
+219 1 48 5h 4 Oxidatielaagje . 
+Klei . 
+220 1 56 5 4 Ophogingslaag dijk . 
+Klei . 
+221 1 60 5 4 Slooplaag . 
+Klei . 
+222 1 50 5 4 Recente verstoring . 
+223 1 61 5 4 Ophogingslaag dijk . 
+Zand . 
+224 1 55 5 4 Vulling . 
+Zand + puin . 
+225 1 61 5 4 Ophogingslaag dijk . 
+Klei . 
+226 1 51 5 4 Recente verstoring . 
+Zand . 
+227 1 51 5 4 Laagje houtpulp . 
+230 1 65 5 4 232 2 22 5d 4.6 4.2 Vulling sp.234 . 
+Humeuze , zandige klei . 
+233 2 22 5d 4.6 4.2 Vulling sp.234 . 
+Humeuze , zandige klei . 
+234 2 22 5d 4.6 4.2 Insteek + vulling . 
+Als sp.114 . 
+235 2 23 5d 4.6 4.1 Vulling sp.147 . 
+Humeuze , zandige klei met kluiten . 
+236 2 28 4b 3.5 3 Vulling sp.264 . 
+Humeuze , vette klei . 
+237 1,2 28 4b 3.5 3 238 2 36 2d 1 2 Vulling . 
+Humeuze , zandige klei . 
+239 2 24 5c 4 3 Ophogingslaag dijk . 
+Humeuze , zandige klei . 
+240 2 24 5c 4 3 Ophogingslaag dijk . 
+Humeuze , zandige klei . 
+241 2 27 5a 4 1 Ophogingslaag dijk . 
+Humeuze , grofzandige klei . 
+242 2 26 5b 4.4 2 Vulling sp.245 . 
+Humeuze , zandige klei . 
+243 2 26 5b 4.4 2 Vulling sp.245 . 
+Humeuze , zandige klei met humeuze kluiten . 
+244 2 26 5b 4.4 2 Vulling sp.245 . 
+Humeuze , zandige klei . 
+245 2 26 5b 4.4 2 Insteek + vulling . 
+Humeuze , zandige klei . 
+246 2 27 5a 4 1 Ophogingslaag dijk . 
+Humeuze , heel zandige klei . 
+247 2 26 5b 4.4 2 Lensje . 
+Humeuze , zandige klei met kluiten . 
+248 2 29 3b 3 1 Rietbandje . 
+249 2 29 4a 3 2 Terplaag . 
+Humeuze , grofzandige klei + schelpen . 
+250 2 29 3b 3 1 Terplaag . 
+Humeuze , zandige klei + houtsnippers . 
+251 2 29 3b 3 1 Terplaag . 
+Humeuze klei . 
+252 2 29 3b 3 1 Terplaag . 
+Humeuze klei . 
+253 2 29 3b 3 1 Terplaag . 
+Humeuze , zandige klei . 
+254 2 36 2d 1 2 Vulling . 
+Humeuze klei + houtsnippers . 
+11 grondsoort Bruine , venige klei . 
+Trekbalkconstructie . 
+Humeuze , zandige klei + houtsnippers/ schelpen . 
+36 1.101 - Basisverslag spoor put 255 2 spoorgroep periode 21 5g structuur 4.9 fase aard spoor 7 Vulling . 
+grondsoort 256 2 30 3a - - Ingraving . 
+257 1 65 5 4 258 2 32 2c 1 1 Vulling . 
+Humeuze , vette klei . 
+259 2 32 2c 1 1 Vulling . 
+Humeuze laag + houtinclusies . 
+260 2 32 2c 1 1 Vulling . 
+Heel humeuze , zandige klei + houtsnippers . 
+261 2 32 2c 1 1 Vulling . 
+Vette klei . 
+262 2 34 1 - - Oeverwal . 
+Heel humeuze , zandige klei + schelpen . 
+263 2 32 2c 1 1 Vulling . 
+Zandige klei . 
+264 2 28 4b 3.5 3 Insteek + vulling . 
+Zandige klei + houtinclusies . 
+265 2 31 2c 1 1 Vulling . 
+Heel humeuze klei . 
+266 2 31 2c 1 1 Vulling . 
+Heel fijn zand . 
+267 2 31 2c 1 1 Vulling . 
+Mestachtig pakket + kleine kleilaagjes . 
+268 2 31 2c 1 1 Vulling . 
+Humeuze klei , kluiterig . 
+269 2 31 2c 1 1 Vulling . 
+Humeuze , zandige klei . 
+270 2 31 2c 1 1 Vulling . 
+Mestpakket + houtsnippers . 
+271 2 32 2c 1 1 Vulling . 
+Klei met mestachtige kluiten + houtsnippers . 
+272 2 30 3a - - Vulling sp.274 . 
+Humeuze laag + kluiten klei . 
+273 2 30 3a - - Vulling sp.274 . 
+Rietpakket + laagjes grof zand . 
+274 2 30 3a - - Insteek + vulling . 
+Mestpakket . 
+276 2 34 1 - - Oeverwal . 
+Zandige klei + schelpen . 
+277 2 32 2c 1 1 Vulling . 
+Mestpakket + houtsnippers . 
+278 2 33 2c 1 1 Vulling . 
+Heel fijnzandig + wat kleine kluitjes . 
+Gelamineerd . 
+279 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette klei . 
+280 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette klei + zandbandjes . 
+281 2 40 5f 4 6 Ophogingslaag dijk . 
+Heel humeuze klei . 
+282 2 40 5f 4 6 Ophogingslaag dijk . 
+Heel humeuze , vette klei . 
+283 2 40 5f 4 6 Ophogingslaag dijk . 
+Zandige klei . 
+284 2 40 5f 4 6 Ophogingslaag dijk . 
+Heel humeuze klei . 
+285 2 40 5f 4 6 Ophogingslaag dijk . 
+Vette klei + schelpen . 
+286 2 40 5f 4 6 Ophogingslaag dijk . 
+Rietpakketten . 
+287 2 40 5f 4 6 Ophogingslaag dijk . 
+Heel zandige klei . 
+288 2 40 5f 4 6 Ophogingslaag dijk . 
+289 2 40 5f 4 6 Rietpakket . 
+290 2 40 5f 4 6 Rietpakket . 
+291 2 82 5e 4 5 Natuurlijke afzetting . 
+Grof zand . 
+292 2 81 2a - - Natuurlijke afzetting . 
+Klei . 
+293 2 36 2d 1 2 Vulling . 
+297 2 36 2d 1 2 Vulling . 
+Heel humeuze klei + houtresten . 
+298 2 36 2d 1 2 Vulling . 
+Heel humeuze klei + houtresten . 
+299 2 36 2d 1 2 Vulling . 
+Heel humeuze klei + wat houtresten . 
+300 2 71 2c 1 - Kuil ? 
+Kleiig zand + brokjes klei . 
+301 2 36 2d 1 2 Vulling . 
+Gelamineerde , heel humeuze klei + houtresten . 
+302 1 45 5 4 Herstel in de keermuur . 
+303 1 63 5 4 Muur . 
+304 1 en 2 ? 
+63 305 1 48 5 4 Houten bodem sp.171 . 
+306 1 62 5 4 Bakstenen muur . 
+307 1 60 5 4 Ophogingslaag dijk . 
+Kluiterige klei . 
+308 1 60 5 4 Ophogingslaag dijk . 
+Gelaagde klei met humeuze bandjes . 
+309 1 60 5 4 Puinpakket . 
+310 1 60 5 4 Ophogingslaag dijk . 
+311 1 60 5 4 Puinpakket . 
+312 1 46 5 4 Vlijlaag . 
+313 1 58 5 4 Rietlaag . 
+314 1 58 5 4 Ophogingslaag dijk . 
+315 1 65 5 4 Trekbalkconstructie . 
+316 1 59 5 4 Horde . 
+317 1 64 5 4 318 3 07 5c 4.5 319 3 - 320 3 10 5c 4 321 1 59 5 4 Vette klei . 
+Trekbalkconstructie . 
+Donkergrijze klei met baksteenpuin . 
+Zandige klei . 
+Zand . 
+Gelamineerde zandige klei + humeuze bandjes . 
+Brandkuil . 
+3 Kuil . 
+Heel humeuze , zandige klei . 
+Kelder . 
+3 Begraving . 
+Klei . 
+Ophogingslaag dijk . 
+Vette klei + humeuze bandjes . 
+37 VLAK-verslag 15.1 spoor put 322 1 spoorgroep periode 59 5 structuur 4 fase aard spoor Ophogingslaag dijk . 
+grondsoort Klei . 
+323 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+324 1 59 5 4 Ophogingslaag dijk . 
+Vette klei . 
+325 1 59 5 4 Ophogingslaag dijk . 
+Klei + humeuze kluiten . 
+326 1 46 5 4 Insteek . 
+Humeuze , kluiterige klei + puin . 
+327 2 40 5f 4 6 Trekbalkconstructie . 
+328 2 41 5h 4.11 8 Bakstenen waterput . 
+329 2 41 5h 4.11 8 Vulling . 
+330 1 65 5 4 331 1 65 5 4 332 3 09 5c 5 1 Vulling . 
+Klei . 
+333 3 09 5c 5 1 Vulling . 
+Klei . 
+334 3 09 5c 5 1 Vulling . 
+Humeuze klei + houtsnippers . 
+335 3 02 5h 4.10 8 Aangepunte houten paal . 
+336 3 03 5g 4 7 Ophogingslaag dijk . 
+Vette , humeuze klei . 
+337 3 03 5g 4 7 Ophogingslaag dijk . 
+Humeuze klei . 
+338 3 02 5h 4.10 8 Vulling sp.340 . 
+Humeuze klei . 
+339 3 03 5g 4 7 Ophogingslaag dijk . 
+Vette klei . 
+340 3 02 5h 4.10 8 Insteek + vulling . 
+Mestlaag + houtsnippers . 
+341 3 10 5c 4 3 Ophogingslaag dijk . 
+Humeuze klei . 
+342 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette klei . 
+343 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette klei + houtsnippers + bot . 
+344 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei + houtsnippers . 
+345 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei + houtsnippers . 
+346 3 12 4a 3 2 Terplaag . 
+Vette klei . 
+347 3 07 5c 4.5 3 Vulling sp.348 . 
+Mestlaagje . 
+348 3 07 5c 4.5 3 Insteek + vulling . 
+Mestlaagje . 
+349 3 01 350 3 05 5e 5 3 Vulling . 
+Humeuze , heel vette klei . 
+351 3 04 5f 5 5 Vulling . 
+Zandige klei + schelpjes . 
+352 3 04 5f 5 4 Vulling . 
+Humeuze klei . 
+353 3 04 5f 5 4 Vulling . 
+Humeuze klei . 
+354 3 05 5e 5 3 Vulling . 
+Humeuze klei . 
+355 3 09 5c 5 1 Vulling . 
+Heel humeuze klei + houtsnippers + stro/riet . 
+356 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette klei . 
+357 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette klei . 
+358 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette klei . 
+359 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei . 
+360 3 72 5a 4 1 Ophogingslaag dijk . 
+361 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei . 
+362 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei . 
+363 3 03 5g 4 7 Ophogingslaag dijk . 
+Humeuze klei . 
+364 3 04 5f 5 5 Plank . 
+365 3 09 5d 5 2 Vulling . 
+Vette klei + houtsnippers . 
+366 3 09 5d 5 2 Vulling . 
+Humeuze , vette klei . 
+367 3 15 3a 2 1 Ophogingslaag . 
+Heel humeuze klei . 
+368 3 03 5g 4 7 Ophogingslaag dijk . 
+Zandige , verrommelde klei . 
+369 3 10 5c 4 3 Ophogingslaag dijk . 
+Zandige , humeuze klei . 
+370 3 10 5c 4 3 Ophogingslaag dijk . 
+Humeuze , heel zandige klei . 
+371 3 10 5c 4 3 Ophogingslaag dijk . 
+Vette , heel humeuze klei . 
+372 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette klei . 
+373 3 72 5a 4 1 Ophogingslaag dijk . 
+Vette , humeuze klei . 
+374 3 08 5b 4.3 2 Insteek + vulling . 
+Verrommelde klei . 
+375 3 72 5a 4 1 Ophogingslaag dijk . 
+Klei . 
+376 3 72 5a 4 1 Ophogingslaag dijk . 
+Klei . 
+377 3 73 5a 4 1 Ophogingslaag dijk . 
+Zeer humeuze klei + houtsnippers . 
+378 3 - Ophoging ? 
+Heel zandige , humeuze klei . 
+379 3 12 4a 3 2 Terplaag . 
+Zandige , humeuze klei + houtsnippers . 
+380 3 11 4b 3.4 3 Vulling . 
+Zandige , humeuze klei + houtsnippers . 
+381 3 - Ophoging ? 
+Kleiig zand . 
+382 3 11 4b 3.4 3 Vulling . 
+Verrommeld kleiig zand + houtsnippers . 
+384 3 09 5c 5 1 Vulling . 
+Zandige klei , verrommeld . 
+385 3 09 5c 5 1 Vulling . 
+Zandige klei . 
+Trekbalkconstructie . 
+Trekbalkconstructie . 
+Recente verstoring . 
+38 1.101 - Basisverslag spoor put 386 3 spoorgroep periode 09 5c structuur 5 fase aard spoor 1 Vulling . 
+grondsoort Als sp . 
+382 . 
+387 3 09 5c 5 1 Vulling . 
+Heel humeus en zandig . 
+388 3 15 3a/b 2 1/2 Ophoging ? 
+389 3 15 3a/b 2 1/2 Ophoging . 
+391 3 15 3a/b 2 1/2 Boomstamkist . 
+392 3 09 5c 5 1 Verstoorde begraving . 
+393 3 68 2d 1 2 Vulling . 
+Klei + riet- en houtsnippers . 
+394 3 15 3b 2 2 Dagzoom ophoging . 
+Humeuze klei . 
+395 3 15 3b 2 2 Ophoging . 
+Vette klei . 
+396 3 15 3b 2 2 Dagzoom ophoging . 
+Vette , humeuze klei . 
+397 3 15 3a 2.1 1 Paaltjes . 
+398 3 16 2b - - Vulling . 
+Mestpakket . 
+399 3 68 2d 1 2 Vulling . 
+Zandige klei . 
+400 3 68 2d 1 2 Vulling . 
+Humeuze , zandige klei + wat houtsnippers . 
+401 3 16 2b - - Vulling . 
+Heel humeuze klei . 
+402 3 16 2b - - Vulling . 
+Humeuze klei + houtsnippers + humeuze kluiten . 
+403 3 16 2b - - Vulling . 
+Als sp.401 . 
+404 3 66 2b - - Vlechtwerk . 
+405 3 66 2b - - Vulling . 
+Zandige klei . 
+406 3 19 1 - - Oeverwal . 
+Heel zandige klei . 
+407 3 19 1 - - Oeverwal . 
+Zandige klei . 
+408 3 09 5c 5 1 Grafkuil . 
+409 3 74 4b 3.3 3 Insteek + vulling . 
+Vette klei + houtsnippers + humeuze kluiten . 
+410 3 12 4a 3 2 Terplaag . 
+Vette klei . 
+411 3 12 4a 3 2 Terplaag . 
+Klei + wat houtsnippers . 
+412 3 15 3b 2 2 Ophoging . 
+Humeuze klei + houtsnippers . 
+413 3 68 2d 1 2 Vulling . 
+Humeuze klei + houtsnippers . 
+414 3 68 2d 1 2 Lensje . 
+Klei . 
+415 3 68 2d 1 2 Vulling . 
+Klei + houtsnippers . 
+416 3 17 2c 1 1 Vulling . 
+Heel humeuze klei + houtsnippers . 
+417 3 18 2c 1 1 Vulling . 
+Heel zandige klei + humeuze kluiten . 
+418 3 19 1 - - Oeverwal . 
+Heel zandige , gelamineerde klei . 
+419 3 09 5 ? 
+5 - Vulling . 
+420 3 15 3b 2 2 Ophoging . 
+Humeuze klei + houtsnippers + mosselschelpjes . 
+421 3 15 3b 2 2 Ophoging . 
+Heel humeuze , gelaagde klei . 
+422 3 15 3b 2 2 Vulling sp.424 . 
+Humeuze klei . 
+423 3 16 2b - - Vulling sp.424 . 
+Mestpakket . 
+424 3 16 2b - - Insteek + vulling . 
+Vette klei + humeuze bandjes + houtsnippers . 
+424.a 3 16 2b - - Vulling sp.424 . 
+Stuifzand . 
+424.b 3 16 2b - - Vulling sp.424 . 
+Heel humeus bandje . 
+424.c 3 16 2b - - Vulling sp.424 . 
+Kluiterige mestlaag . 
+424.d 3 16 2b - - Vulling sp.424 . 
+Humeuze klei + houtsnippers . 
+424.e 3 16 2b - - Vulling sp.424 . 
+Humeuze , licht zandige klei + kluiten . 
+424.f 3 16 2b - - Vulling sp.424 . 
+Mestpakket + laagjes fijn zand en houtskool . 
+424.g 3 16 2b - - Bodem sp.424 . 
+Humeuze klei . 
+424.h 3 16 2b - - Ingraving sp.424 . 
+Zand . 
+425 3 19 1 - - Oeverwal . 
+Zavel . 
+426 3 19 1 - - Paal/ staak . 
+427 3 15 3b 2 2 Begraving . 
+428 3 15 3a 2 1 Begraving . 
+429 3 15 3b 2 2 Begraving . 
+430 3 15 3b 2 2 Grafkist . 
+431 3 15 3b 2 2 Begraving . 
+432 3 15 3b 2 2 Begraving . 
+433 3 15 3b 2 2 Begraving . 
+434 3 15 3b 2 2 Begraving . 
+435 3 15 3b 2 2 Verstoorde begraving . 
+436 3 15 3b 2 2 Begraving . 
+437 3 15 3b 2 2 Begraving . 
+438 3 15 3a 2.1 1 Vlechtwerk . 
+439 3 80 2 ? ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Kluiterige kleilaag . 
+440 3 79 2 ? ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Heel humeuze klei . 
+441 3 15 3b 2 2 Begraving . 
+Verrommeld kleiig zand + houtsnippers . 
+39 VLAK-verslag 15.1 spoor put 442 3 spoorgroep periode 15 3b structuur 2 fase aard spoor 2 Begraving . 
+443 3 15 3a 2 1 Greppel . 
+444 3 15 3b 2 2 Verstoorde begraving . 
+445 3 15 3b 2 2 Begraving . 
+446 3 15 3b 2 2 Begraving . 
+447 3 15 3a 2.1 1 Rij paaltjes . 
+448 3 15 3b 2 2 Begraving . 
+449 3 15 3b 2 2 Begraving . 
+450 3 15 3b 2 2 Begraving . 
+451 3 09 5c 5 1 Vulling . 
+Vette klei + riet + houtresten . 
+452 3 15 3a 2 1 Ophoging . 
+Heel humeuze klei + riet + houtresten . 
+453 3 12 4a 3 2 Terplaag . 
+Klei + humeuze kluiten . 
+454 3 13 4a 3.2 2 Insteek + vulling . 
+Klei . 
+455 3 11 4b 3.4 3 Vulling sp.458 . 
+Vette klei . 
+456 3 11 4b 3.4 3 Vulling sp.458 . 
+457 3 11 4b 3.4 3 Vulling sp.458 . 
+Kluiterige klei . 
+458 3 11 4b 3.4 3 Insteek + vulling . 
+Kluiterige klei . 
+459 3 15 3b 2 2 Ophoging . 
+Kluiterige klei + houtsnippers . 
+460 3 15 3b 2 2 Paaltje . 
+461 3 14 3b 2.2 2 Vulling sp.463 . 
+Vette , licht humeuze klei . 
+462 3 14 3b 2.2 2 Vulling sp.463 . 
+Klei + humeuze kluitjes . 
+463 3 14 3b 2.2 2 Insteek + vulling . 
+Vette , licht humeuze klei . 
+464 3 15 3b 2 2 Ophoging . 
+Kluiterige klei + houtsnippers . 
+465 3 15 3b 2 2 Ophoging . 
+Humeuze klei + houtsnippers . 
+466 3 15 3b 2 2 Ophoging . 
+Als sp.464 . 
+467 3 15 3b 2 2 Ophoging . 
+Als sp.465 . 
+468 3 15 3b 2 2 Ophoging . 
+Als sp.464 . 
+469 3 15 ? 
+Ophoging . 
+Als sp.465 . 
+470 3 15 3b 2 2 Insteek graf . 
+Humeuze klei . 
+471 3 15 3a 2.1 1 Vlechtwerk . 
+472 3 15 3b 2 2 Insteek graf . 
+Heel humeuze klei . 
+473 3 15 3b 2 2 Insteek graf . 
+Humeuze klei . 
+474 3 15 3a 2 1 Insteek graf . 
+Humeuze klei . 
+475 3 15 3b 2 2 Begraving . 
+476 3 15 3a 2 1 Vulling sp.557 . 
+477 3 15 3a/b 2 1/2 Verstoorde begraving . 
+478 3 15 3b 2 2 Verstoorde begraving . 
+479 3 15 3b 2 2 Verstoorde begraving . 
+480 3 15 3b 2 2 Begraving . 
+481 3 15 3a 2 1 Begraving . 
+482 3 15 3a 2 1 Begraving . 
+483 3 15 3a/b 2 1/2 Begraving . 
+484 3 15 3a 2 1 Begraving . 
+485 3 15 3b 2 2 Begraving . 
+486 3 15 3a 2 1 Begraving . 
+487 2 44 5h 4.11 8 Bakstenen waterput . 
+488 1 65 ? 
+5 4 Palenrij . 
+489 1 65 5 4 Paal . 
+490 3 15 ? 
+3a/b 491 3 15 3a/b 2 1/2 492 3 15 3a 2 1 Verstoorde begraving . 
+493 3 15 3a 2 1 Verstoorde begraving . 
+494 3 15 3a/b 2 1/2 Begraving . 
+495 3 15 3a/b 2 1/2 Begraving . 
+496 3 75 2c - Natuurlijke ( ? ) 
+afzetting . 
+Zandige klei + houtsnippers . 
+497 3 75 2c - Natuurlijke ( ? ) 
+afzetting . 
+Klei . 
+498 3 75 2c - Natuurlijke ( ? ) 
+afzetting . 
+Zandige , humeuze klei . 
+499 3 66 2b - - Vulling . 
+Vette , humeuze klei . 
+500 3 66 2b - - Vulling . 
+Humeuze klei . 
+501 3 66 2b - - Vulling . 
+Klei + vlechtwerk . 
+502 3 19 1 - - Oeverwal . 
+Klei . 
+503 3 66 2b - - Vulling . 
+Kleiig zand . 
+504 3 19 1 - - Oeverwal . 
+Klei . 
+3a/b grondsoort Klei . 
+Begraving . 
+Begraving . 
+40 1.101 - Basisverslag spoor put 505 3 spoorgroep periode 76 2a structuur - fase aard spoor - Natuurlijke afzetting . 
+grondsoort Grofzandige klei . 
+506 3 76 2a - - Natuurlijke afzetting . 
+Zandige klei + spoelbandjes . 
+507 3 79 2 ? ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Klei . 
+508 3 19 1 - - Oeverwal . 
+Zand . 
+509 3 76 2a - - Natuurlijke afzetting . 
+Gelamineerde klei . 
+510 3 - - Grofzandige klei . 
+511 3 - Greppel/ kuil . 
+Klei + zand . 
+512 3 15 3a 2 1 Ophogingspakket . 
+Klei . 
+513 3 15 3a 2 1 Begraving . 
+514 3 15 3a 2 1 Verstoorde begraving . 
+515 3 15 3a 2 1 Begraving . 
+516 3 15 3a 2 1 Begraving . 
+517 3 15 3a 2 1 Begraving . 
+518 3 15 3a 2 1 Begraving . 
+519 3 15 3a 2 1 Verstoorde begraving . 
+520 3 15 3a/b 2 1/2 Verstoorde begraving . 
+521 3 15 3a 2 1 Paaltje . 
+522 3 06 5 ? 
+5 ? 
+Insteek + vulling . 
+Zandige klei + humeuze kluiten . 
+523 3 15 3a 2 1 Ophoging . 
+Heel humeuze , zandige klei + houtresten . 
+524 3 15 3a 2 1 Ophoging . 
+Heel humeuze , wat vette klei + houtresten . 
+525 3 15 3a 2 1 Ophoging . 
+Vette klei + houtresten . 
+526 3 15 3a 2 1 Verstoorde begraving . 
+527 3 15 3a 2 1 Verstoorde begraving . 
+528 3 15 3a 2 1 Begraving . 
+529 3 15 3a 2 1 Ophoging . 
+Heel humeuze klei . 
+530 3 78 2 ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Licht humeuze klei + houtresten . 
+531 3 78 2 ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Licht humeuze klei + houtresten + kleibandjes . 
+532 3 15 3a 2 1 Begraving . 
+533 3 78 2 ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Licht humeuze klei + houtresten . 
+534 3 78 2 ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+Licht humeuze klei + houtresten . 
+535 3 15 3a 2 1 Vulling sp.557 . 
+Gelaagde klei . 
+536 3 15 3a 2 1 Verstoorde begraving . 
+537 3 15 3a 2 1 Begraving . 
+538 3 15 3a 2 1 Begraving . 
+539 3 15 3a 2 1 Begraving . 
+540 3 15 3a 2 1 Begraving . 
+541 3 77 2 ? ? 
+- - Natuurlijke ( ? ) 
+afzetting . 
+542 3 - 5h 4 11 Muur . 
+543 3 09 5d 5 2 Verstoorde begraving . 
+544 3 15 3b 2 2 Begraving . 
+545 3 15 3a 2 1 Begraving . 
+546 3 15 3a 2 1 Begraving . 
+547 3 15 3b 2 2 Begraving . 
+548 3 15 3b 2 2 Begraving . 
+549 3 15 3b 2 2 Insteek grafkist . 
+550 3 15 3a 2 1 Begraving . 
+551 3 15 3a 2 1 Begraving . 
+552 3 15 3a/b 2 1/2 Begraving . 
+553 3 15 3a 2 1 Begraving . 
+554 3 15 3a 2 1 Begraving . 
+555 3 15 3a 2 1 Begraving . 
+556 3 15 3a 2 1 Begraving . 
+557 3 09 5c 5 1 Insteek . 
+558 2 45 5 4 559 3 15 3a 2 1 Begraving . 
+560 2 28 4b 3.5 3 Vulling sp.264 . 
+561 1 59 5 4 562 1 58 5 4 Lensje . 
+Klei . 
+563 2 26 5b 4.4 2 Vulling sp.245 Humeuze klei . 
+564 2 26 5b 4.4 2 Vulling sp.245 Heel humeuze klei . 
+565 3 03 5g 4 7 Ophogingslaag . 
+566 3 07 5c 4.5 3 Vulling sp.348 . 
+Humeuze klei . 
+Steunbeer . 
+Klei + houtresten . 
+Ophogingslaag dijk . 
+41 Mestpakket + houtsnippers . 
+VLAK-verslag 15.1 Bijlage 4 Noordprofiel WP 2 ( profiel 7 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+42 1.101 - Basisverslag Bijlage 5 Westprofiel WP 2 ( profiel 6 + 10 ) , spoorgroepen . 
+43 VLAK-verslag 15.1 Westprofiel WP 2 ( profiel 6 + 10 ) , inclusies en insnijdingen . 
+44 1.101 - Basisverslag Bijlage 6 Oostprofiel WP 2 ( profiel 9 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+45 VLAK-verslag 15.1 Bijlage 7 Noordprofiel 2 , WP 3 ( profiel 11 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+46 1.101 - Basisverslag Bijlage 8 Oostprofiel WP 3 ( profiel 12 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+47 VLAK-verslag 15.1 Bijlage 9 Noordprofiel WP 3 ( profiel 13 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+48 1.101 - Basisverslag Bijlage 10 Westprofiel WP 3 ( profiel 14 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+49 VLAK-verslag 15.1 Bijlage 11 Oostprofiel 2 , WP 3 ( profiel 15 ) . 
+Boven : spoorgroepen . 
+Onder : inclusies en insnijdingen . 
+Bijlage 12 Legenda voor bijlage 4 t/m 11 . 
+50 1.101 - Basisverslag Bijlage 13 Geschematiseerde vlaktekeningen van werkput 2 en 3 . 
+51 VLAK-verslag 15.1 52 1.101 - Basisverslag 53 VLAK-verslag 15.1 54 1.101 - Basisverslag 55 VLAK-verslag 15.1 56 1.101 - Basisverslag 57 VLAK-verslag 15.1 58 1.101 - Basisverslag Bijlage 16 Reconstructie NAP-waarden reliëf van periode 1 t/m 3b . 
+59 VLAK-verslag 15.1 Bijlage 17 Reconstructie NAP-waarden reliëf van periode 3b t/m 5d . 
+60 1.101 - Basisverslag Bijlage 18 Reconstructie NAP-waarden reliëf grafveld . 
+NAP reliëf grafveld Z N 2m +NAP 1m +NAP 0m NAP 1m -NAP 10m 11m 12m 13m 14m Grafveld fase 2 : periode 3b Grafveld fase 1 : periode 3a 61 15m 16m 17m VLAK-verslag 15.1 Bijlage 19 Fasering grafveld ( structuur 2 ) . 
+Vlaardings Archeologisch Kantoor Postbus 1006 3130 EG Vlaardingen Legenda Graf van na de 11e eeuw Gemeente Vlaardingen Graven fase 2 Project : 01.101 Gat in de Markt Basisverslag Bijlage 18 : Grafkisten werkput 3 ingedeeld naar fasering Graven fase 1/2 Graven fase 1 Getekend door : E. van der Linden / A. Vredebregt December 2005 Begrenzing werkput 3 62 0 2m 1.101 - Basisverslag Bijlage 20 Grafiek met 14C-dateringen . 
+63 274 270 271 277 424b 424f 299 138 270 404 438 391 1727 1745 1728 1742 1729 1744 1731 1746 1735 1747 1739 1748 0285 1755 0116 0116 1728 1743 0612 0612 0718 0718 1720 1720 boomstamkist vlechtwerk vlechtwerk waterloop dijk waterloop kuil kuil waterloop waterloop waterloop ingraving waterloop 13440 13473 13445 13444 13443 13441 13439 13442 13438 spoor omschrijving Utc Nr 265 vnr 14C 1723 1741 vnr 29039 29038 29037 29036 GrN 1025 +/- 25 1025 +/- 25 1160 +/- 30 1042 +/- 37 740 +/- 40 1081 +/- 36 1066 +/- 44 1558 +/- 42 1062 +/- 43 1059 +/- 37 1160 +/- 37 981 +/- 36 1031 +/- 35 Datering BP C kalender stratadatering 981-1027 981-1027 779-795 ; 801-903 ; 915-963 ; 969-975 897-921,941-1035,1143-1149 1217-1299 ; 1371-1379 893-927,933-1019 891-1027 423-567,569-597 893-1027 895-923,939-1025 779-905,913-977 995-1071,1077-1127,1135-1159 1000-1050 1000-1025 779-975 700-1000 1217-1379 975-1025 779-975 779-975 700-1000 700-1000 700-1000 1000-1025 899-919,959-1039,1105-1113,1141-1153 700-1000 14 980-1027 891-933 891-933 933-980 933-980 933-980 995-1027 933-980 981-1027 981-1027 915-933 941-980 1000-1027 1000-1027 915-933 933-980 15 15 66 31 24 36 16 16 32 31 31 30 31 datering spoorstructuur/spoor groep 1217-1250 1217-1250 980-1019 891-933 423-597 933-980 939-980 941-977 995-1027 959-980 datering monster 3 2.1 - 1 4 1 - - 1 1 1 - 1 structuur 1/2 1 - 1 3 2 - - 1 1 1 - 1 3a/b 3a 2b8 2c06 5c 2d 2b2 2b6 2c03 2c05 2c06 3a 2c10 fase periode VLAK-verslag 15.1 Bijlage 21 Tabel met overzicht 14C-gedateerde structuren . 
+64 1.101 - Basisverslag Bijlage 22 Grafiek met dendrochronologische dateringen . 
+65 VLAK-verslag 15.1 Bijlage 23 Structuurformulieren . 
+Structuur 1 Aard Functie Omvang Aanlegdatum Datum demping Fasering vullingslagen waterloop natuurlijke waterloop , begrenzing grafveld de breedte varieert tussen 9-5 m , oorspronkelijke lengte onbekend eerste helft 10e eeuw eerste kwart 11e eeuw 2 Structuur 2 Aard Functie Omvang Aanlegdatum Einddatum Fasering ophogingslagen , inhumaties en greppels ( uitbreiding ) grafveld minimaal 4,80 m x 5,90 m circa 1000 AD circa 1050 AD 2 Structuur 3 Aard Functie Omvang Aanlegdatum Einddatum Fasering humeuze kleilagen terp minimaal 11,25 m lang en 6,20 m breed tweede kwart van de 11e eeuw midden 12e eeuw 3 Structuur 4 Aard Functie Omvang Aanlegdatum Einddatum Fasering kleipakketten met daartussen rietlagen dijk minimaal 26 m lang en 21 m breed tweede helft 12e eeuw Moderne Tijd 11 Structuur 5 Aard Functie Omvang Aanlegdatum Einddatum Fasering insteken en vullingen mogelijke dijksloot minimaal 3 m breed 13e eeuw loop van de 14e eeuw 5 66 1.101 - Basisverslag Bijlage 24 VLAK-formulier . 
+VLAK-formulier voor code Melder Datum : Codering VLAK-code eerdere waarnemingen Oudheidskamer Midden-Delfland BOOR AMK Archis ( waarnemingsnummer ) ROB-objectnummer Ligging Gemeente Plaats Straatnaam Toponiem Coördinaten ( centrum onderzoeksgebied ) : 01.101 : T. de Ridder ( VLAK ) : C. Van Loon ( Vriens Archeo Flex ) : december 2004 : 01.094 : : : : : : : Vlaardingen : Vlaardingen : noord : Markt : zuid : Zomerstraat : Gat in de Markt : X= 83.116 m : Y= 435.973 m Onderzoeksgegevens Aanleiding onderzoek Onderzoeksinstantie Begin onderzoek Eind onderzoek Aard onderzoek : woningbouw : VLAK : december 2001 : maart 2002 : archeologisch onderzoek Beheer Opgravingsdocumentatie Vondstmateriaal : VLAK , gemeente Vlaardingen : depot VLAK , gemeente Vlaardingen Ruimtelijke ordening Grondgebruik voor onderzoek Grondgebruik na onderzoek Grondwaterpeil : braakliggend terrein : woningbouw gepland : onbekend 67 VLAK-verslag 15.1 Aangetroffen complexen Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : : Infrastructuur , onbepaald ( Archis : IX ) : 10e eeuw : X= 83.114 m : Y= 435.968 m : breedte variërend : 5 - 9 m ; minimaal 8 m lang : circa + 2,55 m : - 0,29 m : - 2,16 m : ja : mogelijk buiten onderzoeksgebied : vullingslagen waterloop : ja : n.v.t . 
+: grafveldlaag , terplaag 11e eeuw : natuurlijke zandafzettingen : flank oeverwal : Grafveld , inhumatie ( Archis : GVI ) : eerste helft 11e eeuw : X= 83.117 m : Y= 435.975 m : minimaal 4,80 m x 5,90 m : + 3,41 m tot + 3,52 m ( niveau Markt ) : 0,0 m : - 0,75 m : ja : ja , ten noorden van het onderzoeksterrein : ophogingslagen , inhumaties en greppels : ja : n.v.t . 
+: terplagen opgebracht in de 2e helft van de 11e eeuw : natuurlijke kleiafzettingen : flank oeverwal 68 1.101 - Basisverslag Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : : Terp ( Archis : NT ) : midden 11e eeuw t/m midden 12e eeuw : X= 83.117 m : Y= 435.970 m : minimaal 11,25 m lang en 6,20 m breed : + 3,41 m tot + 3,52 m ( niveau Markt ) : + 0,13 m in werkput 2 tot + 0,31 m in werkput 3 : - 0,61 m in werkput 2 tot - 0,70 m in werkput 3 : ja : ja , buiten de werkputten : humeuze kleilagen en verschillende kuilen : ja : n.v.t . 
+: eind 12e/ begin 13e-eeuwse dijklagen : vulling waterloop en ophogingen grafveld : flank oeverwal : Dijk ( Archis : IDIJ ) : tweede helft 12e eeuw t/m Moderne Tijd : X= 83.116 m : Y= 435.965 m : minimaal 26 m lang en 21 m breed : + 1,47 m ( niveau Zomerstraat ) tot + 3,52 m ( niveau Markt ) : + 1,39 m ( werkputten 2 en 3 ) : - 1,42 m ( werkput 2 ) ; minstens - 1,85 m ( werkput 1 ) : ja : ja , buiten onderzoeksterrein : kleipakketten met daartussen rietlagen keermuur , horden , houten beplating , kuilen : : n.v.t . 
+: n.v.t . 
+: 12e-eeuwse terplaag en oudere kleilagen : flank oeverwal 69 VLAK-verslag 15.1 Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : Complextype Datering Coördinaten ( centrum complex ) Omvang NAP maaiveld NAP bovenzijde complex ( minimale diepte ) NAP onderzijde complex ( maximale diepte ) Onderzocht Resterende waarden Aard sporen Materiaal verzameld Stratigrafie Laag waarin complex ligt Laag boven complex Laag onder complex Paleografische ligging : : Infrastructuur , onbekend ( Archis : IX ) : 13e eeuw : X= 83.120 m : Y= 435.977 m : minimaal 3 m breed : + 3,41 m tot + 3,52 m ( niveau Markt ) : + 1,19 m : - 0,26 m : ja : ja , buiten het onderzoeksterrein : insteken en vullingen van mogelijke dijksloot : ja : n.v.t . 
+: recente verstoringen : grafveldlaag : n.v.t . 
+: Nederzetting , onbepaald ( Archis : NX ) : vanaf 15e eeuw : X= 83.116 m : Y= 435.962 m : verspreid over gehele terrein : circa + 2,55 m : circa + 1,09 m : + 0,69 m ( werkput 2 ) ; - 0,37 m ( waterput , werkput 1 ) : ja : nee : bakstenen muurwerken , waterputten : ja : n.v.t . 
+: recente verstoringen : dijklagen Late Middeleeuwen : n.v.t . 
+Literatuur Loon , C. Van en Ridder , T. de , 2006 : Basisverslag Gat in de Markt 01.101 . 
+VLAK-verslag 15.1 . 
+70 1.101 - Basisverslag Colofon Tekst . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Redactie . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Figuren , tenzij anders vermeld . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+Druk . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+: drs . C. Van Loon en drs . T. de Ridder ( VLAK ) : drs . T. de Ridder ( VLAK ) : E. van der Linden/ drs . C. Van Loon ( VLAK ) : Repro , gemeente Vlaardingen 71 VLAK-verslag 15.1 72 

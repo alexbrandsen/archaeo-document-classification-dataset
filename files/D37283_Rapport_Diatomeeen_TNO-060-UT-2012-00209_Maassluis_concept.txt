@@ -1,0 +1,358 @@
+TNO-rapport | TNO-060-UT-2012-00209 Inhoudsopgave 1 Inleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 3 2 Materiaal & Methoden ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 4 3 Resultaten & Interpretatie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5 4 Conclusies ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 23 5 Literatuur ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 24 6 Bijlagen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 25 2 / 32 TNO-rapport | TNO-060-UT-2012-00209 1 Inleiding Diatomeeën of kiezelalgen zijn eencellige algen met minuscule skeletjes van silica ( kiezelzuur ) . 
+Kiezelalgen komen wereldwijd in bijna alle aquatische milieus voor , in een groot aantal mariene , brakke en zoetwater habitatten . 
+Diatomeeën reageren uiterst gevoelig op veranderingen van hun leefomgeving ( bijvoorbeeld zuurgraad , nutriëntenrijkdom en saliniteit ) en zijn goed te identificeren . 
+Dit maakt kiezelalgen buitengewoon waardevol als indicatoren van zowel de huidige ecologische toestand van oppervlaktewateren als de condities van vroegere afzettingsmilieus ( Smol & Stoermer , 2010 ) . 
+Diatomeeën zijn zeer goed fossiliseerbaar en daarom ook uitermate geschikt om bij te dragen aan de reconstructie van het paleo-milieu ( Cremer et al. , 2009 , 2010 ; Vos & De Wolf , 1993 ) . 
+In een paleo-ecologische reconstructie – bijvoorbeeld op basis van sedimentmonsters uit boringen of archeologische vondsten – wordt bijna altijd uitgegaan van een zogeheten diatomeeën-thanatocoenose ( dodengemeenschap volgens de Griekse god van de Dood , Thanatos ) . 
+In de kustgebieden ontstaat een dergelijke thanatocoenose door de aanvoer en afzetting van diatomeeën uit verschillende mariene , brakwater en zoetwater habitatten ( Afbeelding 1 ) . 
+De soortsamenstelling zegt iets over de afkomst van de aangetroffen soorten en het oorspronkelijke afzettingsmilieu . 
+De samenstelling van de diatomeeënthanatocoenose wordt door een aantal biologische , chemische en fysieke factoren beïnvloed , onder andere bioturbatie , diagenese , oplossing , predatie , reproductie , re-suspensie en stromingen . 
+Diatomeeën worden in de archeologie inmiddels veelvoudig ingezet door deze in archeologische artefacten en sedimenten te bestuderen ( Juggins & Cameron , 2010 ; Cremer , 2008 ) . 
+De verworven kennis kan men dan gebruiken voor de reconstructie van de vroegere afzettingscondities , het paleo-milieu . 
+Voor dit project werden in opdracht van ADC ArcheoProjecten 35 grondmonsters afkomstig van de archeologische locatie Maassluis op diatomeeën onderzocht . 
+Doel van het paleo-ecologisch onderzoek is het bepalen van het oorspronkelijke afzettingsmilieu ( saliniteit : zout , brak , zoet ) van de diatomeeën . 
+Afbeelding 1 . 
+Herkomst van diatomeeën in thanatocoenosen van sedimentaire kustafzettingen . 
+3 / 32 4 / 32 TNO-rapport | TNO-060-UT-2012-00209 2 Materiaal & Methoden Voor dit onderzoek werden door de opdrachtgever 35 grondmonsters aangeleverd . 
+Deze monsters zijn afkomstig uit het opgravingsgebied Maassluis ( projectcode MAAS-11 ) . 
+Van elk grondmonster werd tussen 1,6-2,6 g materiaal opeenvolgend met zoutzuur ( HCl ) en waterstofperoxide ( H2O2 ) bij 100 °C op een verwarmingsplaat opgewerkt om het eventueel aanwezige carbonaat en organisch materiaal te oxideren . 
+Het overtollige zuur werd door een aantal sedimentatiestappen in gedemineraliseerd water verwijderd . 
+Het microscopische preparaat werd met behulp van de ‘ bezinkingsbak-methode ’ ( Battarbee , 1973 ) gemaakt . 
+Als inbeddingsmiddel werd Naphrax® gebruikt . 
+De preparaten werden met een Leica DM2500 lichtmicroscoop , voorzien van differentiaal interferentie contrast , bij een vergroting van ×945 op de diatomeeëninhoud onderzocht . 
+Doel van dit onderzoek is het door middel van een scan een uitspraak te doen over het zoutgehalte ( marien-brak-zoet ) van het afzettingsmilieu . 
+Om een betere onderbouwing te kunnen maken van de hoeveelheid van marien-brakke , zoetbrakke en zoetwater diatomeeën , en bovendien van de frequentie van enkele belangrijke diatomeeënsoorten , zijn per preparaat precies 100 schaaltjes gedetermineerd ( Bijlagen 1 en 2 ) . 
+Hierbij zijn echter alleen de meest aangetroffen diatomeeën tot de soort gedetermineerd . 
+Tabel 1 . 
+Op diatomeeën onderzochte monsters van de opgraving Maassluis ( projectcode MAAS-11 ) . 
+Vondst nr . 20 34 34 67 171 172 172 178 178 179 180 204 223 223 223 229 225 229 Diepte [ cm ] 38 8 39 33 22 10 30 5 25 20 25 22 12 28 41 28 32 38 Aanwezigheid diatomeeën Voldoende hoeveelheid Enkele schalen Voldoende hoeveelheid Voldoende hoeveelheid Geen Voldoende hoeveelheid Voldoende hoeveelheid Enkele schalen Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Geen Enkele schalen Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Enkele schalen Vondst nr . 315 315 327 327 328 328 328 328 329 329 330 331 331 333 334 334 334 Diepte [ cm ] 15 35 17 27 11 16 22 35 5 34 19 17 32 6 7 26 40 Aanwezigheid diatomeeën Enkele fragmenten Voldoende hoeveelheid Enkele schalen Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid Voldoende hoeveelheid TNO-rapport | TNO-060-UT-2012-00209 3 Resultaten & Interpretatie Van de 35 geanalyseerde monsters bevatten er twee helemaal geen diatomeeën en zes bevatten maar enkele fragmenten van schaaltjes . 
+Een uitspraak over het paleo-milieu op basis van diatomeeën is daarom met deze monsters slechts beperkt mogelijk . 
+De diatomeeënschaaltjes in de monsters met een voldoende aantal diatomeeën zijn meestal goed geconserveerd . 
+Zij bevatten over het algemeen een gemengde assemblage van zowel marien-brakke , zoet-brakke en zoetwater soorten . 
+De marien-brakke groep bevat ook de zogenoemde kustallochtone soorten . 
+Dit zijn planktische en tychoplanktische marine diatomeeën die vanuit de zee door het getij op de kust aangespoeld worden en het autochtone diatomeeënsignaal van de kustmilieus ( inter- en supratidale brakwater- en zoetwaterhabitatten ) vaak verdunnen ( Vos & De Wolf , 1993 ) . 
+Tot de groep kustallochtone diatomeeën behoren vooral Actinoptychus senarius , Biddulphia rhombus , Cymatosira belgica , Campylosira cymbelloides , Delphineis minutissima , D. surirella , Hyalodiscus radiatus , Odontella aurita , Paralia sulcata , Plagiogrammopsis vanheurckii , Pseudopodosira westii , Raphoneis amphiceros , Skeletonema costatum en de mariene soorten van het genus Thalassiosira . 
+Onderstaand wordt elk monster apart besproken en geïnterpreteerd . 
+De resultaten van de tellingen van telkens 100 schaaltjes zijn in Bijlagen 1 en 2 te vinden . 
+5 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 163 Afbeelding 2 . 
+Bemonsteringsschema van profiel 163 . 
+Vondstnummer 20 , 38 cm ( oeverafzetting zuidoostelijke kreek ) Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage bestaande uit 87 % marien-brakke soorten , 5 % zoet-brakke soorten en 5 % zoetwater soorten . 
+Binnen de marien-brakke groep zijn vooral veel kustallochtone soorten aangetroffen , o.a . Cymatosira belgica , Delphineis minutissima , D. surirella , Thalassiosira oestrupii en Paralia sulcata . 
+Een andere marien-brakke soort die regelmatig aangetroffen werd , is Fallacia pygmaea . 
+Paleo-ecologische interpretatie Op basis van de zeer hoge frequentie van marien-brakke diatomeeën , vooral kustallochtone soorten , kan geconcludeerd worden dat dit monster in een mariene kreek of geul tijdens een overstroming vanuit de zee werd afgezet . 
+De aangetroffen zoet-brakke en zoetwaterdiatomeeën ( samen 10 % ) zijn allochtoon en vanuit supratidale habitatten aangespoeld . 
+6 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 199 Afbeelding 3 . 
+Bemonsteringsschema van profiel 199 . 
+Vondstnummer 34 , 8 cm ( centrale deel noordelijke kreek ) Diatomeeënassemblage Dit monster is bijna leeg en bevat slechts enkele schaaltjes van Rhaphoneis amphiceros , Hyalodiscus scoticus , Paralia sulcata , Pseudopodosira westii en Delphineis surirella . 
+Paleo-ecologische interpretatie Een concluderend paleomilieu-interpretatie is niet mogelijk vanwege de zeer lage hoeveelheid diatomeeën in dit monster . 
+De aanwezigheid van een aantal schalen van kustallochtone soorten wijst echter erop dat deze sedimentlaag onder mariene invloed stond . 
+Vondstnummer 34 , 39 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage bestaande uit 93 % marien-brakke soorten , 2 % zoet-brakke soorten en 3 % zoetwater soorten . 
+Ook hier zijn vooral veel kustallochtone soorten aangetroffen , waaronder Cymatosira belgica , Delphineis surirella , Raphoneis amphiceros en Paralia sulcata en in mindere mate Hyalodiscus radiatus en Pseudopodosira westii . 
+Paleo-ecologische interpretatie De zeer hoge frequentie van marien-brakke diatomeeën , vooral kustallochtone soorten , wijst erop dat dit monster in een marine kreek of geul tijdens overstromingen vanuit de zee werd afgezet . 
+De aangetroffen zoet-brakke en zoetwaterdiatomeeën ( samen 5 % ) zijn allochtoon en vanuit supratidale habitatten aangespoeld . 
+7 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 101 Afbeelding 4 . 
+Bemonsteringsschema van profiel 101 . 
+Vondstnummer 67 , 33 cm ( vegetatiehorizont zuidoostelijke kreekrug , venig deel ) Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage bestaande uit 67 % marien-brakke soorten , 14 % zoet-brakke soorten en 15 % zoetwater soorten . 
+Kustallochtone soorten zijn het meest voorkomend , vooral Cymatosira belgica en Delphineis minutissima en in mindere mate Delphineis surirella , Paralia sulcata , Raphoneis amphiceros en Thalassiosira oestrupii . 
+In de zoet-brakke groep werden vooral Navicula cincta ( 10 % ) en in mindere mate Staurosira construens ( 3 % ) aangetroffen . 
+In de zoetwatergroep zijn dit vooral Fragilariforma bicapitata ( 8 % ) en Luticola mutica ( 4 % ) . 
+Paleo-ecologische interpretatie De aanwezigheid van een relatief hoog percentage van zoet-brakke en zoetwater soorten ( samen ongeveer 30 % ) wijst erop dat dit monster in een hoger gelegen zoet-brak milieu werd afgezet dat wel af en toe vanuit de zee overstroomd werd . 
+Hierbij kan het bijvoorbeeld gaan om supratidale habitatten in de omgeving van een kreek of geul wat vooral door de aanwezigheid van Luticola mutica , een aërofiele soort , getoond wordt . 
+Door overstromingen vanuit de zee kwamen de kustallochtone soorten op de site terecht en hebben het autochtone zoet-brakke signaal zeker verdund . 
+8 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 255 Afbeelding 5 . 
+Bemonsteringsschema van profiel 255 . 
+Vondstnummer 171 , 22 cm Diatomeeënassemblage Dit monster bevat geen diatomeeën . 
+Vondstnummer 172 , 10 cm en 30 cm Diatomeeënassemblage Beide monsters bevatten vooral marien-brakke soorten : in monster 172-10 komt deze groep met 90 % voor , in monster 172-30 met 99 % . 
+Binnen de marien-brakke groep werden vooral kustallochtone soorten aangetroffen , waarvan Delphineis surirella , Hyalodiscus radiatus en Paralia sulcata in 172-10 , Delphineis surirella , Cymatosira belgica , Paralia sulcata en Hyalodiscus radiatus in 172-30 de meest voorkomende zijn . 
+Zoet-brakke en zoetwaterdiatomeeën komen slechts met enkele schaaltjes voor . 
+Paleo-ecologische interpretatie Beide monsters werden in een marien milieu afgezet . 
+De dominantie van kustallochtone soorten wijst erop dat het hier om overstromingsafzettingen in een kreek of geul gaat . 
+9 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 281 Afbeelding 6 . 
+Bemonsteringsschema van profiel 281 . 
+Vondstnummer 178 , 5 cm Diatomeeënassemblage Dit monster bevat nauwelijks diatomeeën . 
+Er zijn enkele fragmenten van onder andere Pseudostaurosira westi en Hyalodiscus radiatus aangetroffen . 
+Paleo-ecologische interpretatie Een definitieve uitspraak over het milieu is vanwege de lage hoeveelheid diatomeeën onmogelijk . 
+De aangetroffen fragmenten van mariene diatomeeën wijzen waarschijnlijk op een verontreiniging met oorspronkelijk in een marien milieu afgezet sediment . 
+Vondstnummer 178 , 25 cm Diatomeeënassemblage De diatomeeënassemblage in dit monster bestaat uit 90 % marien-brakke soorten en 8 % zoetwatersoorten . 
+In de zoet-brakke groep is geen schaaltje gevonden . 
+Ook in dit monster zijn de kustallochtone soorten de meest frequente groep , waarvan Delphineis surirella de meest voorkomende soort is . 
+Verder zijn van deze groep o.a . Cymatosira belgica , Paralia sulcata en Rhaphoneis amphiceros aanwezig . 
+Van de zoetwatersoorten is Amphora copulata ( 5 % ) de meest voorkomende soort . 
+Paleo-ecologische interpretatie Dit monster werd in een marien milieu , waarschijnlijk als gevolg van een overstroming vanuit de zee in een kreek of geul afgezet . 
+Zoet-brakke diatomeeënsoorten werden niet aangetroffen . 
+De kleine hoeveelheid zoetwatersoorten werd waarschijnlijk van elders aangespoeld . 
+Vondstnummer 179 , 20 cm Diatomeeënassemblage De diatomeeënassemblage van dit monster bevat 87 % marien-brakke soorten , 1 % zoet-brakke soorten en 2 % zoetwater soorten . 
+Verder valt op dat er rond 10 % niet tot de soort identificeerbaar zijn ( soorten indet . ) 
+wat aan het relatief hoge aandeel schaalfragmenten ligt . 
+De meest frequente groep zijn de kustallochtone diatomeeën 10 / 32 TNO-rapport | TNO-060-UT-2012-00209 met o.a : Cymatosira belgica , Paralia sulcata en Delphineis surirella en in mindere mate Delphineis minutissima , Hyalodiscus radiatus en Raphoneis amphiceros . 
+Paleo-ecologische interpretatie Ook dit monster werd waarschijnlijk in een marien kreek- of geulmilieu tijdens een overstroming vanuit de zee afgezet . 
+Zoals in monster 178-25 zijn de aangetroffen zoet-brakke en zoetwater soorten van elders aangespoeld . 
+Het opvallend hoge percentage gebroken schaalfragmenten wijst over het algemeen op een langeafstand transport en een turbulent afzettingsmilieu . 
+Vondstnummer 180 , 25 cm Diatomeeënassemblage Dit monster bevat ongeveer 90 % marien-brakke soorten , 6 % zoet-brakke soorten en 3 % zoetwatersoorten . 
+De meest voorkomende diatomeeën behoren tot de kustallochtone groep : Cymatosira belgica en Delphineis surirella komen het vaakst voor en in mindere mate zijn Delphineis minutissima , Hyalodiscus radiatus , Paralia sulcata en Raphoneis amphiceros aangetroffen . 
+De enige zoet-brakke soort is Pseudostaurosira brevistriata ( 6 % ) . 
+Paleo-ecologische interpretatie De meest frequente soorten tonen aan dat de site ( een kreek of geul ) vanuit de zee overstroomd werd wat vooral tot de afzetting van de aangevoerde kustallochtone diatomeeën leidde . 
+De in kleine hoeveelheden aanwezige zoet-brakke en zoetwaterdiatomeeën wijst op een aanspoeling van deze soorten uit supratidale habitatten in de omgeving van de kreek . 
+11 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 257 Afbeelding 7 . 
+Bemonsteringsschema van profiel 257 . 
+Vondstnummer 204 , 22 cm Diatomeeënassemblage De diatomeeënassemblage van dit monster bestaat uit 80 % marien-brakke soorten en 17 % zoet-brakke soorten . 
+Zoetwater soorten werden niet aangetroffen . 
+De meest dominante groep zijn de kustallochtone soorten met onder andere Cymatosira belgica , Delphineis surirella , Hyalodiscus radiatus en Paralia sulcata . 
+Bovendien werden de marien-brakke , op modder levende ( epipelische ) soort Tryblionella navicularis ( 3 % ) aangetroffen . 
+Navicula cincta ( 17 % ) is de enige zoetbrakke soort die aangetroffen werd . 
+Paleo-ecologische interpretatie Het relatief hoge percentage van zoet-brakke diatomeeën ( 17 % ) kan erop wijzen dat dit monster in een supratidaal brakwatermilieu werd afgezet dat wel vanuit de zee regelmatig overstroomd werd . 
+De overstromingen vanuit de zee worden door het hoge percentage van kustallochtone soorten getoond . 
+12 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 261 Afbeelding 8 . 
+Bemonsteringsschema van profiel 261 . 
+Vondstnummer 223 , 12 cm Diatomeeënassemblage Dit monster bevat geen diatomeeën . 
+Vondstnummer 223 , 28 cm Diatomeeënassemblage Dit monster bevat nauwelijks diatomeeën . 
+Slechts een enkel schaaltje van Pseudostaurosira westii ( marien-brak kustallochtone soort ) werd gevonden . 
+Vondstnummer 223 , 41 cm Diatomeeënassemblage Dit monster bevat uit 91 % marien-brakke soorten en 6 % zoetwater soorten . 
+De kustallochtone soorten Delphineis minutissima en Paralia sulcata komen beide telkens met 23 % voor . 
+Andere regelmatig aangetroffen kustallochtone soorten zijn Hyalodiscus radiatus en Raphoneis amphiceros . 
+Daarnaast werd Nitzschia navicularis ( marien-brak epipelon ) aangetroffen . 
+De epiphytische soort Cocconeis placentula s.l ( 4 % ) is de meest aangetroffen zoetwaterdiatomee . 
+Paleo-ecologische interpretatie De afzettingssite staat onder duidelijke invloed vanuit de zee wat door rond 80 % kustallochtone soorten getoond wordt . 
+Daarnaast worden er enige zoetwater soorten ( Cocconeis placentula , Gomphonema truncatum ) aangetroffen die vanuit supratidale locaties zijn aangevoerd . 
+Het gaat hier zeer waarschijnlijk om een kreek- of geulafzetting . 
+Vondstnummer 225 , 32 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage bestaande uit 73 % marien-brakke soorten , 19 % zoet-brakke soorten en 3 % zoetwater soorten . 
+De meest voorkomende soorten zijn weer de kustallochtonen , o.a . Cymatosira belgica , 13 / 32 TNO-rapport | TNO-060-UT-2012-00209 Delphineis surirella en Paralia sulcata . 
+Ook in dit monster werd de marien-brakke , op modder levende ( epipelische ) soort Tryblionella navicularis aangetroffen . 
+Binnen de zoet-brakke groep is Navicula cincta ( 17 % ) de meest voorkomende soort . 
+Paleo-ecologische interpretatie Ook dit monster bevat een zeer hoog percentage kustallochtone soorten die een duidelijke invloed van de zee via kreken of geulen tonen . 
+Daarnaast wijst de duidelijke aanwezigheid van Navicula cincta erop dat er habitatten met een verlaagd zoutgehalte ( zoet-brak milieu ) aanwezig waren . 
+Dit zijn bijvoorbeeld supratidale sites in de omgeving van kreken of geulen die af en toe vanuit de zee overstroomd werden . 
+14 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 304 Afbeelding 9 . 
+Bemonsteringsschema van profiel 304 . 
+Vondstnummer 229 , 28 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage met 68 % marien-brakke soorten , 8 % zoet-brakke soorten en 9 % zoetwater soorten . 
+Verder konden 15 % van de schalen niet tot de soort worden gedetermineerd omdat het materiaal opvallend sterk is gecorrodeerd . 
+In de marien-brakke groep komen vooral Hyalodiscus radiatus , Paralia sulcata , Delphineis surirella en Pseudostaurosira westii voor . 
+Daarnaast werd Nitzschia navicularis regelmatig aangetroffen . 
+Binnen de zoet-brakke groep werd de epiphytische soort Rhoicosphenia abbreviata ( 4 % ) het meest aangetroffen . 
+Paleo-ecologische interpretatie Het hoge percentage ( rond 50 % ) kunstallochtone soorten wijst duidelijk op de invloed vanuit de zee en het hierdoor mariene afzettingsmilieu . 
+Bijna 20 % zoetbrakke en zoetwatersoorten tonen echter ook invloed vanuit milieus met minder zoutgehalte . 
+Het gaat hier waarschijnlijk om een supratidaal afzettingsmilieu dat regelmatig door de zee overstroomd werd . 
+Vondstnummer 229 , 38 cm Diatomeeënassemblage Dit monster bevat nauwelijks diatomeeën . 
+Slechts enkele fragmenten van Paralia sulcata , Hyalodiscus radiatus en Pseudostaurosira westii werden aangetroffen . 
+15 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 394 Afbeelding 10 . 
+Bemonsteringsschema van profiel 394 . 
+Vondstnummer 315,15 cm Diatomeeënassemblage Dit monster bevat bijna geen diatomeeën. , Er werd één fragment van Hyalodiscus radiatus gevonden . 
+Vondstnummer 315 , 35 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage met 92 % marien-brakke soorten , 2 % zoet-brakke soorten en 1 % zoetwater soorten . 
+Delphineis surirella , Hyalodiscus radiatus , Paralia sulcata en Pseudostaurosira westii zijn de meest voorkomende soorten binnen de marien-brakke groep . 
+Raphoneis amphiceros en Cymatosira belgica uit dezelfde groep werden in duidelijk mindere mate aangetroffen . 
+Paleo-ecologische interpretatie Het hoge percentage marien-brakke soorten , waarvan meer dan 80 % kustallochtone soorten wijzen op een marien afzettingsmilieu , bijvoorbeeld een kreek of geul . 
+De schalen van zoet-brakke en zoetwaterdiatomeeën zijn vanuit de omgeving aangespoeld . 
+16 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 384 Afbeelding 11 . 
+Bemonsteringsschema van profiel 384 . 
+Vondstnummer 327 , 17 cm Diatomeeënassemblage Dit monster bevat nauwelijks diatomeeën . 
+Slechts enkele fragmenten van Cyclotella meneghiniana , Hyalodiscus radiatus , Delphineis surirella , Pseudostaurosira westii , Paralia sulcata , Actinoptychus splendens en A. senarius werden gevonden . 
+Paleo-ecologische interpretatie De soortsamenstelling van de assemblage wijst erop dat het oorspronkelijke afzettingsmilieu marien was . 
+Vondstnummer 327 , 27 cm Diatomeeënassemblage Dit monster bevat 90 % marien-brakke soorten , 2 % zoet-brakke soorten , 7 % zoetwater soorten . 
+Delphineis surirella , Hyalodiscus radiatus , Paralia sulcata zijn de meest voorkomende marien-brakke kustallochtone soorten maar ook Cymatosira belgica , Delphineis minutissima en Raphoneis amphiceros komen in dit monster voor . 
+Cocconeis placentula s.l . 
+( 3 % ) is de meest voorkomende zoetwatersoort . 
+Paleo-ecologische interpretatie Dit monster werd in een marien milieu afgezet . 
+De dominantie van kustallochtone soorten wijst erop dat de assemblage in een mariene kreek of geul werd afgezet . 
+De kleine percentages zoet-brakke en zoetwaterdiatomeeën zijn uit de omgeving van de site aangevoerd . 
+Vondstnummer 328 , 11 cm Diatomeeënassemblage Dit monster bevat uitsluitend marien-brakke , kustallochtone soorten . 
+Cymatosira belgica en Paralia sulcata komen het meest voor , gevolgd door Delphineis surirella en daarna Delphineis minutissima , Hyalodiscus radiatus en Raphoneis amphiceros . 
+Paleo-ecologische interpretatie Dit monster werd in een marien milieu afgezet , waarschijnlijk een kreek of geul , wat door de dominantie van kustallochtone diatomeeën aangetoond wordt . 
+17 / 32 TNO-rapport | TNO-060-UT-2012-00209 Vondstnummer 328 , 16 cm Diatomeeënassemblage Dit monster bevat 98 % marien-brakke , kustallochtone soorten en 1 % zoet-brakke soorten . 
+Cymatosira belgica en Paralia sulcata komen het meest voor , gevolgd door Delphineis surirella , Hyalodiscus radiatus , Raphoneis amphiceros en Pseudostaurosira westii . 
+Paleo-ecologische interpretatie Ook dit monster bevat hoofdzakelijk kustallochtone soorten die in een marien milieu afgezet werden . 
+De diatomeeën zijn vanuit de zee via een kreek of geul naar de site getransporteerd . 
+Vondstnummer 328 , 22 cm Diatomeeënassemblage Dit monster bevat 93 % marien-brakke soorten , 2 % zoet-brakke soorten en 3 % zoetwatersoorten . 
+Cymatosira belgica werd het meest aangetroffen en daarnaast komen Delphineis surirella , D. minutissima , Paralia sulcata , Rhaphoneis amphiceros en de planktische soort Thalassiosira pseudonana regelmatig in dit monster voor . 
+Paleo-ecologische interpretatie Zoals de monsters van 328-11 en 328-16 representeert ook dit monster een kreekof geulafzetting . 
+Vooral marien-brakke soorten domineren de diatomeeënassemblage en binnen deze groep in het bijzonder de kustallochtone soorten ( > 70 % ) . 
+De kleine percentages zoet-brakke en zoetwaterdiatomeeën zijn uit de omgeving van de site aangevoerd . 
+Vondstnummer 328 , 35 cm Diatomeeënassemblage Dit monster bevat 84 % marien-brakke soorten , 2 % zoet-brakke soorten en 9 % zoetwater soorten . 
+Thalassiosira pseudonana en Cymatosira belgica zijn het meest dominant . 
+Andere marien-brakke soorten komen in kleinere hoeveelheden voor , o.a . Thalassiosira proschkinae en Delphineis surirella . 
+In de zoetwaterdiatomeeën groep werden Navicula cryptocephala ( 3 % ) en N. perminuta ( 2 % ) het meest aangetroffen . 
+Paleo-ecologische interpretatie Dit monster bevat ten opzichte van de drie jongere monsters in deze boring rond 10 % minder marien-brakke diatomeeën . 
+In plaats hiervan zijn er verschillende benthische zoetwaterdiatomeeën aangetroffen die erop wijzen dat de site zeker door zoet- of brakwater beïnvloed werd . 
+Er is sprake van aanspoeling van zoetwater-diatomeeën in een mariene kreek of geul , of van overstroming van supratidale zoet-brakke habitatten in de omgeving van een kreek . 
+18 / 32 TNO-rapport | TNO-060-UT-2012-00209 Vondstnummer 329 , 5 cm en 34 cm Diatomeeënassemblage Monster 329-5 bevat 96 % marien-brakke soorten , 1 % zoet-brakke soorten en 2 % zoetwater soorten en monster 329-34 bevat 96 % marien-brakke soorten , 3 % zoetbrakke soorten en 1 % zoetwater soorten . 
+In beide monsters is Delphineis surirella de dominante soort , met afstand gevolgd door Cymatosira belgica , Paralia sulcata en Raphoneis amphiceros . 
+Paleo-ecologische interpretatie Beide monsters bevatten bijna geheel een marien-brakke diatomeeënassemblage . 
+Ook de soortsamenstelling van beide assemblages is vergelijkbaar : de kustallochtone soorten domineren . 
+Dit wijst op een behoorlijke invloed van de zee op de locatie en het gaat dan ook waarschijnlijk om een mariene kreek- of geulafzetting . 
+Vondstnummer 330 , 19 cm Diatomeeënassemblage Dit monster bevat 86 % marien-brakke soorten , 5 % zoet-brakke soorten en 4 % zoetwater soorten . 
+In dit monster zijn Cymatosira belgica en Delphineis surirella de meest dominante soorten . 
+Delphineis minutissima , Paralia sulcata en Raphoneis amphiceros komen regelmatig in dit monster voor . 
+In de zoet-brakke groep zijn Navicula cincta , Planothidium rostratum en Staurosira construens aangetroffen en in de zoetwatergroep Pseudostaurosira elliptica en Reimeria sinuata . 
+Paleo-ecologische interpretatie Dit monster heeft een percentage marien-brakke diatomeeën van < 90 % en is hiermee vergelijkbaar met monster 328-35 . 
+De grote hoeveelheid kustallochtone soorten ( > 70 % ) wijst op een grote invloed van de zee . 
+Het afzettingsmilieu is dan ook waarschijnlijk een mariene kreek of geul . 
+Zoet-brakke of zoetwatersoorten zijn waarschijnlijk vanuit de supratidale omgeving van de kreek aangespoeld . 
+Alternatief kan het om een supratidaal zoet-brak milieu in de omgeving van een kreek gaan dat vanuit de zee werd overstroomd . 
+19 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 383 Afbeelding 12 . 
+Bemonsteringsschema van profiel 383 . 
+Vondstnummer 331 , 17 cm Diatomeeënassemblage Dit monster bevat een diatomeeënassemblage bestaande uit 92 % marien-brakke soorten , 2 % zoet-brakke soorten en 3 % zoetwater soorten . 
+Binnen de marienbrakke groep komen de kustallochtone soorten Cymatosira belgica , Delphineis minutissima en D. surirella het meest voor , gevolgd door Paralia sulcata en Raphoneis amphiceros . 
+Paleo-ecologische interpretatie Het zeer hoge percentage marien-brakke soorten wijst erop dat dit monster in een kreek of geul werd afgezet . 
+Zoet-brakke en zoetwaterdiatomeeën zijn uit de omgeving aangespoeld . 
+Vondstnummer 331 , 32 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage met 70 % marien-brakke soorten , 14 % zoet-brakke soorten en 11 % zoetwater soorten . 
+Ongeveer 5 % van alle schalen kan niet goed tot de soort gedetermineerd worden . 
+De meest voorkomende soorten zijn de kustallochtone soorten Cymatosira belgica , Delphineis minutissima en D. surirella . 
+Binnen de zoet-brakke groep is Staurosira venter ( tychoplankton ) de meest aangetroffen soort en in de zoetwatergroep zijn zes verschillende soorten gesignaliseerd . 
+Paleo-ecologische interpretatie Dit monster bevat in vergelijking met het monster 331-17 een relatief grote percentage zoet-brakke en zoetwaterdiatomeeën . 
+Dit toont aan dat het hier waarschijnlijk om een supratidaal afzettingsmilieu , waarschijnlijk in de omgeving van een kreek of geul gaat . 
+De site werd echter regelmatig vanuit de zee overstroomd waardoor kustallochtone soorten werden aangevoerd en afgezet . 
+De kustallochtone diatomeeën hebben geleid tot een verdunning van het autochtone ( zoet-brakke ) signaal . 
+20 / 32 TNO-rapport | TNO-060-UT-2012-00209 PROFIEL MAAS-11 : 333/334 Afbeelding 13 . 
+Bemonsteringsschema van profiel 333/334 . 
+Vondstnummer 333 , 6 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage van 83 % marien-brakke soorten , 6 % zoet-brakke soorten , 7 % zoetwater soorten . 
+De meest aangetroffen soorten zijn de kustallochtone diatomeeën Cymatosira belgica , Delphineis minutissima en D. surirella . 
+Navicula salinarum , Planothidium lanceolatum s.l . 
+en Thalassiosira visurgis representeren de zoet-brakke soorten in dit monster . 
+In de zoetwatergroep zijn Navicula perminuta en Hippodonta hungarica gesignaliseerd . 
+Paleo-ecologische interpretatie Meer dan 80 % marien-brakke soorten , waarvan rond 70 % kustallochtone soorten , duiden op een subtidaal afzettingsmilieu , een kreek of geul . 
+De aanwezige zoetbrakke en zoetwatersoorten zijn vanuit supratidale habitatten aangevoerd . 
+Vondstnummer 334 , 7 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage van 67 % marien-brakke soorten , 11 % zoet-brakke soorten en 7 % zoetwater soorten . 
+Cymatosira belgica is met 23 % de meest aangetroffen soort . 
+Campylosira cymbelliformis , Delphineis minutissima en D. surirella komen regelmatig in dit monster voor . 
+In de groep van zoet-brakke soorten komt Staurosira venter het meest voor . 
+Navicula gregaria en N. veneta zijn het meest aanwezig binnen de zoetwatergroep . 
+Paleo-ecologische interpretatie In totaal zijn 18 % zoet-brakke en zoetwaterdiatomeeën aangetroffen wat erop wijst dat het afzettingsmilieu in mindere mate door overstromingen vanuit de zee getroffen werd . 
+Het gaat hier waarschijnlijk om een inter- of supratidaal milieu dat wel regelmatig door het getij overstroomd werd . 
+Hierdoor bereiken de kustallochtone soorten meer dan 50 % van de diatomeeënassemblage . 
+Vondstnummer 334 , 26 cm Diatomeeënassemblage Dit monster bevat een gemengde diatomeeënassemblage van 44 % marien-brakke soorten , 26 % zoet-brakke soorten en 24 % zoetwater soorten . 
+Ongeveer 6 % van de schaaltjes kon niet tot de soort geïdentificeerd worden . 
+Binnen de marien-brakke groep zijn er verschillende soorten die in ongeveer gelijke frequenties voorkomen : 21 / 32 TNO-rapport | TNO-060-UT-2012-00209 Ctenophora pulchella , Cymatosira belgica , Delphineis minutissima , D. surirella , Paralia sulcata en Thalassiosira oestrupii . 
+Navicula phyllepta en N. salinarum zijn de meest aangetroffen soorten binnen de zoet-brakke groep en binnen de zoetwatergroep zijn dat Cocconeis placentula en Navicula gregaria . 
+Paleo-ecologische interpretatie Dit monster werd zeker in een supratidaal milieu ( kwelder ) afgezet wat door de hoge percentages zoet-brakke en zoetwaterdiatomeeën ( samen rond 50 % ) aangetoond wordt . 
+Dit milieu werd wel af en toe vanuit de zee overstroomd wat leidde tot de aanvoer en afzetting van kustallochtone diatomeeën ( ca . 
+30 % ) . 
+Vondstnummer 334 , 40 cm Diatomeeënassemblage Dit monster bevat een diatomeeënassemblage bestaande uit 91 % marien-brakke soorten , 1 % zoet-brakke soorten en 3 % zoetwater soorten . 
+De meest dominante soort is hier de kustallochtone soort Hyalodiscus radiatus gevolgd door Delphineis surirella en Paralia sulcata . 
+Cymatosira belgica en Pseudostaurosira westii komen eveneens regelmatig in dit monster voor . 
+Paleo-ecologische interpretatie Het onderste monster van vondst 334 bevat vooral marien-brakke soorten , waaronder meer dan 80 % kustallochtone soorten . 
+Dit wijst erop dat dit monster in een mariene kreek of geul werd afgezet . 
+Kleine hoeveelheden zoet-brakke en zoetwatersoorten zijn uit de omgeving aangespoeld . 
+22 / 32 TNO-rapport | TNO-060-UT-2012-00209 4 Conclusies Van de 35 onderzochte grondmonsters van de opgraving Maassluis bevatten 27 een voldoende aantal diatomeeënschalen voor een scan , d.w.z . 
+om een uitspraak te doen over het afzettingsmilieu . 
+Bijna alle monsters bevatten een marien-brakke diatomeeënassemblage . 
+Deze soorten hebben hun verspreidingspreferentie in marien-brakke wateren maar zij kunnen door het getij ook op landinwaarts gelegen locaties aangevoerd worden , bijvoorbeeld via geulen of kreken . 
+Het voorkomen van marien-brakke soorten , in het bijzonder van de kustallochtone soorten , op archeologische locaties in de kustgebieden toont dus aan dat de zee een grote invloed had op deze locaties . 
+Afhankelijk van de soortsamenstelling en de levensvorm ( planktisch , benthisch , tychoplanktisch ) van de aangetroffen soorten van een diatomeeënassemblage kan men een uitspraak doen over het waarschijnlijke sedimentaire afzettingsmilieu ( Vos & De Wolf , 1993 ) . 
+Van de onderzochte monsters bevatten 21 monsters minimaal 80 % marien-brakke soorten ( Bijlagen 1 en 2 ) waarvan de meeste soorten tot het marien-brakke plankton of tychoplankton behoren . 
+Deze monsters werden zeer waarschijnlijk in een subtidaal milieu afgezet : in de open zee of in mariene of estuariene geulen . 
+Zes monsters ( vondsten 67-33 , 223-32 , 229-28 , 331-32 , 334-7 , 334-26 ) bevatten echter een duidelijk lager percentage marien-brakke soorten en in plaats hiervan een hoger percentage zoet-brakke en zoetwatersoorten ( Bijlagen 1 en 2 ) . 
+In de genoemde zes monsters is dit percentage tussen 17 % en 50 % . 
+Deze monsters werden waarschijnlijk op inter- of supratidale locaties afgezet : op zand- of moddervlaktes ( waddenmilieus ) of in habitatten op kwelders . 
+Deze locaties werden echter af en toe vanuit de zee overstroomd wat leidde tot aanvoer van kustallochtone soorten en vervolgens een ( deels enorme ) verdunning van het autochtone diatomeeënsignaal . 
+Bijzondere aandacht verdienen de vondsten ( profielen ) waaruit drie of vier monsters onderzocht werden : dit zijn vondst 328 ( monster op 11 , 16 , 22 en 35 cm diepte ) en vondst 334 ( monsters op 7 , 26 en 40 cm diepte ) . 
+De vier monsters van vondst 328 hebben een zeer hoog percentage marien-brakke diatomeeën en er kan ervan uitgegaan worden dat deze monsters in een subtidaal milieu ( geul of kreek ) werden afgezet . 
+Alleen monster 328-35 bevat een verhoogd percentage zoetwatersoorten ( 9 % ) wat zo geïnterpreteerd wordt dat tijdens de afzetting van dit monster aanvoer van zoet-brakke en zoetwaterdiatomeeën uit de omgeving plaatsvond . 
+Profiel 334 laat een overgang zien van een subtidaal marien-brak afzettingsmilieu ( monster 334-40 ) naar een inter- of zelfs supratidaal milieu ( monsters 334-26 en 334-7 ) waarin veel zoet-brakke en zoetwaterdiatomeeën werden afgezet . 
+Echter had de zee ook hier een duidelijke invloed op de site , aangetoond door de aangetroffen kustallochtone soorten . 
+23 / 32 TNO-rapport | TNO-060-UT-2012-00209 5 Literatuur Battarbee , R.W . 
+( 1973 ) A new method for estimation of absolute microfossil numbers , with reference especially to diatoms . 
+Limnology and Oceanography 18 , 647-653 . 
+Cremer , H. ( 2008 ) Diatomeeenonderzoek van aardewerkscherven . 
+In : H. Koot , L. Bruning , R.A . 
+Houkes ( red . ) 
+Ypenburg-locatie 4 . 
+Een nederzetting met grafveld uit het midden-neolithicum in het west-Nederlandse kustgebied . 
+Hazenberg Archeologie , Leiden , 203-212 . 
+Cremer , H. , Bunnik , F. , Donders , T. , Koolmees , H. ( 2009 ) Kiezelalgen documenteren historische waterkwaliteit van diepe meren . 
+H2O 1-2009 , 27-30 . 
+Cremer , H. Kirilova , E. , Koolmees , H. ( 2010 ) Waterkwaliteit van meren langs de Diefdijk vanaf 1500 . 
+H2O 22-2010 , 30-33 . 
+Juggins , S. , Cameron , N.G . 
+( 2010 ) Diatoms and archeology . 
+In : J.P . 
+Smol , E.F . 
+Stoermer ( eds . ) 
+The Diatoms : Applications for the Environmental and Earth Sciences . 
+Second Edition . 
+Cambridge University Press , Cambridge , 514-522 . 
+Smol , J.P. , Stoermer , E.F . 
+( 2010 ) The Diatoms : Applications for the Environmental and Earth Sciences . 
+Second Edition . 
+Cambridge University Press , Cambridge , 667 pp . 
+Vos , P.C. , De Wolf , H. ( 1993 ) Diatoms as a tool for reconstructing sedimentary environments in coastal wetlands ; methodological aspects . 
+Hydrobiologia 269/270 , 285-296 . 
+24 / 32 25 / 32 TNO-rapport | TNO-060-UT-2012-00209 6 Bijlagen 67-33 172-10 172-30 178-25 179-20 180-25 204-22 223-41 225-32 229-28 315-35 327-27 Marien-brakke soorten Actinoptychus senarius Actinoptychus splendens Anaulus balticus Campylosira cymbelliformis Catenula adhaerens Chaetoceros resting spores Ctenophora pulchella Cyclotella litoralis Cyclotella striata Cymatosira belgica Delphineis minutissima Delphineis surirella Dimeregramma minor Diploneis aestuari Diploneis interrupta Diploneis smithii Fallacia pygmaea Fragilaria cassubica Fragilaria sopotensis Hyalodiscus radiatus Hyalodiscus scoticus Navicula palpebralis var . 
+angulosa Navicula peregrina Nitzschia sigma Martyana schulzii Odontella aurita Odontella rhombus Opephora krumbeinii Opephora mutabilis Ophephora burchardtiae Paralia sulcata Petroneis marina Plagiogramma staurophorum Plagiogrammopsis vanheurckii Pseudopodosira westii Raphoneis amphiceros Thalassionema nitzschioides Thalassiosira decipiens Thalassiosira eccentrica Thalassiosira oestrupii 34-39 Diatomeeënsoort 20-38 Bijlage 1 . 
+Diatomeeëntellingen in de diatomeeën bevattende monsters van de opgraving Maassluis ( zie ook tabel 1 ) . 
+Per monster werden precies 100 schalen geteld . 
+Voorbeeld benaming monsters : 20-38 betekent vondstnummer 20 en diepte 38 cm . 
+0 0 0 1 0 0 0 0 1 16 33 10 0 0 0 0 6 0 0 0 0 0 0 1 0 1 0 1 0 0 7 0 0 1 0 2 1 0 1 5 1 0 0 1 0 0 0 0 3 12 3 32 0 0 0 0 0 0 0 5 1 0 0 0 0 0 0 0 0 0 17 0 0 0 4 9 0 0 0 4 0 0 0 1 0 4 0 0 6 11 21 7 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 6 0 0 0 0 3 1 1 0 4 0 0 0 0 0 6 0 0 2 5 2 30 0 0 0 0 0 0 0 10 0 0 0 0 0 1 0 0 0 0 21 0 0 0 1 11 0 0 0 1 0 1 0 0 0 0 0 0 3 11 1 29 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 17 0 0 0 4 16 0 0 0 0 0 0 0 0 0 3 0 0 4 9 7 31 0 1 0 0 0 0 0 6 0 0 0 0 0 0 0 1 0 0 10 0 0 0 0 15 0 0 0 1 3 0 0 1 0 1 0 0 4 20 8 17 0 1 0 1 1 0 0 6 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 5 2 0 0 3 0 0 0 2 0 4 0 0 1 19 9 22 0 2 0 0 0 0 0 7 0 0 0 0 0 0 0 1 0 0 10 0 0 0 0 10 0 0 1 1 1 0 0 0 0 0 0 0 2 15 1 12 0 1 0 0 0 0 0 20 0 0 0 0 0 0 0 0 0 0 19 0 0 0 4 2 0 0 0 0 0 0 0 2 0 3 0 0 4 7 4 23 0 1 0 0 0 0 0 7 0 0 0 0 1 0 0 0 0 0 23 0 0 0 3 9 0 0 0 1 0 0 0 0 0 0 0 0 2 13 5 19 0 0 0 1 0 0 0 7 0 0 0 0 0 0 0 0 0 0 14 0 0 0 3 5 0 0 0 0 0 0 0 0 0 2 0 0 1 1 0 8 0 0 0 1 0 0 3 22 0 0 0 0 0 0 0 0 0 0 10 0 0 0 7 4 0 0 0 0 0 0 0 0 0 5 0 0 2 7 0 13 1 0 0 0 0 0 0 19 0 0 0 0 0 0 0 0 0 0 25 0 0 0 11 8 0 0 0 0 0 1 0 1 0 1 0 0 3 5 7 15 0 1 4 0 0 0 0 19 0 0 0 0 0 1 0 0 0 0 17 0 0 0 4 6 2 0 0 3 26 / 32 20-38 34-39 67-33 172-10 172-30 178-25 179-20 180-25 204-22 223-41 225-32 229-28 315-35 327-27 TNO-rapport | TNO-060-UT-2012-00209 Thalassiosira proschkinae Thalassiosira pseudonana Trachyneis aspera Triblionella coarctata Triblionella levidensis Tryblionella navicularis Totaal marine-brakke soorten 0 0 0 0 0 0 87 0 0 0 0 0 1 93 0 0 0 0 0 0 67 0 0 0 0 0 0 90 0 0 0 0 0 0 99 0 0 0 2 0 0 90 0 0 0 0 1 0 87 0 0 1 0 0 0 90 0 0 0 0 0 3 80 0 0 0 0 0 3 91 0 0 0 0 0 4 73 0 0 0 0 0 9 68 0 0 0 0 0 1 92 0 0 0 0 0 0 90 Zoet-brakke soorten Anomoeoneis sphaerophora Cyclotella meneghiniana Navicula cincta Navicula phyllepta Navicula salinarum Nitzschia constricta Nitzschia commutata Nitzschia filiformis Nitzschia frustulum var . 
+inconspicua Nitzschia hungarica Planothidium delicatulum Planothidium lanceolatum s.l . 
+Planothidium rostratum Pseudostaurosira brevistriata Rhoicosphenia abbreviata Rhopalodia brebissonii Staurosira construens var . 
+binodis Staurosira construens Staurosira venter Staurosirella pinnata Surirella brebissonii var . 
+kuetzingii Tabularia fasciculata Thalassiosira visurgis Totaal zoet-brakke soorten 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 2 0 0 1 5 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 2 0 0 10 0 0 0 0 0 0 0 0 0 0 1 0 0 0 3 0 0 0 0 0 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 6 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 4 0 2 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 19 1 0 1 0 0 0 0 0 0 0 0 0 0 0 4 2 0 0 0 0 0 0 0 8 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 Zoetwater soorten Achnanthidium linearoides Achnanthidium minutissimum Amphora copulata Amphora pediculus Aulacoseira ambigua Aulacoseira granulata Cocconeis neodiminuta Cocconeis pediculus Cocconeis placentula s.l . 
+Cyclostephanos invisitatus Cyclotella cyclopuncta Cyclotella ocellata Cymbella cistula 0 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 2 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 1 Diatomeeënsoort 27 / 32 20-38 34-39 67-33 172-10 172-30 178-25 179-20 180-25 204-22 223-41 225-32 229-28 315-35 327-27 TNO-rapport | TNO-060-UT-2012-00209 Diatoma moniliformis Diatoma tenuis Eolimna minima Epithemia adnata Epithemia sorex Eunotia minor Fallacia oculiformis Fragilaria famelica Fragilariforma bicapitata Gomphonema angustum Gomphonema pumilum Gomphonema truncatum Hannaea arcus Hippodonta hungarica Lemnicola hungarica Luticola mutica Meridion circulare Navicula cryptocephala Navicula erifuga Navicula gregaria Navicula perminuta Navicula veneta Nitzschia frustulum Nitzschia microcephala Nitzschia palea Pinnularia viridis Pseudostaurosira elliptica Puncticulata radiosa Reimeria sinuata Surirella biseriata Ulnaria ulna Totaal zoetwater soorten 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 2 2 0 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 7 Soorten indet . 
+Achnanthes s.l . 
+indet . 
+Amphora indet . 
+Aulacoseira indet . 
+Caloneis indet . 
+Centrales indet . 
+Cocconeis indet . 
+Cyclotella s.l . 
+indet . 
+Cymbella s.l . 
+indet . 
+Delphineis indet . 
+Diploenis indet . 
+Fragilaria ( kleine soorten ) indet . 
+Fragilaria indet . 
+Gomphonema indet . 
+Gyrosigma indet . 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 4 1 2 0 0 1 0 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 Diatomeeënsoort 28 / 32 67-33 172-10 172-30 178-25 179-20 180-25 204-22 223-41 225-32 229-28 315-35 327-27 Navicula s.l . 
+indet . 
+Neidium indet . 
+Nitzschia indet . 
+Pennales indet . 
+Pinnularia indet . 
+Rhopalodia indet . 
+Small Navicula indet . 
+Stauroneis indet . 
+Surirella indet . 
+Thalassiosira indet . 
+Totaal soorten indet . 
+34-39 Diatomeeënsoort 20-38 TNO-rapport | TNO-060-UT-2012-00209 0 0 0 1 0 0 0 0 1 1 3 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 1 0 0 0 0 1 3 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 2 3 0 1 0 0 2 0 0 0 1 10 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 3 1 0 0 0 0 0 0 0 0 0 3 2 0 0 0 1 0 0 0 0 0 5 2 0 0 0 1 0 0 0 0 0 15 3 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 1 29 / 32 TNO-rapport | TNO-060-UT-2012-00209 329-5 329-34 330-19 331-17 331-32 333-6 334-7 0 1 0 0 0 5 0 0 2 18 4 12 0 0 0 0 0 1 0 6 0 0 0 0 0 0 0 0 0 0 30 0 0 0 7 7 1 0 3 0 0 0 0 0 0 2 0 2 0 0 0 33 15 13 3 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 5 0 0 1 0 7 1 0 0 1 1 5 0 0 0 4 0 3 0 0 0 23 4 6 3 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 4 0 0 1 0 1 0 0 0 1 6 25 3 0 0 1 0 1 0 0 1 16 2 38 0 0 0 0 0 0 0 4 0 0 0 0 0 0 1 0 0 0 14 0 1 0 1 10 1 0 0 0 1 0 0 0 0 1 0 4 0 0 2 15 6 30 0 1 0 2 0 0 0 7 0 0 0 0 0 0 0 0 0 0 14 0 0 0 1 12 0 0 0 1 0 0 0 0 2 1 0 1 0 2 3 26 7 23 0 1 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 6 0 0 0 1 8 0 0 0 0 0 0 0 0 0 1 1 3 1 0 1 17 16 25 1 1 0 0 1 0 0 2 0 0 0 0 0 0 0 0 0 0 10 0 0 0 1 8 1 0 1 1 0 0 1 0 0 1 0 3 0 0 0 12 23 15 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 0 2 1 0 1 5 0 0 0 0 0 1 0 4 0 0 0 25 18 13 0 0 0 0 2 0 0 2 0 1 1 0 0 1 0 0 0 0 5 0 0 2 0 2 4 0 1 1 0 0 0 0 0 8 0 0 1 0 0 23 7 8 0 0 0 0 2 0 0 2 0 0 0 0 0 1 0 0 1 0 1 0 0 2 0 2 2 0 0 3 2 2 0 0 0 1 0 1 5 0 0 8 4 3 0 0 0 1 0 0 0 3 0 0 0 1 0 0 0 0 0 0 6 0 0 0 1 0 0 0 1 6 1 2 334-40 328-35 2 1 0 0 0 4 0 0 2 25 5 15 1 0 0 0 0 0 0 5 0 0 0 0 0 1 0 0 0 0 24 0 0 0 3 5 0 0 2 3 0 0 334-26 328-22 Marien-brakke soorten Actinoptychus senarius Actinoptychus splendens Anaulus balticus Campylosira cymbelliformis Catenula adhaerens Chaetoceros resting spores Ctenophora pulchella Cyclotella litoralis Cyclotella striata Cymatosira belgica Delphineis minutissima Delphineis surirella Dimeregramma minor Diploneis aestuari Diploneis interrupta Diploneis smithii Fallacia pygmaea Fragilaria cassubica Fragilaria sopotensis Hyalodiscus radiatus Hyalodiscus scoticus Navicula palpebralis var . 
+angulosa Navicula peregrina Nitzschia sigma Martyana schulzii Odontella aurita Odontella rhombus Opephora krumbeinii Opephora mutabilis Ophephora burchardtiae Paralia sulcata Petroneis marina Plagiogramma staurophorum Plagiogrammopsis vanheurckii Pseudopodosira westii Raphoneis amphiceros Thalassionema nitzschioides Thalassiosira decipiens Thalassiosira eccentrica Thalassiosira oestrupii Thalassiosira proschkinae Thalassiosira pseudonana 328-16 Diatomeeënsoort 328-11 Bijlage 2 . 
+Diatomeeëntellingen in de diatomeeën bevattende monsters van de opgraving Maassluis ( zie ook tabel 1 ) . 
+Per monster werden precies 100 schalen geteld . 
+Voorbeeld benaming monsters : 328-11 betekent vondstnummer 328 en diepte 11 cm . 
+0 2 0 0 0 1 0 0 3 6 3 16 0 0 0 0 0 0 0 26 0 0 0 0 0 0 0 0 0 0 17 1 0 0 8 4 1 0 0 0 1 0 30 / 32 328-11 328-16 328-22 328-35 329-5 329-34 330-19 331-17 331-32 333-6 334-7 334-26 334-40 TNO-rapport | TNO-060-UT-2012-00209 Trachyneis aspera Triblionella coarctata Triblionella levidensis Tryblionella navicularis Totaal marine-brakke soorten 0 1 0 0 99 0 0 0 1 98 0 2 0 0 93 0 0 1 0 84 0 1 0 0 96 0 0 0 0 96 0 0 0 1 86 0 0 0 0 92 0 0 1 0 70 0 0 0 0 83 0 0 0 0 67 0 0 0 0 44 0 0 0 2 91 Zoet-brakke soorten Anomoeoneis sphaerophora Cyclotella meneghiniana Navicula cincta Navicula phyllepta Navicula salinarum Nitzschia constricta Nitzschia commutata Nitzschia filiformis Nitzschia frustulum var . 
+inconspicua Nitzschia hungarica Planothidium delicatulum Planothidium lanceolatum s.l . 
+Planothidium rostratum Pseudostaurosira brevistriata Rhoicosphenia abbreviata Rhopalodia brebissonii Staurosira construens var . 
+binodis Staurosira construens Staurosira venter Staurosirella pinnata Surirella brebissonii var . 
+kuetzingii Tabularia fasciculata Thalassiosira visurgis Totaal zoet-brakke soorten 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 0 0 0 3 0 0 2 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 2 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 5 3 0 0 3 14 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 2 6 0 0 1 0 2 1 0 0 0 0 0 0 0 0 1 0 0 0 4 0 1 1 0 11 0 0 2 6 4 1 0 2 2 0 2 0 0 0 3 0 0 0 0 1 0 3 0 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 Zoetwater soorten Achnanthidium linearoides Achnanthidium minutissimum Amphora copulata Amphora pediculus Aulacoseira ambigua Aulacoseira granulata Cocconeis neodiminuta Cocconeis pediculus Cocconeis placentula s.l . 
+Cyclostephanos invisitatus Cyclotella cyclopuncta Cyclotella ocellata Cymbella cistula Diatoma moniliformis 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Diatomeeënsoort 31 / 32 334-26 334-40 334-7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 1 2 0 0 0 1 0 0 0 0 0 0 9 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 2 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 2 0 2 0 0 0 0 0 0 0 0 11 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 7 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 4 0 4 0 1 1 0 0 0 0 0 0 18 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 2 2 0 5 2 2 0 0 0 0 0 0 0 0 3 24 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 3 Soorten indet . 
+Achnanthes s.l . 
+indet . 
+Amphora indet . 
+Aulacoseira indet . 
+Caloneis indet . 
+Centrales indet . 
+Cocconeis indet . 
+Cyclotella s.l . 
+indet . 
+Cymbella s.l . 
+indet . 
+Delphineis indet . 
+Diploenis indet . 
+Fragilaria ( kleine soorten ) indet . 
+Fragilaria indet . 
+Gomphonema indet . 
+Gyrosigma indet . 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 2 0 0 0 333-6 331-32 331-17 330-19 329-34 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 329-5 328-35 328-22 328-16 Diatoma tenuis Eolimna minima Epithemia adnata Epithemia sorex Eunotia minor Fallacia oculiformis Fragilaria famelica Fragilariforma bicapitata Gomphonema angustum Gomphonema pumilum Gomphonema truncatum Hannaea arcus Hippodonta hungarica Lemnicola hungarica Luticola mutica Meridion circulare Navicula cryptocephala Navicula erifuga Navicula gregaria Navicula perminuta Navicula veneta Nitzschia frustulum Nitzschia microcephala Nitzschia palea Pinnularia viridis Pseudostaurosira elliptica Puncticulata radiosa Reimeria sinuata Surirella biseriata Ulnaria ulna Totaal zoetwater soorten Diatomeeënsoort 328-11 TNO-rapport | TNO-060-UT-2012-00209 32 / 32 Navicula s.l . 
+indet . 
+Neidium indet . 
+Nitzschia indet . 
+Pennales indet . 
+Pinnularia indet . 
+Rhopalodia indet . 
+Small Navicula indet . 
+Stauroneis indet . 
+Surirella indet . 
+Thalassiosira indet . 
+Totaal soorten indet . 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 2 1 0 2 0 0 0 0 2 0 0 5 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 3 1 1 0 0 0 0 2 0 0 0 5 0 0 0 0 0 0 0 0 0 1 4 1 0 2 0 0 0 0 0 0 0 4 0 0 5 0 0 0 0 0 0 0 6 334-40 334-26 334-7 333-6 331-32 331-17 330-19 329-34 329-5 328-35 328-22 328-16 Diatomeeënsoort 328-11 TNO-rapport | TNO-060-UT-2012-00209 1 0 0 0 0 0 0 0 0 0 5 

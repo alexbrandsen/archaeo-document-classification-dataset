@@ -1,0 +1,422 @@
+Rhenen , Cuneralaan ( gemeente Rhenen ) Een archeologisch bureauonderzoek Definitief Omgevingsdienst regio Utrecht ODRU Erfgoed rapport 15 ODRU Projectnummer : RHE1209.T001 opgesteld door Mevr . 
+M.C . 
+Houkes & dhr . 
+B. Rietberg beoordeeld door Dhr . 
+P. C. de Boer Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Colofon Titel : Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Een archeologisch bureauonderzoek . 
+Opgesteld door : Omgevingsdienst regio Utrecht Plaats en datum : Zeist , 2 november 2012 Rapportnummer : : ODRU Erfgoed rapport 15 Status : Definitief Afbeelding voorblad : Ansichtkaart : http : //www.rhenen.nl/Smartsite.shtml ? id=65990 Opsteller Contactgegevens : : Mevr . 
+M.C . 
+Houkes Omgevingsdienst regio Utrecht Postbus 461 , 3700 AL Zeist Laan van Vollenhove 3211 , 3706 AR Zeist E : m.houkes @ odru.nl T : 030 – 69 99 509 F : 030 – 69 99 599 I : www.odru.nl Dhr . 
+B. Rietberg Adviesbureau Grebbelinie Suze Robertsonstraat 60 , 6717 VC Ede . 
+E : L.Rietberg @ tiscali.nl/info @ grebbelinie.nl T : 0318-785125 / 06-28769898 I : www.grebbelinie.nl Autorisatie senior Archeoloog Contactgegevens : Dhr . 
+P.C . 
+de Boer : Omgevingsdienst regio Utrecht Postbus 461 , 3700 AL ZEIST Laan van Vollenhove 3211 , 3706 AR ZEIST E : p.deboer @ odru.nl T : 030 – 69 99 562 F : 030 – 69 99 599 I : www.odru.nl © Omgevingsdienst regio Utrecht , gemeente Rhenen , Adviesbureau Grebbelinie , 2012 . 
+De Omgevingsdienst regio Utrecht en Adviesbureau Grebbelinie aanvaarden geen aansprakelijkheid voor eventuele schade voortvloeiende uit het gebruik van de resultaten van dit onderzoek of de toepassing van adviezen . 
+2 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Administratieve gegevens Provincie Gemeente Plaats Toponiem Kaartblad Coördinaten Kadastraal nr . Monumentnr . 
+Oppervlakte plangebied Hoogte maaiveld Opdrachtgever Utrecht Rhenen Rhenen Cuneralaan 39E NW : 168.261 ; 440.572 ZW : 168.258 ; 440.563 NO : 168.538 ; 440.436 ZO : 168.536 ; 440.428 3270 ; 3271 ; 3287 Niet van toepassing Circa 1.600 m2 Het maaiveld loopt af van 10,2 m NAP in het westen naar ongeveer 8,8 m NAP in het oosten . 
+Gemeente Rhenen , dhr . 
+B. Dijkerman Postbus 201 3910 AE Rhenen Uitvoerder Bevoegd Gezag Omgevingsdienst regio Utrecht Gemeente Rhenen Postbus 201 3910 AE Rhenen Huidig grondgebruik Historisch grondgebruik Geplande bestemming Onderzoeksaanmelding ( CIS-code ) Beheer en plaats documentatie Weg Weg Weg 54134 Omgevingsdienst regio Utrecht Postadres : Postbus 461 , 3700 AL Zeist Bezoekadres : Laan van Vollenhove 3211 , 3706 AR Zeist 3 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht INHOUDSOPGAVE INLEIDING ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 5 1.1 Aanleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 6 1.2 Doelstelling onderzoek ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..6 1.3 Onderzoeksmethodiek en richtlijnen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..7 2 . 
+BUREAUONDERZOEK ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 8 2.1 Plangebied ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..8 2.1.1 Beschrijving plangebied ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..8 2.1.2 Verwachte bodemingrepen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8 2.2 2.3 Resultaten ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9 2.2.1 Geo ( morfo ) logie en bodem ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9 2.2.2 Historie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 10 2.2.3 WOII ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 12 2.2.4 Historisch kaartmateriaal ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 14 2.2.5 Archeologie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 15 Gespecificeerde archeologische verwachting ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 17 3 . 
+CONCLUSIE EN AANBEVELINGEN ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 18 4 . 
+BRONNEN ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 19 Bijlage 1 : Voorlopig ontwerp herinrichting Cuneralaan ( bron : gemeente Rhenen ) . 
+Bijlage 2a : Tekstdeel Onderzoek WOII elementen plangebied Cuneralaan ( Rietberg 2012 ) Bijlage 2b : Luchtfoto april 1945 ( Rietberg 2012 ) 4 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht SAMENVATTING Aanleiding De gemeente Rhenen heeft in het kader van geplande werkzaamheden aan de Cuneralaan , aan de Omgevingsdienst regio Utrecht en Adviesbureau Grebbelinie opdracht verleend voor het uitvoeren van een archeologisch bureauonderzoek . 
+Conclusie Op basis van de archeologische waarnemingen in het gebied kunnen in ( de omgeving van ) het plangebied nederzettingsterreinen en graven uit het Neolithicum , de metaaltijden en de Romeinse tijd gelegen hebben . 
+Ook kunnen sporen uit de ( late ) Middeleeuwen verwacht worden . 
+De Cuneralaan zelf dateert waarschijnlijk uit de ( Late ) Middeleeuwen en is in ieder geval vanaf de vroege 19e eeuw continu op dezelfde locatie afgebeeld . 
+Daarom kunnen sporen van de eerdere fases van deze weg aangetroffen worden , zoals karrensporen en mogelijke aanverwante fenomenen . 
+Deze kunnen bijdragen aan het dateren van het ontstaan van deze weg . 
+In welke mate in het gebied resten van Nederlandse stellingen teruggevonden kunnen worden is onbekend , mogelijk betreft het ingrepen van geringe aard . 
+Sporen van Duitse stellingen bevinden zich in ieder geval zeer dicht tegen het plangebied aan en lopen mogelijk door tot in het plangebied . 
+In ieder geval is het mogelijk dat in het gebied sporen van gevechtshandelingen , zoals munitie et cetera , gevonden kunnen worden . 
+Aanbevelingen Aangezien de verwachte archeologische resten zich als een ‘ verstoring ’ in de boringen zullen laten zien is het niet aannemelijk dat een Inventariserend Veldonderzoek in de vorm van boringen deze resten in beeld kan brengen . 
+In het plangebied zijn mogelijk resten aanwezig uit de minder bekende periode van de Grebbelinie , de zogenaamde ‘ Pantherstellung ’ van 1944-1945 . 
+Archeologische begeleiding van de werkzaamheden in het plangebied zou een belangrijke bijdrage kunnen leveren aan onze kennis over deze fase in de Grebbelinie . 
+Daarnaast kan het onderzoek bijdragen aan de datering van het ontstaan van de Cuneralaan zelf . 
+Daarom adviseert de Omgevingsdienst regio Utrecht om de verbreding van het wegtracé archeologisch te laten begeleiden . 
+Dit onderzoek dient op basis van een door het bevoegd gezag goedgekeurd Programma van Eisen ( PvE ) te worden uitgevoerd . 
+5 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht INLEIDING 1.1 Aanleiding De gemeente Rhenen heeft in het kader van de geplande herinrichting van de Cuneralaan aan de Omgevingsdienst regio Utrecht opdracht gegeven tot het uitvoeren van een archeologisch bureauonderzoek . 
+Bij de voorgenomen plannen zijn bodemingrepen voorzien , waardoor mogelijk aanwezige archeologische waarden aangetast kunnen worden . 
+Het plangebied is gelegen aan de rand van een 1 archeologisch waardevol terrein in Rhenen . 
+Het gemeentelijke archeologisch beleid schrijft voor dat bij bodemingrepen binnen archeologisch waardevolle terreinen groter dan 100 m2 en dieper dan 30 cm beneden het maaiveld archeologisch onderzoek dient te worden uitgevoerd . 
+Op basis van het gemeentelijk beleid dient voor dit plangebied de Archeologische Monumentenzorg ( AMZ ) -cyclus van waardering en selectie te worden doorlopen . 
+De eerste stap in het kader van deze onderzoeksinspanning betreft het uitvoeren van een bureauonderzoek . 
+De resultaten van dit onderzoek en het advies met betrekking tot eventueel vervolgonderzoek staan beschreven in dit rapport . 
+1.2 Doelstelling onderzoek Het doel van een bureauonderzoek is het verwerven van informatie , aan de hand van beschikbare bronnen , over bekende of verwachte archeologische waarden binnen een plangebied , om daarmee te komen tot een gespecificeerde , archeologische verwachting . 
+Dit rapport bevat , waar mogelijk , gegevens over aan- of afwezigheid , aard , omvang , ouderdom , gaafheid , conservering en ( relatieve ) kwaliteit van archeologische waarden en aardwetenschappelijke eigenschappen . 
+Voorafgaand aan de uitvoering van dit bureauonderzoek zijn de volgende onderzoeksvragen opgesteld : 1 . 
+Wat is de bodemopbouw in het gebied en zijn er gegevens bekend over bodemverstorende ingrepen in het verleden binnen het plangebied ? 
+2 . 
+Worden binnen de grenzen van het plangebied archeologische resten verwacht ? 
+Zo ja , wat is de omvang , ligging , aard en datering van deze verwachte resten ? 
+3 . 
+In welke mate worden deze waarden verstoord door realisatie van de geplande bodemingreep ? 
+4 . 
+Hoe kan deze verstoring door planaanpassing tot een minimum worden beperkt ? 
+5 . 
+Welke vorm van nader onderzoek is nodig om de aanwezigheid van archeologische waarden en hun omvang , ligging , aard en datering voldoende te kunnen bepalen om te komen tot een selectiebesluit ? 
+Op basis van deze gegevens wordt een gespecificeerde archeologische verwachting opgesteld . 
+Ook worden aanbevelingen gedaan in relatie tot de mogelijke gevolgen van de voorgenomen bodemverstorende werkzaamheden . 
+Op basis daarvan kan een beslissing genomen worden ten aanzien van ( eventueel ) vervolgonderzoek . 
+1 Brugman e.a . 
+2011 . 
+6 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 1.3 Onderzoeksmethodiek en richtlijnen Het bureauonderzoek is uitgevoerd volgens de richtlijnen van de Kwaliteitsnorm Nederlandse Archeologie ( KNA , versie 3.2 . ) . 
+De werkzaamheden bestonden uit het verzamelen en raadplegen van onderstaande ( archeologische/geomorfologische en historische/geografische ) bronnen en kaarten . 
+De volgende bronnen zijn geraadpleegd : • Gemeentelijke archeologische waarden- en verwachtingenkaart ; • Indicatieve Kaart van Archeologische Waarden IKAW ( via Archis II ) ; • Archeologische Monumentenkaart AMK ( via Archis II ) ; • Landelijke archeologische database Archis II ; • Historische kaarten ( via watwaswaar.nl en www.hisgis.nl ) ; • Actueel Hoogtebestand Nederland ( via www.ahn.nl/viewer ) ; • Bodemkaart 1:50.000 ( De Mulder et al 2003 ) ; • Geomorfologische kaart 1:50.000 ( DLO-Staring Centrum / Rijks Geologische Dienst ) ; • Topografische kaart 1:25:000 ; • Relevante publicaties en literatuur ; • Milieukundige onderzoeken ( via het Geoloket van de ODRU ) . 
+7 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 2 . 
+BUREAUONDERZOEK De feitelijke informatie en onderzoeksresultaten staan beschreven in paragraaf 2.1 en paragraaf 2.2 . 
+Een interpretatie en analyse van de beschikbare gegevens , gericht op het formuleren van een gespecificeerde archeologische verwachting , is beschreven in paragraaf 2.3 . 
+2.1 Plangebied 2.1.1 Beschrijving plangebied Het plangebied is gelegen ten zuid ( oost ) en van de geplande woonwijk ‘ Vogelenzang ’ . 
+Het betreft het oostelijke meest smalle deel van het voor auto ’ s bereikbare gedeelte van de Cuneralaan , tot aan nummer 67 . 
+Het gebied wordt begrensd door de oeverzone van de Nederrijn aan de zuidzijde en braakliggend en bebouwd gebied aan de noordzijde ( zie fig . 
+2.1 ) . 
+Aan de oostzijde gaat de Cuneralaan over in een voor voertuigen gesloten fietspad langs de Grebbeberg . 
+Fig . 
+2.1 . 
+Overzicht van het plangebied ( bron : gemeente Rhenen ) . 
+2.1.2 Verwachte bodemingrepen De gemeente is voornemens om in verband met de bereikbaarheid bij hoogwater een deel van de Cuneralaan op te hogen . 
+Daarbij is tevens sprake van verbreding van de weg waarvoor een cunet wordt gegraven van ca . 
+0,75 m diepte . 
+Tevens worden kabels en leidingen verlegd en aangelegd waarbij graafwerkzaamheden plaatsvinden tot een diepte van circa 1,2 m ( zie bijlage 1 ) . 
+Delen van het plangebied zijn meegenomen in een milieukundig verkennend onderzoek . 
+Hierbij is een benzinepomp ten noorden van het plangebied als mogelijk verdachte locatie opgegeven , samen met een opgehoogd terrein . 
+Op basis van historisch onderzoek zijn enkele puntlocaties aangegeven als ‘ kalkzandsteenfabriek ’ . 
+Daaropvolgend is in het kader van de Wbb ten noorden van het huidige 8 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 2 plangebied een sanering uitgevoerd . 
+Binnen het plangebied zijn geen saneringen of andere recente verstoringen bekend . 
+2.2 Resultaten 2.2.1 Geo ( morfo ) logie en bodem Genese De gemeente Rhenen is gelegen aan de noordoever van de Nederrijn , op de zuidoostpunt van de Utrechtse Heuvelrug . 
+In landschappelijk opzicht behoort Rhenen tot het midden-Nederlandse zandgebied . 
+In het uiterste oosten ligt de Grebbeberg met aan de noordelijke zijde de Gelderse Vallei . 
+De Gelderse Vallei is het glaciale bekken dat behoort bij de stuwwal van de Utrechtse Heuvelrug . 
+Het gemeentelijk grondgebied ligt op een kruispunt van drie uiteenlopende natuurlijke landschappen . 
+Het betreft het centraal gelegen stuwwallandschap van de Utrechtse Heuvelrug , het dekzand- en veenlandschap van de Utrechts-Gelderse Vallei en het rivierlandschap van de Rijn . 
+Geomorfologie Het landschappelijk uiterlijk heeft grotendeels vorm gekregen in de voorlaatste ijstijd , het Saalien ( 370.000-130.000 jaar geleden ) . 
+In die periode bereikte het Scandinavische landijs midden-Nederland en werden de onderliggende sedimenten opgeduwd tot stuwwallen met een hoogte vanaf enkele tientallen meters tot circa 200 meter . 
+Rhenen zelf ligt op de zuidelijke flank van een dergelijke stuwwal . 
+Tijdens de laatste ijstijd , het Weichselien , bereikte het landijs Nederland niet , maar heerste hier wel een droog en koud , zogenaamd periglaciaal klimaat . 
+Onder deze condities werd onder invloed van de wind een glooiende deken zand tegen de stuwwallen neergelegd , het zogenaamde dekzand . 
+Gedurende het huidige geologische tijdvak , het Holoceen ( circa 10.000 jaar geleden tot nu ) vond opwarming van het klimaat plaats . 
+Rivieren voerden ( smelt ) water af en kregen een meanderend karakter waarbij de onderliggende oude riviervlakte werd ingesneden . 
+Op de zandige terrassen werd hierbij een laag kleiige sedimenten afgezet ( bekend als de laag van Wijchen ) . 
+Onder invloed van de ( snelle ) zeespiegelstijging steeg ook het grondwater en kon op verschillende plaatsen op de laag van Wijchen vervolgens veenvorming plaatsvinden . 
+Ten slotte werden onder invloed van de mens in de Late Middeleeuwen en daarna zogenaamde stuifzanden gevormd , hoofdzakelijk als gevolg van verstoring van de bestaande natuurlijke vegetatie in de voormalige dekzandgebieden . 
+Fig . 
+2.2 . 
+Uitsnede uit de geomorfologische kaart ( Bron : Archis II ) . 
+Zoals aangegeven maakt het plangebied deel uit van de Utrechtse Heuvelrug , gelegen op de zuidelijke flank van de stuwwal , op de grens met het rivierenlandschap van de Rijn . 
+Het gebied maakt deel uit van een zone die op de geomorfologische kaart staat aangegeven als ‘ dijk ’ ( 3L15 , in fig . 
+2.2 ) . 
+Ten zuiden bevindt zich de rivier met de uiterwaarden in geel . 
+Ten noorden is een groeve aangegeven 2 Bron : Geoloket . 
+Verkennende onderzoeken uit 1997 en 2002 . 
+Sanering 2005 . 
+9 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht in het gebied van de hoge stuwwal ( D3 , in fig . 
+2.2 ) , de ondergrond bestaat ter plaatse uit gevarieerde lagen van gestuwde zanden , grindbanken en leemlagen . 
+De roodbruine strook betreft de door de rivier geërodeerde stuwwalzijde , aangewezen als aardkundig monument . 
+Bodem Op de bodemkaart is het plangebied inclusief het ten noorden gelegen gebied aangegeven als groeve . 
+Ten oosten van de groeve bestaat de bodem uit grofzandige holtpodzolgronden . 
+Dit betekent dat de bovenlaag bestaat uit een bosstrooisellaag . 
+Ten zuiden van het plangebied is sprake van kalkhoudende ooivaaggronden ( zware zavel en lichte klei ) , voorkomend op de hoger gelegen stroomruggen . 
+De rivierklei van de Nederrijn stroomgordel is afgezet tot tegen de flanken van de stuwwal . 
+De grondwatertrap in het gebied is VII . 
+Dat wil zeggen dat de gemiddeld hoogste grondwaterstand hier van nature meer dan 1,4 m beneden het maaiveld ligt , terwijl de gemiddeld laagste grondwaterstand meer dan 1,6 m beneden het maaiveld ligt . 
+Op het AHN is zichtbaar dat het maaiveld ter plaatse afloopt van circa 10,2 m NAP in het westen tot 8,8 m NAP in het oosten . 
+De huidige Cuneralaan heeft een hoogte van ongeveer rond de 10,5 m NAP . 
+De groeve heeft een huidige hoogte van rond de 7 m NAP , terwijl de stuwwal snel oploopt tot een hoogte boven de 50 m NAP . 
+Verlegging van de Rijnloop De zuidgrens van de gemeente wordt bepaald door de huidige loop van de Rijn en de daaraan grenzende uiterwaarden . 
+Uit historische bronnen is bekend dat de Rijn tot ca . 
+1200 AD veel verder zuidelijk heeft gestroomd . 
+Zowel de Marspolder als de polder Lede en Oudewaard , die nu aan de overzijde van de Rijn in de provincie Gelderland liggen , behoorden in die tijd tot het gebied van de stad Rhenen en tot het bisschoppelijke Sticht . 
+2.2.2 Historie 3 Ontstaan Er wordt algemeen aangenomen dat Rhenen al als ‘ Grinnes ’ door de Romeinen werd genoemd . 
+De oudste , met zekerheid vaststaande historische vermelding van Rhenen dateert uit 855 . 
+Er was toen nog vrijwel uitsluitend sprake van een agrarische gemeenschap . 
+Tot dusverre vormt de aanwezigheid van een zegel uit 1258 , met als randschrift ‘ sigillum burgensium de Rene ’ - ‘ het zegel van de burgers van Rhenen ’ , de meest concrete aanwijzing dat Rhenen rond het midden van de 13e eeuw als stad dient te worden beschouwd . 
+Pas in 1346 werd de stad ommuurd : bisschop Jan van Arkel bekostigde deze dure operatie uit eigen middelen . 
+Rhenen kwam door de verlegging van de Rijnloop begin 13e eeuw direct aan de rivier te liggen en werd daarmee een handelsplaats . 
+De stad lag als een strategische voorpost van de bisschoppen van e het Sticht tegenover de hertogen van Gelre . 
+Met het kasteel Ter Horst ( 12 eeuw ) kreeg Rhenen een vooruitgeschoven bewaking . 
+Na 1346 kreeg Rhenen een ovaalvormige ommuring met stadspoorten , waarbij de heerweg de centrale as werd . 
+Haaks daarop , vanaf de Rijn , kwam langs de Rijnstraat een handelswijk tot ontwikkeling . 
+Na diverse Gelderse verwoestingen en na inname van de stad in 1499 liet bisschop David van Bourgondië de bisschoppelijke tol naar zijn residentie Wijk bij Duurstede verplaatsen . 
+De handel liep terug en alleen de Cunera-verering hield de stad als pelgrimsoord nog in stand , met de bouw van de Cuneratoren tussen 1492- 1531 als letterlijk hoogtepunt . 
+Toen werd Rhenen ook als oostelijke vestingstad van het Sticht niet meer interessant en verviel geleidelijk aan de 4 ommuring . 
+Cunera Met de Merovingische Franken komt het Christendom in de 6e eeuw vanuit het zuiden naar Midden3 Informatie afkomstig uit Blijdenstijn 2007 , Vredenberg ( red ) 2008 , Brugman , e.a . 
+2011 . 
+Onlangs kon bij archeologisch onderzoek door ADC ArcheoProjecten in het kader van het nieuwbouwproject ‘ Binnenstad-Oost - Het Rhenense Hof ’ de ontmantelingstadia van de stadsmuur voor het eerst worden gedocumenteerd ( Halverstad in prep . ) . 
+4 10 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Nederland . 
+Rond dezelfde tijd komen Engelse monniken , waaronder Willibrord , het christelijk geloof verspreiden . 
+De overlevering wil dat Willibrord , nadat hij in 695 tot aartsbisschop der Friezen was gewijd , rond 700 na Chr . Cunera heilig heeft verklaard . 
+Volgens de legende was Cunera een Engelse koningsdochter die in 337 samen met de heilige Ursula en een grote groep maagden op bedevaart naar Rome ging . 
+Op de terugweg werden zijn bij Keulen door de Hunnen vermoord . 
+Alleen Cunera overleefde het drama . 
+Zij werd in bescherming genomen door een heidense koning , de koning van de Rijn , die zetelde in Rhenen . 
+De echtgenote van de koning was niet gecharmeerd van deze zonderlinge indringster en wurgde haar met Cunera ’ s eigen sjaal ( ‘ dwale ’ ) toen de koning van huis was . 
+Toen de misdaad aan het licht kwam liet de koning het lichaam van Cunera herbegraven . 
+Op het graf van Cunera geschiedden allerlei wonderen . 
+Ten tijde van de heiligverklaring wordt het graf geopend en het lichaam wordt bijgezet in de Rhenense Pieterskerk , die sindsdien aan de heilige Cunera is gewijd . 
+Historische wegenstructuur De twee oudste hoofdwegen die in oost-west richting door de gemeente Rhenen lopen zijn de huidige Cuneraweg en de huidige N225 . 
+De Cuneraweg loopt langs de oostflank van de Heuvelrug tot aan Prattenburg . 
+Nadat Utrecht in 936 onderdeel ging uitmaken van het Oost-Frankische of Duitse Rijk moest de bisschop regelmatig voor overleg met de koning naar Keulen afreizen . 
+Het deel tussen Utrecht en Rhenen is de oudste weg ( de ‘ Heerweg ’ ) van de provincie en volgde tussen Doorn en Rhenen ongeveer het huidige tracé van de N225 . 
+De weg bestond uit een bovenweg en een zuidelijke , evenwijdig lopende , benedenweg . 
+De benedenweg verbond als een kerkweg de verschillende dorpen met elkaar en ontwikkelde zich later tot de belangrijkste route . 
+Ten oosten van Rhenen wordt de huidige Grebbeweg/Herenstraat/Utrechtsestraatweg/Rijksstraatweg ( N225 ) in deze periode eveneens als hoofdroute aangegeven , waarbij de Cuneralaan waarschijnlijk als benedenweg 5 fungeerde . 
+Heimenberg Eén van de archeologische terreinen in Rhenen met een complexdatering in de Vroege Middeleeuwen is het terrein met resten van een walburg op de Heimenberg , nu beter bekend als de Grebbeberg ( AMK-terrein 1.138 ; wettelijk beschermd monument ) . 
+Het terrein ligt op een strategische locatie op het uiteinde van de Utrechtse Heuvelrug met uitzicht over de Rijn en het omliggende land . 
+Het aardwerk e heeft zijn oorsprong tussen 650 en 710 na Chr . en is in fasen opgehoogd , tot in de 12 eeuw . 
+Wie de versterking heeft aangelegd is niet met zekerheid te zeggen . 
+Vanuit de walburg kan het transport over de Rijn ( of over de Heuvelrug ? ) 
+zijn gecontroleerd en de activiteiten aan de overzijde van de rivier in de gaten gehouden . 
+Ook kan het complex dienst hebben gedaan als versterkte residentie van een lokaal vorst , of als wijkplaats voor de lokale bevolking ten tijde van onrust en oorlog . 
+Landschap De hoge stuwwalplateaus en stuwwalflanken waren tot ver in de 19e eeuw hoofdzakelijk bedekt met heide . 
+Slechts op enkele plaatsen werd de heide afgewisseld door kleine percelen eikenhakhout . 
+Tussen de 15e en 20e eeuw zijn de heidevelden op de stuwwal zeer intensief begraasd door schaapskudden . 
+Als herinnering hieraan zien we onderaan de stuwwalflanken nog op diverse plaatsen oude schaapskooien staan . 
+In de directe omgeving van het plangebied staan op de kaart van 1830-1850 geen schaapskooien aangegeven . 
+Na het verdwijnen van de schapenteelt en de daarmee samengaande privatisering van het grondbezit zijn grote delen van de vroegere heidevelden in de 19e e en 20 eeuw beplant met productiebos . 
+Grebbelinie De naam ‘ Grebbelinie ’ werd voor het eerst gebruikt in een rapport uit 1701 over de mogelijkheden van gecontroleerde inundaties in de Gelderse Vallei . 
+In 1741 werd het onderzoek vervolgd en werden plannen gemaakt voor een stelsel van dijken , kommen , kaden , versterkingen , sluizen en duikers . 
+In de eerste fase werd de liniedijk aangelegd ( vanaf 1744 ) , die de bestaande 17e-eeuwse Slaperdijk bij 5 Blijdenstijn 2007 , 85 e.v . 
+11 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Veenendaal verbond met de Eemdijk bij Amersfoort . 
+Aan de oostzijde van de dijk zouden de inundaties moeten plaatsvinden . 
+De Grebbeberg werd voorzien van een Hoornwerk bij de Grebbesluis . 
+Om te voorkomen dat het water zou wegstromen naar de Zuiderzee werden keerkaden aangelegd . 
+Pas in 1785-1786 werd het werk aan de Grebbe voortgezet , er werden diverse verdedigingswerken aangelegd , bij de Grebbeberg werd het Hoornwerk versterkt met drie bastions , een bergbatterij en barbetbatterijen . 
+De meest westelijke barbet is ruim ten oosten van het plangebied gelegen . 
+In de periode 1794-1795 werden echter posities langs de gehele rivieroever betrokken door Britse militairen en troepen uit Hessel-Cassel . 
+Mogelijk zijn hierbij geen duurzame verdedigingswerken opgericht . 
+Zieken en gewonden werden via de Cuneralaan naar Rhenen gebracht , waar een militair hospitaal e was gevestigd . 
+Aan het eind van de 18 eeuw werd de geschutsopstelling aan de Cuneralaan , ten oosten van het plangebied , uitgebreid tot Rijnbatterij . 
+De Cuneralaan maakte onderdeel uit van deze batterij . 
+In 1874 kreeg de Grebbelinie officieel de functie van voorpostenlijn van de Nieuwe Hollandse Waterlinie toebedeeld . 
+In 1926 werd een groot deel van de Grebbelinie opgeheven als duurzaam vestingwerk , desondanks besloot men in 1939 de linie ( de Valleistelling ) weer in staat van verdediging te brengen , zie paragraaf 2.2.3 . 
+Tramlijn In 1885 , werd de spoorlijn van Amersfoort via Kesteren naar Duitsland vlak langs Rhenen aangelegd . 
+Een verdere ontsluiting van het gebied richting het oosten vond plaats na de aanleg van de tramlijn Utrecht-Doorn in 1883 , die vijf jaar later tot aan Rhenen werd doorgetrokken . 
+In 1887 volgde ontsluiting richting het oosten , toen de ‘ Ooster Stoomtram Maatschappij ’ de trambaan van Utrecht naar Arnhem aanlegde . 
+Deze bevond zich direct ten noorden van het tracé van de Cuneralaan . 
+Na de laatste oorlog werd deze dienst per bus voortgezet . 
+Steengroeven Direct ten noorden van het plangebied waren de groeven ‘ Vogelenzang ’ en ‘ Leccius de Ridder ’ gevestigd . 
+Vanaf het einde van de negentiende eeuw tot in de jaren tachtig van de twintigste eeuw is de stuwwal hier 10 tot 30 m afgegraven voor zand- en grindwinning . 
+De natuurlijke ligging op de stuwwal , met een holtpodzol als bodem , is hierdoor volledig verstoord . 
+Slechts de steile hellingen rondom de plas die de rand van de groeve vormden en de zandrug ten zuiden van de plas zijn gedeeltelijk bewaard gebleven . 
+Op het terrein was bebouwing en een smalspoor aanwezig . 
+Aan de overzijde van de Cuneralaan was een laadplek waar het gewonnen materiaal aan boord van schepen werd geladen . 
+2.2.3 WOII De Grebbeberg , ten oosten van de stad , met zijn ruim 50 meter één van Nederlands hoogste punten , heeft in 1940 , als onderdeel van de militaire Valleistelling , een belangrijke rol gespeeld in de verdediging van ons land . 
+De Duitse overmacht werd hier door het gebrekkig uitgeruste Nederlandse leger enkele dagen opgehouden , waardoor de Nederlandse regering en het Vorstenhuis bijtijds naar Engeland konden uitwijken . 
+De Rhenense binnenstad werd tijdens deze verdediging echter nagenoeg geheel verwoest . 
+Slechts enkele stadsdelen en individuele gebouwen , waaronder de Cunerakerk en Cuneratoren , het oude en nieuwe raadhuis , het postkantoor en het museum bleven voor de verwoesting en de erop volgende stadsbrand grotendeels gespaard . 
+Aan het einde van WOII wordt wederom een groot deel van Rhenen verwoest , waaronder een rijtje huizen aan de Cuneralaan , in het gedeelte van de Cuneralaan ten oosten van de spoorbrug . 
+Deze spoorbrug over de Rijn werd in mei 1940 vernield , maar weer hersteld . 
+In de herfst van 1944 6 werd de brug definitief verwoest , waarna de spoorwegverbinding werd opgeheven . 
+6 De spoorbrug werd vervangen door een verkeersbrug voor het autoverkeer : deze ging in 1957 open . 
+Blijdenstijn 2007 ; Van den Doel 2012 . 
+12 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 7 Stellingen in het plangebied ? 
+In de periode 1939-1940 groeide de oude Grebbelinie uit tot de Valleistelling . 
+Hier werden twee Legerkorpsen met in totaal circa 50.000 militairen gelegerd . 
+In grote lijnen kreeg de ijle linie diepte met voorposten , een frontlijn , hoofdweerstandstrook , stoplijn en op enige plaatsen een ruglijn . 
+Het plangebied Cuneralaan lag tussen de stoplijn op de berg en de ruglijn ten westen van het spoor . 
+De voorposten bestonden uit schuttersputten , loopgraven in de vorm van hoge stellingen , versperringen en mijnenvelden . 
+In de hoofdweerstandsstrook waren de meeste wapens opgesteld . 
+De Cuneralaan loopt precies langs de grens van het IIe Legerkorps . 
+In het gebied van dit IIe legerkorps , tot aan Zeist , werden hospitalen , magazijnen en commandoposten ingericht . 
+Het plangebied zelf bevindt zich in het gebied op en rond de Grebbeberg dat dichtbezet was met stellingen . 
+Ten noorden van het plangebied e e e aan de noordzijde van de steengroeve was de 2 batterij van de 3 afdeling van het 8 Regiment Artillerie gelegen . 
+Hierbij is een Houwitser aangegeven . 
+De stellingen van een batterij bestonden verder uit schuilplaatsen , verbindingsloopgraven en stellingen voor nabijverdediging . 
+De batterij heeft twee man verloren , het is echter niet zeker waar precies . 
+Vermoedelijk heeft het plangebied niet speciaal vanwege deze stelling onder vuur gelegen . 
+Direct ten noorden van het plangebied is infanterie weergegeven , zij hebben zich waarschijnlijk ingegraven tussen de Cuneralaan en de trambaan om zich tweezijdig te kunnen verdedigen . 
+Ook kunnen zij de bestaande bebouwing als dekking gebruikt hebben . 
+Om deze reden kunnen sporen van veldstellingen en sporen van schermutselingen terug gevonden worden . 
+Vanaf oktober 1944 werd de Grebbelinie opgenomen in de ‘ Pantherstellung ’ , de Duitse variant op de Valleistelling die via Wageningen en Arnhem aansloot op de ‘ Westwall ’ van Kleef tot Basel . 
+Recent onderzoek , o.a . van Archeologisch Adviesbureau RAAP en stichting De Greb maakte duidelijk dat ook op de Grebbeberg en ten westen van de Grebbeberg graafwerkzaamheden zijn verricht in opdracht van het Duitse leger . 
+Eén van die onderzoeken , van RAAP , had in directe zin betrekking op het 8 plangebied . 
+Op een begeleidende kaart werd namelijk een structuur ingetekend langs de Cuneralaan met het nummer 23 , op basis van foto WUR RAF 109-7-4041 . 
+Foto 4042 en 4040 tonen ongeveer hetzelfde beeld , iets verder west en oost van de positie . 
+De foto ’ s maken meteen duidelijk waarom RAAP hier heeft gekozen voor de aanduiding ‘ onduidelijke structuur ’ . 
+Waar loopgraven elders goed herkenbaar door een donkere achtergrond slingeren , is het mogelijke tracé langs de Cuneralaan goed ‘ gecamoufleerd ’ . 
+Het is duidelijk dat er werkzaamheden zijn verricht langs de weg . 
+Ten westen van de zandafgraving tekenen zich vormen af , die sterk doen denken aan Duitse loopgraven . 
+Wellicht liggen deze laatste net niet in het plangebied , of lopen net door het plangebied in . 
+Ook direct ten noorden van het plangebied zijn loopgraven herkenbaar . 
+Fig . 
+2.3 . 
+Duitse loopgraven in het plangebied , foto 4125 , april 1945 ( Rietberg 2012 ) . 
+7 Rietberg 2012 , zie voor de gehele studie Bijlagen 2a en 2b . 
+8 Kok & Wijnen 2011 . 
+13 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Als we de focus van 200 jaar vestinggeschiedenis in de Grebbelinie leggen op het plangebied zien we weinig directe sporen ( kaarten , getuigenverslagen , rapporten , foto ’ s ) van permanente versterkingen . 
+Het plangebied bevindt zich echter op een bijzondere positie achter de Grebbeberg . 
+De duizenden militairen die in de loop der tijd de Grebbeberg bevolkt hebben konden nauwelijks ‘ om de Cuneralaan heen ’ . 
+In de periode 1939-1940 werd op en rond de Grebbeberg hard gevochten . 
+Ook achter de berg , dicht tegen het plangebied kwamen militairen terecht . 
+Terugtrekkende militairen lieten op de terugweg uitrustingstukken achter , ook langs de Cuneralaan . 
+Het hele gebied kwam enige tijd onder vuur van o.a . artillerie en werd vervolgens bezet door Duitse militairen . 
+Ook in de Duitse periode ( 1944-1945 ) moesten de verdedigers front maken naar het zuiden , naar de Neder-Betuwe aan de andere kant van de rivier . 
+Loopgraven in de directe omgeving van het plangebied duiden op militaire activiteit in de omgeving . 
+Op basis van het luchtfotomateriaal kan nu worden aangetoond dat er zich waarschijnlijk Duitse loopgraven in het plangebied hebben bevonden . 
+Dat in het gebied gevochten is wordt in ieder geval duidelijk uit verslagen van inwoners van Rhenen en uit de verwoesting van een rijtje huisjes . 
+Op een luchtfoto van april 1945 lijkt het bovendien of in de 9 omgeving inslagen zichtbaar zijn . 
+2.2.4 Historisch kaartmateriaal Op een uitsnede uit de kaart van Jacob van Deventer ( ca . 
+1560 ) hier links afgebeeld , is nog het eerste deel zichtbaar van wat mogelijk de latere Cuneralaan is . 
+De afgebeelde weg loopt verder naar het oosten direct langs een van de geulen van de Rijn . 
+Fig.2.4 . 
+Rhenen op de kaart van Jacob van Deventer ( ca . 
+1560 ) . 
+Fig . 
+2.5 . 
+Uitsnede kaart Bernard de Roy ( 1696 ) . 
+Op een uitsnede uit de kaart van Bernard de Roy ( 1696 ) is de weg niet afgebeeld . 
+9 Kok en Wijnen 2011 , afb . 
+25 . 
+14 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Aan het begin van de 19e eeuw wordt de weg duidelijk afgebeeld met de markante hoek die deze nu nog steeds maakt . 
+De omgeving bestaat uit bos met ten zuiden woeste gronden en ten noordoosten 10 heide en zandgronden . 
+Het bouwland ligt op grotere afstand . 
+Op de Bonnekaart van 1870 is de weg afgebeeld . 
+Verder naar het westen , aan de andere kant van het veer , is een steenoven afgebeeld . 
+Op de kaart van 1900 wordt de stoomtrambaan afgebeeld , in 1912 verschijnt tenslotte ‘ steenfabriek ’ in het kaartbeeld . 
+Hierbij worden drie gebouwen afgebeeld , direct ten noorden van het plangebied . 
+Uit alle latere kaarten en foto ’ s is duidelijk op te maken dat de Cuneralaan als weg intact en als zodanig in gebruik blijft . 
+Fig . 
+2.6 . 
+De Cuneralaan in 1964 , ten oosten van het plangebied , gezien richting Wageningen ( het oosten ) . 
+( http : //www.flickr.com/photos/rienkmebius/2551171339/ ) . 
+Ondergrondse bouwhistorische resten Langs de Cuneralaan zijn meerdere locaties bekend waar bebouwing heeft gestaan , deze bevinden zich echter buiten het plangebied . 
+Ten westen van het plangebied bevinden zich in ieder geval de huisnummers 45 tot en met 61 . 
+Een deel van de huizen aan de Cuneralaan is aan het eind van de 19e 11 eeuw gebouwd , of dat ook voor deze panden geldt is onbekend . 
+Bij het uitbreken van WOII is in 12 ieder geval één van de huizen zwaar beschadigd geraakt . 
+Op een luchtfoto van april 1945 zijn de huisjes nog duidelijk zichtbaar . 
+Tijdens de laatste dagen van de oorlog is het hele rijtje huizen echter 13 verwoest . 
+Het lijkt er op dat in de omgeving inslagen zichtbaar zijn . 
+Ten noorden van het plangebied bevinden zich nog gebouwen en mogelijk gebouwresten behorende tot de steengroeve . 
+Ten zuiden van het plangebied is de laadplaats van de steengroeve gelegen . 
+Mogelijk zijn hier nog sporen van de opgestelde kraan terug te vinden . 
+2.2.5 Archeologie Op de archeologische verwachtingskaart van de gemeente Rhenen is ter hoogte van het plangebied de contour van de bodemkaart gehanteerd voor het indelen van de verwachtingszones . 
+Deze contour komt echter niet overeen met de daadwerkelijke omtrek en verstoring door de groeve . 
+Immers zoals we gezien hebben , bestond de Cuneralaan al voordat de groeve werd aangelegd en blijft deze weg intact en in gebruik tijdens en na het functioneren van de groeve . 
+Het gebied moet daarom gerekend 10 Hisgis.nl en watwaswaar.nl : minuut 1811- 1832 . 
+Vredenberg 2008 , 371 12 Vredenberg 2008 , 428 . 
+13 Kok & Wijnen 2011 , afb . 
+25 . 
+11 15 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht worden tot de zone ‘ Waarde Archeologie 4 ’ , waarbij archeologisch onderzoek verplicht is bij ingrepen groter dan 100m2 en dieper dan 30 cm . 
+De hoger gelegen stroomruggen van het rivierengebied waren voor de mens aantrekkelijke plekken in het landschap om zich op te vestigen . 
+Ook het overgangsgebied van de hogere stuwwal naar het lagere rivierenlandschap was bij uitstek geschikt voor bewoning : water , akkerland en graasgebieden voor het vee waren binnen comfortabele afstand van elkaar gelegen . 
+Meldingen van vondsten uit alle perioden concentreren zich in brede zin op de zuidflank van de stuwwal . 
+Na een rivierverlegging rond 1200 AD stroomde de Rijn veel dichter langs de huidige stad en ongeveer tot aan het tracé van de Cuneralaan . 
+Door de verlegging van de loop van de Nederrijn richting het noorden is sprake van erosie van het overgangsgebied ( sandrvlakte ) en de rand van de stuwwal . 
+De Cuneralaan zelf behoort echter op basis van beschikbaar kaarmateriaal niet tot dit geërodeerde gebied . 
+De oudste sporen van menselijke aanwezigheid in Rhenen dateren waarschijnlijk uit het MiddenPaleolithicum ( 300.000-35.000 BP ) . 
+Deze vondsten zijn afkomstig uit drie zand- en grindgroeves , ‘ Kwintelooyen ’ aan de noordzijde van de stuwwal en ‘ Leccius de Ridder ’ en ‘ Vogelenzang ’ aan de zuidzijde van de stuwwal . 
+De stuwwal bestaat uit gestuwde fluviatiele afzettingen uit het Onder- en Midden-Pleistoceen . 
+Vanaf 1977 werden door A.M. Wouters , C.J.H . 
+Franssen en andere amateurarcheologen in de laatste twee genoemde groeves bij stenenvangers duizenden 14 middenpaleolithische vuurstenen artefacten verzameld . 
+In de directe omgeving van het plangebied zijn dan ook in de archeologische database van de Rijksdienst voor het Cultureel Erfgoed ( Archis II ) vele waarnemingen opgenomen . 
+Fig . 
+2.7 . 
+Uitsnede Archis II met in geel de waarnemingen . 
+Gezien de aard van de waarnemingen kunnen in ( de omgeving van ) het plangebied nederzettingsterreinen en grafvelden uit het Neolithicum ( nieuwe steentijd ) , de metaaltijden en de Romeinse tijd gelegen hebben . 
+De ligging en aard daarvan kan op basis van de bekende vondsten niet bepaald worden . 
+14 Brugman , e.a . 
+2011 . 
+16 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Uit de vroege Middeleeuwen dateert een woongrond die wijst op de aanwezigheid van een nederzetting en ook in de late Middeleeuwen zou er in of nabij het plangebied sprake van bewoning zijn geweest . 
+Enkel in de steile hellingen van de rand van de afgegraven stuwwal en in de intact gebleven gebieden onder andere ten zuiden daarvan , kunnen mogelijk nog vindplaatsen uit het middenpaleolithicum en daarna aangetroffen worden . 
+2.3 Gespecificeerde archeologische verwachting Zoals besproken vormden de hoger gelegen stroomruggen van het rivierengebied aantrekkelijke plekken in het landschap voor de mens om zich op te vestigen . 
+Ook het overgangsgebied van de hogere stuwwal naar het lagere rivierenlandschap was bij uitstek geschikt voor bewoning : water , akkerland en graasgebieden voor het vee waren binnen comfortabele afstand . 
+Meldingen uit alle perioden concentreren zich in brede zin op de zuidflank van de stuwwal . 
+Na een rivierverlegging rond 1200 AD stroomde de Rijn veel dichter langs de huidige stad en ongeveer tot aan het tracé van de Cuneralaan . 
+Door de verlegging van de loop van de Nederrijn richting het noorden is sprake van erosie van het overgangsgebied en de rand van de stuwwal . 
+De Cuneralaan zelf behoort echter op basis van beschikbaar kaarmateriaal niet tot dit geërodeerde gebied . 
+Op basis van de waarnemingen in het gebied kunnen in ( de omgeving van ) het plangebied grafvelden en nederzettingsterreinen uit het Neolithicum , de metaaltijden en de Romeinse tijd gelegen hebben . 
+Ook kunnen sporen uit de ( late ) Middeleeuwen verwacht worden . 
+De Cuneralaan zelf dateert waarschijnlijk uit de ( Late ) Middeleeuwen en is in ieder geval vanaf de vroege 19e eeuw continu op dezelfde locatie afgebeeld . 
+Daarom kunnen sporen van de eerdere fases van deze weg aangetroffen worden , zoals karrensporen , bermgreppels en mogelijke aanverwante sporen . 
+Direct ten noorden van de weg was de stoomtrambaan gelegen , mogelijk kunnen ook hier sporen van teruggevonden worden . 
+Het is bovendien duidelijk dat gedurende WOII op meerdere momenten gevochten is in het gebied . 
+Dit wordt onder meer duidelijk uit de toestand van de huizen aan de Cuneralaan en uit het onderzoek van Adviesburo Grebbelinie . 
+In welke mate in het gebied resten van Nederlandse stellingen teruggevonden kunnen worden is onbekend , mogelijk betreft het ingrepen van geringe aard , aangezien de beschreven batterij zich iets ten noorden van het plangebied heeft bevonden . 
+Ten tijde van de Duitse Pantherstellung zijn in ieder geval in de zeer directe nabijheid van het plangebied loopgraven aangelegd . 
+Aan de oostzijde lopen deze mogelijk het plangebied binnen , ook liggen de loopgraven tegen de noordgrens van het plangebied aan . 
+In ieder geval is het zeer aannemelijk dat in het gebied sporen van gevechtshandelingen , zoals munitie et cetera , gevonden kunnen worden . 
+17 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 3 . 
+CONCLUSIE EN AANBEVELINGEN Vanwege de voorgenomen herinrichtingswerkzaamheden aan de Cuneralaan te Rhenen zullen bodemingrepen plaatsvinden . 
+De Omgevingsdienst regio Utrecht heeft het plangebied onderzocht door middel van een bureauonderzoek , waarbij conform KNA 3.2 de geologische kaarten , de historie van de locatie , historische kaarten en archeologische onderzoeken in de omgeving zijn geraadpleegd . 
+Daarnaast is door Adviesbureau Grebbelinie een onderzoek gedaan naar mogelijke WOII elementen in het plangebied . 
+Conclusie Op basis van de waarnemingen in het gebied kunnen zoals besproken in ( de omgeving van ) het plangebied grafvelden en nederzettingsterreinen uit het Neolithicum , de metaaltijden en de Romeinse tijd gelegen hebben . 
+Ook kunnen sporen uit de ( late ) Middeleeuwen verwacht worden . 
+De Cuneralaan zelf dateert waarschijnlijk uit de ( Late ) Middeleeuwen en is in ieder geval vanaf de vroege 19e eeuw continu op dezelfde locatie afgebeeld . 
+Derhalve kunnen sporen van de eerdere fases van deze weg aangetroffen worden , zoals karrensporen en mogelijke aanverwante fenomenen . 
+Deze kunnen bijdragen aan het dateren van het onstaan van deze weg . 
+In welke mate in het gebied resten van Nederlandse stellingen teruggevonden kunnen worden is onbekend , mogelijk betreft het ingrepen van geringe aard . 
+Sporen van Duitse stellingen bevinden zich in ieder geval zeer dicht tegen het plangebied aan en lopen mogelijk door tot in het plangebied . 
+In ieder geval is het mogelijk dat in het gebied sporen van gevechtshandelingen , zoals munitie et cetera , gevonden kunnen worden . 
+Aanbevelingen Aangezien de verwachte archeologische resten zich als een ‘ verstoring ’ in de boringen zullen laten zien is het niet aannemelijk dat een Inventariserend Veldonderzoek in de vorm van boringen deze resten in beeld kan brengen . 
+In het plangebied zijn mogelijk resten aanwezig uit de minder bekende periode van de Grebbelinie , de zogenaamde ‘ Pantherstellung ’ van 1944-1945 . 
+Archeologische begeleiding van de werkzaamheden in het plangebied zou een belangrijke bijdrage kunnen leveren aan onze kennis over deze fase in de Grebbelinie . 
+Daarnaast kan het onderzoek bijdragen aan de datering van het ontstaan van de Cuneralaan zelf . 
+Daarom adviseert de Omgevingsdienst regio Utrecht om de verbreding van het wegtracé archeologisch te laten begeleiden . 
+Dit onderzoek dient op basis van een door het bevoegd gezag goedgekeurd Programma van Eisen ( PvE ) te worden uitgevoerd . 
+18 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht 4 . 
+BRONNEN Berendsen , H.J.A . 
+& E. Stouthamer , 2001 : Palaeogeographic development of the Rhine-Meuse delta , The Netherlands , Assen . 
+Blijdenstijn , R. , 2007 : Tastbare tijd , Cultuurhistorische atlas van de Provincie Utrecht , Utrecht . 
+Brugman , B.A. , R.M . 
+van Heeringen , A. Lutz , R. Schrijvers & C.A . 
+Visser , 2011 : Archeologische beleidskaart gemeente Rhenen , ( Vestigia rapport V817 ) , Amersfoort . 
+Doel , H.W . 
+van den , 2012 : Het veldleger bezwijkt . 
+De strijd om de Grebbelinie . 
+In : H. Amersfoort & P. Kamphuis ( red . 
+) , Mei 1940 . 
+De strijd op Nederlands grondgebied , Amsterdam , 260-313 . 
+Hagen , E. A.N . 
+van & P.C . 
+de Boer , 2011 : Evaluatieverslag invoeren archeologische vondstmeldingen gemeente Rhenen ( Archeologische en bouwhistorische verslagen Milieudienst Zuidoost-Utrecht 5 ) , Zeist . 
+Halverstad , R. , in prep . 
+: Opgraving Binnenstad Oost – Het Rhenense Hof , ( ADC rapport ) , Amersfoort . 
+Kok , R.S . 
+& J.A.T . 
+Wijnen , 2011 : Waardering van oorlogserfgoed . 
+Een inventarisatie en waardering van sporen uit de Tweede Wereldoorlog op de Grebbeberg en Laarsenberg te Rhenen ( provincie Utrecht ) , ( RAAP rapport 2240 ) , Weesp . 
+Mulder , F.J . 
+de , M.C . 
+Geluk , I.L . 
+Ritsema , W.E . 
+Westerhoff & T.E . Wong , 2003 : De ondergrond van Nederland , Groningen . 
+Rietberg , B. , 2012 : Rapportage onderzoek WOII elementen plangebied Cuneralaan , ( Adviesbureau Grebbelinie ) . 
+Vredenberg , J . ( eindredactie ) , 2008 : Geschiedenis van Rhenen , Utrecht . 
+19 Rhenen , Cuneralaan ( gemeente Rhenen ) . 
+Archeologisch bureauonderzoek . 
+Omgevingsdienst regio Utrecht Overige bronnen Archis II www.ahn.nl/viewer www.bodemloket.nl www.hisgis.nl www.watwaswaar.nl www.flickr.com/photos/rienkmebius/2551171339/ 20 

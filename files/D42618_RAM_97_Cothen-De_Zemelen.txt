@@ -1,0 +1,1217 @@
+Een waarderend archeologisch onderzoek op het terrein van het archeologische monument Cothen-De Zemelen ( gem . 
+Wijk bij Duurstede ) J. van Doesburg Amersfoort , 2003 Colofon ROB Rapportage Archeologische Monumentenzorg 97 Een waarderend archeologisch onderzoek op het terrein van het archeologische monument Cothen-De Zemelen ( gem . 
+Wijk bij Duurstede ) Auteur : J. van Doesburg Eindredactie : M. Alkemade , F. ter Schegget Illustraties : ROB Communicatie Basisontwerp omslag : M. Broeksma , Baarn Opmaak : E. van As Druk binnenwerk : Print X-Press , Amersfoort © ROB , Amersfoort , februari 2003 ISBN 90-5799-044-X Rijksdienst voor het Oudheidkundig Bodemonderzoek Postbus 1600 3800 BP Amersfoort Inhoud Voorwoord 5 1 Inleiding 1.1 Aanleiding tot het onderzoek 1.2 Administratieve gegevens 1.3 Archivering en documentatie 7 7 7 7 2 De context van het onderzoek 2.1 Landschappelijke context 2.2 Archeologische context 2.3 Cothen-Kapelleweg 9 9 9 13 3 Waarderend Archeologisch Onderzoek ( ROB 2000 ) 3.1 Doelstelling 3.2 Methode van onderzoek 3.3 Beschrijving van de aangetroffen fenomenen 3.3.1 Verticale stratigrafie 3.3.2 De grondsporen 3.3.2.1 Paalgaten 3.3.2.2 Kuilen en greppels 3.4 De vondsten 3.4.1 Handgevormd aardewerk 3.4.1.1 Baksel 3.4.1.2 Decoratie- en afwerkingstechnieken 3.4.1.3 Randvormen 3.4.1.4 Randafwerking 3.4.1.5 Potgeleding/vorm 3.4.2 Overig handgevormd materiaal 3.4.3 Romeins draaischijfaardewerk 3.4.3.1 Gladwandig aardewerk 3.4.3.2 Ruwwandig aardewerk 3.4.3.3 Dikwandig aardewerk 3.4.3.4 Kust-aardewerk 3.4.4 Overig Romeins aardewerk 3.4.5 Middeleeuws aardewerk 3.4.6 Metaal 3.4.7 Natuursteen 3.4.8 Bot 3.4.9 Zaden en vruchten 3.5 Fasering en discussie 3.5.1 Stratigrafie en chronologie 3.5.2 Discussie : het aardewerk in regionaal perspectief 15 15 16 16 16 17 17 19 20 20 21 21 23 24 24 24 25 25 26 26 26 26 27 27 28 28 28 29 29 34 4 Veldverkenning en boringen ( Stichting Wijks Castellum 2001 ) 4.1 Werkwijze 4.2 Resultaten 4.2.1 Aardewerk 4.2.2 Bouwmateriaal 4.2.3 Metaal 4.2.4 Glas 4.2.5 Natuursteen 4.3 Interpretatie 37 37 38 39 41 42 42 42 42 5 Conclusies 45 Literatuur 47 Voorwoord In dit rapport worden de resultaten besproken van het archeologisch onderzoek op het terrein van het archeologische monument Cothen-De Zemelen in de gemeente Wijk bij Duurstede ( prov . 
+Utrecht ) . 
+Dit onderzoek bestond uit twee delen : een opgraving aan de westzijde van het monument ( uitgevoerd in maart 2000 ) en een veldverkenning en booronderzoek aan de oostkant van het terrein ( uitgevoerd in maart 2001 ) . 
+Het archeologische onderzoek aan de westzijde van De Zemelen werd verricht door de Rijksdienst voor het Oudheidkundig Bodemonderzoek ( ROB ) te Amersfoort , in samenwerking met het Archeologisch Diensten Centrum ( ADC ) te Bunschoten , dat een veldtechnicus leverde . 
+Het project werd gefinancierd door de ROB . 
+Het onderzoek op De Zemelen werd geleid door J. van Doesburg ( projectleider ROB ) . 
+Het veldwerk is verricht door K. Greving ( veldtechnicus ROB ) en A. Veenhof ( veldtechnicus ADC ) , bijgestaan door G. Joustra en J.E.M . 
+Vanderheiden ( vrijwilligers ) . 
+De hulp van M.F . 
+van Oorsouw ( beleidsmedewerker ROB ) was van grote betekenis bij de voorbereiding van het project . 
+De veldverkenning en het booronderzoek zijn uitgevoerd door G. Joustra , N. Bogaart en J. Veeneman van de Stichting Wijks Castellum , in samenwerking met de assistent-provinciaal archeoloog A. van Rooyen en J. van Doesburg . 
+A. Veenhof ( veldtechnicus ADC ) en M. Floore ( amateur-archeoloog ) verzamelden in maart 2001 metaal- en andere vondsten op het terrein . 
+Beide onderzoeken konden worden uitgevoerd dankzij de bereidwillige medewerking van de heer E. Looman , eigenaar van het terrein waarop zich het archeologische monument Cothen-De Zemelen bevindt . 
+5 447 446 Cothen 445 444 443 Den Oord Wijk bij Duurstede 442 441 151 150 149 148 147 146 145 Ravenswaaij Afb . 
+1 Cothen-De Zemelen : Het sterretje markeert de vindplaats op de topografische kaart . 
+Schaal 1 : 50 000 . 
+6 1 Inleiding 1.1 Aanleiding tot het onderzoek Met enige regelmaat komen er bij de ROB aanvragen binnen voor sloop van bestaande bebouwing op wettelijk beschermde archeologische monumenten . 
+Meestal houden dergelijke aanvragen verband met geplande nieuwbouw op het terrein . 
+Op grond van artikel 11 van de Monumentenwet 1988 is echter een vergunning vereist voor bodemverstorende werkzaamheden op een archeologisch monument . 
+Eind 1999 kwam bij de ROB een aanvraag binnen voor de sloop van een loopstal en de bouw van een nieuw onderkomen voor melkvee op het archeologische monument Cothen-De Zemelen ( Kapelleweg 7 ) in de gemeente Wijk bij Duurstede ( afb . 
+1 ) . 
+Als voorwaarde voor het verlenen van de vergunning stelde de ROB de eis dat de sloop van de bestaande stal archeologisch zou worden begeleid en dat voorafgaand aan de bouw van de nieuwe loopstal een kleine opgraving zou worden uitgevoerd . 
+Daarbij hoefden alleen de delen van het archeologische monument te worden onderzocht die bij de realisatie van de nieuwbouw zouden worden verstoord . 
+Het archeologische onderzoek werd verricht in maart 2000 . 
+Het doel van het onderzoek was ten eerste ( meer ) inzicht te verkrijgen in de aard , omvang en datering en fasering van de vindplaats . 
+Ten tweede was het de bedoeling gegevens te verzamelen over de conserveringstoestand en gaafheid van de site . 
+In de winter van 2000-2001 diende zich een tweede gelegenheid aan om archeologische waarnemingen te verrichten in De Zemelen , toen aan de uiterste oostzijde van het archeologische monument een kleine boomgaard werd gerooid . 
+Nadat de laagstam-fruitbomen met een shovel waren verwijderd werd het terrein ca . 
+30 cm diep omgeploegd . 
+Leden van de Stichting Wijks Castellum verzamelden op de geploegde akker grote hoeveelheden vondstmateriaal , waaronder aardewerk uit verschillende perioden en Romeins bouwpuin . 
+Deze vondsten zijn gemeld bij de provinciaal archeoloog van Utrecht en bij de ROB . 
+De samenstelling van het vondstmateriaal doet vermoeden dat het terrein vanaf de IJzertijd tot in de vroege Middeleeuwen in gebruik is geweest en dat er in de Romeinse tijd een stenen bouwwerk stond . 
+Naar aanleiding van deze vondsten verrichtten leden van de Stichting Wijks Castellum in overleg met A. van Rooyen en J. van Doesburg in maart 2001 enkele grondboringen en verzamelden ze meer vondsten uit de bouwvoor . 
+Op verzoek van J. van Doesburg zochten A. Veenhof en M. Floore op het terrein naar metaal- en andere vondsten . 
+1.2 Administratieve gegevens De vindplaats ligt in de gemeente Wijk bij Duurstede , aan de zuidwest-zijde van het dorp Cothen . 
+Het betreft een wettelijk beschermd archeologisch monument ( monumentnummer 39A-26 ) ROB objectnaam : Centrumcoördinaat : ROB objectcode : ROB gemeentecode : Cothen-De Zemelen 146.50/444.50 39A-404N Wije 00 1.3 Archivering en documentatie De vondsten die tijdens het onderzoek werden verzameld , zijn voorlopig opgeslagen in het vondstendepot van de ROB en zullen te zijner tijd worden ondergebracht in het Provinciaal Depot voor Bodemvondsten . 
+De documentatie en de tekeningen bevinden zich in het archief van de ROB te Amersfoort . 
+7 1 2 3 4 5 6 7 8 0 5 km 9 Houten I Doorn e Langbroek Werkhoven jn Cothen e m m Ri Leersum Rij Langbroek Cothen Amerongen Leersum n Wijk bij Duurstede Amerongen Wijk bij Duurstede Le k Le k Maurik Beusichem Beusichem Maurik Culemborg Culemborg Buren Buren 5 km 5 km Houten III Doorn om Kr e m Werkhoven II Doorn om Kr om Kr Werkhoven Houten R ij Langbroek Leersum n Cothen Amerongen Wijk bij Duurstede Le k Beusichem Maurik 1 Culemborg 2 Buren 3 5 km 4 8 Afb . 
+3 Paleogeografische situatie in het Kromme Rijngebied ( naar Berendsen 2000 ) . 
+I omstreeks 2000 v.Chr . 
+; II omstreeks 1500 v.Chr . 
+; III omstreeks 500 v.Chr . 
+Legenda : 1 stroomgordel met watervoerende rivierbedding ; 2 stroomgordel met verlande rivierbedding ; 3 oudere stroomgordels ; 4 huidige rivieren . 
+2 De context van het onderzoek 2.1 Landschappelijke context  Afb . 
+2 De landschappen in het Kromme Rijngebied . 
+( naar Van Es & Hessing 1994 ) . 
+Legenda : 1 stuwwal ; 2 beekdalen ; 3 kommen ; 4 dekzand ; 5 Werkhovense stroomrug ; 6 Houtense en Jutphase stroomrug ; 7 Kromme Rijn stroomrug ; 8 uiterwaarden ; 9 ( fossiele ) rivieren . 
+Cothen ligt in het centrale deel van het Kromme Rijngebied . 
+Het Kromme Rijngebied vormt een geografische eenheid die wordt begrensd door de stad Utrecht aan de noordzijde , de Utrechtse Heuvelrug aan de oostzijde , het uitgestrekte Hollands-Utrechtse veengebied aan de westzijde en de rivieren Rijn en Lek aan de zuidzijde ( afb . 
+2 ) . 
+Het gebied wordt doorsneden door de Kromme Rijn , de rivier waaraan het gebied zijn naam dankt . 
+In het Kromme Rijngebied bevinden zich relicten van verschillende fossiele rivierlopen.1 De Werkhovense stroomgordel is daarvan de oudste . 
+Nabij Maurik lag omstreek 3500 v.Chr . 
+een belangrijk splitsingspunt van de Rijn . 
+In die periode ontstond een aftakking van het Benschopse stroomstelsel : de Werkhovense stroomgordel . 
+Deze nieuwe stroom liep van Wijk bij Duurstede via Cothen naar Werkhoven ( afb . 
+3 : I ) . 
+De Werkhovense stroomgordel bleef ca . 
+2000 jaar bestaan . 
+Omstreeks 1700 v.Chr . 
+vormde zich uit de Werkhovense stroomgordel de Houtense stroomgordel ( afb . 
+3 : II ) . 
+Het splitsingspunt van beide stromen is niet precies aan te geven , maar lag waarschijnlijk in de omgeving van Wijk bij Duurstede . 
+Een groot gedeelte van de Werkhovense stroomrug werd na het ontstaan van de Houtense stroomgordel opgeruimd . 
+Dit geldt met name voor het gedeelte in de omgeving van Cothen . 
+Nabij Houten splitste de Houtense stroomgordel zich in twee takken : een noordelijke tak die via Utrecht naar de Oude Rijn liep , en een westelijke tak die via Jutphaas en Montfoort naar Woerden liep , waar hij uitmondde in de Oude Rijn . 
+Omstreeks 1000 v.Chr . 
+werd de Houtense stroomgordel opgevolgd door de Kromme Rijn ( afb . 
+3 : III ) . 
+Deze stroomgordel bevindt zich grotendeels ten noorden van de Houtense stroomgordel . 
+Uit de opgravingen rond Wijk bij Duurstede is gebleken dat de Kromme Rijn in de Karolingische tijd begon te verzanden en daardoor geleidelijk aan ondieper werd.2 Dit leidde ertoe dat de hoofdstroom steeds meer via de Lek ging . 
+In 1122 werd de Kromme Rijn bij Wijk afgedamd . 
+Dit betekende het einde van de Kromme Rijn als belangrijke waterweg . 
+Het archeologische monument De Zemelen bevindt zich op een brede , oost-west georiënteerde stroomrug van het Houtense stroomsysteem . 
+Ten noorden van de stroomrug bevindt zich een fossiele rivierbedding . 
+De stroomrug en de parallel daaraan gelegen oude rivierbedding zijn in het terrein duidelijk zichtbaar . 
+Het reliëfverschil bedraagt op sommige plaatsen ca . 
+1 m. De hoogste delen van de stroomrug bevinden direct ten zuiden van de schuur bij het huis Kapelleweg 5 en onder de uit de 18e eeuw daterende T-huisboerderij De Zemelen ( Kapelleweg 7 ) . 
+2.2 Archeologische context 1 Zie Berendsen 1982 ; 1990 ; 1997 ; 2000 ; Berendsen & Stouthamer 2001 . 
+2 Van Es & Verwers 1980 ; Van Es et al . 
+1990 . 
+3 Van Es & Verwers 1985 . 
+4 Berendsen 1982 , 160 . 
+De bewoning en exploitatie van het Kromme Rijngebied door de eeuwen heen , in samenhang met de landschappelijke ontwikkelingen , vormen de belangrijkste thema ’ s in het onderzoeksproject Centrale Rivierengebied , dat in 1967 werd gestart door de ROB.3 In het kader daarvan zijn sindsdien op vele plaatsen in het Kromme Rijngebied fosfaatkarteringen , veldverkenningen en booronderzoeken uitgevoerd . 
+Daarbij kwamen talloze nieuwe vindplaatsen aan het licht ( afb . 
+4 ) . 
+Daarnaast zijn er een aantal opgravingen verricht . 
+Onveranderlijk gaven stadsof dorpsuitbreiding of aanleg van wegen daartoe aanleiding . 
+De opgravingen concentreerden zich in de gemeenten Wijk bij Duurstede , Houten en Bunnik . 
+Met name in de eerste twee gemeenten zijn grootschalige opgravingen uitgevoerd . 
+De oudste sporen van bewoning zijn gevonden in De Horden bij Wijk bij Duurstede . 
+Deze sporen dateren uit het laat-Neolithicum ( 2850-2000 v.Chr . ) 
+en bevinden zich op de Werkhovense stroomrug.4 Uit de midden-Bronstijd zijn wat meer vindplaatsen bekend . 
+Zowel in Wijk bij Duurstede als Houten zijn 9 Zeist De Meern Utrecht Bunnik Maarn Odijk Driebergen 1 Doorn Nieuwegein Houten 2 Werkhoven 3 4 Cothen 5 6 7 Wijk bij Duurstede 8 9 0 5 km 10 bewoningssporen uit deze periode gevonden . 
+In De Horden en De Geer bij Wijk bij Duurstede kwam een groot aantal plattegronden van hoofd- en bijgebouwen aan het licht op een uitloper van de Houtense stroomrug . 
+Sporen van IJzertijdbewoning zijn zeer talrijk , niet alleen bij Wijk bij Duurstede en Houten , maar ook in andere delen van het Kromme Rijngebied , zoals Bunnik , Werkhoven , Cothen en Odijk ( afb . 
+5 : I ) . 
+De grootschalige opgravingen in De Horden en De Geer bij Wijk bij Duurstede hebben nederzettingsporen uit de gehele IJzertijd opgeleverd . 
+Het onderzoek in De Horden heeft uitgewezen dat de aanvankelijk over het terrein verspreide bewoning zich in de late IJzertijd op één plek concentreerde . 
+Vanaf die tijd bestond het bewoonde areaal uit twee door greppels omgeven terreinen . 
+Het oostelijke terrein groeide uit tot het centrum van de nederzetting . 
+In de tweede helft van de 2e eeuw/begin 3e eeuw stond hier een gebouw met een enigszins afwijkende plattegrond . 
+De nederzetting werd tussen 240 en 260 n.Chr . 
+opgegeven . 
+Een en ander doet vermoeden dat de komst van de Romeinen grote consequenties had voor de nederzettingsontwikkeling in het gebied . 
+Waarschijnlijk ontstond er in de Romeinse tijd een duidelijke hiërarchie binnen het nederzettingssysteem . 
+Aan de top stonden de castella met de daarbij horende vici . 
+In het Kromme Rijngebied stonden twee castella : Levefanum aan de zuidzijde en Fectio aan de noordzijde . 
+Levefanum speelde zowel in de Romeinse tijd als in de vroege Middeleeuwen een belangrijke rol , maar aangezien het castellum later door de Lek is verzwolgen is hierover weinig met zekerheid bekend . 
+Het enige dat rest zijn een aantal baggervondsten uit de Lek . 
+In en rond het castellum Fectio bij Vechten is wel uitgebreid gegraven . 
+Het fort is waarschijnlijk in 4 of 5 n.Chr . 
+gesticht en vrijwel de gehele Romeinse tijd in gebruik gebleven . 
+Ook in de Middeleeuwen bleef het castellum-terrein in gebruik . 
+Mogelijk stond hier in de late Middeleeuwen het kasteel Wiltenburg . 
+In de Romeinse tijd ontstond in de directe omgeving van Fectio een burgerlijke nederzetting . 
+Dit was waarschijnlijk een van de eerste plaatsen waar lokale en geïmporteerde goederen werden uitgewisseld . 
+10 Afb . 
+4 Fosfaatconcentraties in het Kromme Rijngebied . 
+( naar Van Es & Hessing 1994 ) Legenda : 1 stuwwal ; 2 beekdalen ; 3 kommen ; 4 dekzand ; 5 Werkhovense stroomrug ; 6 Houtense en Jutphase stroomrug ; 7 Kromme Rijn stroomrug ; 8 uiterwaarden ; 9 ( fossiele ) rivieren ; 10 fosfaatplek . 
+De Romeinse vraag naar producten vormde voor de regionale economie een bron van groei en verandering . 
+Voor de inheemse bevolking werd het aantrekkelijker agrarische overschotten te produceren in plaats van de agrarische bedrijfsvoering geheel af te stemmen op het voorzien in de eigen behoeften . 
+Dit leidde tot het ontstaan van agrarische nederzettingen die op Romeinse leest waren geschoeid : de zgn . 
+villae . 
+Er zijn aanwijzingen dat er in de omgeving van Houten meerdere villae zijn geweest . 
+Bij opgravingen aan de Burgemeester Wallerweg en in Tielland , Molenzoom en Loerik zijn resten van geheel of gedeeltelijk uit steen opgetrokken gebouwen uit de Romeinse tijd aangetroffen . 
+Deze nederzettingen waren in de midden-Romeinse tijd zo sterk geromaniseerd dat ze zonder twijfel tot de top van de agrarische nederzettingen in het Kromme Rijngebied mogen worden gerekend . 
+Mogelijk mag de midden-Romeinse nederzetting in De Horden als proto-villa worden aangemerkt , hoewel deze het stadium van steenbouw nooit heeft bereikt . 
+5 Eenvoudige agrarisch nederzettingen waren er in het Kromme Rijngebied zeker ook . 
+De onderkant van het spectrum wordt vermoedelijk vertegenwoordigd door nederzettingen als Houten-Doornkade en Wijk bij Duurstede-De Geer . 
+Het zijn kleine nederzettingen van hooguit enkele bedrijven , die in hun structuur en de vorm van de gebouwen nauwelijks enige Romeinse invloed vertonen . 
+In de midden-Romeinse tijd moet het Kromme Rijngebied dichtbevolkt zijn geweest ( afb . 
+5 : II ) . 
+Het nederzettingspatroon in het Kromme Rijngebied veranderde drastisch in de laat-Romeinse tijd ( afb . 
+5 : III ) . 
+De meeste nederzettingen die uit de voorgaande periode bekend zijn verdwenen in de loop van de 3e eeuw n.Chr . 
+Slechts enkele nederzettingsterritoria bleven bestaan of werden opnieuw in gebruik genomen . 
+Laat-Romeinse bewoningsporen zijn onder andere aangetroffen in Wijk bij Duurstede-De Geer , Cothen , Werkhoven , ’ t Goy , Houten-Tielland en HoutenAfb . 
+5 Archeologische vindplaatsen in het Kromme Rijngebied , per periode ( naar Van Es & Hessing 1994 ) . 
+I IJzertijd ; II midden-Romeinse tijd ; III laat-Romeinse tijd ; IV Merovingische tijd ; V Karolingische tijd . 
+Utrecht I Zeist Woudenberg De Meern Scherpenzeel Bunnik Maarn Odijk Driebergen Doorn Houten Werkhoven Nieuwegein Leersum Cothen Amerongen Elst Wijk bij Duurstede Rhenen Utrecht II Zeist Woudenberg De Meern Scherpenzeel Bunnik Maarn Odijk Driebergen Doorn Houten Nieuwegein Werkhoven Leersum Cothen Amerongen Elst Wijk bij Duurstede Rhenen 5 Vos 2002 , paragraaf 7.3.5 . 
+11 Utrecht III Zeist Woudenberg De Meern Scherpenzeel Bunnik Maarn Odijk Driebergen Doorn Houten Werkhoven Nieuwegein Leersum Cothen Amerongen Elst Wijk bij Duurstede Rhenen Utrecht IV Zeist Woudenberg De Meern Scherpenzeel Bunnik Maarn Odijk Driebergen Doorn Houten Werkhoven Nieuwegein Leersum Cothen Amerongen Elst Wijk bij Duurstede Rhenen Utrecht V Zeist Woudenberg De Meern Scherpenzeel Bunnik Maarn Odijk Driebergen Doorn Houten Nieuwegein Werkhoven Leersum Cothen Amerongen Elst Wijk bij Duurstede Rhenen Afb . 
+5 ( vervolg ) . 
+Centrum . 
+Vindplaatsen uit de Merovingische en Karolingische tijd zijn talrijker dan die uit de laat-Romeinse tijd ( afb . 
+5 : IV en 5 : V ) . 
+Met name vindplaatsen uit de Karolingische tijd zijn ruim vertegenwoordigd . 
+Evenals in de Romeinse tijd is er in deze periode sprake van een duidelijke nederzettingshiërachie . 
+In de vroege Middeleeuwen stonden Utrecht en Dorestad aan de top van de nederzettingspiramide in het Kromme Rijngebied . 
+Utrecht fungeerde sinds de Merovingische tijd als kerkelijk centrum en had in de late Middeleeuwen ook een bestuurlijke en economische functie.6 Van Dorestad zijn tussen 1967 en 1977 grote stukken van het noordelijke deel blootgelegd . 
+Dorestad was in de vroege Middeleeuwen het economische hart van het gebied . 
+Daarnaast vervulde het mogelijk ook andere functies ( o.a . op bestuurlijk niveau ) . 
+De aanwezigheid van Dorestad had dan ook grote invloed op de nederzettingsontwikkeling in andere delen van het Kromme Rijngebied . 
+Oude nederzettingsterritoria werden 12 6 Van Es 1994c . 
+146 5 147 0 147 5 4450 4445 1 2 3 Afb . 
+6 Locatie van het archeologische monument CothenDe Zemelen . 
+Schaal 1 : 15 000 . 
+Legenda : 1 archeologisch monument ; 2 meldingsgebied ; 3 te beschermen gebied . 
+opnieuw in gebruik genomen en er ontstonden enkele nieuwe bewoningskernen . 
+Deze nederzettingen groeiden uit tot de huidige dorpen . 
+In de tweede helft van de 9e eeuw verloor Dorestad haar functie als interregionaal handelscentrum . 
+Hiermee kwam een einde aan een periode van economische bloei . 
+2.3 Cothen-Kapelleweg 7 Van Tent 1970 ; 1972 ; 1976 . 
+8 Van Es 1994a , 24 , afb . 
+12 ; Kok 1997b , 4 . 
+Het gebied rond de boerderij De Zemelen aan de Kapelleweg is sinds de zestiger jaren van de 20e eeuw bekend als archeologische vindplaats . 
+Naar aanleiding van de vondst van materiaal uit de late IJzertijd en de Romeinse tijd kreeg een deel van het terrein in 1968 de status van wettelijk beschermd archeologisch monument ( afb . 
+6 ) . 
+Latere veldverkenningen op de percelen direct aansluitend op De Zemelen hebben uitgewezen dat het gebied met archeologische waarden groter is dan het gebied dat in 1968 werd aangewezen als wettelijk beschermd monument.7 In 1972 en 1976 werden op de aangrenzende terreinen scherven verzameld uit de late IJzertijd , de Romeinse tijd en de Middeleeuwen . 
+Het terrein ten noorden van de Kapelleweg is op basis van de resultaten van deze veldverkenningen aangewezen als attentiegebied ( CMA-nr . 39A-A55 , nr . 12134 ) . 
+De terreinen ten zuiden , oosten en westen van het monument kregen de status van te beschermen monument ( CMAnr . 
+39A-100 , nr . 3592 ; CMA-nr . 39A-123 , nr . 11421 , CMA-nr . 39A-044 ) . 
+Sinds enige jaren worden er regelmatig metaalvondsten gemeld van het terrein De Zemelen . 
+Het gaat hierbij onder andere om Keltische triquetrum-munten , een 4e-eeuwse haarnaald , enkele laat-Romeinse munten en een vroegmiddeleeuwse fibula van het Domburg-type ( zie paragraaf 3.4.6 en afb . 
+13 ) .8 Deze vondsten bevestigen het vermoeden dat De Zemelen reeds in de ( late ) IJzertijd bewoond was en ook in de laat-Romeinse tijd en vroege Middeleeuwen in gebruik was . 
+De genoemde vondsten van De Zemelen benadrukken tevens het belang van de vindplaats . 
+Keltische munten zijn in het Kromme Rijngebied uiterst zeldzaam . 
+13 Ze zijn slechts van enkele andere plaatsen in het gebied bekend , zoals een terrein direct ten noordwesten van De Zemelen , de terreinen De Geer en De Horden bij Wijk bij Duurstede en uit de directe omgeving van het castellum Fectio bij Vechten.9 Van de meeste van deze vindplaatsen komen tevens fragmenten van glazen La Tène-armbanden.10 Deze armbanden worden in de periode tussen ca . 
+200 v.Chr . 
+en 50 n.Chr . 
+gedateerd.11 Er is wel gesuggereerd dat deze armbanden in onze streken als ruil- of betaalmiddel hebben gefungeerd , maar overtuigende bewijzen daarvoor ontbreken.12 De aanwezigheid van Keltische munten en La Tène-armbanden zou op contacten met het Bataafse machtscentrum in de omgeving van Rossum kunnen wijzen.13 Laat-Romeinse en vroeg-middeleeuwse vondsten zijn in het Kromme Rijngebied relatief zeldzaam . 
+Veel van de in de IJzertijd en Romeinse tijd gebruikte nederzettingsterreinen in dit gebied werden rond het midden van de 3e eeuw n.Chr . 
+opgegeven . 
+Slechts enkele terreinen , zoals De Geer bij Wijk bij Duurstede , kennen een vrijwel continue bewoning van de IJzertijd tot in de Karolingische tijd.14 De vondsten van De Zemelen lijken er op te wijzen dat zich bij De Zemelen mogelijk een vergelijkbare situatie voordoet . 
+9 Kok 1997a , 40 ; Van Es 1994a ; Aarts 1994 ; particuliere collectie , Amersfoort . 
+10 Wijk bij Duurstede-De Horden : Van Es 1994a , 34 , afb . 
+19 ; Wijk bij Duurstede-De Geer : Linnemeijer 1995 , 34-9 . 
+11 Haevernick 1960 , 75-94 ; Peddemors & Verwers 1970 ; Verwers 1972 , 118-9 ; Peddemors 1975 , 97 , 106-8 ; Willems 1981 , 196 ; Van den Broeke 1987a , 39-40 ; Roymans 1989 , 4.2 , 4.4. ; Roymans & Van Rooijen 1993 , 4 , 6 . 
+12 Willems 1981 , 196 ; Van der Sanden 1987 , 92-3 . 
+13 Roymans & Van der Sanden 1980 ; Van Es 1994a , 22-7 . 
+14 Van Es et al . 
+1990 ; 1991 ; 1992 ; 1993 ; 1994 ; 1995 ; Van Es 1994d , 231-4 . 
+14 3 Waarderend archeologisch onderzoek ( ROB 2000 ) 3.1 Doelstelling Het onderzoek in De Zemelen was in de eerste plaats gericht op het verzamelen van aanvullende gegevens over de datering en fasering van de vindplaats . 
+Ook de aard en omvang van de vindplaats dienden verder te worden onderzocht . 
+Daarnaast diende het onderzoek inzicht te geven in de conserveringstoestand en gaafheid van de vindplaats . 
+Het feit dat er relatief veel metaalvondsten van het terrein komen , zou er op kunnen wijzen dat delen van het terrein zijn aangetast . 
+Er staat een aantal gebouwen op het terrein en het is onduidelijk of bij de bouw daarvan een gedeelte van het archeologische monument is verstoord . 
+Verder is onbekend in hoeverre het huidige gebruik nadelige gevolgen heeft voor de conservering van de vindplaats . 
+3.2 Methode van onderzoek Uitgangspunt bij het onderzoek was dat alleen die delen van het monument zouden worden opgegraven die binnen het plan van de sloop van de bestaande bebouwing en de te bouwen loopstal vielen . 
+Het onderzoek is daarom in twee fasen uitgevoerd . 
+Ten zuidwesten van de bestaande loopstallen werd een opgravingsput van ca . 
+12,5 x 17,5 m aangelegd ( afb . 
+7 ) . 
+De graafwerkzaamheden Afb . 
+7 Locatie van de opgravingsput . 
+Schaal : 1 : 1 000. loopstal opgravingsput erf 15 zijn verricht met een hydraulische kraan met schaafbak . 
+Het eerste vlak lag op een diepte die varieerde van 3,15 m NAP aan de zuidzijde tot 2,48 m NAP aan de noordzijde . 
+Dit vlak is getekend en afgewerkt . 
+Vervolgens zijn de ondergrondse resten van de loopstal en gierkelder ten noorden van de opgravingsput verwijderd . 
+Sommige verstoringen reikten tot 2,10 m NAP . 
+De opgravingsput is vervolgens in noordelijke richting uitgebreid en kreeg uiteindelijk een oppervlak van 17,5 x 25 m. Dit is tevens de grootte van de bouwput . 
+In de vergrote opgravingsput werd een tweede vlak aangelegd . 
+Dit vlak lag op een diepte van ca . 
+2,00 m NAP . 
+De grondsporen zijn in dit vlak tot hun maximale diepte gecoupeerd en laagsgewijs doorzocht op vondstmateriaal . 
+Bij de aanleg van de vlakken en de afwerking van de grondsporen is intensief gebruik gemaakt van een metaaldetector . 
+Daarnaast zijn van enkele grondsporen monsters genomen ten behoeve van ecologisch onderzoek . 
+Het oost- en westprofiel van de opgravingsput is tot een diepte van 2,00 m -Mv gedocumenteerd . 
+Dit is tevens de diepte van de bouwput . 
+3.3 Beschrijving van de aangetroffen fenomenen15 3.3.1 Verticale stratigrafie Het onderzochte terrein ligt op het zuidelijke deel van de stroomrug , waar deze naar het noorden toe afloopt . 
+In het terrein zijn de reliëfverschillen nauwelijks te zien : latere egalisaties hebben het verschil in hoogte grotendeels uitgewist . 
+De stroomrug bestaat uit een oeverwal met een fossiele rivierbedding ten noorden daarvan . 
+De stratigrafische opbouw van het terrein is in detail bestudeerd door middel van de twee noord-zuid profielen . 
+De verschillende archeologische ( sporen ) niveau ’ s worden besproken aan de hand van het geschematiseerde oostprofiel van de opgravingsput ( afb . 
+8 ) . 
+De recente bouwvoor ( afb . 
+8 , laag a ) heeft een dikte van ca . 
+0,5 m. Hieronder bevindt zich in het gedeelte van de bedding een dikke laag grijsbruine klei met puin ( afb . 
+8 , laag b ) . 
+Op de oeverwal is deze laag niet aangetroffen . 
+De laag dateert van na de bewoning en is waarschijnlijk opgebracht om de in de bedding aanwezige depressie op te vullen . 
+De oeverwal is opgebouwd uit lagen bruine en geelgrijze klei ( afb . 
+8 , laag c ) . 
+De top van de stroomrug bevindt zich op 3,45 m NAP . 
+De sporen op de oeverwal bevonden zich direct onder de recente bouwvoor . 
+De lagen waaruit de oeverwal is opgebouwd worden op ca . 
+3 m uit de zuidhoek van het profiel oversneden door de insteek van de bedding . 
+De hellingshoek van de insteek bedraagt ongeveer 15 graden . 
+De vullingen in de bedding geven een beeld van de stroomsnelheid van de rivier . 
+De lagen waaruit de oeverwal is opgebouwd worden weggesneden door een vrij steile insteek . 
+Dit betekent dat de stroomrug waarschijnlijk aan een buitenbocht lag en de rivier een erosieve fase moet hebben gekend . 
+Naar verloop van tijd verloor de rivierarm – waarschijnlijk door stroomverleggingen stroomopwaarts – zijn watervoerende functie en raakte de bedding opgevuld met riviersediment . 
+De onderste vulling van de bedding bestaan uit lagen zand , klei en humeus materiaal ( fase I ) . 
+De top van deze lagen ligt op 2,35 m NAP . 
+In deze lagen zijn enkele scherven uit de vroege IJzertijd aangetroffen . 
+Het vondstmateriaal is nauwelijks verspoeld , hetgeen er op wijst dat het ter plaatse is gedeponeerd . 
+De vondsten hangen samen met de oudste bewoning op de oeverwal . 
+In de bovenste zandlaag is in fase II een greppel ( S 110 ) gegraven in de bedding . 
+Het vondstmateriaal uit de greppel vertoont grote overeenkomst met de vondsten uit de lagen waarin het spoor is ingegraven . 
+Het is dan ook aannemelijk dat beide uit dezelfde periode dateren . 
+Dit doet vermoeden dat de opvulling van de bedding betrekkelijk snel is gegaan en dat de verticale aanwas zo ver was gevorderd dat dit gedeelte van het terrein in gebruik kon worden genomen . 
+16 15 Voor de uitgebreide beschrijving van de hier genoemde fasen , zie paragraaf 3.5.1. m NAP noord zuid 3.00 S 100 S 110 S 93 S 25 ( fase II ) laag a fase IIIb laag b fase IIIa laag c fase I Afb . 
+8 Het oostprofiel van de opgravingsput . 
+De aard van de activiteiten in de dichtgeslibde bedding is niet geheel duidelijk . 
+Waarschijnlijk werd het terrein niet intensief gebruikt . 
+In de depressie die in het terrein achterbleef , werd vervolgens vanaf de oever in een tweetal fasen ( fase IIIa , IIIb ) grond gedeponeerd die vermengd was met nederzettingsafval . 
+Zo raakte de bedding verder opgevuld . 
+De ophogingslagen dateren uit de midden- en late IJzertijd . 
+Er zijn geen bijbehorende sporen aangetroffen . 
+Waarschijnlijk concentreerden de activiteiten zich in deze periode op de oeverwal . 
+In de bovenste laag werd in de late IJzertijd en vroeg-Romeinse tijd ( fase IV ) een groot aantal sporen ingegraven , zoals greppels en kuilen . 
+Ook op de oeverwal bevinden zich sporen uit deze periode . 
+3.3.2 De grondsporen Tijdens de opgraving zijn grondsporen uit de IJzertijd en de Romeinse tijd aangetroffen ( afb . 
+9 ) . 
+De meeste sporen bevinden zich op een oeverwal die De Zemelen in oost-west richting doorsnijdt . 
+Daarnaast zijn er enkele grondsporen ( vooral greppels ) aangetroffen op de dichtgeslibde rivierbedding ten noorden van deze oeverwal . 
+De interpretatie van de grondsporen wordt bemoeilijkt door enkele factoren . 
+In de eerste plaats is alleen in de bedding een duidelijke stratigrafie voorhanden . 
+Op de oeverwal komen alle sporen op hetzelfde niveau tevoorschijn . 
+Ten tweede is het niet eenvoudig om de individuele sporen op basis van het vondstmateriaal te dateren . 
+De meeste leverden slechts enkele kleine wandfragmenten van aardewerk op , die nauwelijks houvast boden voor de datering van de sporen . 
+De laatste complicerende factor is dat de opgravingsput voor het grootste deel wordt ingenomen door de rivierbedding . 
+Daardoor ontbreekt het inzicht in de aard en fasering van de bewoning op de oever . 
+3.3.2.1 Paalgaten Op de oeverwal zijn vooral paalgaten aangetroffen . 
+Verder zijn er ook enkele kuilen en greppels . 
+De spoordichtheid is laag ; dit komt waarschijnlijk omdat de opgravingsput in de periferie van de nederzetting ligt . 
+De kern van de nederzetting bevindt zich ten oosten van de opgravingsput . 
+Een aantal paalsporen kan met zekerheid in de Romeinse tijd worden gedateerd . 
+De meeste dateren echter waarschijnlijk uit de IJzertijd . 
+De grondsporen tekenen zich af op een diepte van 3,27 tot 3,14 m NAP . 
+De meeste paalgaten zijn opgevuld met donkergrijze klei . 
+Een klein aantal heeft een lichte vulling . 
+Mogelijk zijn dit de oudste sporen . 
+17 S95 S100 S106 S110 S93 S102 S103 bedding 1 2 3 De diepte van de paalgaten varieert van enkele centimeters tot ruim 30 cm . 
+De meeste paalgaten die op de oeverwal werden gevonden maken deel uit van een zgn . 
+palenzwerm-nederzetting . 
+Dergelijke nederzettingen komen in het Nederlandse rivierengebied voor van de midden-IJzertijd tot in de vroegRomeinse tijd.16 Het probleem met de interpretatie van palenzwerm-nederzettingen is dat daarin geen plattegronden zijn te herkennen van gangbare boerderij-typen . 
+In het beste geval kunnen alleen kleine vier- , zes- of negenpalige configuraties worden getraceerd . 
+Ze worden geïnterpreteerd als spiekers of bijgebouwen . 
+Verschillende onderzoekers hebben zich beziggehouden met het probleem van de palenzwerm-nederzettingen . 
+Willems veronderstelt dat er sprake is van gebouwplattegronden van een andere vorm dan de tot nu toe bekende typen.17 Hij schrijft de veranderde gebouwplattegronden toe aan een verandering van de bestaanseconomie en een specialisatie in agrarische activiteiten . 
+Zowel een specialisatie in akkerbouw als in veeteelt zou volgens hem hebben kunnen leiden tot het verdwijnen van het stalgedeelte . 
+Akkerbouwproducten en veevoer zouden dan zijn opgeslagen in kleine bijgebouwen of spiekers . 
+Roymans is een andere mening toegedaan.18 Hij stelt dat het gemengd bedrijf in onze streken gangbaar was in de IJzertijd . 
+Er kon wel een zekere mate van specialisatie zijn , maar deze was volgens hem niet zo sterk als Willems veronderstelt . 
+Volgens 18 Afb . 
+9 Overzicht van alle sporen . 
+Legenda : 1 vroege IJzertijd ; 2 midden-IJzertijd ; 3 late IJzertijd - Romeinse tijd . 
+16 Zie Wijk bij Duurstede-De Geer : Van Es 1994a ; Kesteren-De Woerd : Siemons 2001 . 
+17 Willlems 1984 , 223-32 . 
+18 Roymans 1990 , 111-2 . 
+Roymans kan het ontbreken van duidelijke gebouwplattegronden zijn veroorzaakt door latere verstoringen , erosie en het niet volledig opgraven van de palenzwerm-nederzettingen.19 Ook zijn uitleg biedt echter geen afdoende verklaring . 
+De laatste jaren konden enkele goed-geconserveerde palenzwermnederzettingen vrijwel volledig worden opgegraven . 
+Deze opgravingen hebben echter geen duidelijke plattegronden van hoofdgebouwen opgeleverd.20 Er zal dus naar andere verklaringen moeten worden gezocht . 
+3.3.2.2 Kuilen en greppels 19 Roymans 1990 , 112 , 177-9 . 
+20 Wijk bij Duurstede-De Geer : Van Es et al . 
+1990 ; 1991 ; 1992 ; 1993 ; 1994 ; 1995 . 
+Kesteren-De Woerd : Siemons 2001 . 
+De kuilen liggen op de rand van de bedding en zijn ingegraven in het pakket donkergrijze klei , behorende bij fase IIIb . 
+Op basis van hun stratigrafische positie kunnen ze in de midden-IJzertijd worden gedateerd . 
+Deze datering wordt bevestigd door het vondstmateriaal uit de kuilen . 
+De diepte van de kuilen varieert van enkele decimeters tot 95 cm . 
+De kuilen zijn opgevuld met lagen donkergrijze en grijze klei . 
+De functie van de kuilen is onduidelijk . 
+Mogelijk houden de diepste kuilen verband met waterwinning . 
+Het feit dat alle kuilen in dezelfde zone liggen , zou er op kunnen wijzen dat hun functie gelijksoortig was . 
+In de dichtgeslibde bedding zijn vooral greppels ingegraven . 
+Op basis van de verticale stratigrafie kunnen twee fasen ( fase II en IV ) worden onderscheiden . 
+De oudste greppel ( spoor 110 ) bevindt zich op een diepte van 2,20 m NAP . 
+De greppel loopt in het westelijke en oostelijke deel van de put min of meer parallel aan de bedding en maakt halverwege de put tweemaal een knik . 
+De bovenste vulling bestaat uit donkergrijze klei . 
+Daaronder bevindt zich een donkerbruine humeuze vulling . 
+De diepteligging van de onderkant van de greppel varieert van 1,40 m NAP aan de westzijde tot 1,60 m NAP aan de oostzijde . 
+In het oostelijke deel van de greppel is veel aardewerk en botmateriaal aangetroffen . 
+De vondsten zijn voor het merendeel afkomstig uit de onderste vulling . 
+Het aardwerk dateert uit de vroege IJzertijd . 
+De greppel wordt afgedekt door een dunne laag grijze klei en een pakket donkergrijze klei . 
+De top van deze tweede laag ligt op 2,40 tot 2,60 m NAP . 
+Deze lagen hebben een relatief grote hoeveelheid vondstmateriaal opgeleverd , waaronder veel handgevormd aardewerk en bot . 
+In de bovenste laag is een aantal greppels en kuilen ingegraven . 
+De meeste greppels zijn min of meer oost-west georiënteerd . 
+Alleen twee smalle greppels ( sporen 102 en 103 ) zijn noord-zuid gericht . 
+De smalle greppels worden aan de noordzijde oversneden door een brede oost-west georiënteerde greppel ( spoor 95 ) en oversnijden op hun beurt een greppel aan de zuidzijde ( spoor 93 ) . 
+Spoor 95 wordt oversneden door een grote kuil ( spoor 106 ) . 
+De greppels hebben een breedte van 40 tot 95 cm en reiken tot een diepte van 2,02 tot 1,52 m NAP . 
+Ze hebben alle een komvormige doorsnede . 
+In de meeste gevallen bestaat de vulling van onder naar boven uit lichtgrijs zand , gevolgd door een donkergrijze kleilaag met houtskool . 
+Het merendeel van de greppels bevatte vrij weinig vondsten . 
+De onderste vullingen van de greppels leverden slechts enkele fragmenten handgevormd aardewerk en botmateriaal op . 
+Uit de bovenvulling van enkele sporen komen ook enkele fragmenten import-aardewerk en stukken van tegulae . 
+De vulling van de kuilen komt overeen met die van de greppels . 
+De diepte van de kuilen varieert van 2,02 tot 1,62 m NAP . 
+Ook de kuilen bevatten weinig vondstmateriaal . 
+De functie van dit gedeelte van het terrein is onduidelijk . 
+Het verschil tussen het niveau waarop de sporen op de stroomrug en die op de bedding tevoorschijn komen , bedraagt ongeveer 70 cm . 
+Dit betekent dat het noordelijke deel ten tijde van de bewoning in de Romeinse tijd een stuk lager lag dan de oeverwal . 
+Dit beperkte mogelijk het gebruik van het terrein . 
+Mogelijk lagen hier akkers of werd het terrein gebruikt voor het weiden van vee . 
+Het onderzochte terrein is te klein om de grootte van de percelen te kunnen vaststellen . 
+Het feit dat er relatief veel oversnijdingen voorkomen lijkt te wijzen op een vrij intensief gebruik van het terrein . 
+19 3.4 De vondsten Het onderzoek heeft een relatief kleine hoeveelheid vondstmateriaal opgeleverd . 
+Met name de hoeveelheid metaalvondsten was enigszins teleurstellend . 
+De verwachtingen waren hooggespannen , aangezien er in het recente verleden door amateur-archeologen grote aantallen munten , fibulae en andere metalen artefacten op het terrein zijn verzameld . 
+De belangrijkste reden voor het vrijwel ontbreken van metaalvondsten is blijkbaar gelegen in het feit dat de opgravingsput in de periferie van de nederzetting ligt , terwijl de metaalvondsten met name van het hoogste deel van het terrein komen . 
+Ondanks de systematische inzet van een metaaldetector zijn slechts enkele stukken ijzer , twee fibulae en de knop van een bronzen naald verzameld . 
+Tijdens de opgraving zijn in totaal 948 aardewerkfragmenten geborgen . 
+Het aardewerk bestaat voor het overgrote deel uit handgevormd materiaal , daterend uit de IJzertijd en de Romeinse tijd ( in totaal 924 fragmenten ) . 
+Draaischijfaardewerk uit de Romeinse tijd is uiterst schaars ( 21 fragmenten ) . 
+Daarnaast zijn een vroeg-middeleeuwse scherf en twee laat-middeleeuwse aardewerkfragmenten verzameld . 
+De aantallen per context zijn te gering om kwantitatieve analyses mogelijk te maken . 
+Er is dan ook voor gekozen om het materiaal niet gedetailleerd te beschrijven , maar de vondsten zoveel mogelijk per context of fase te presenteren . 
+Daarbij is gekeken naar de maakwijze ( handgevormd vs . 
+gedraaid ) , potgeleding/vorm21 , baksel , en de toegepaste decoratie- en afwerkingstechnieken . 
+Per baksel is het aantal fragmenten geteld , onderverdeeld in rand- , wand- en bodemscherven . 
+De scherven zijn niet gewogen . 
+Bij de bakselindeling van het handgevormde materiaal is vooral gekeken naar het meest dominant aanwezige mageringsmateriaal ( potgruis , organische magering of zand ) . 
+Daarnaast zijn de randen in groepen onderverdeeld : ronde , afgeplatte , enkelvoudig en meervoudig gefacetteerde randen . 
+Indien mogelijk is de potgeleding/vorm22 vastgesteld . 
+Verder zijn de toegepaste decoratie- of afwerkingstechnieken genoteerd en de plaats waar deze zich op het potlichaam bevinden . 
+Het gedraaide aardewerk is onderverdeeld in de gangbare bakselgroepen : ruwwandig , gladwandig , dikwandig en kust-aardewerk voor de Romeinse tijd en Badorf en Pingsdorf voor het middeleeuwse materiaal . 
+De randen zijn in de bestaande typologieën ingedeeld . 
+Hieronder zal achtereenvolgens op het handgevormde en gedraaide aardewerk worden ingegaan . 
+3.4.1 Handgevormd aardewerk23 Het handgevormde aardewerk neemt binnen het vondstspectrum een prominente plaats in . 
+Het materiaal dateert zowel uit de IJzertijd als de Romeinse tijd . 
+Het onderscheid tussen beide groepen is vaak moeilijk te maken . 
+Dit komt gedeeltelijk omdat het materiaal te fragmentarisch is , waardoor diagnostische kenmerken ontbreken , zoals potgeleding/vorm of decoratie . 
+Gezien de aard van de bewoning is daarnaast de kans groot dat in de grondsporen vermenging van materiaal uit meerdere perioden is opgetreden . 
+Het materiaal is daarom onderverdeeld in bakselgroepen . 
+Daarnaast is gekeken naar typologische indicatoren zoals rand- en potvormen en de toegepaste decoratie- en afwerkingstechnieken . 
+Hierbij is gebruik gemaakt van de methode die Van Heeringen en Van Trierum hebben opgesteld voor het handgevormde materiaal uit WestNederland.24 Tenslotte is gekeken naar de context en parallellen met andere contemporaine vindplaatsen . 
+20 21 De term potgeleding verwijst naar de duidelijk herkenbare delen op basis waarvan de vorm ( het profiel ) van de oorspronkelijke pot kan worden gereconstrueerd . 
+We onderscheiden een- , twee- en drieledige potvormen . 
+Om op basis van een scherf de geleding van een pot te bepalen moet een aanzienlijk deel van de rand en/of een zeer karakteristiek deel van de wand aanwezig zijn . 
+22 Zie noot 21 . 
+23 Met dank aan Robert van Heeringen ( ROB ) voor zijn op- en aanmerkingen . 
+24 Van Heeringen & Van Trierum 1981 . 
+3.4.1.1 Baksel Op basis van macroscopische kenmerken kunnen drie bakselgroepen onderscheiden worden . 
+Hierbij is vooral gekeken naar het meest dominant aanwezige verschralingsmateriaal : klei gemagerd met potgruis ; klei gemagerd met organisch materiaal ; en klei gemagerd met zeer fijn zand . 
+In een beperkt aantal gevallen zijn verschillende mageringssoorten gecombineerd . 
+Het aardewerk is overwegend vrij hard gebakken , maar ook zacht gebakken materiaal komt voor . 
+De kleur van het baksel varieert van zwart tot geel-oranje en ( licht ) bruin . 
+Enkele scherven hebben een lichtgele kleur . 
+Een klein aantal scherven is versinterd . 
+Het is onduidelijk of het misbaksels zijn of dat het secundair verbrand materiaal betreft . 
+Klei gemagerd met potgruis Potgruis is het meest toegepaste mageringsmiddel . 
+Van alle scherven is 95 % op deze wijze gemagerd . 
+In de meeste gevallen zijn de ronde of hoekige potgruisdeeltjes duidelijk met het blote oog te herkennen . 
+Dit geldt met name voor de binnenzijde van de scherf , die vaak minder goed is afgewerkt dan de buitenzijde . 
+Vaak steken de potgruisdeeltjes door het oppervlak van de scherf heen , waardoor de scherf enigszins ruw aanvoelt . 
+Aan de buitenzijde zijn de mageringspartikels minder duidelijk zichtbaar , vooral als het oppervlak is gepolijst , besmeten of op een andere wijze is afgewerkt . 
+De kleur van de potgruisdeeltjes is afhankelijk van de wijze waarop de pot is gebakken : d.w.z . 
+reducerend of oxiderend . 
+De meeste potten zijn reducerend gebakken en de potgruispartikels zijn dan ook grijs of zwart van kleur . 
+Een enkele maal komen echter ook rode partikels voor . 
+Op de breuk is de magering vaak niet zichtbaar , omdat deze dezelfde donkere kleur heeft als de klei . 
+Soms zijn de mageringspartikels op de breuk te herkennen als kleine onregelmatige , hoekige deeltjes . 
+De hoeveelheid toegevoegde magering verschilt per pot . 
+Sommige scherven bevatten slechts weinig potgruisdeeltjes , andere daarentegen juist veel . 
+In enkele gevallen is naast potgruis ook zeer fijn , micahoudend zand toegevoegd . 
+Klei gemagerd met organisch materiaal Organische magering komt beduidend minder vaak voor dan potgruismagering : het is bij 2 % van de scherven toegepast . 
+Soms is het organische materiaal gecombineerd met andere materialen , zoals potgruis . 
+Het organische materiaal manifesteert zich als uitgebrande indrukken aan de buitenzijde van de scherf , waardoor deze een enigszins onregelmatig oppervlak heeft . 
+Een aparte groep vormen de scherven in een lichtgeel baksel . 
+Het materiaal is zacht gebakken en zeer poreus door het uitbranden van de plantaardige verschaling . 
+De potten zijn slecht afgewerkt . 
+Dit materiaal is afkomstig uit het Belgisch-Nederlandse kustgebied en is daar vanaf de IJzertijd , maar vooral in de Romeinse tijd , geproduceerd . 
+Het is een zgn . 
+briquetage-baksel.25 Klei gemagerd met zeer fijn zand Op de breuk en het oppervlak zijn geen grote zandkorrels zichtbaar , maar kleine glimmende partikels mica zijn met het blote oog aan de buitenzijde te zien . 
+Dit baksel komt slechts zelden voor , zodat een uitvoerige beschrijving niet mogelijk is . 
+Het betreft fragmenten van dunwandige kommen en schalen in een relatief hard baksel . 
+Het baksel heeft een donkere kleur en is zorgvuldig afgewerkt . 
+3.4.1.2 Decoratie- en afwerkingstechnieken ( afb . 
+10 ) 25 Van den Broeke 1986 . 
+Het handgevormd aardewerk uit Cothen - De Zemelen vertoont de volgende decoratie- en afwerkingstechnieken : 21 1 2 5 3 4 6 7 0 5 cm - nagel- en vingertopindrukken in verschillende motieven ; - individuele lijnen , min of meer parallel aan elkaar ; - individuele lijnen in ruitvormige patronen ; - kamversiering in verschillende geometrische patronen ; - ronde indrukken ; - groeven ; - vingergeulen ; - uitgeknepen versiering ( zgn . 
+Warzen ) ; - knobbels ; - gepolijst ; - geglad oppervlak ; - besmeten oppervlak . 
+De decoratie bevindt zich vrijwel altijd aan de buitenzijde van de pot of op de bovenzijde van de rand . 
+Eén fragment is aan de binnenzijde gedecoreerd . 
+De scherf is voorzien van verticale parallelle lijnen ( vondstnummer 1-2-44 ) . 
+Sommige decoratie- of afwerkingstechnieken hebben naast een mogelijk decoratieve waarde ook een functionele betekenis . 
+Dit geldt met name voor het gepolijste aardewerk . 
+Sporen van polijsting vinden we in het algemeen over het gehele buitenzijde van de pot en aan de binnenzijde van de rand en hals . 
+In enkele gevallen zijn verschillende technieken na elkaar toegepast . 
+Dit geldt vooral voor potten met kamversiering . 
+Deze zijn gepolijst voordat de kam- 22 Afb . 
+10 Versieringstypen op het handgevormde aardewerk : 1 besmeten ; 2 groeflijnen ; 3 kamversiering ; 4 golvende kamversiering ; 5 geulen ; 6-7 nagel-/vingertopindrukken . 
+Afb . 
+11 Streepbandpot . 
+versiering werd aangebracht . 
+Bij een aantal potten zijn meerdere decoratie- of afwerkingstechnieken tegelijkertijd toegepast . 
+Een voorbeeld hiervan is een drieledige pot die vanaf de rand tot aan de grootste buikomvang is gepolijst , met daaronder een zone met individuele lijnen in een ruitvormig patroon . 
+Het gepolijste gedeelte is tevens voorzien van enkele kleine knobbels . 
+Voor zover kan worden nagegaan bevindt de decoratie zich vrijwel altijd onder de grootste buikomvang . 
+De nagel-/vingertopversiering vormt daarop een uitzondering : deze komen op alle delen van het pot-oppervlak voor . 
+De decoratie is op verschillende manieren aangebracht . 
+De nagel-/vingertopversiering is met de vingers gemaakt , evenals geulen en uitgeknepen versiering . 
+De vingertoppen zijn vaak diep in de klei gedrukt , waardoor een plastisch effect ontstaat . 
+De individuele lijnen en groeven en de ronde indrukken zijn met een scherp voorwerp aangebracht , zoals een houtje of bot . 
+Kamversiering is met een smalle houten of benen kam gemaakt . 
+Streepband-versiering is slechts op één pot aangetroffen ( vondstnummer 1-0-59 ) . 
+Deze pot is aan de buitenzijde voorzien van groeven op de overgang van de hals naar het potlichaam ( afb . 
+11 ) . 
+De binnen- en buitenzijde van de rand en hals zijn gepolijst . 
+De buitenzijde van de wand is geglad . 
+De pot heeft een drieledige vorm en een enigszins omgeslagen , ronde rand . 
+De klei is gemagerd met potgruis en zeer fijn micahoudend zand . 
+De kleur van het baksel varieert van grijs aan de binnenzijde tot oranjebruin aan de buitenzijde . 
+Op basis van de context moet de pot in de Romeinse tijd worden gedateerd . 
+Het is onduidelijk of de pot als import uit het Friese gebied moet worden geschouwd of dat het een lokaal product is . 
+Het baksel wijkt niet af van dat van de andere scherven en dit pleit voor lokale of regionale productie . 
+Ook op andere plaatsten in het rivierengebied , zoals Jutphaas , is streepbandaardwerk in kleine hoeveelheden aangetroffen.26 Er zal eerder gedacht moeten worden aan een Friese invloed dan aan importen uit Noord-Nederland . 
+3.4.1.3 Randvormen ( handgevormd aardewerk ) ( zie tabel 1 ) 26 Van Tent 1978 , 219-20 . 
+De randvormen uit het complex Cothen-De Zemelen kunnen als volgt worden geclassificeerd : - onverdikte , ronde randen . 
+Soms is de rand aan de bovenzijde aangepunt ; - randen met een vlakke bovenzijde . 
+Vaak is de bovenzijde van de rand enigszins verdikt doordat tijdens de fabricage druk is uitgeoefend op de rand om deze vlak te maken ; - omgeslagen randen ; - randen met enkelvoudig facet ; - randen met meervoudig facet ; - golfranden . 
+De randen met een vlakke bovenzijde zijn vaak voorzien van ruim gespatieerde nagel- of vingerindrukken op de bovenzijde . 
+De randen met een afgeschuinde buitenzijde hebben altijd een rij aaneengesloten nagel- of vingerindrukken tegen 23 randvorm rond vlak omslag enkelvoudig facet meervoudig facet kartel totaal eenledige vorm tweeledige vorm drieledige vorm 8 2 0 1 0 0 11 11 10 2 4 0 1 28 18 15 6 7 6 3 55 totaal 37 27 8 12 6 4 94 Tabel 1 Overzicht van de verdeling van de randtypen per potvorm van het handgevormde aardewerk . 
+de buitenkant van de rand . 
+De simpele , onverdikte ronde randen komen het meest voor ( 39,4 % ) , gevolgd door de randen met een vlakke bovenzijde ( 28,7 % ) . 
+Randen met een één of meer facetten komen relatief weinig voor . 
+Omgeslagen randen zijn schaars , evenals golfranden . 
+3.4.1.4 Randafwerking ( handgevormd aardewerk ) Op het aardewerk van De Zemelen kunnen drie categorieën randafwerking worden onderscheiden : - gepolijste randen . 
+In de meeste gevallen is niet alleen de rand gepolijst , maar de hele buitenzijde van de pot . 
+Ook de binnenzijde van de rand en hals is vaak gepolijst ; - randafwerking in de vorm van vinger- of nagelindrukken op de boven- of buitenzijde van de rand . 
+De afstand tussen de individuele indrukken bedraagt meestal enkele centimeters ; - randafwerking in de vorm van aaneengesloten vinger- of nagelindrukken aan de buitenzijde van de rand . 
+Hierdoor heeft de rand een gekarteld uiterlijk . 
+Randen met polijstsporen komen het meest voor , gevolgd door randen met ruim gespatieerde vingertop- of nagelindrukken . 
+Gekartelde randen komen vrijwel niet voor ( 4,3 % ) .Waarschijnlijk heeft het vrijwel ontbreken van deze laatste groep vooral een chronologische betekenis . 
+3.4.1.5 Potgeleding/vorm ( handgevormd aardewerk ) 27 Om op basis van een scherf de geleding van de pot te kunnen vaststellen , moet een aanzienlijk deel van het profiel of de wand aanwezig zijn . 
+Dit is bij het materiaal uit De Zemelen maar bij een klein percentage het geval . 
+Er komen zowel een- , twee- als driedelige potvormen voor . 
+De randtypen lijken niet te zijn gebonden aan één potvorm , maar komen meestal bij meerdere vormen voor . 
+Bij potten met een eenledige vorm komen vooral ronde randen voor , terwijl bij potten met een tweeledige vorm zowel ronde als vlakke randen veelvuldig voorkomen . 
+Bij drieledige potten komen alle randtypen voor . 
+Omgeslagen randen en kartelranden komen vrijwel uitsluitend voor bij potten met een drieledige vorm . 
+3.4.2 Overig handgevormd materiaal Naast aardewerk zijn er twee fragmenten van weefgewichten ( vondstnummers 1-2-52 en 1-2-73 ) , een dikwandig kleibrok ( vondstnummer 1-1-1 ) en een groot aantal fragmenten verbrande klei verzameld . 
+De weefgewichten zijn driehoekig van vorm en vervaardigd van gebakken klei met organische magering . 
+Beide exemplaren hebben drie doorboringen . 
+Het meest complete exemplaar is aan één zijde gedecoreerd met een ondiepe vingerindruk . 
+Op basis van de vondstomstandigheden kunnen de weefgewichten in de pre-Romeinse periode worden gedateerd . 
+24 27 Zie ook noot 21 . 
+1 2 3 Afb . 
+12 Romeins draaischijfaardewerk : 1-2 gladwandig ; 3-4 dikwandig . 
+4 Het dikwandige kleibrok is gemagerd met plantaardig materiaal , zacht gebakken en geel-oranje van kleur . 
+Het fragment heeft één afgeronde zijde en een minimale dikte van 8,6 cm . 
+Aan de buitenkant zijn afdrukken van twijgen ( ? ) 
+zichtbaar . 
+Vergelijkbare kleibrokken zijn bekend van diverse vindplaatsen uit de Romeinse tijd in Noord- en Zuid-Holland en Groningen.28 De interpretatie van deze kleibrokken varieert van voorraadkuip en haardkraag tot ijzer- , pottenbakkersof broodoven.29 Het fragment uit Cothen is zacht gebakken en niet versinterd . 
+Mogelijk is het fragment afkomstig van een pottenbakkersoven . 
+Op het terrein is een aantal versinterde scherven aangetroffen , hetgeen er op kan wijzen dat er ter plaatse aardewerk is vervaardigd . 
+Een andere mogelijkheid is dat het kleifragment deel heeft uitgemaakt van een broodoven . 
+De brokken en brokjes verbrande klei kunnen voor het overgrote deel worden gedetermineerd als huttenleem . 
+3.4.3 Romeins draaischijfaardewerk In totaal zijn 21 fragmenten Romeins draaischijfaardewerk geborgen , waaronder vier randfragmenten . 
+Dit aantal is 2,2 % op een totaal van 948 scherven . 
+De scherven zijn in vergelijking tot de fragmenten van het handgevormd aardewerk klein en waarschijnlijk allemaal afkomstig van verschillende potten . 
+Het Romeinse draaischijfaardewerk is onderverdeeld in gladwandig , ruwwandig en dikwandig aardewerk , alsmede kust-aardewerk . 
+3.4.3.1 Gladwandig aardewerk 28 Bitter , Boulonois & De Ridder 1996 ; 88 , Hagers & Sier 1999 , 100-2 . 
+29 Mooij 1982 , 19 ; Cordfunke & Diederik 1984 ; Bitter , Boulonois & De Ridder 1996 , 89 ; Hagers & Sier 1999 , 102 . 
+Hiervan zijn geborgen : één randscherf van een gladwandige kruik ( vondstnummer 1-2-71 ) ; één randscherf van een honingpot ( vondstnummer 1-2-71 ) en acht wandfragmenten . 
+De genoemde gladwandige kruik is van een witgeel baksel . 
+De klei is gemagerd met zeer fijn zand en miniscule potgruisdeeltjes . 
+Het oppervlak voelt glad aan . 
+Het is hard gebakken . 
+De rand is manchetvormig en hol en staat iets naar buiten . 
+De lip is scherp ondersneden . 
+Op de hals bevindt zich aan de buitenzijde een ribbel . 
+De bovenzijde van de rand is aan de binnenzijde afgerond ( afb . 
+12 : 1 ) . 
+De rand behoort waarschijnlijk tot Stuart type 106-107 , hoewel dit type geen ribbel op de hals heeft.30 De algemene datering van dit type valt tussen de late 1e en het begin van de 2e eeuw n.Chr . 
+Op basis van de randvorm moet de kruik in de late 1e eeuw n.Chr . 
+worden gedateerd . 
+25 De honingpot is vervaardigd in een wit baksel . 
+Er is nauwelijks magering zichtbaar . 
+Hooguit enkele zeer kleine potgruispartikels . 
+Het oppervlak is zorgvuldig afgewerkt en voelt glad aan . 
+Het is zacht gebakken . 
+De rand is aan de buitenzijde voorzien van een ondiepe groef ( afb . 
+12 : 2 ) . 
+Honingpotten zijn niet nauwkeurig te dateren , zeker als er geen compleet profiel aanwezig is . 
+De algemene datering valt tussen de vroege 1e eeuw n.Chr . 
+en de 4e eeuw . 
+Het feit dat de honingpot van De Zemelen is uitgevoerd in een zacht , wit baksel zou op een relatief vroege datering kunnen wijzen . 
+De kleur van de overige scherven varieert van wit tot witgeel . 
+Het materiaal is overwegend hard gebakken . 
+3.4.3.2 Ruwwandig aardewerk Hiervan werden vijf wandfragmenten geborgen . 
+De kleur van de baksels varieert van witgeel tot oranje . 
+De magering bestaat uit zand waarvan de korrelgrootte nogal uiteenloopt . 
+De zandkorrels steken gedeeltelijk door het oppervlak heen . 
+Het voelt aan als middelgrof schuurpapier . 
+Het materiaal is middelhard tot hard gebakken . 
+3.4.3.3 Dikwandig aardewerk Hiervan werden geborgen : twee randscherven van dolia ( vondstnummers 1-2-55 en 1-2-57 ) en twee wandfragmenten . 
+Vondstnummer 1-2-55 is vervaardigd in een grof , gelig baksel . 
+De magering bestaat uit grof zand , voornamelijk kwarts , en potgruis . 
+De potgruispartikels zijn hoekig van vorm en hebben een lichtgele kleur . 
+De magering steekt gedeeltelijk door het oppervlak heen , waardoor de scherf aanvoelt als grof schuurpapier . 
+De scherf is hard gebakken . 
+Het dolium heeft een vrijwel horizontale , licht ondersneden rand ( afb . 
+12 : 3 ) . 
+De buitenzijde is enigszins geprofileerd en valt binnen type Stuart 147.31 De wandscherven zijn vervaardigd in een vergelijkbaar baksel . 
+Waarschijnlijk betreft het fragmenten van dolia . 
+Vondstnummer 1-2-57 is vervaardigd in een fijner baksel dan de andere scherven . 
+De magering bestaat uit fijn zand . 
+Het baksel heeft een lichtroze kleur . 
+Het oppervlak voelt aan als fijn schuurpapier . 
+Het is middelhard gebakken . 
+Het dolium heeft een iets naar buiten aflopende , min of meer horizontale rand met aan de bovenzijde twee groeven ( afb . 
+12 : 4 ) . 
+Stuart dateert zijn type 147 tussen ca . 
+10 v.Chr . 
+en 100 n.Chr.32 Dolia met een complex randprofiel zoals vondstnummer 1-2-55 worden door andere onderzoekers in de 2e en 3e eeuw n.Chr . 
+gedateerd.33 3.4.3.4 Kust-aardewerk Hiervan werden geborgen : één blauwgrijs wandfragment en één rood wandfragment . 
+3.4.4 Overig Romeins aardewerk De enige categorie Romeins aardewerk die nog niet is genoemd , is die van de tegulae . 
+Evenals scherven van import-aardewerk komen ze nauwelijks voor op De Zemelen . 
+In totaal zijn drie kleine fragmenten van tegulae een één imbrexfragment geborgen . 
+Stempels zijn niet aangetroffen . 
+26 30 Vgl . 
+Stuart 1963 , pl . 
+4 , 76-8 . 
+31 Vgl . 
+Stuart 1963 , pl . 
+16 , 218 . 
+32 Stuart 1963 , 65 . 
+33 Meunier 1963 ; Bloemers 1967 ; 1979 . 
+2 1 0 3 cm 3 Afb . 
+13 Metaalvondsten : 1-2 fibula ; 3 knop van ( haar- ) naald ( bovenaanzicht ) . 
+3.4.5 Middeleeuws aardewerk Tijdens de aanleg van vlak 1 zijn zowel scherven uit de IJzertijd en de Romeinse tijd als enkele middeleeuwse scherven verzameld . 
+Het betreft een wandfragment vroegmiddeleeuws aardewerk in een hard Badorf-baksel ( baksel w-2 in de indeling van het materiaal uit Dorestad ) 34 en twee wandfragmenten Pingsdorf . 
+Er zijn geen bewoningssporen uit deze perioden aangetroffen . 
+3.4.6 Metaal Zoals reeds vermeld is het aantal metaalvondsten gering . 
+Naast enkele ondetermineerbare ijzerfragmenten zijn twee complete , bronzen fibulae en de knop van een bronzen naald geborgen . 
+De fibula met vondstnummer 1-2-51 en de bronzen knop ( vondstnummer 1-2-56 ) komen uit een oost-west georiënteerde greppel ( spoor 104 ) . 
+De fibula met vondstnummer 1-2-51 komt uit een grote , ronde kuil ( spoor 106 ) . 
+Beide sporen bevinden zich in de bedding en zijn in de donkergrijze kleilaag ( fase IIIb ) ingegraven . 
+De metaalvondsten zijn goed geconserveerd . 
+Vooral de fibula met vondstnummer 1-2-58 heeft een mooi patina . 
+34 Van Es & Verwers 1980 . 
+35 Vgl.Van der Roest 1988,181 , Tafel IV , 67 , 69 . 
+Vondstnummer 1-2-51 is een boog- of spiraalbeugelfibula A ( afb . 
+13 : 1 ) .35 Het hoofdkenmerk van dit type is de halfrond gebogen beugel die middels een beugelknop van de voetplaat wordt gescheiden . 
+Het uiteinde van de naaldhouder is voorzien van een ronde knop . 
+De fibula heeft een zesdelige spiraalrol met een omgebogen haak met knop aan de bovenzijde . 
+Dit type is sterk beïnvloed door La Tène-fibulae . 
+De haak en knoppen herinneren aan de knopfibulae . 
+27 Fibulae van dit type zijn karakteristiek voor Germania Inferior . 
+Voor een vroege datering van dit type spreekt een exemplaar uit Haltern ( 8 v.Chr . 
+- 9 n.Chr . ) . 
+In Hofheim ( 40-80 n.Chr . ) 
+zijn van dit type slechts twee exemplaren aangetroffen , op basis waarvan Ritterling concludeert dat het type al voor het midden van de 1e eeuw verdween.36 In het tempelcomplex van Empel ( Noord-Brabant ) komen ze in grote aantallen voor in fase 2 ( 15 v.Chr.-70 n.Chr . 
+) .37 Een datering in de eerste helft van de 1e eeuw n.Chr. , doorlopend tot in het derde kwart van die eeuw lijkt het meest aannemelijk als datering voor dit type . 
+Vondstnummer 1-2-58 is een draadfibula van het type Almgren-16 ; Van Buchem 24 ; Böhme type 15 ; Riha type 1.7 ( afb . 
+13 : 2 ) .38 De fibula heeft een vierdelige spiraalrol van kantig draad en een bandvormige beugel . 
+De bovenzijde van de beugel is voorzien van een dubbele , fijne puntdecoratie . 
+De naaldhouder is rechthoekig . 
+Volgens Böhme komt dit type vooral voor in de periode tussen Domitianus ( 81-96 n.Chr . ) 
+en Hadrianus ( 117-138 n.Chr . 
+) .39 In het Belgische gebied komt dit type vooral voor in 2e-eeuwse vrouwengraven.40 Fibulae met een bandvormige beugel komen niet voor in pre-Flavische vondstcomplexen.41 Vondsten uit de grafvelden Hees en Wijchen wijzen er op dat dit type tot in de tweede helft van de 2e eeuw voorkomt.42 Op grond van het begeleidende vondstmateriaal moet de fibula uit De Zemelen in de 2e eeuw n.Chr . 
+worden gedateerd . 
+Vondstnummer 1-2-56 betreft de knop van een bronzen ( haar ) naald ( afb . 
+13 : 3 ) . 
+De knop is plat en aan de bovenzijde voorzien van een ingekraste geometrisch versieringspatroon . 
+De versiering doet enigszins denken aan die op laat-Romeinse haarnaalden , maar de vorm van de knop en de context wijzen op een datering in de vroeg-Romeinse tijd . 
+3.4.7 Natuursteen Het natuursteen is niet nader bestudeerd . 
+Onder de vondsten bevinden zich enkele stukken van maalstenen , vervaardigd uit tefriet . 
+Maalstenen van deze steensoort komen in Nederland voor vanaf de IJzertijd.43 De fragmenten zijn te klein om de vorm van de maalstenen vast te kunnen stellen . 
+Verder werd een groot aantal ( rol ) keien geborgen , alsmede enkele fragmenten rode zandsteen , een aantal grote stukken tufsteen en een stuk bewerkt kalksteen . 
+Beide laatste groepen komen uit Romeinse sporen . 
+De andere zijn zowel aangetroffen in sporen uit de IJzertijd als in Romeinse sporen . 
+3.4.8 Bot Op het moment dat dit rapport werd geschreven was het botmateriaal nog niet onderzocht . 
+Het botmateriaal is voor zover kan worden nagegaan in het algemeen goed geconserveerd . 
+Dit geldt met name voor het materiaal uit de vulling van de bedding . 
+Onder het botmateriaal uit de bedding bevindt zich onder andere een aantal fragmenten van een menselijke schedel . 
+3.4.9 Zaden en vruchten Op het moment dat dit rapport werd geschreven waren de zadenmonsters nog niet onderzocht . 
+De algemene indruk in het veld was dat verkoold materiaal , zoals houtskool , goed bewaard is gebleven . 
+Onverkoold materiaal is alleen onder het grondwaterniveau geconserveerd . 
+In de diepere sedimenten in de bedding zijn hout en plantenresten aangetroffen . 
+28 36 Ritterling 1913 , 120 . 
+37 Pulles & Roymans 1994 . 
+38 Almgren 1923 ; Van Buchem 1941 ; Böhme 1972 ; Riha 1979 . 
+39 Böhme 1972 , 14 . 
+40 Almgren 1923 , 106 , noot 3 ; Böhme 1972 , 15 . 
+41 Haalebos 1977 , 288 , nr . 110 , afb . 
+21 , 110 . 
+42 Haalebos 1986 , 52 en noot 73 . 
+43 Van Heeringen 1985 . 
+1 2 3 Afb . 
+14 Aardewerk van fase I . 
+3.5 Fasering en discussie 3.5.1 Stratigrafie en chronologie Op basis van de stratigrafie in de bedding is het mogelijk het daarin aangetroffen aardewerk in verschillende groepen in te delen . 
+De hoeveelheid is echter te klein en de fragmentatiegraad te hoog om een indeling in potvormen mogelijk te maken . 
+Er is daarom voor gekozen het materiaal zoveel mogelijk per context of fase te presenteren . 
+Voor de datering van de verschillende potvormen wordt zoveel mogelijk gebruik gemaakt van de bestaande typologieën.44 Fase I Uit de onderste zandige vullingen van de bedding zijn enkele scherven verzameld . 
+Het betreft fragmenten van dunwandige potten ( wanddikte van 0,6 tot 0,8 cm ) in een vrij hard baksel . 
+De scherven zijn overwegend zwart van kleur . 
+De klei is gemagerd met potgruis . 
+De scherven zijn vaak aan de buitenzijde gepolijst of geglad , maar ook besmeten aardewerk komt in kleine aantallen voor . 
+Het aantal te reconstrueren potvormen is beperkt en bestaat uit tweeledige potten met een enigszins afgeplatte rand ( afb . 
+14 : 1 ) , kommen ( afb . 
+14 : 2 ) en steilwandige ( drie ? 
+) ledige potten ( afb . 
+14 : 3 ) . 
+Fase II Uit de oudste greppel ( spoor 93 ) die in de dichtgeslibde vulling van de bedding is ingegraven , komt een groot aantal scherven Het baksel vertoont grote overeenkomst met dat van het materiaal uit fase I . 
+Het materiaal is verschraald met potgruis en zwart van kleur . 
+Een aanzienlijk deel van de scherven is gepolijst ( 39 % ) of besmeten ( 11 % ) . 
+Daarnaast komen nagel- of vingertopindrukken en geulen incidenteel voor . 
+Van één pot is vrijwel het gehele profiel compleet ( afb . 
+15 : 1 ) . 
+Het betreft een pot met een drieledige vorm , een korte opstaande hals en een ronde rand . 
+De bovenzijde van de pot is gepolijst en voorzien van enkele kleine knobbels . 
+Onder de grootste buikomvang zijn lijnen ingekrast in ruitvormige patronen . 
+Het spoor bevat tevens enkele fragmenten van potten met een drieledige vorm ( afb . 
+15 : 2-3 ) en enkele tweeledige kommen ( afb . 
+15 : 4 ) . 
+44 Van Tent 1978 ; Van Heeringen & Van Trierum 1981 ; Van Heeringen 1987 ; Van den Broeke 1987b ; Taayke 1996 ; Taayke in voorbereiding . 
+45 Van der Roest 1997 , 16-17 , afb . 
+6 . 
+46 Hessing 1989 , 307-20 , abb . 
+7 , 10 en 11 . 
+Het aardewerk uit fase I en II komt qua vorm , baksel en decoratiewijze overeen met het aardewerk van enkele andere complexen uit de vroege IJzertijd in het centrale rivierengebied , zoals Geldermalsen-Lage Blok45 en De Horden te Wijk bij Duurstede.46 De laatste vindplaats ligt op een afstand van ( hemelsbreed ) zo ’ n 10 km van De Zemelen . 
+Op De Horden zijn naast nederzettingssporen uit de vroege IJzertijd ook de resten van een crematiegrafveld aangetroffen . 
+Het grafveld wordt op basis van een 14C-monster tussen 750 en 500 v.Chr . 
+29 1 2 3 4 Afb . 
+15 Aardewerk van fase II . 
+gedateerd.47 Het aardewerk van De Horden en De Zemelen vertoont grote overeenkomst met dat van vondstcomplexen uit Zuid- en West-Nederland.48 Fase III Spoor 93 wordt afgedekt door een laag grijze klei , met daarop een pakket donkergrijze klei met houtskool . 
+Uit deze lagen is een grote hoeveelheid vondsten verzameld . 
+Het aardewerkcomplex is in beide lagen wat heterogeen van samenstelling . 
+Er komen zowel donkere , dunwandige scherven als dikkere scherven in lichtere baksels voor . 
+Fase IIIa De onderste laag heeft een groot aantal scherven opgeleverd . 
+Het aardewerk valt uiteen in twee groepen : dunwandig , gepolijst aardewerk met een donkere kleur en relatief dikwandig materiaal met een lichtere kleur . 
+Bij het dunwandige materiaal domineren vlakke en ronde randen ( afb . 
+16 : 1-7 ) , terwijl bij de grovere meer verdikte , ronde , vlakke of enkelvoudig gefacetteerde randen voorkomen ( afb . 
+16 : 8-13 ) . 
+Sommige randen zijn ondersneden aan de binnenzijde ( afb . 
+16 : 5 , 6 en 12 ) . 
+Enkele randen zijn voorzien van ruim gespatieerde nagel/vingertopindrukken ( afb . 
+16 : 10 ) . 
+Het vormenscala bestaat voornamelijk uit potten met een drie- of tweeledige vorm , maar ook eenledige vormen komen incidenteel voor ( afb . 
+16 : 13 ) . 
+Eén bodemfragment is voorzien van kleine doorboringen ( afb . 
+16 : 14 ) . 
+Mogelijk is de pot gebruikt als zeef . 
+Op meer dan de helft van de wandscherven zijn één of meerdere afwerkingstechnieken toegepast 30 47 Hessing 1989 , 325-9 . 
+48 Voor Zuid-Nederland : Van den Broeke 1984 ; 1987b.Voor WestNederland : Van Trierum 1986 , 67 ; Van Heeringen 1987 ; 1989 . 
+2 1 3 5 4 6 7 8 10 11 9 13 12 14 Afb . 
+16 Aardewerk van fase IIIa . 
+( 62,5 % ) . 
+Gepolijste waar komt het meest voor ( 45 % ) , gevolgd door besmeten aardewerk ( 15 % ) . 
+Op de oever zijn enkele kuilen ( spoor 59 en 60 ) aangetroffen met daarin aardewerk dat qua vorm en decoratie- en afwerking vergelijkbaar is met dat uit deze laag . 
+Ook hier domineren potten met een tweeledige vorm , maar ook een- en drieledige vormen komen voor . 
+Opvallend is een kom met een scherp tweeledig profiel uit spoor 60 ( afb . 
+16 : 7 ) . 
+De kom is vervaardigd in een fijn , zandig baksel . 
+Zowel ronde , soms licht ondersneden randen als vlakke en omgeslagen randen zijn vertegenwoordigd . 
+Twee randen zijn aan de bovenzijde voorzien van dicht bij elkaar geplaatste nagel-/vingertopindrukken ( afb . 
+16 : 9 en 11 ) . 
+Op één exemplaar zijn aan de buitenzijde van de hals grove lijnen aangebracht . 
+Dit is het enige exemplaar uit De Zemelen met een dergelijke versiering . 
+31 1 2 3 5 4 Afb . 
+17 Aardewerk van fase IIIb . 
+Het aardewerk uit fase IIIa is vergelijkbaar met dat van een aantal vindplaatsen uit de midden-IJzertijd in het Centrale Rivierengebied , zoals Ressen-Kerkenhof en Ressen-Woerd , Houten-Burgemeester Wallerweg , Houten-Doornkade , Geldermalsen , Wijk bij Duurstede-De Geer en Kesteren-De Woerd.49 Het meest kenmerkende aardewerk uit fase IIIa bestaat uit aan Marne-aardewerk verwante keramiek uit de 4e-3e eeuw v.Chr . 
+Het betreft vormen waarbij hoge halzen , korte schouders en de hoekige profielen opvallen . 
+Dit materiaal is vaak gemagerd met fijn zand en zorgvuldig afgewerkt . 
+Naast deze dunwandige waar komt ook incidenteel grover aardewerk voor . 
+Dit is vrijwel altijd gemagerd met potgruis . 
+Fase IIIb Uit deze laag komt zowel dunwandig aardewerk als grovere waar . 
+De randen van de dunwandige potten zijn rond of aan de bovenzijde afgeplat . 
+Enkele zijn voorzien van nagel/vingertopindrukken op de rand . 
+De buitenzijde van de dunwandige scherven is gepolijst . 
+Eén exemplaar is voorzien van ronde indrukken op de grootste buikomvang ( afb . 
+17 : 1 ) . 
+De andere randscherven hebben een naar buiten afgeschuinde rand die aan de buiten- of bovenzijde is voorzien van nagel- of vingertopindrukken ( afb . 
+17 : 2-4 ) . 
+Van de wandscherven is het merendeel onversierd ( 69 % ) . 
+Gepolijste of besmeten scherven komen wel voor , maar in relatief kleine aantallen ( beide 13 % ) . 
+Verder zijn enkele scherven voorzien van verticale groeven op de buik en schouder ( afb . 
+17 : 2 ) of nagel-/ vingertopindrukken op de buik ( afb . 
+17 : 4 ) ( resp . 
+4 % en 1 % ) . 
+Het aardewerk is voor het overgrote deel gemagerd met potgruis en licht van kleur . 
+Eén fragment heeft een organische magering . 
+De scherf is dik , heeft een lichtgele kleur en is vervaardigd in een briquetage-baksel ( afb . 
+17 : 5 ) . 
+Aardewerk in dit baksel komt vooral voor in de IJzertijd.50 In de Romeinse tijd wordt dit type aardewerk vervangen door dunwandig aardewerk met een rode kleur . 
+32 49 Ressen : Bloemers & Hulst 1983 ; Houten-Wallerweg : Van Dockum 1990 ; Houten-Doornkade : Van Tent 1986 ; 1988 ; Geldermalsen : Hulst 1999 ; Wijk bij Duurstede-De Geer : Linnemeijer 1995 ; Kesteren : Wiepking 2001 . 
+50 Van den Broeke 1986 . 
+Uit het pakket behorende tot fase IIIb komen zowel dunwandige scherven als fragmenten van grove , dikwandige waar . 
+Deze tweede groep domineert en bestaat voor een groot deel uit drieledige potten met groefversiering op de buik en schouder in combinatie met nagel/vingertopindrukken op of aan de buitenzijde van de rand . 
+Dit materiaal is karakteristiek voor de late IJzertijd , maar komt ook nog in de vroeg-Romeinse tijd voor.51 51 Zie Van Tent 1978 ; Van Dockum 1990 , 302 , fig . 
+5 ; Linnemeijer 1995 , Wiepking 2001 . 
+52 Van den Broeke 1986 , 96 . 
+53 Van Tent 1978 , 220-34 . 
+54 Vgl.Van Tent 1978 ; 1988 ; Vader-Reinsma 1994 , 169-173 . 
+Fase IV De sporen behorende tot fase IV bestaan uit greppels en kuilen die in de donkergrijze kleilaag uit fase III zijn ingegraven . 
+Op basis van de oversnijdingen kan worden geconcludeerd dat deze sporen niet gelijktijdig zijn . 
+Een nadere typologische indeling is op basis van het vondstmateriaal echter moeilijk te maken . 
+De noord-zuid georiënteerde greppels ( spoor 102 , 103 ) behoren tot de oudste sporen uit deze fase . 
+Het materiaal uit de vulling van beide greppels bestaat voor het grootste deel uit dikwandig , met potgruis gemagerd aardewerk . 
+Slechts incidenteel komt organische magering voor . 
+De scherven zijn niet erg zorgvuldig afgewerkt en hebben voor het overgrote deel een lichte kleur . 
+Een klein deel van het materiaal is gepolijst of besmeten ( afb.18 : 3-4 ) . 
+Het meeste materiaal is niet afgewerkt of versierd . 
+Spoor 103 leverde voorts twee fragmenten op van een streepbandpot . 
+Het vormenspectrum bestaat uit grote potten met een drieledige vorm ( afb . 
+18 : 1 ) en kleinere twee- en eenledige vormen . 
+De eenledige vormen hebben meestal een ronde rand ( afb . 
+18 : 8-9 ) . 
+De potten met een drieledige vorm hebben een afgeronde of afgeplatte rand die in een aantal gevallen is voorzien van ruim gespatieerde duimindrukken op de bovenzijde ( afb . 
+18 : 1 en 3 ) . 
+Drie potten hebben een golfrand ( afb.18 : 5-7 ) . 
+Twee hiervan zijn vervaardigd van met organisch materiaal verschraalde klei ( afb.18 : 6-7 ) . 
+De kleur van het baksel is geel en de scherven zijn relatief dik . 
+Dit lijkt op een datering in de IJzertijd te wijzen.52 Op basis van het handgevormde materiaal kan geen duidelijke uitspraak worden gedaan of fase IV in de late IJzertijd of in de vroeg-Romeinse tijd moet worden gedateerd . 
+Dit kan wel op basis van enkele andere vondsten , zoals het draaischijfaardewerk en de metalen voorwerpen . 
+Eén van de greppels van fase IV heeft een boogfibula uit de 1e eeuw n.Chr . 
+opgeleverd . 
+De greppels worden oversneden door een grote kuil ( spoor 106 ) . 
+Daarin werden de volgende vondsten gedaan : een 2e-eeuwse draadfibula met een platte beugel en een aantal scherven van Romeins import-aardewerk , waaronder een randfragment van een dolium type Stuart 147 , een randfragment van een gladwandige kruik type Stuart 107 en een randfragment van een honingpot type Stuart 146b . 
+Afgezien van de kruik , die in het derde kwart van de 1e eeuw moet worden geplaatst , dateren de importen uit de 1e-2e eeuw n.Chr . 
+Het overige materiaal uit de grote kuil bestaat uit handgevormd aardewerk . 
+Het grootste deel hiervan is vrij dik , slecht afgewerkt en heeft een lichte kleur . 
+Ongeveer 92 % van de wandscherven is onversierd . 
+Alleen kamversiering en groefversiering komen voor ( elk 4 % ) . 
+Ook gepolijste of besmeten scherven komen slechts in kleine aantallen voor ( resp . 
+8 % en 4 % ) . 
+Er komen vrijwel uitsluitend drieledige vormen voor . 
+Alle randtypen zijn met één of meerdere exemplaren vertegenwoordigd . 
+De afgeplatte randen zijn voorzien van ruim gespatieerde nagel- of vingerindrukken . 
+Daarnaast komen er uit de kuil ook enkele kartelranden . 
+Op basis van het draaischijfaardewerk en de fibulae kan dit spoor en in de 1e-2e eeuw n.Chr . 
+worden gedateerd . 
+Ook het voorkomen van kartelranden lijkt hier op te wijzen.53 Over het algemeen leveren 2e-eeuwse inheemse nederzettingen in het Kromme Rijngebied een hoger percentage Romeinse importen op . 
+Het ontbreken van grote aantallen Romeinse importen in De Zemelen kan worden verklaard uit het feit dat de opgravingsput zich in de periferie van de nederzetting bevindt . 
+De vondsten uit de put bieden geven dus geen representatief beeld van de oorspronkelijke materiële cultuur in de nederzetting.54 33 1 2 3 4 6 7 5 8 9 Afb . 
+18 Aardewerk van fase IV . 
+3.5.2 Discussie : het aardewerk in regionaal perspectief Het handgevormde aardewerk dat tijdens de opgraving werd aangetroffen , sluit qua vormen en de toegepaste decoratie- en afwerkingstechnieken aan bij dat wat we kennen van andere vindplaatsen in het Kromme Rijngebied en andere delen van het Centrale Rivierengebied . 
+In de vroege IJzertijd komt relatief veel dunwandig , gepolijst of geglad aardewerk voor . 
+Daarnaast is er sprake van een klein percentage grover , besmeten of met groeflijnen versierd materiaal . 
+In de middenIJzertijd stijgt het percentage grovere waar . 
+De voor die periode typische vormen zijn potten met een hoge hals en een korte schouder en tweeledige potten met hoekige overgangen . 
+Deze laatste vormen lijken op Marne-aardwerk te zijn geïnspireerd . 
+In de late IJzertijd/vroeg-Romeinse tijd verdwijnt de fijne waar vrijwel volledig . 
+Grof gevormde drieledige vormen met een platte rand , waarin of waarop nagel/vingertopindrukken zijn aangebracht , komen dan het meest 34 voor . 
+Sommige potten zijn daarnaast voorzien van verticale groeven op de wand en schouder . 
+Uit de jongste sporen komen naast fragmenten van potten met een golfrand ook enkele scherven Romeins draaischijfaardewerk . 
+Deze importen dateren uit de 1e-2e eeuw n.Chr . 
+Het handgevormde aardewerk uit de Zemelen vertoont niet alleen overeenkomsten met andere vondstcomplexen in het Kromme Rijngebied ; er zijn ook opmerkelijke verschillen . 
+Het overgrote deel van het aardewerk in De Zemelen is gemagerd met potgruis , terwijl voor de meeste andere complexen geldt dat in de late IJzertijd organische magering opkomt en in de Romeinse tijd potgruis verdringt als belangrijkste mageringsmiddel . 
+Deze trend geldt ook voor de meeste andere vindplaatsen in het Nederlandse rivierengebied.55 Organisch gemagerd aardewerk komt in De Zemelen in de late IJzertijd en Romeinse tijd slechts in zeer geringe aantallen voor , en dan nog vrijwel overwegend in het zgn . 
+briquetage-baksel . 
+Ook zandgemagerd materiaal is in De Zemelen uiterst schaars . 
+Het gedetailleerde onderzoek van Van Tent naar handgevormd materiaal uit een drietal vindplaatsen in Jutphaas heeft aangetoond dat potgruismagering daar in de late IJzertijd sterk afneemt en in de Romeinse tijd grotendeels wordt vervangen door organische magering . 
+Deze ontwikkeling is zo evident dat hij stelt dat aardewerk met organische magering ( bijna ) altijd in de Romeinse tijd moet worden gedateerd.56 Dit is ook vastgesteld op andere plaatsen in het Kromme Rijn- en Centrale Rivierengebied , zoals Houten-Doornkade , Wijk bij Duurstede-De Geer en Kesteren-De Woerd . 
+We mogen dus aannemen dat dit geen lokale trend is.57 Er is geen duidelijke verklaring waarom er in de Romeinse tijd een verandering in magering optreedt . 
+Een suggestie is dat door de toevoeging van organisch materiaal de baktemperatuur werd verhoogd , waardoor men de oven minder hard hoefde te stoken . 
+Dit is in principe mogelijk , maar het blijft onduidelijk waarom dit juist in het Kromme Rijngebied in de Romeinse tijd op grote schaal optreedt . 
+Organische magering komt bijvoorbeeld in Oss-Ussen al regelmatig voor in de late IJzertijd , zodat deze technologische innovatie niet uitsluitend met de komst van de Romeinen in onze streken in verband kan worden gebracht.58 55 Alleen langs de Oude Rijn tussen Alphen en Zwammerdam wordt in de ( vroeg- ) Romeinse tijd ook veel potgruis-magering toegepast ( mondelinge mededeling Dr. R.M . 
+van Heeringen , ROB ) . 
+56 Van Tent 1978 , 214-9 . 
+57 Van Tent 1986 ; 1988 , 17-9 ; Linnemeijer 1995 , 8-14 ; Wiepking 2001 , 159-61 . 
+58 Van den Broeke 1987b . 
+59 Van Heeringen doet hierover voor de late IJzertijd geen uitspraak ( Van Heeringen 1989 , 215 , afb 73 ) . 
+De vraag is nu : waarom wijkt de magering van het handgevormde aardewerk uit de periode late IJzertijd-Romeinse tijd in De Zemelen af van andere complexen in het Kromme Rijngebied ? 
+Op deze vraag kan ( nog ) geen antwoord worden gegeven . 
+Er is nog te weinig systematisch onderzoek naar het aardewerk uit deze periode verricht . 
+De verschillen tussen het materiaal uit De Zemelen en dat van andere vindplaatsen in het Kromme Rijngebied kunnen nauwelijks worden verklaard uit de geografische positie van de vindplaatsen . 
+De vindplaatsen liggen binnen dezelfde geografische eenheid : het Kromme Rijngebied . 
+Ook de afstanden tussen de vindplaatsen kunnen nauwelijks een rol spelen . 
+De onderlinge afstand tussen de nederzettingen Cothen-De Zemelen , Wijk bij Duurstede-De Horden en de verschillende bewoningskernen in Houten bedraagt maximaal 15 km . 
+De vindplaatsen maken onderdeel uit van hetzelfde nederzettingsysteem . 
+Het feit dat het vormscala en de toegepaste decoratie- en afwerkingstechnieken van het materiaal in De Zemelen aansluiten bij dat van andere vindplaatsen in het Kromme Rijngebied , zoals Jutphaas , Houten en Wijk bij Duurstede , lijkt er op te wijzen dat de vindplaatsen waarschijnlijk tot dezelfde aardewerkregio behoren.59 35 4 Veldverkenning en boringen ( Stichting Wijks Castellum 2001 ) 4.1 Werkwijze 1475 1470 1465 Afb . 
+19 Locatie van de mogelijke Romeinse villa . 
+In de winter van 2000-2001 werd op een smal perceel aan de oostzijde van De Zemelen een boomgaard gerooid , waarna het terrein ca . 
+30 cm diep is geploegd . 
+Het terrein bevindt zich aan de uiterste oostzijde van het beschermde monument . 
+Het perceel werd systematisch afgelopen door leden van de Stichting Wijks Castellum , waarbij zoveel mogelijk vondstmateriaal is verzameld . 
+Naar aanleiding van deze vondsten verrichtten de leden van bovengenoemde Stichting , in overleg met de assistent-provinciaal archeoloog en de ROB , een aantal boringen op het terrein . 
+Hierbij is gebruik gemaakt van een 4 cmEdelmanboor . 
+Uit gesprekken met de vorige eigenaar , de heer G. de Wit , bleek dat op het terrein reeds eerder een boomgaard heeft gestaan . 
+Deze bestond toen uit hoogstam-fruitbomen . 
+De bomen zijn in 1959 gerooid . 
+Het rooien werd destijds bemoeilijkt doordat er in de grond veel puin zat waar de boomwortels omheen waren gegroeid . 
+De stronken moesten met bijlen worden losgehakt . 
+Het puin is toen zoveel mogelijk van het terrein verwijderd en gebruikt om een nabijgelegen drinkkuil op te vullen . 
+Nadat de bomen waren verwijderd , is het terrein een aantal jaren als akker in gebruik geweest . 
+Bij het ploegen van de akker stuitte men telkens weer op puin . 
+Omdat het genoemde puin mogelijk afkomstig is van een Romeinse villa ( afb . 
+19 ) werden in 1962 luchtfoto ’ s van het gebied rond Cothen gemaakt , in opdracht van het Ministerie van Defensie . 
+Op één van die foto ’ s is ten westen van Kapelleweg 5 in het gewas ( rogge ) een rechthoekige verkleuring te zien . 
+Helaas is deze foto nog niet getraceerd . 
+Op recente luchtfoto ’ s ( afb . 
+20 ) . 
+is van de in de bodem aanwezige archeologische resten vrijwel niets meer te zien . 
+4450 4445 37 4.2 Resultaten In de geploegde akker tekent zich een min of meer rechthoekige zone af met veel bouwpuin . 
+Aan de zuidwestzijde van de schuur achter het huis Kapelleweg 5 is in de akker een rechthoekige structuur van ca . 
+3 x 3 m zichtbaar , bestaande uit mortelresten , leisteen , tegula-fragmenten en tufsteenbrokken . 
+Vanaf de noordwesthoek van deze structuur loopt een lineair mortelspoor naar het westen . 
+Dit spoor heeft een lengte van ca . 
+25 m. Op een afstand van ca . 
+12 m naar het zuiden loopt parallel aan het eerste spoor een tweede mortelbaan . 
+Tussen beide mortelsporen is een grote hoeveelheid tegula-fragmenten geborgen . 
+Ten noorden en oosten van de puinconcentratie is van de akker een groot aantal scherven Romeins importaardewerk en botfragmenten opgeraapt . 
+Aan de oostzijde zijn ook relatief veel scherven handgevormd aardewerk gevonden . 
+In de zone met mortelresten verrichtten leden van de Stichting Wijks Castellum een aantal grondboringen . 
+De bovenste 60 cm bestaat uit de recente bouwvoor . 
+Op een diepte van 60 tot 90 cm onder het maaiveld werden puin- en mortelresten opgeboord . 
+Daaronder bevindt zich een laagje met fosfaat en houtskool . 
+De veldverkenning op het terrein aan de oostzijde van De Zemelen heeft een aanzienlijke hoeveelheid vondsten opgeleverd . 
+De hoeveelheid bouwpuin op het terrein was zo groot dat hiervan slechts een deel is verzameld . 
+Er is wel zoveel mogelijk aardewerk opgeraapt . 
+De samenstelling van het vondstmateriaal geeft een goede indruk van de aard en ouderdom van de op het terrein aanwezige grondsporen . 
+38 Afb . 
+20 Luchtfoto van De Zemelen ( Provincie Utrecht 2000 ) . 
+Afb . 
+21 Versierd wandfragment van terra sigillata-kom ( type Dragendorff 37 ) . 
+Schaal 1 : 1 . 
+4.2.1 Aardewerk 60 Vgl.Van Es 1994b , 73 , afb . 
+61 . 
+61 Hübener 1968 . 
+62 Vgl . 
+Pirling 1960 type 105 ; Hussong & Cüppers 1972 , type 68a-b ; Bakker 1997 , type IIA1 . 
+63 Vgl . 
+Bakker 1997 , 31 , afb . 
+35 , 40 en 41 . 
+De veldverkenning heeft onder andere de volgende scherven opgeleverd : - een relatief kleine hoeveelheid terra sigillata . 
+Het materiaal is sterk gefragmenteerd . 
+Enkele stukken zijn afkomstig uit La Graufesenque in Zuid-Gallië . 
+Het vermelden waard zijn een randfragment van een Dragendorff 27 en een wand van een Dragendorff 30 . 
+Verder komen enkele stukken uit Oost-Gallië , waaronder een versierd wandfragment van een kom Dragendorff 37 , waarop een roofdier en haas in een ronde omlijsting staan afgebeeld ( afb . 
+21 ) en een fragment van een wrijfschaal Dragendorff 43/45 . 
+Eén versierd wandfragment is afkomstig uit de Argonnen . 
+De buitenzijde van de scherf is sterk verweerd , waardoor het versieringsmotief niet eenduidig vast te stellen is . 
+Waarschijnlijk betreft het een radstempelmotief bestaande uit verticale en horizontale lijnen gecombineerd met visgraatmotief ( groep 4 van de indeling van Hübener ) . 
+Versierde Argonnensigillata is in het Kromme Rijngebied uiterst zeldzaam.60 Het materiaal uit La Graufesenque kan globaal worden gedateerd in de periode tussen 70 en 110 n.Chr . 
+Het Oost-Gallische materiaal dateert uit de tweede helft van de 2e eeuw . 
+De scherf Argonnensigillata met versiering dateert uit de tweede helft van de 4e eeuw ; 61 - vijf randfragmenten van blauwgrijze potten Arentsburg 140-142 ; - een randfragment van een voetkom in een fijnzandig grijs baksel . 
+Het is onduidelijk of het hier een vroeg- of laat-Romeins stuk betreft ( afb . 
+22 : 1 ) ; - een randfragment van een kookpot met dekselgeul Stuart 203 in een ruwwandig baksel met een blauw metallic-achtige kleur ; - drie randfragmenten van kookpotten met dekselgeul in een grof , ruwwandig baksel . 
+Bij twee van de drie is naast grof zand ook potgruis als mageringsmateriaal toegevoegd . 
+De scherven hebben een witgele kleur . 
+Eén van de potten heeft een rand die min of meer aansluit bij Stuart 203 en Niederbieber 89 ( afb . 
+22 : 2 ) . 
+De andere twee hebben een minder sterk geprononceerde dekselgeul en dateren waarschijnlijk uit de laat-Romeinse tijd ( afb . 
+22 : 3-4 ) ; 62 - een randfragment van een kookpot met een rudimentaire dekselgeul in een ruwwandig Eifelbaksel ( afb . 
+22 : 5 ) . 
+De scherf heeft een oranjerode kleur . 
+Kookpotten met een dergelijk randtype dateren uit de 5e eeuw ; 63 - een randfragment van een ruwwandige kom met dekselgeul ( afb . 
+22 : 6 ) . 
+De klei is gemagerd met fijn zand en potgruis . 
+De binnenzijde van de scherf is grijs . 
+De buitenzijde heeft een donkergrijze kleur ; - een randfragment met uitgiet van een wrijfschaal Brunsting 37 in een ruwwandig baksel met een witte kleur ; 39 1 2 3 4 5 6 7 8 9 11 10 12 13 15 14 - twee randfragmenten van wrijfschalen met een horizontale rand in een grof , ruwwandig baksel . 
+De klei is gemagerd met grof zand en potgruis . 
+De scherven hebben een witgele kleur . 
+Het baksel is vergelijkbaar met dat van de twee kookpotten met een verwaterde dekselgeul . 
+Mogelijk dateren beide uit de laat-Romeinse periode ( afb . 
+22 : 7-8 ) ; - een randfragment van een wrijfschaal met een horizontale rand in een fijn , ruwwandig baksel . 
+De klei is gemagerd met fijn zand en potgruis . 
+De scherf heeft een oranje kleur . 
+- een randfragment van een wrijfschaal in een ruwwandig Eifelbaksel . 
+Dit type dateert uit de laat-Romeinse periode ; 64 - een rand- en een wandscherf van een wrijfschaal met kraag in een ruwwandig 40 Afb . 
+22 Romeins en vroegmiddeleeuws aardewerk , afkomstig van de akker aan de oostzijde van De Zemelen . 
+64 Vgl . 
+Gose 1950 , Tafel 43 , 453 . 
+- - - - - - baksel voorzien van verfdecoratie ( zgn . 
+Rotbemalte Ware ) ( afb . 
+22 : 9 ) . 
+De buiten- en binnenzijde van de scherf is rood . 
+De kern heeft een witte kleur . 
+Beide fragmenten dateren uit de 5e eeuw ; 65 een randfragment van een steilwandige pot met een verdikte , omgeslagen blokrand in een grijs , ruwwandig baksel ( afb . 
+22 : 10 ) ; een randfragment van een steilwandige pot met een verdikte , omgeslagen rand in een ruwwandig Eifelbaksel ( afb . 
+22 : 11 ) ; twee randfragmenten van potten in een ruwwandig Eifelbaksel ( afb . 
+22 : 12-13 ) . 
+De ene scherf heeft en oranje kleur . 
+De andere is beige . 
+Beide fragmenten hebben een verdikte omgeslagen rand . 
+De fragmenten dateren waarschijnlijk uit de 5e eeuw ; 66 twee randfragmenten handgevormd aardewerk met vingertopindrukken op de buitenzijde van de rand ; vijf randfragmenten handgevormd aardewerk vervaardigd in een baksel dat gemagerd is met zand en potgruis ; een randfragment handgevormd aardewerk in een zandig baksel . 
+De rand is aan de bovenzijde afgeplat en aan de buitenzijde voorzien van horizontale groeven ; drie randfragmenten gepolijst , handgevormd aardwerk ; een randfragment handgevormd aardewerk met nagel-/vingertopindrukken op de bovenzijde van de rand . 
+De scherf is onder de grootste buikomvang besmeten ; een fragment van een handgevormde deksel . 
+Alle scherven handgevormd aardewerk dateren uit de IJzertijd ; een randfragment van een handgevormd bord met een complex randprofiel ( afb . 
+23 : 14 ) . 
+De rand lijkt te zijn nagedraaid . 
+Waarschijnlijk betreft het een imitatie van een ruwwandig bord Gose 482 ; een randfragment van een lampionvormige pot met een min of meer horizontale rand in een ruwwandig baksel ( afb . 
+23 : 15 ) . 
+De scherf heeft een oranje kleur . 
+Op basis van de randvorm en het baksel moet deze lampionvormige pot in de 7e eeuw worden gedateerd ; een randfragment van een Karolingische bolpot WIIIA in baksel w-1 ; 67 een bodemfragment van een Karolingische bolpot WIII in baksel w-12 ; een randfragment van een Badorf-pot type WIIb met radstempeldecoratie in baksel w-1.68 4.2.2 Romeins bouwmateriaal Baksteen Van het terrein komt een groot aantal fragmenten van gebakken tegels . 
+Het gaat hierbij voornamelijk om stukken van rechthoekige daktegels ( tegulae ) , maar ook om fragmenten van imbrices , vloertegels en twee tubulus-fragmenten . 
+Op sommige stukken is mortel aanwezig . 
+65 Vgl . 
+Hussong & Cüppers 1972 , 107-9 , type 8 . 
+66 Vgl . 
+Bakker 1997 , 25-6 , afb . 
+8-9 . 
+67 Vgl.Van Es & Verwers 1980 , 82-3 , fig . 
+36 . 
+68 Vgl.Van Es & Verwers 1980 , 73-5 , fig . 
+30 . 
+69 Van Dierendonck 1990 ; 1994 ; Moorman 1984-85 , 64-5 ; Muller 1895 , 142-3 , 145 . 
+Natuursteen Behalve baksteen is er op het terrein ook een aanzienlijke hoeveelheid natuursteen aangetroffen . 
+Het gaat hierbij om onbewerkte stukken natuursteen en rechthoekig bekapte stukken tufsteen . 
+Sommige stukken bevatten mortelresten . 
+De onbewerkte natuursteen is afkomstig uit de bergen ten noordoosten van Keulen , het tufsteen uit het Eifelgebied . 
+Verder zijn er een aantal brokken mortel gevonden . 
+Het grootste deel daarvan bestaat uit grof grint met kalk , een klein deel uit kalk en fijngestampt baksteenpuin . 
+Drie fragmenten dragen aan één zijde een witte pleisterlaag . 
+In één geval bevat de pleisterlaag resten van een beschildering in rode verf ( afb . 
+23 ) . 
+De fragmenten hebben deel uitgemaakt van een muurschildering . 
+Fragmenten van muurschilderingen zijn ook op enkele andere plaatsen in het Kromme Rijngebied aangetroffen , zoals HoutenMolenzoom en in het castellum Fectio bij Vechten.69 41 0 5 cm Afb . 
+23 Pleisterwerk met verfversiering . 
+Schaal 1 : 1 . 
+4.2.3 Metaal Het terrein heeft een relatief kleine hoeveelheid metaalvondsten opgeleverd . 
+Waarschijnlijk is het terrein al in het verleden met een metaaldetector afgezocht door amateur-archeologen . 
+De meeste metaalvondsten zijn vervaardigd uit lood : twaalf smeltstukken , een rond schijfje , een spinklos , twee blokgewichten en een musketkogel . 
+Van het terrein kwamen ook enkele bronzen voorwerpen , waaronder een fragment van een rond beslagstuk . 
+Het brons is sterk gecorrodeerd . 
+Verder zijn er twee ijzeren nagels gevonden , waarvan er één sterk is gecorrodeerd . 
+Tenslotte zijn er twee muntvondsten gedaan : een Keltische munt van het Araucia-type en een duit van de Stad Utrecht uit 1768 . 
+De meeste metaalvondsten dateren waarschijnlijk uit de Romeinse tijd . 
+Enkele stukken zijn van relatief recente datum , waaronder de loden musketkogel en de koperen duit . 
+4.2.4 Glas Op het terrein zijn twee stukjes glas gevonden . 
+Beide fragmenten zijn vrijwel plat en hebben een licht blauwgroene kleur . 
+Aan een buitenzijde zijn krassporen zichtbaar . 
+Waarschijnlijk betreft het fragmenten van de bodem van een Romeinse vierkante fles . 
+4.2.5 Natuursteen Van het terrein komt een groot fragment van een ronde maalsteen van tefriet . 
+Het fragment heeft een dikte van 3,5 cm . 
+Dit type maalsteen komt zowel in de Romeinse tijd als in de vroege Middeleeuwen voor . 
+4.3 Interpretatie De in de akker aangetroffen sporen en vondsten doen vermoeden dat er in de Romeinse tijd op dit gedeelte van het archeologisch monument De Zemelen een stenen bouwwerk heeft gestaan . 
+De resten daarvan zijn door latere grondwerkzaamheden aangetast . 
+De resultaten van het booronderzoek doen echter 42 vermoeden dat delen van het bouwwerk nog in de grond aanwezig zijn . 
+De aanwezigheid van tubulus-fragmenten en restanten van muurschilderingen wijzen er op dat we waarschijnlijk te maken hebben met een villa . 
+Deze heeft zich mogelijk ontwikkeld uit een in De Zemelen aanwezige agrarische nederzetting die zijn oorsprong in de IJzertijd heeft . 
+Romeinse villa ’ s zijn in het Kromme Rijngebied een relatief zeldzaam fenomeen . 
+Alleen in de omgeving van Houten zijn op enkele plaatsen aanwijzingen gevonden voor de aanwezigheid van een Romeinse villa . 
+Deze villa ’ s worden in verband gebracht met de aanwezigheid van het Romeinse fort Fectio bij Vechten . 
+Uit het zuidelijke deel van het Kromme Rijngebied zijn geen villaterreinen bekend , met uitzondering van de nederzetting Wijk bij DuurstedeDe Horden die als proto-villa mag worden gekwalificeerd.70 De aanwezigheid van een villa in De Zemelen is opmerkelijk , aangezien Cothen relatief ver verwijderd is van de castella . 
+Het dichtstbijzijnde castellum is Levefanum bij Rijswijk ( Gelderland ) . 
+Ondanks het feit dat de nederzetting in De Zemelen niet in de directe omgeving van een Romeins fort lag , ontwikkelde zich hier een op Romeinse leest geschoeid agrarisch bedrijf . 
+Mogelijk nam de nederzetting in De Zemelen reeds in de IJzertijd een bijzondere plaats in en was dit de belangrijkste voedingsbodem voor het ontstaan van een villa-complex . 
+Dit idee wordt gestaafd door de vondst van een aantal Keltische munten in De Zemelen en de directe omgeving . 
+Keltische munten zijn in het Kromme Rijngebied relatief zeldzaam en worden vooral gevonden in de omgeving van castella en grotere agrarische nederzettingen . 
+Het terrein waarop de villa zich bevond bleef ook in de laat-Romeinse tijd en vroege Middeleeuwen in gebruik . 
+Naar de aard van de bewoning in deze perioden kunnen we slechts gissen . 
+Sporen of vondsten uit de late Middeleeuwen zijn niet aangetroffen . 
+70 Vos 2002 , paragraaf 7.3.5 . 
+43 5 Conclusies Het archeologische onderzoek in De Zemelen heeft aangetoond dat de bewoning zich hier over een langere periode uitstrekt dan tot nu toe werd aangenomen . 
+De opgraving aan de westzijde van het archeologische monument heeft uitgewezen dat dit gedeelte van het terrein reeds vanaf de vroege IJzertijd tot in de ( midden- ) Romeinse tijd in gebruik was . 
+De opgraving maakte voorts duidelijk dat de ondergrond op een aantal plaatsen tot op een diepte van ca . 
+2 m onder het maaiveld is verstoord door de bouw van een stal . 
+Alleen de dieper gelegen sporen zijn hier bewaard gebleven . 
+Op de onbebouwde delen zijn de grondsporen over het algemeen goed geconserveerd . 
+Ook het vondstmateriaal is goed geconserveerd . 
+De bewoning op het terrein concentreerde zich op een stroomrug aan de zuidzijde van een rivierbedding . 
+Deze bedding was in de eerste fase van bewoning waarschijnlijk nog watervoerend , maar raakte vrij snel daarna opgevuld met riviersediment . 
+Vervolgens werd ook dit gedeelte van het terrein in gebruik genomen . 
+Aanwijzing hiervoor is het feit dat verschillende greppels in de vulling van de verlande bedding zijn ingegraven . 
+De aard van de bewoning is moeilijk vast te stellen , aangezien slechts een klein gedeelte van de vindplaats is onderzocht . 
+Op de stroomrug bevinden zich vooral paalgaten , maar ook enkele kuilen . 
+Het grootste deel van de paalgaten maakt deel uit van een palenzwerm-nederzetting uit de midden-/late IJzertijd . 
+Hierin konden geen gebouwplattegronden worden herkend . 
+De jongste sporen aan de westzijde van De Zemelen dateren uit de 1e-2e eeuw n.Chr . 
+Mogelijk verschoof de bewoning in de midden-Romeinse tijd naar een ander deel van het terrein . 
+Op een perceel aan de oostzijde van De Zemelen zijn grote hoeveelheden Romeins bouwpuin verzameld . 
+De samenstelling van het vondstmateriaal doet vermoeden dat zich op dit gedeelte van het terrein de resten bevinden van een stenen bouwwerk uit de Romeinse periode . 
+Er is nog geen onderzoek verricht naar de vermoedelijke Romeinse villa . 
+Er zijn wel enkele boringen verricht . 
+Deze wijzen er op dat er in de bodem nog muurresten aanwezig zijn . 
+Waarschijnlijk was dit gedeelte van De Zemelen ook al in de periode daarvoor in gebruik . 
+Op de akker is een groot aantal scherven uit de IJzertijd gevonden , alsmede een Keltische munt . 
+Ook in de laat-Romeinse tijd en vroege Middeleeuwen was het terrein in gebruik . 
+Met name de 4e en 5e eeuw zijn duidelijk in het vondstmateriaal vertegenwoordigd . 
+De jongste vondsten dateren uit de Karolingische tijd . 
+Waarschijnlijk brak de bewoning na deze periode af . 
+De boerderij De Zemelen dateert uit de 18e eeuw . 
+45 Literatuur Aarts , J. , 1994 : Romeinse munten op De Horden , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 138-44 . 
+Almgren , O. , 1923 : Studien über nordeuropäische Fibelformen der ersten nachchristlichen Jahrhunderte mit Berücksichtigung der provinzial-römischen und südrussischen Formen , Leipzig ( Mannus Bibliothek , 32 ; zweite Auflage ) . 
+Bakker , A.M. , 1997 : Laat-Romeins en Merovingisch ruwwandig aardewerk van De Geer in Wijk bij Duurstede ( ongepubliceerde doctoraalscriptie , Vrije Universiteit Amsterdam ) . 
+Berendsen , H.J.A , 1982 : De genese van het landschap in het zuiden van de provincie Utrecht : Een fysisch-geografische studie , Utrecht ( Utrechtse Geografische Studies , 25 ) . 
+Berendsen , H.J.A , 1990 : River Courses in the Central Netherlands during the Roman Period , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 40 , 243-9 . 
+Berendsen , H.J.A , 1997 : De vorming van het land : Inleiding in de geologie en geomorfologie , Assen . 
+Berendsen , H.J.A , 2000 : Wijk bij Duurstede : Knooppunt aan de rivier , in : M.A . 
+van der Eerden-Vonk , J. Hauer & G.W.J . 
+van Omme ( red . 
+) , Wijk bij Duurstede 700 jaar stad : Ruimtelijke structuur en bouwgeschiedenis , Hilversum , 11-24 . 
+Berendsen , H.J.A . 
+& E. Stouthamer 2001 : Palaeographic development at the Rhine-Meuse Delta , The Netherlands , Assen . 
+Bitter , P. , M. Boulonois & T. de Ridder 1996 : Friese ringvormige aardewerken constructies : pottenbakkersovens ? , Westerheem 45 , 70-95 . 
+Bloemers , J.H.F. , 1967 , Ein römisches Vorratsgefäss aus ’ s-Hertogenbosch , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 17 , 173-6 . 
+Bloemers , J.H.F. , 1979 : Rijswijk ( Z.H . 
+) , ‘ De Bult ’ , een nederzetting van de Cananefaten , Bussum ( Archeologische monumenten in Nederland , 7 ) . 
+Bloemers , J.H.F. , & R.S . 
+Hulst 1983 : Mitteleisenzeitliche Keramik von zwei Siedlungen zu Ressen und aus einem Töpferofen zu Bemmel , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 33 , 107-51 . 
+Böhme , A. , 1972 : Die Fibeln der Kastelle Saalburg und Zugmantel , Saalburg Jahrbuch 29 . 
+Broeke , P.W . 
+van den , 1984 : Nederzettingsvondsten uit de IJzertijd op De Pas , gem . 
+Wijchen , Analecta Praehistorica Leidensia 17 , 65-105 . 
+Broeke , P.W . 
+van den , 1986 , Zeezout : Een schakel tussen West- en ZuidNederland in de IJzertijd en de Romeinse tijd , in : M.C . 
+van Trierum & H.E . 
+Henkes ( red . 
+) , Landschap en bewoning rond de mondingen van Rijn , Maas en Schelde , Rotterdam ( Rotterdam Papers , 5 ) , 91-114 . 
+47 Broeke , P.W . 
+van den , 1987a : Oss-Ussen : De dateringsmiddelen voor de IJzertijd vanZuid-Nederland , in : W.A.B . 
+van der Sanden & P.W . 
+van den Broeke ( red . 
+) , Getekend zand : Tien jaar archeologisch onderzoek in Oss-Ussen , Waalre ( Bijdragen tot studie van het Brabantse Heem , 31 ) , 23-45 . 
+Broeke , P.W . 
+van den , 1987b : Oss-Ussen : Het handgemaakte aardewerk , in : W.A.B . 
+van der Sanden & P.W . 
+van den Broeke ( red . 
+) , Getekend zand : Tien jaar archeologisch onderzoek in Oss-Ussen , Waalre ( Bijdragen tot studie van het Brabantse Heem , 31 ) , 101-20 . 
+Buchem , H.J.H . 
+van , 1941 : De fibulae van Nijmegen , I : Inleiding en kataloog , Nijmegen ( Bouwsteenen voor een geschiedenis van Nijmegen , 3 ) . 
+Cordfunke , E.H.P. , & F. Diederik 1984 : Schagen : IJzerwinning in de Romeinse tijd met behulp van steenkool , Westerheem 33 , 5-10 . 
+Dierendonck , R.M . 
+van , 1990 : Roman wall paintings , in : S.G . 
+van Dockum , Houten in the Roman Period , Part I : A stone building in Burgemeester Wallerweg , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 40 , 317 . 
+Dierendonck , R.M . 
+van , 1994 : Kromme-Rijnse kandelabers , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 173-6 . 
+Dockum , S.G . 
+van , 1990 : Houten in the Roman Period , Part I : A stone building in Burgemeester Wallerweg , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 40 , 297-323 . 
+Es , W.A . 
+van , 1994a : Bataven in het Kromme Rijngebied ? , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 22-35 . 
+Es , W.A . 
+van , 1994b : Volksverhuizingstijd en continuïteit , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 64-81 . 
+Es . 
+W.A . 
+van , 1994c : Friezen , Franken en Vikingen , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 82-119 . 
+Es , W.A . 
+van , 1994d : Wijk bij Duurstede-De Geer , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 231-3 . 
+Es , W.A . 
+van , et al . 
+1990 : Wijk bij Duurstede De Geer ( putten 755-767 ) , Jaarverslag ROB 1989 , 48-9 . 
+Es , W.A . 
+van , et al . 
+1991 : Wijk bij Duurstede De Geer ( putten 767-781 ) , Jaarverslag ROB 1990 , 50-4 . 
+Es , W.A . 
+van , et al . 
+1992 : Wijk bij Duurstede De Geer ( putten 781-806 ) , Jaarverslag ROB 1991 , 42-8 . 
+Es , W.A . 
+van , et al . 
+1993 : Wijk bij Duurstede De Geer ( putten 816-834 ) , Jaarverslag ROB 1992 , 42-5 . 
+48 Es , W.A . 
+van , et al . 
+1994 : Wijk bij Duurstede De Geer ( putten 824 , 835-839 ) , Jaarverslag ROB 1993 , 43-4 . 
+Es , W.A . 
+van , et al . 
+1995 : Wijk bij Duurstede De Geer ( putten 847-879 ) , Jaarverslag ROB 1994 , 158-60 . 
+Es , W.A . 
+van , & W.J.H . 
+Verwers 1980 : Excavations at Dorestad I , The Harbour : Hoogstraat I , Amersfoort ( Nederlandse Oudheden , 9 ) . 
+Es , W.A . 
+van , & W.J.H . 
+Verwers 1985 : Arcehologie in het Kromme Rijngebied : Het ontstaan van een project , Maandblad Oud-Utrecht 58 , 216-27 . 
+Gose , E. , 1950 : Gefässtypen der römischen Keramik im Rheinland , Kevelaer ( Beihefte der Bonner Jahrbücher , 1 ) . 
+Haalebos , J.K. , 1977 : Zwammerdam-Nigrum Pullum : ein Auxiliar-Kastell am niedergermanischen Limes , Amsterdam ( Cingula , 3 ) . 
+Haalebos , J.K. , 1986 : Fibulae uit Maurik , Leiden ( supplement bij Oudheidkundige Mededelingen uit het Rijksmuseum van Oudheden te Leiden 65 ) . 
+Haevernick , Th . E. , 1960 : Die Glasarmringe und Ringperlen der mittel- und spätlatènezeit auf dem europäischen Festland , Bonn . 
+Hagers , J.-K.A. , & M.M . 
+Sier ( red . ) 
+1999 : Castricum-Oosterbuurt : Bewoningssporen uit de Romeinse tijd en Middeleeuwen , Amersfoort ( Rapportage Archeologische Monumentenzorg , 53 ) . 
+Heeringen , R.M . 
+van , 1985 : Typologie , Zeitstellung und Verbreitung der in die Niederlande importierten vorgeschichtlichen Mahlsteine aus Tephrit , Archäologisches Korrespondenzblatt 15 , 371-83 . 
+Heeringen , R.M . 
+van , 1987 : The Iron Age in the Western Netherlands II : Site catalogue and pottery description , map sheet 1 , Berichten ROB 37 , 39-121 . 
+Heeringen , R.M . 
+van , 1989 : The Iron Age in the Western Netherlands III : Site catalogue and pottery description , map sheet 2 ; IV : Site catalogue and pottery description , map sheet 3 ; V : Synthesis , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 39 , 7-268 . 
+Heeringen , R.M . 
+van , & M.C . 
+van Trierum 1981 : The Iron Age in the Western Netherlands , I : Introduction and method of pottery description , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 31 , 347-53 . 
+Hessing , W.A.M. , 1989 : Wijk bij Duurstede ‘ De Horden ’ : Besiedlung und Bestattungen aus der frühen Eisenzeit , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 39 , 297-344 . 
+Hübener , W. , 1968 : Eine Studie zur spätrömischen Rädchensigillata ( Argonnensigillata ) , Bonner Jahrbücher 168 , 241-98 . 
+Hulst , R.S. , 1999 : Geldermalsen : An Early La Tène Cemetry - Diffusion or Convergency ? , in : H. Sarfatij , W.J.H . 
+Verwers & P.J . Woltering ( eds . 
+) , In Discussion with the past : Archaeological studies presented to W.A . 
+van Es , Amersfoort , 41-9 . 
+Hussong , L. , & H. Cüppers 1972 : Die Trierer Kaiserthermen : Die spätrömische und frühmittelalterliche Keramik , Mainz am Rhein . 
+49 Kok , D.H. , 1997a : Cothen , signaleringen en vondstmeldingen , in : D.H . 
+Kok , S.G . 
+van Dockum & F. Vogelzang ( red . 
+) , Archeologische Kroniek provincie Utrecht 1990-1991 , Hilversum , 40 . 
+Kok , D.H. , 1997b : Cothen , signaleringen en vondstmeldingen , in : D.H . 
+Kok , J.P . 
+ter Brugge , S.G . 
+van Dockum & F. Vogelzang ( red . 
+) , Archeologische Kroniek provincie Utrecht 1992-1993 , Hilversum , 41 . 
+Linnemeijer , N. , 1995 : Een IJzertijdnederzetting op De Geer , Wijk bij Duurstede , Amsterdam ( ongepubliceerde doctoraalscriptie , Vrije Universiteit Amsterdam ) . 
+Meunier , M. , 1963 : La villa belgo-romaine de ‘ Fin-de-Ville ’ ( commune de Mont-lez-Houffalize ) , Ardenne et Famenne 6 , 154-72 . 
+Mooij , E. , 1982 : Bouwfragmenten uit de 1e-3e eeuw , Oud-Castricum 5 , 16-20 . 
+Moormann , E.M. , 1984-1985 : Parietatum Incrustrationes Tenacissimis Coloribus Pictas : Roman wall-painting fragments in the Rijksmuseum van Oudheden at Leyden and the Rijksmuseum G.M . 
+Kam at Nijmegen , Oudheidkundige Mededelingen uit het Rijksmuseum van Oudheden te Leiden 65 , 51-92 . 
+Muller , Fzn. , 1895 : Verslag over de opgravingen van Romeinsche oudheden te Vechten , gedaan op kosten van het PUG in de jaren 1892-1894 , Jaarverslag van het Provinciaal Utrechtsch Genootschap , 122-69 . 
+Peddemors , A. , & G.J . 
+Verwers 1970 : Glazen La Tène armbanden in Nederland , Westerheem 19 , 139-40 . 
+Peddemors , A. , 1975 : Latènearmringen in den Niederlande , Analecta Praehistorica Leidensia 8 , 93-145 . 
+Pirling , R. , 1960 : Neue Grabfunde des 4. und frühen 5 . 
+Jahrhunderts aus Krefeld-Gellep , Germania 38 , 80-9 . 
+Pulles , I. , & N. Roymans 1994 : Mantelspelden en armringen als offerobject , in : N. Roymans & T. Derks ( red . 
+) , De tempel van Empel : Een Hercules-heiligdom in het woongebied van de Bataven , `s-Hertogenbosch , 132-41 . 
+Riha , E. , 1979 : Die römischen Fibeln aus Augst und Kaiseraugst , Augst ( Forschungen in Augst , 3 ) . 
+Ritterling , E. , 1913 : Das frührömische Lager bei Hofheim im Taunus , ( Annalen des Vereins für nassauische Altertumskunde und Geschichtsforschung , 40 ) . 
+Roest , J. van der , 1988 , Die römischen Fibeln von ‘ De Horden ’ : Fibeln aus einer Zivilsiedlung am niedergermanischen Limes , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 38 , 141-202 . 
+Roest , J. van der , 1997 : Aanvullend archeologisch onderzoek in het tracé van de Betuweroute ( AA0 9 ) : Geldermalsen-Lage Blok , Amersfoort ( Rapportage Archeologische Monumentenzorg , 9 ) . 
+Roymans , N. , 1989 : Glazen armringen uit de latere La Tène-periode en de vroegste Romeinse tijd in het oostelijke rivierengebied : De collectie Jansen , inventarisatie in opdracht van de Gelderse Archeologische Stichting , Amersfoort . 
+Roymans , N. , 1990 : Tribal societies in Northern Gaul : An anthropological perspective , Amsterdam ( Cingula , 12 ) . 
+50 Roymans , N. , & T. van Rooijen 1993 : De voorromeinse armbandproductie in het Nederrijnse gebied en haar culturele betekenis , Vormen uit vuur 1993:3 , 2-10 . 
+Roymans , N. , & W. van der Sanden 1980 : Celtic coins from the Netherlands and their archaeological context , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 30 , 173-254 . 
+Sanden , W.A.B . 
+van der , 1987 : Oss-Ussen : De materiële cultuur , in : W.A.B . 
+van der Sanden & P.W . 
+van den Broeke ( red . 
+) , Getekend Zand : Tien jaar archeologisch onderzoek in Oss-Ussen , Waalre ( Bijdragen tot de studie van het Brabantse Heem , 31 ) , 91-100 . 
+Siemons , H.-A . R. , 2001 : Sporen en structuren , in : M.M . 
+Sier & C.W . 
+Koot ( red . ) 
+, Archeologie in de Betuweroute : Kesteren-De Woerd : Bewoningssporen uit de IJzertijd en de Romeinse tijd , Amersfoort ( Rapportage Archeologische Monumentenzorg , 82 ) , 83-112 . 
+Stuart , P. 1963 : Gewoon aardewerk uit de Romeinse legerplaats en de bijbehorende grafvelden te Nijmegen , Leiden ( Beschrijving van de verzamelingen in het Rijksmuseum G.M . 
+Kam te Nijmegen , 6 ) . 
+Taayke , E. , 1996 : Die einheimische Keramik der nördlichen Niederlande , 600 v.Chr . 
+bis 300 n.Chr. , Groningen ( academisch proefschrift Rijksuniversiteit Groningen ) . 
+Taayke , E. , in voorbereiding : Handmade pottery from a Roman period settlement at Wijk bij Duurstede-De Horden , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 45 . 
+Tent , W.J . 
+van , 1970 : Cothen , in : Nieuwsbulletin van de Koninklijke Nederlandse Oudheidkundige Bond 69 , *151-2 . 
+Tent , W.J . 
+van , 1972 : Cothen , in : Nieuwsbulletin van de Koninklijke Nederlandse Oudheidkundige Bond 71 , *16 . 
+Tent , W.J . 
+van , 1976 : Cothen , in : Archeologische kroniek van de provincie Utrecht over de jaren 1970-1971 , Maandblad Oud Utrecht 49 , 64-66 . 
+Tent , W.J . 
+van , 1978 : A native settlement at Jutphaas , municipality of Nieuwegein , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 28 , 199-240 . 
+Tent , W.J . 
+van , 1986 : Houten-Doornkade : Inheems aardewerk uit de Romeinse Tijd , in : R.M . 
+van Heeringen ( red . 
+) , Voordrachten gehouden te Middelburg ter gelegenheid van het afscheid van ir . J.A.Trimpe Burger als provinciaal archeoloog van Zeeland , Amersfoort ( Nederlandse Archeologische Rapporten , 3 ) , 33-5 . 
+Tent , W.J . 
+van , 1988 : Houten , in : Archeologische Kroniek van de provincie Utrecht over de jaren 1980-1984 , Utrecht , 13-9 . 
+Trierum , M.C . 
+van , 1986 : Landschap en bewoning rond de Bernisse in de IJzertijd en de Romeinse tijd , in : M.C . 
+van Trierum & H.E . 
+Henkes ( red . 
+) , Landschap en bewoning rond de mondingen van Rijn , Maas en Schelde , Rotterdam ( Rotterdam Papers , 5 ) , 49-76 . 
+Vader-Reinsma , D. , 1994 : Het aardewerk van De Horden , in : W.A . 
+van Es & W.A.M . 
+Hessing ( red . 
+) , Romeinen , Friezen en Franken in het hart van Nederland , Utrecht , 169-72 . 
+51 Verwers , G.J. , 1972 : Das Kamps Veld in Haps in Neolithicum , Bronzezeit und Eisenzeit , Analecta Praehistorica Leidensia 5 . 
+Vos , W.K. , 2002 : De inheems-Romeinse huisplattegronden van De Horden te Wijk bij Duurstede , Amersfoort ( Rapportages Archeologische Monumentenzorg , 98 ) . 
+Wiepking , C.G. , 2001 : Aardewerk , in : M.M . 
+Sier & C.W.Koot ( red . 
+) , Archeologie in de Betuweroute : Kesteren-De Woerd : Bewoningssporen uit de IJzertijd en de Romeinse tijd , Amersfoort ( Rapportage Archeologische Monumentenzorg , 82 ) , 113- 70 . 
+Willems , W.J.H. , 1981 : Romans and Batavians : A regional study in the Dutch eastern river area , I , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 31 , 7-217 . 
+Willems , W.J.H. , 1984 : Romans and Batavians : A regional study in the Dutch eastern river area , II , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 34 , 39-331 . 
+52 

@@ -1,0 +1,1232 @@
+Een villaterrein bij het Kloosterraderplein te Kerkrade rapport 2223 Een villaterrein bij het Kloosterraderplein te Kerkrade Een archeologische opgraving N. Huisman Met bijdragen van : J.M . Brijker R.C.A . 
+Geerts M.J.A . 
+Melkert Colofon ADC Rapport 2223 Een villaterrein op het Kloosterraderplein te Kerkrade Een archeologische opgraving Auteur : N. Huisman In opdracht van : gemeente Kerkrade Foto ’ s en tekeningen : ADC ArcheoProjecten , tenzij anders vermeld © ADC ArcheoProjecten , Amersfoort , juli 2010 Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke wijze dan ook zonder voorafgaande schriftelijke toestemming van de uitgevers . 
+ADC ArcheoProjecten aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit de toepassing van de adviezen of het gebruik van de resultaten van dit onderzoek . 
+Autorisatie : N. Prangsma ISBN 978-94-6064-214-2 ADC ArcheoProjecten Postbus 1513 3800 BM Amersfoort Tel 033 299 8181 Fax 033 299 8180 Email info @ archeologie.nl Inhoudsopgave Administratieve gegevens van het onderzoeksgebied Samenvatting 1 Inleiding 1.1 Algemeen 1.2 Vooronderzoek 1.3 Doel van het onderzoek en onderzoeksvragen 1.4 Opzet van het rapport 2 Methoden 3 Resultaten 3.1 Fysisch geografisch onderzoek ( J.M . Brijker , ADC ArcheoProjecten ) 3.2 Sporen en structuren 3.3 Vondstmateriaal 3.3.1 Aardewerk ( R.C.A . 
+Geerts , ADC ArcheoProjecten ) 3.3.2 Natuursteen ( M.J.A . 
+Melkert , ADC ArcheoSpecialisten ) 3.3.3 Keramisch bouwmateriaal ( R.C.A . 
+Geerts , ADC ArcheoProjecten ) 3.3.4 Metaal 3.3.5 Slakken 4 Synthese 4.1 Algemeen 4.2 Beantwoording van de onderzoeksvragen 5 Conclusie Literatuur Lijst van afbeeldingen Lijst van tabellen Bijlage 1 . 
+Sporenoverzichten Bijlage 2 . 
+Sporenlijst Bijlage 3 . 
+Vullingenlijst Bijlage 4 . 
+Fotolijst Bijlage 5 . 
+Tekeningenlijst Bijlage 6 . 
+Vondstenlijst Bijlage 7 . 
+Verklarende woordenlijst Bijlage 8 . 
+Afkortingen in de database 4 5 7 7 8 9 10 10 10 10 15 19 19 25 30 33 34 34 34 35 38 39 41 41 42 44 45 46 47 47 49 50 Administratieve gegevens van het onderzoeksgebied Provincie : Gemeente : Plaats : Toponiem : Kaartblad : Kadastrale gegevens Limburg Kerkrade Kerkrade Kloosterraderplein 62E Percelen E 5987 en E 4838 Coördinaten : 202.718/319.765 202.714/319.823 202.750/319.800 202.787/319.775 Projectverantwoordelijke : Bevoegde overheid : Deskundige namens de bevoegde overheid : ARCHIS-onderzoeksmeldingsnummer ( CIS-code ) : ADC-projectcode : N. Huisman Gemeente Kerkrade Mevr . 
+D.G.M . 
+Smeets-Habets 38752 4110578 Complex en ABR codering : Periode ( n ) : KNA versie : Geomorfologische context : NAP hoogte maaiveld : Maximale diepte onderzoek : Uitvoering van het veldwerk : Beheer en plaats documentatie : NRV ( Romeinse villa ( complex ) ) Romeinse tijd en Nieuwe tijd 3.1 Lössplateau 155,60-156,60 +NAP 1,5 m –mv 18 t/m 26 januari 2010 Provinciaal Depot voor Bodemvondsten Limburg ( Maastricht ) 5 Samenvatting In opdracht van de gemeente Kerkrade heeft ADC ArcheoProjecten een archeologische opgraving ( DO ) uitgevoerd op de locatie Kloosterraderplein in Kerkrade . 
+Bij voorgaand proefsleuvenonderzoek werden in het oostelijke deel van het plangebied reeds restanten aangesneden van een Romeins villaterrein . 
+De beperkte schaal van het onderzoek verhinderde destijds het trekken van definitieve conclusies , maar na vergelijking met villae rusticae uit de omgeving kon geconstateerd worden dat sporen van een groot bijgebouw of eventueel een hoofdgebouw van een villaterrein waren aangesneden . 
+Behalve funderingsresten en paalkuilen bestonden de archeologische resten ook uit een zogenaamde ‘ vuile ’ laag met veel vondstmateriaal . 
+Tijdens de opgraving is de aangetroffen structuur meer vrij gelegd en onderzocht . 
+Tevens is er zowel ten westen als ten oosten van deze structuur nog een structuur aangetroffen . 
+Enkele palen van de oostelijke structuur waren ook al aangetroffen bij het proefsleuvenonderzoek . 
+Toen was echter nog niet duidelijk dat dit een structuur betrof . 
+De vindplaats is op basis van het vondstmateriaal ( voornamelijk het e e aardewerk ) gedateerd in de laat 1 tot 2 eeuw , en is daardoor vergelijkbaar met andere villa ’ s in de omgeving . 
+Helaas is de omvang van het te onderzoeken gebied beperkt gebleven , waardoor de exacte omvang van het villaterrein niet kon worden bepaald . 
+Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Periode Nieuwe tijd Nieuwe tijd C Nieuwe tijd B Nieuwe tijd A Middeleeuwen : Late Middeleeuwen B / Late Middeleeuwen Late Middeleeuwen A / Volle Middeleeuwen Vroege Middeleeuwen D / Ottoonse periode Vroege Middeleeuwen C / Karolingische tijd Vroege Middeleeuwen B / Merovingische tijd Vroege Middeleeuwen A / Volksverhuizingstijd Romeinse tijd : Laat-Romeinse tijd Midden-Romeinse tijd Vroeg-Romeinse tijd Tijd in jaren 1500 - heden 1850 - heden 1650 - 1850 na Chr . 1500 - 1650 na Chr . 450 – 1500 na Chr . 1250 - 1500 na Chr . 1050 - 1250 na Chr . 900 - 1050 na Chr . 725 - 900 na Chr . 525 - 725 na Chr . 450 - 525 na Chr . 12 voor Chr . – 450 na Chr . 270 - 450 na Chr . 70 - 270 na Chr . 12 voor Chr . - 70 na Chr . 
+Bron : Archeologisch Basis Register 1992 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 325000 6 LANDGRAAF LANDGRAAF LANDGRAAF LANDGRAAF LANDGRAAF EIJGELSHOVEN EIJGELSHOVEN EIJGELSHOVEN EIJGELSHOVEN EIJGELSHOVEN HEERLEN HEERLEN HEERLEN HEERLEN HEERLEN 320000 VOERENDAAL VOERENDAAL VOERENDAAL VOERENDAAL VOERENDAAL VOERENDAAL $ $ KERKRADE KERKRADE KERKRADE KERKRADE KERKRADE SIMPELVELD SIMPELVELD SIMPELVELD SIMPELVELD SIMPELVELD EIJS EIJS EIJS EIJS EIJS BANEHEIDE BANEHEIDE BANEHEIDE BANEHEIDE BANEHEIDE BANEHEIDE BOCHOLTZ BOCHOLTZ BOCHOLTZ BOCHOLTZ BOCHOLTZ 00000 5000m 5000m 5000m 5000m 5000m $ MECHELEN MECHELEN MECHELEN MECHELEN MECHELEN MECHELEN 195000 VIJLEN VIJLEN VIJLEN 200000 Kerkrade - Kloosterraderplein bron : Geodan 205000 210000 NB NB NB 7-8-2009 7-8-2009 NB NB NB7-8-2009 7-8-2009 7-8-2009 7-8-2009 315000 N N N N N Afb . 
+1 . 
+Locatie van het onderzoeksgebied . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 7 1 Inleiding 1.1 Algemeen Van 18 t/m 26 januari 2010 heeft ADC ArcheoProjecten een archeologisch onderzoek uitgevoerd op de locatie Kloosterraderplein in Kerkrade ( zie afb . 
+2 ) . 
+Dit onderzoek betrof een opgraving in opdracht van de gemeente Kerkrade ( vertegenwoordigd door mevr . 
+D.G.M . 
+Smeets-Habets ) . 
+Het onderzochte terrein , dat vóór de werkzaamheden in gebruik was als braakliggend terrein , wordt omgevormd tot een parkeerterrein ( in feite de uitbreiding van het bestaande parkeerterrein ten zuiden van het onderzoeksgebied ) . 
+Doordat het zuidelijke deel van het terrein duidelijk hoger ligt dan het noordelijke deel ( verval van ruim 1 m ) , zal een deel van het terrein worden afgegraven en een ander deel opgehoogd . 
+Deze verandering in de bodemgesteldheid zal schade toebrengen aan het archeologische bodemarchief . 
+Omdat er tijdens het proefsleuvenonderzoek behoudenswaardige archeologische resten zijn aangetroffen , heeft de bevoegde overheid ( eveneens de gemeente Kerkrade ) , besloten dat een gedeelte van het terrein moet worden opgegraven . 
+In totaal is ca . 
+955 m² onderzocht , zijnde ca . 
+46 % van de totale oppervlakte van het plangebied ( 2063 m² ) . 
+Het gebied wordt ten oosten begrensd door het Oranjeplein , in het noorden en noordoosten door de Poststraat met aanpalende bebouwing , in het westen door het Kloosterraderplein en in het zuiden door een parkeerplaats ( die zal worden uitgebreid binnen het plangebied ) . 
+Het onderzoek is uitgevoerd 1 conform het Programma van Eisen ( PvE ) dat voor dit gebied is opgesteld . 
+In het huidige rapport worden de onderzoeksvragen uit het PvE beantwoord . 
+De vondsten en bijbehorende documentatie die tijdens de werkzaamheden zijn verzameld zullen na afronding van de rapportage worden gedeponeerd in het Provinciaal Depot voor Bodemvondsten Limburg in Maastricht . 
+Projectverantwoordelijke van ADC ArcheoProjecten was N. Huisman ( KNA-archeoloog ) . 
+Verder bestond het veldteam uit N. Bouma ( veldtechnicus ) , P. Hazen en J. Emo ( veldassistenten ) . 
+De bij het project betrokken senior archeoloog is N. Prangsma . 
+De kraanmachinist kwam van de firma Theelen uit Posterholt . 
+Het team werd met raad bijgestaan door dhr . 
+H. Plettenberg , amateur-archeoloog en toezichthouder archeologie voor de gemeente Kerkrade . 
+Het vondstmateriaal is bestudeerd door R. Geerts ( aardewerk en bouwmateriaal ) en M. Melkert ( natuursteen ) . 
+Hun bevindingen zijn in de betreffende deelrapporten beschreven . 
+Het röntgenonderzoek van het metaal is uitgevoerd door Restaura . 
+Controle en coördinatie van documentatie en vondstverwerking is uitgevoerd door J.W . Beestman . 
+1 J. Claeys 2009 ( ADC ArcheoProjecten ) , PvE nummer 09-052 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 8 10 33 319850 319850 319850 319850 24 22 31 29 27 319825 319825 319825 319825 Po st st ra at 20 A 18 C 25 18 B 1 2 21 23 t/m 1 erplein terrad 2 9 11 13 15 1 Oranjeplein 18A 319750 319750 319750 319750 plein 19 21 6 319800 319800 319800 319800 2 nje Ora Kloos 7 319775 319775 319775 319775 20 2 18 20 m 20 20 m m 20 m 12 8 10 202725 202725 202725 202725 202725 202725 202750 202750 202750 202750 202750 202750 20 14 6 4 202700 202700 202700 202700 202700 202700 Kloosterra 14A 319725 319725 319725 319725 16 0 00 00 0 43 202775 202775 202775 202775 202775 202775 202800 202800 202800 202800 202800 202800 45 47 49 51 53 derstraat 2010 © © ADC ADC 2010 202825 202825 202825 202825 202825 202825 Legenda Boom Plangebied Opgravingsputten Afb . 
+2 . 
+Ligging plangebied en putten . 
+1.2 Vooronderzoek Binnen het plangebied is geen bureau- of booronderzoek uitgevoerd , maar wel een proefsleuvenonderzoek . 
+De keuze tot het uitvoeren van een inventariserend veldonderzoek door middel van proefsleuven was voornamelijk gebaseerd op ‘ archeologische ’ waarnemingen uit 1922 ( Archiswaarnemingsnummer 39129 ) . 
+In De Limburger Koerier van september 1936 wordt gesproken van een villa die in 1922 werd blootgelegd bij de bouw van twee woningen aan het Oranjeplein . 
+Tijdens de werkzaamheden zouden ‘ enige kubieke meters Romeinse dakpannen ’ zijn aangetroffen . 
+Over muren of funderingen wordt er in dit bericht niet gerept . 
+Er is verder sprake van een waterput , die bij de aanleg van het busstation Oranjeplein werd aangetroffen ( volgens dhr . 
+H. Plettenberg buiten het onderzoeksgebied , ter hoogte van de Poststraat ) . 
+Op de archeologische en cultuurhistorische advieskaart voor de Parkstad Limburg gemeenten en de gemeente Nuth heeft het gebied deels een hoge verwachting ( historische dorpskern ) en deels een middelhoge verwachting voor archeologische resten . 
+Naar aanleiding van deze kaart is het proefsleuven onderzoek gestart . 
+Een aantal vondsten uit de onmiddellijke nabijheid van het Kloosterraderplein-Oranjeplein verwijzen eveneens naar Romeinse aanwezigheid : waarnemingsnummer 39105 betreft de vondst van enkele ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 9 aardewerkscherven uit de Vroeg- en Midden-Romeinse tijd bij het station tijdens het afgraven van het terrein ; waarneming 51605 betreft een bronzen beslagstuk en een aardewerken speelschijf uit de Romeinse tijd , aangetroffen tijdens een archeologische veldkartering . 
+Het archeologische proefsleuvenonderzoek dat eind oktober werd uitgevoerd , leverde onverhoopte resultaten op . 
+In het oostelijke deel van het plangebied werden wellicht restanten aangesneden van een Romeins villaterrein . 
+De beperkte schaal van het onderzoek verhinderde het trekken van definitieve conclusies , maar na vergelijking met andere villae rusticae uit de omgeving kon geconstateerd worden dat sporen van een groot bijgebouw of eventueel hoofdgebouw van een villaterrein waren aangesneden . 
+Behalve funderingsresten en paalkuilen bestaan de archeologische resten ook uit een zogenaamde ‘ vuile ’ laag met veel vondstmateriaal , waaronder terra sigillata en beschilderd Romeins aardewerk . 
+Een aantal vondsten en mogelijk één kuil waren te dateren in de Late Middeleeuwen . 
+Op basis van dit onderzoek werd geadviseerd een gedeelte van het plangebied op te graven . 
+1.3 Doel van het onderzoek en onderzoeksvragen De archeologische opgraving heeft tot doel het materiaal van de vindplaats veilig te stellen en de gegevens te documenteren om daarmee informatie te behouden die van belang is voor de kennisvorming over het verleden . 
+In het PvE zijn verschillende onderzoeksvragen gesteld , die in dit rapport worden beantwoord op basis van hetgeen in de werkputten is aangetroffen : Algemeen : 1 . 
+Welke vondstcategorieën zijn vertegenwoordigd ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is de vondstdichtheid en de verticale en horizontale spreiding ? 
+2 . 
+Indien er kansrijke paleo-ecologische sporen zijn bemonsterd , wat kunnen de resultaten ons vertellen over het natuur- en cultuurlandschap , de fauna en de voedseleconomie van de aangetroffen vindplaats ( en ) , eventueel over verschillende perioden ? 
+3 . 
+Hoe ziet de bodemopbouw van het plangebied eruit ? 
+In welke mate is het plangebied verstoord ? 
+4 . 
+In hoeverre is de locatie van de vindplaats ( en ) landschappelijk te verklaren ? 
+5 . 
+Indien er vindplaatsen uit verschillende archeologische periodes worden aangetroffen , is er continuïteit in bewoning tussen de verschillende vindplaatsen ? 
+Prehistorie : 6 . 
+Zijn er onder het Romeinse sporenniveau nog oudere archeologische niveaus aan te treffen ? 
+7 . 
+Zo ja , zijn er sporen die te associëren zijn met deze prehistorische la ( a ) g ( en ) ? 
+8 . 
+Zijn deze sporen te reconstrueren tot structuren ? 
+Zo ja , welke ? 
+Wat is hun eventuele functie ? 
+Romeinse tijd : 9 . 
+Welke Romeinse sporen zijn aangetroffen in het onderzoeksgebied ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is hun verticale en horizontale spreiding ? 
+10 . 
+Welke structuren zijn er te herkennen ? 
+Zijn deze te linken aan een villacomplex ? 
+Zo ja , welk ( e ) onderde ( e ) l ( en ) van het villaterrein is/zijn aangesneden ? 
+Zijn er verschillende bouwfasen te reconstrueren ? 
+Zo ja , wat is de datering voor de verschillende fasen ? 
+11 . 
+In welke mate kan het aangetroffen bouwmateriaal bijdragen aan het herkennen van de functie en het reconstrueren van de structuren ? 
+12 . 
+Zijn er uitspraken te doen omtrent de omvang en/of begrenzingen van de Romeinse vindplaats ? 
+13 . 
+Hoe zijn de resultaten te plaatsen in perspectief met gelijktijdige en gelijkaardige Romeinse vindplaatsen op lokaal en regionaal vlak ? 
+14 . 
+Kunnen er uitspraken gedaan worden omtrent de reden voor het einde van de Romeinse nederzetting ? 
+Middeleeuwen 15 . 
+Zijn er sporen uit de Middeleeuwen aangetroffen ? 
+Zo ja , welke ? 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 10 16 . 
+Behoren de sporen tot een structuur ? 
+Zijn er verschillende fasen te reconstrueren ? 
+Zo ja , wat is de datering van de verschillende fasen ? 
+17 . 
+Indien er sprake is van ( een ) middeleeuwse vindplaats ( en ) , is er sprake van continuïteit met de voorafgaande Romeinse bewoning ? 
+1.4 Opzet van het rapport Dit rapport betreft een standaardrapport zoals genoemd in de Kwaliteitsnorm Nederlandse Archeologie ( KNA 3.1 -specificatie OS15 ) . 
+In dit rapport worden de resultaten van het onderzoek gepresenteerd , waarna de eerste conclusies volgen . 
+Na de samenvatting en dit inleidende hoofdstuk volgt een omschrijving van de onderzoeksmethoden in hoofdstuk 2 . 
+In hoofdstuk 3 zijn de onderzoeksresultaten beschreven . 
+Eerst wordt aandacht besteed aan de ontstaansgeschiedenis van het gebied en de bodemopbouw ter plaatse van de onderzoekslocatie . 
+Daarna zijn de aangetroffen sporen en vondsten beschreven en geïnterpreteerd . 
+Op basis hiervan worden in hoofdstuk 4 de onderzoeksresultaten in een synthese geanalyseerd en in een context geplaatst en de verschillende onderzoeksvragen beantwoord . 
+Het rapport eindigt met een conclusie in hoofdstuk 5 . 
+2 Methoden Het archeologisch onderzoek is uitgevoerd conform de Kwaliteitsnorm Nederlandse Archeologie ( KNA ) , 2 versie 3.1 en het PvE . 
+Het onderzoeksgebied is uiteindelijk verdeeld in twee putten , 1 en 2 . 
+Put 1 behelst het noordelijke deel , ten westen van de moderne villa , en put 2 omvat het zuidelijke en oostelijke deel van het onderzoeksgebied . 
+De grenzen van het onderzoeksgebied wijken iets af van het originele plan , maar de aanpassing was noodzakelijk door de bomen die nog op het terrein staan en doordat er enige afstand van de huidige bebouwing moest worden gehouden . 
+Rondom de steenconcentraties in het westen van put 1 is een deel uitgebreid om de begrenzing van de sporen te bepalen . 
+In beide putten zijn twee vlakken aangelegd . 
+Vlak 1 is aangelegd in spoor 2000 ( de zogenaamde ‘ vuile ’ laag ) en vlak 2 is aangelegd in spoor 3000 ( natuurlijke löss ) . 
+Bij de machinale aanleg van de werkputten werd gebruik gemaakt van een kraan met gladde bak . 
+Het vlak werd aangelegd op een niveau waarop de sporen leesbaar werden . 
+Waar nodig werd het vlak handmatig opgeschaafd , waarna de sporen onmiddellijk werden ingekrast en het vlak fotografisch gedocumenteerd werd en met behulp van een robotic Total Station ( rTS ) ingemeten . 
+Indien mogelijk zijn vondsten verzameld per spoor . 
+Overige vondsten zijn als puntvondsten ingemeten met de rTS . 
+Op enkele recente sporen na zijn alle sporen gecoupeerd , gefotografeerd en – indien niet natuurlijk of recent van aard – getekend op schaal 1:20 en tenslotte beschreven . 
+Alle sporen zijn afgewerkt . 
+In het zuidprofiel van put 1 zijn vijf profielkolommen opgeschaafd voor bodemkundig onderzoek . 
+Deze profielen zijn gefotografeerd , getekend op schaal 1:20 en na afloop van het veldwerk geanalyseerd door fysisch geograaf J. Brijker ( ADC Specialisten – Prospectie en Landschap ) . 
+Van zowel de haard als de grindsleuf van structuur 2 is een monster genomen ( respectievelijk houtskool en steen ) . 
+3 Resultaten 3.1 Fysisch geografisch onderzoek ( J.M . Brijker , ADC ArcheoProjecten ) Inleiding In dit hoofdstuk wordt de opbouw en de genese van het plangebied Kloosterraderplein te Kerkrade besproken . 
+Hierbij wordt gebruik gemaakt van literatuurgegevens , informatie verkregen bij het vooronderzoek en het veldonderzoek . 
+Bij het veldonderzoek is de profielopbouw van de putten gedocumenteerd en bestudeerd , teneinde een beeld te verkrijgen van de bodemopbouw , de gaafheid van de bodem en de ( geologische ) opbouw en genese van het plangebied . 
+2 J. Claeys 2009 ( ADC ArcheoProjecten ) , PvE nummer 09-052 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 11 PvE Vanuit het PvE is de volgende vraag met betrekking tot de fysische geografie opgesteld : Hoe ziet de bodemopbouw van het plangebied eruit ? 
+In welke mate is het plangebied verstoord ? 
+Methoden Voor het fysisch geografisch onderzoek is gebruik gemaakt van gedocumenteerde profielwanden en kolomopnamen in putwanden . 
+De positie , lengte en diepte van de verschillende profielen was afhankelijk van het doel waarvoor de put is aangelegd . 
+De profielen zijn handmatig opgeschaafd en vervolgens ingekrast en gedocumenteerd . 
+Hierbij zijn zowel lithologische lagen als archeologisch relevante lagen onderscheiden , zoals vegetatiehorizonten , cultuurlagen en eventuele sporen . 
+Alle lagen zijn bemonsterd en beschreven op textuur , kleur , gehalte organische stof en andere lithologische en bodemkundige verschijnselen . 
+De profielen zijn beschreven volgens de Archeologische Standaard 3 4 Boorbeschrijvingsmethode die de lithologische beschrijving conform NEN5104 hanteert . 
+De kolomopnames zijn gedaan in representatieve delen van het profiel . 
+Achtergrond De geologische opbouw van Zuid-Limburg wordt gekenmerkt door de aanwezigheid van vast gesteente in de ondergrond , de activiteit van de Maas gedurende de laatste 2,6 miljoen jaar , de aanwezigheid van enkele breuken in de ondergrond en de afzetting van löss . 
+In de ondergrond bevindt zich onder andere gesteente ( waaronder steenkool ) uit het Carboon ( 360 – 286 miljoen jaar geleden ) en zand- en kalkgesteente uit het Krijt ( 65-144 miljoen jaar geleden ) en op enkele plaatsen bruinkool . 
+Al deze afzettingen zijn , of worden nog steeds , als delfstoffen gewonnen . 
+Zuid-Limburg wordt doorkruist door een actief breuksysteem , de Roerdalslenk . 
+Deze slenk bevindt zich globaal in het gebied tussen Kerkrade en Sittard aan de zuidzijde en Roermond aan de noordzijde . 
+Dit gebied daalt gestaag ten opzichte van de rest van Nederland . 
+De Feldbissbreuk vormt de zuidelijke grens van de Roerdalslenk . 
+Uit recent 5 onderzoek blijk dat de Feldbissbreuk ook nu nog actief is , met een snelheid van ongeveer 0,1 mm/jaar . 
+De voorloper van de Maas stroomde al ~2,6 miljoen jaar door Zuid-Limburg . 
+Als gevolg van voortdurende klimaatsveranderingen en tectonische opheffing van het gebied ( ten zuiden van de Feldbiss ) zijn er tientallen rivierterrassen gevormd . 
+In koudere perioden vond afzetting van sediment plaats , terwijl in de overgang van koude naar warmere perioden de rivier zich insneed in haar eigen sediment . 
+In totaal zijn er dikke pakketten grind afgezet . 
+De Maasterrassen in Zuid-Limburg zijn traditioneel onder te verdelen in vier groepen ; de terrassen van de Oost-Maas en de Hoog- , Midden- en 6 Laagterrassen van de West-Maas . 
+Deze indeling is gebaseerd op de hoogteligging van de basis van de terrassen en verschillen in petrologische samenstelling van sedimenten . 
+De terrassen van de Oost-Maas zijn het oudst . 
+Tot 2 miljoen jaar geleden stroomde de Maas ten oosten van het anticlinaal van Waubach , een “ eiland ” waar geen Kwartaire Maassedimenten zijn afgezet . 
+Mogelijk als gevolg van een tectonische barrière in het dal van de Oost-Maas is de Maas ten westen van dit “ eiland ” gaan stromen . 
+In de loop van 2 miljoen jaar zijn de verschillende terrassen van de West-Maas gevormd . 
+Het dal van de Maas is asymmetrisch als gevolg van een sterkere tectonische opheffing van gebied ten zuidoosten van de huidige rivierloop . 
+Door deze sterke opheffing aan een zijde van het dal zijn alle terrassen aan de oostzijde van het dal bewaard gebleven , waarbij de oorspronkelijke afzettingen aan de westzijde zijn 7 geërodeerd . 
+De ondergrond van het van het plangebied bestaat uit afzettingen van de Oost-Maas , het 8 ‘ 9 terras van Simpelveld , met een ouderdom van circa 2 miljoen jaar . 
+Door insnijding van een beek ten westen van het plangebied bevinden zich aldaar de oudere geologische afzettingen aan het oppervlak , 10 o.a . de formaties van Rupel en Tongeren . 
+In afb . 
+3 en afb . 
+4 is de ligging van het plangebied op de geologische kaart weergegeven . 
+3 Bosch 2007 . 
+Nederlands Normalisatie Instituut 1989 . 
+5 Houtgast et al. , 2002 . 
+6 Zonneveld , 1974 . 
+7 Van den Berg , 1996 . 
+8 Van den Berg , 1989 . 
+9 Van den Berg , 1996 . 
+4 10 Kuyl , 1980 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 12 319500 320000 320500 A' A 00000 500m 500m 500m 500m 500m 201500 AK AK AK15-2-2010 15-2-2010 15-2-2010 15-2-2010 AK AK AK 15-2-2010 15-2-2010 15-2-2010 AK AK AK 15-2-2010 15-2-2010 319000 N N N N N N 202000 202500 203000 203500 204000 Kerkrade Kloosterradeplein Geologische kaart Legenda L1 Löss , 2-5m Hc L2 Löss , 5-8m Ma L3 Löss , > 8m RuTo '' Fluvioperiglaciale '' afzettingen Maasafzettingen BSi Beekafzettingen Steenstort Glauconiethoudend fijn zand en kleilagen 11 Afb . 
+3 . 
+Locatie van het plangebied binnen de geologische kaart . 
+11 Kuyl , 1980 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 13 A A' Kerkrade 150 m AK AK AK 15-2-2010 15-2-2010 15-2-2010 AK AK 15-2-2010 AK 15-2-2010 AK AK AK15-2-2010 15-2-2010 15-2-2010 15-2-2010 100 m Afb . 
+4 . 
+Locatie van het plangebied binnen het geologische profiel , legenda staat bij de geologische kaart . 
+12 De locatie van het plangebied is aangegeven met een pijl . 
+Op de terrasafzettingen ligt een lössdek van enkele meters dikte . 
+Gedurende de laatste ijstijd , het Weichselien ( ca . 
+80.000 - 10.000 jaar geleden ) , is in Zuid-Limburg een pakket löss afgezet . 
+Onder koude en droge condities in een gebied met weinig begroeiing had de wind vrij spel . 
+Hierbij werd de löss als een deken over de Maasterrassen afgezet . 
+Op de vlakke delen kan het lösspakket een dikte van 10 tot maximaal 20 meter hebben , op de hellingen over het algemeen 3 tot 5 meter . 
+De löss is oorspronkelijk 13 14 kalkrijk afgezet . 
+De löss behoort tot het Laagpakket van Schimmert binnen de Formatie van Boxtel . 
+15 Door bodemvorming is de löss in Zuid-Limburg tot een diepte van 2 tot 3 m ontkalkt . 
+Als gevolg van interne verwering en regenwater vindt er uit- en inspoeling van klei plaats binnen het bodemprofiel . 
+De inspoelingshorizont van de klei ( Bt-horizont ) wordt een briklaag genoemd als deze een minimale dikte 16 van 15 cm heeft bereikt en is kenmerkend voor de lössgronden . 
+Na de ontginning van het lössgebied heeft er met name op de hellingen veel erosie van het materiaal plaatsgevonden . 
+De geërodeerde löss is als colluvium in de lager gelegen delen afgezet . 
+Ook op de hellingen ligt vaak een dun pakket colluvium . 
+Hierdoor ligt de oorspronkelijke bodem niet meer aan het oppervlak . 
+Binnen hellingen op een akkerperceel vindt de erosie onder andere plaats door middel van “ sheet-flow ” , het oppervlakkig afstromen van het sediment over de oppervlakte . 
+Het water hoeft zich hierbij niet noodzakelijk in geultjes te concentreren . 
+De erosie is in ieder geval met de ontginning van de hellingbossen in de Vroege IJzertijd aangevangen , mogelijk eerder en is doorgegaan gedurende de Romeinse tijd . 
+Waarschijnlijk heeft de 17 ‘ 18 grootste mate van erosie plaatsgevonden gedurende de Middeleeuwen . 
+12 Kuyl , 1980 . 
+Bakker & Locher 1990 . 
+De Mulder et . 
+al. , 2003 . 
+15 Haans et al . 
+1981 . 
+16 De Bakker & Schelling 1966 . 
+17 Bunnik 1999 . 
+13 14 18 Kooistra 1996 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 14 Volgens de bodemkaart van Nederland ligt het plangebied binnen een niet-gekarteerd gebied , de bebouwde kom . 
+De dichtstbijzijnde gekarteerde eenheden zijn bergbrikgronden in siltige leem en ooivaaggronden in siltige leem ; in-situ en colluviaal in dal . 
+Bergbrikgronden komen voor langs de randen van de plateaus . 
+Hier is het oorspronkelijke oppervlak gedeeltelijk geërodeerd . 
+Bij bergbrikgronden zijn de oorspronkelijke A- en E-horizont , en soms ook een deel van de Bt-horizont door erosie verdwenen , waardoor nu de Bt-horizont met de erin geploegde bouwvoor aan de oppervlakte ligt . 
+Bij verdere erosie 19 van deze gronden , waarbij de gehele Bt-horizont geërodeerd is , is er sprake van ooivaaggronden . 
+Profielopbouw De aard van de afzettingen binnen het plangebied is uniform . 
+Binnen het terrein is een sterke helling aanwezig van oost naar west , waar aan het maaiveld een maximaal hoogteverschil van 1 meter is vastgesteld . 
+Aan de basis bevindt zich een pakket van oranje-rode löss , waarin inspoeling van klei en ijzer heeft plaatsgevonden . 
+Dit pakket is geïnterpreteerd als de B-horizont van een brikgrond . 
+Bij het eerder uitgevoerde proefsleuvenonderzoek is ook de uitspoelingshorizont van de zelfde bodem herkend . 
+Hierin zijn de kenmerkende krimpscheuren voor dergelijke bodems herkend . 
+Het bovenliggende pakket , tussen de 80-30 cm –mv , bestaat uit bruine löss . 
+Binnen dit pakket komen veel houtskoolspikkels voor . 
+Ten opzichte van het onderliggende pakket is dit pakket “ smeuïger ” en heeft het een “ viezer ” uiterlijk . 
+Dit pakket is geïnterpreteerd als verspoelde löss , colluvium . 
+Binnen dit pakket komen archeologische sporen voor . 
+De bovenste 30-40 cm van het profiel wordt gevormd door de moderne bouwvoor . 
+Bouwvoor Colluvium Löss Afb . 
+5 . 
+Lössprofiel binnen het plangebied . 
+Vraag uit het PvE Hoe ziet de bodemopbouw van het plangebied eruit ? 
+In welke mate is het plangebied verstoord ? 
+De bodemopbouw van het plangebied bestaat uit een pakket löss dat is afgezet aan het eind van de laatste ijstijd . 
+In de hierop volgende warme periode raakte het oppervlak begroeid en is er een bodem in de top van deze afzettingen ontwikkeld . 
+Boven deze oude bodem bevindt zich een pakket colluvium , verspoelde löss , met een dikte van circa 80 cm . 
+Buiten de recente bouwvoor is het bodemprofiel intact . 
+19 Stiboka , 1990 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 15 3.2 Sporen en structuren De meeste van de aangetroffen sporen behoren tot een structuur . 
+Enkele sporen zijn van recente of natuurlijke aard en er zijn enkele ‘ losse ’ sporen die niet aan structuur zijn toe te schrijven . 
+De gehele noordoosthoek is verstoord . 
+Ook in het oostelijke deel bevinden zich een aantal verstoringen , o.a . door kabels en leidingen . 
+Er zijn in totaal drie structuren aangetroffen . 
+Van west naar oost zijn dit structuur 1 , 2 en 3 ( afb . 
+6 ) . 
+De sporen van structuur 1 en 2 zijn voornamelijk in het eerste vlak aangetroffen . 
+Bij structuur 3 was dit juist andersom en zijn de meeste sporen in het tweede vlak aangetroffen . 
+In het westelijke deel van put 2 zijn enkele grote kuilen aangetroffen , die op basis van enkele steengoedscherven in de Nieuwe tijd dateren . 
+Er is hier geen sprake van een structuur . 
+De sporenoverzichten per vlak zijn opgenomen in de bijlagen ( bijlage 1 ) . 
+Structuur 1 Deze structuur bestaat uit de sporen 9 , 10 , 11 , 13 , 15 , 16 ( put 1 vl1 ) , 22 , 23 en 24 ( put 1 vl2 ) . 
+Er zijn nu negen kuilen aangetroffen , maar het is goed mogelijk dat de structuur nog doorloopt in noordelijke richting . 
+Ten westen daarvan , ter hoogte van de proefsleuf hebben we nogmaals een vlak aangelegd en daar zijn geen sporen meer aangetroffen . 
+Wellicht hebben we nog wel net de zuidelijke korte wand in de put ( spoor 16 , 23 en 15 ) . 
+De breedte is ca . 
+8,5 m , de lengte minimaal 9 m. De oriëntatie van de structuur is noordoost-zuidwest . 
+De oriëntatie van de andere twee structuren is overigens exact hetzelfde . 
+De diameter van de kuilen is gemiddeld 80 à 90 cm . 
+De kuilen bevatten allemaal stenen . 
+Er konden twee steensoorten worden onderscheiden ; kleine en lichte kalkachtige witte en blauwe stenen ( mogelijk verbrand ) en de wat grotere zwaardere grijze stenen . 
+Spoor 9 , 10 , 11 , 16 , 22 en 24 bevatten enkel de grotere stenen . 
+Spoor 22 bevatte slechts één steen . 
+Spoor 13 en 23 bevatten enkel de kleine stenen . 
+In spoor 15 zaten beide typen steen , maar overwegend de kleinere stenen . 
+Op enkele grotere grijze stenen zijn bewerkingssporen waargenomen . 
+Van elke kuil zijn een paar stenen verzameld voor nader onderzoek . 
+De afstand van structuur 1 tot structuur 2 is ca . 
+17 m. Afb . 
+6 . 
+Kuilen van structuur 1 , opgevuld met natuursteen . 
+Structuur 2 Deze structuur bestaat uit de sporen 3 ( put 2 vl1 ) en 20 ( put 1 vl2 ) . 
+De zuidwesthoek van de structuur was reeds tijdens het IVO-P aangetroffen . 
+De zuidoosthoek is nu ook blootgelegd . 
+Aan de noordoostzijde loopt de sleuf door tot de recente verstoringen en verder tot onder de huidige villa . 
+Naar aanleiding van het proefsleuvenonderzoek werd gedacht dat het een vierkante structuur betrof , maar nu is duidelijk dat het een rechthoekig gebouw moet zijn geweest . 
+De breedte van de structuur is ca . 
+10 m , de lengte minimaal 13 m. De breedte van de sleuven is ca . 
+80 cm . 
+Op regelmatige afstanden zijn aan de buitenzijde van de wanden muurverbredingen . 
+De hoeken zijn verstevigd doordat ze breder zijn , ca . 
+één meter . 
+Uit de coupes blijkt dat de hoeken niet dieper zijn gefundeerd . 
+De oranje/bruine vulling van de sleuf bestaat uit natuursteen , zowel grotere stukken als grind . 
+Daartussen zijn geen andere vondsten aangetroffen . 
+Spoor 31 ligt binnen de structuur en betreft waarschijnlijk een haard . 
+Er is een monster genomen van de houtskool . 
+Daarnaast zijn hierin o.a . stukken maalsteen aangetroffen . 
+Binnen de structuur zat op het eerste vlak al een concentratie bouwmateriaal ( dakpanfragmenten ) . 
+Er is een vergelijking te maken met het villacomplex Kerkrade Holzkuil . 
+Als we structuur 2 vergelijken met gebouw XIX dan zien we enige gelijkenis . 
+Het restant is ook hier een grindsleuf met regelmatig muurverbredingen aan de buitenzijde van de buitenwanden . 
+Er zijn geen middenstijlen . 
+Het verschil zit in de aanwezigheid van een porticus , die we bij structuur 2 niet hebben . 
+Tevens heeft dit gebouw een interne verdeling in twee ruimtes . 
+Dit is echter niet uit te sluiten bij structuur 2 omdat niet het complete gebouw is blootgelegd . 
+De afmeting van gebouw XIX is 23 x 7 m , incl . 
+porticus 23 x 10,5 m. De datering e e van dat gebouw is de 2 /3 eeuw . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 16 Afb . 
+7 . 
+Met de klok mee ziet men hier de plattegrond van structuur 2 vanuit de lucht , een detail van één van de hoeken , een coupe door één van de hoeken en de coupe van de haard uit het midden van de structuur . 
+Structuur 3 Deze structuur bestaat uit de sporen 22 , 23 , 25 , 26 , 27 , 28 , 29 , 30 ( put 2 vl2 ) en de sporen 1 en 2 van sleuf 1 uit het IVO-P . 
+Spoor 26 komt overeen met spoor 4 van put 1 uit het IVO-P . 
+We hebben nu 10 sporen van de structuur in de put . 
+Er ontbreekt een paalkuil tussen spoor 2 en 25 , die er ongetwijfeld wel heeft gezeten . 
+Omdat ook spoor 1 en 2 tijdens dit onderzoek niet zijn teruggevonden moet die paalkuil ook op een hoger niveau hebben gezeten , wellicht verstoord door moderne ingrepen . 
+De zuidelijke afsluiting van de structuur is blootgelegd , maar net als bij structuur 1 en 2 ligt de noordelijke afsluiting buiten het onderzoeksgebied . 
+De breedte is ca . 
+5,3 m , de lengte minimaal 9 m. De westwand ligt op minder dan een meter afstand van structuur 2 . 
+Van de meeste paalkuilen was nog maar weinig over . 
+De paalkuil die tijdens het IVO in het profiel zat ( spoor 26/4 ) bleek de meest diepe kuil van de structuur te zijn . 
+Bij het project Holzkuil werd dit soort sporen in verband gebracht met steensokkelbouw . 
+Bij steen- of steensokkelbouw worden eerst ( regelmatige ) greppels of kuilen gegraven die opgevuld worden met grind en/of steen , zodat de typische compacte ( verdichte ) fundamentsgreppels en grindkuilen ontstaan . 
+Waarschijnlijk hebben we hier niet te maken met volledige steenbouw ; het gebrek aan natuursteen bouwmateriaalvondsten bij de aanleg van de werkputten is erg opvallend . 
+De totale afwezigheid kan niet alleen door hergebruik worden verklaard . 
+Nochtans bevindt de Nivelsteiner steengroeve zich op nauwelijks 3,3 km ten noordoosten van het onderzoeksgebied . 
+Het is bekend dat deze groeve reeds in de Romeinse tijd werd gefrequenteerd . 
+Deze bouwtechniek door middel van steensokkelbouw heeft voor ons archeologen als nadeel dat er relatief weinig tot geen vondsten in de sporen zijn terechtgekomen . 
+Dit bemoeilijkt uiteraard het dateren van de structuren . 
+Een opvallende gelijkenis tussen de vindplaatsen Holzkuil en Kloosterraderplein betreft de oriëntatie van de structuren , in beide gevallen zuidwest-noordoost gericht . 
+Als we dieper ingaan op de geomorfologische achtergrond merken we echter dat die gelijkenis wellicht op toeval berust : in beide gevallen heeft men de belangrijkste gebouwen van het villaterrein georiënteerd op de geografische werkelijkheid , in de lengterichting van de hoogtelijnen . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein N N N N N 000000 5m 5m 5m 5m 5m 5m 202740 202760 202780 KERE-10 Overzicht van grondsporen Legenda Structuur 1 Structuur 2 Structuur 3 NH NH NH2-2-2010 2-2-2010 2-2-2010 2-2-2010 NH NH NH 2-2-2010 2-2-2010 319780 319800 17 Afb . 
+8 . 
+Structurenkaart . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 18 Afb . 
+9 . 
+Geomorfologische kaart met aanduiding van de AHN-hoogtelijnen ( 1 m ) . 
+Er is duidelijk te zien dat zowel de villa Holzkuil als de vindplaats op het Kloosterraderplein georiënteerd zijn op de hoogtelijnen . 
+Beide Romeinse vindplaatsen bevinden zich op ( Kloosterraderplein ) of op de rand ( Holzkuil ) van hetzelfde Maasterras van Kerkrade . 
+In het roze zijn de vele ( vaak droge ) beekdalen aangeduid , die in Romeinse tijd mogelijk wel nog ( seizoenaal ) watervoerend waren . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 19 3.3 Vondstmateriaal 3.3.1 Aardewerk ( R.C.A . 
+Geerts , ADC ArcheoProjecten ) Inleiding Gedurende de opgraving zijn er in totaal 110 fragmenten Romeins aardewerk verzameld ( zie tabel 2 ) . 
+De keuze is gemaakt om al het Romeinse aardewerk te determineren en geen selectie toe te passen . 
+In het veld is al het vondstmateriaal dat niet aan een grondspoor te koppelen was als puntvondst ingemeten , waardoor ook de spreiding van het aardewerk in het natuurlijk vlak zichtbaar is . 
+Dit zal de analyse van de verspreiding van het materiaal vergemakkelijken . 
+Tevens kunnen vondsten uit het vlak waarschijnlijk aan nabijgelegen structuren gekoppeld worden . 
+In het Programma van Eisen van de opgraving is een aantal onderzoeksvragen geformuleerd . 
+Een aantal van die vragen heeft ( deels ) betrekking op het Romeinse aardewerk en zal hier behandeld worden : 1 . 
+Welke vondstcategorieën zijn vertegenwoordigd ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is de vondstdichtheid en de verticale en horizontale spreiding ? 
+10 . 
+Welke structuren zijn er te herkennen ? 
+Zijn deze te linken aan een villacomplex ? 
+Zo ja , welk ( e ) onderde ( e ) l ( en ) van het villaterrein is/zijn aangesneden ? 
+Zijn er verschillende bouwfasen te reconstrueren ? 
+Zo ja , wat is de datering voor de verschillende fasen ? 
+13 . 
+Hoe zijn de resultaten te plaatsen in perspectief met gelijktijdige en gelijkaardige Romeinse vindplaatsen op lokaal en regionaal vlak ? 
+Tenzij anders vermeld zijn alle jaartallen na Christus . 
+De gebruikte literatuur en afkortingen van de typebenamingen zijn : Brunsting Dragendorff Dressel Niederbieber Scheldevallei-type Stuart Brunsting 1937 Dragendorff 1895 Dressel 1899 Oelmann 1914 van der Werff , et al . 
+1997b ; van der Werff , et al . 
+1997a Stuart 1963 Conservering Conserve ring en fragmentatie In de bodem is het aardewerk aangetast . 
+Verf- en deklagen zijn deels bewaard gebleven , waar tijdens het wassen van de vondsten bleek dat deze gemakkelijk te verwijderen waren . 
+Na deze constatering is het aardewerk met verf- en deklagen voorzichtiger behandeld . 
+Daarnaast was het materiaal in zijn geheel vrij zacht geworden , bij sommige baksels zou ( indien men lang genoeg wast ) de gehele scherf op te lossen zijn . 
+Dit is met name bij de fijne baksels geconstateerd . 
+Al met al laat de conservering van het materiaal te wensen over . 
+Hoewel de scherven deels erg zacht geworden zijn , lijkt het niet dat de scherven al deels vergaan waren . 
+Het scherfmateriaal was wel zacht maar pas bij het wassen ervan verdwenen verf- en deklagen en delen van scherven . 
+Het scherfmateriaal 20 dat tijdens het inventariserend veldonderzoek verzameld is , was ook sterk verweerd . 
+Dat materiaal is ook vergeleken met de vondsten van het villaterrein Kerkrade – Holzkuil , ook dat is sterk verweerd en zacht geworden . 
+Waarschijnlijk heeft dat te maken met de grondsoort , de löss , die voor een niet-optimale 21 conservering zorgde . 
+Zoals bij eerder onderzoek is geconstateerd is de formule om de fragmentatiegraad van het aardewerk 22 te berekenen onnauwkeurig bij een kleine steekproef . 
+Om die reden zijn de fragmentatiegraad en de percentages van de MAI en de EVE ( tabel 2 ) van deze opgraving niet berekend . 
+Daarnaast geeft ook het gemiddelde gewicht van de scherven een indicatie van de fragmentatiegraad . 
+Het gemiddelde gewicht van het gedraaide aardewerk is 25,16 gram en van het handgevormde 23 aardewerk 9,00 gram . 
+24 Deze gemiddelden liggen hoger dan die van Kerkrade – Holzkuil . 
+Aldaar is het gemiddelde gewicht van het gedraaide aardewerk 18,17 gram en van het handgevormde aardewerk 5,79 gram . 
+Bij de andere 20 Reigersman-van Lidth de Jeude 2010 , 17 . 
+Ibid ; Wiepking 2005 , 177 . 
+Geerts & Reigersman-van Lidth de Jeude in prep . 
+23 Bij het gemiddelde gewicht van het handgevormde aardewerk moet opgemerkt worden dat beide fragmenten aan elkaar passen en tijdens of na de opgraving pas gebroken zijn , getuige de recente ( schone ) breuk . 
+21 22 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 20 geselecteerde te vergelijken villaonderzoeken ( de IVO en Landgraaf – Binnenring , zie vergelijking ) zijn geen gewichten genomen , al kan op basis van de splitslijst wel een gemiddeld gewicht van het inventariserend veldonderzoek gemaakt worden , 31,9 gram . 
+Dit gemiddelde is niet betrouwbaar omdat het ook 8 fragmenten laatmiddeleeuws aardewerk betreft . 
+Het gemiddelde gewicht laat zien dat hoewel de conservering in de bodem niet optimaal is , de fragmenten toch relatief groot zijn . 
+Tabel 2 . 
+Overzicht van het Romeinse aardewerk . 
+Baksel Terra sigillata Terra nigra Geverfd Gladwandig Amforen Ruwwandig Bataafs Grijs Dolia Wrijfschalen Kurkurnen Handgevormd Indet Totaal n % n 2 11 2 10 3 61 1 5 10 1 2 2 110 g 1,8 % 10,0 % 1,8 % 9,1 % 2,7 % 55,5 % 0,9 % 4,5 % 9,1 % 0,9 % 1,8 % 1,8 % 100 % % g 5 108 25 208 264 1099 45 261 658 19 25 18 2735 MAI 0,2 % 3,9 % 0,9 % 7,6 % 9,7 % 40,2 % 1,6 % 9,5 % 24,1 % 0,7 % 0,9 % 0,7 % 100 % EVE 1 1 1 1,00 11 1 1,03 0,08 4 0,34 19 2,45 Het aardewerk Terra sigillata De aangetroffen terra sigillata is afkomstig uit Trier . 
+Eén van de fragmenten betreft een deel van een e bord , van het type Dragendorff 18/31 en is te dateren in eerste helft van de 2 eeuw . 
+Terra nigra Geen van deze fragmenten was aan een type toe te wijzen . 
+Op één fragment staat echter mogelijk een graffito . 
+Twee parallelle lijnen zijn zichtbaar , afkomstig van één of meerdere letters . 
+Hoewel de lijnen niet recent zijn aangebracht , is door de zachtheid van het materiaal en de gedeeltelijk afwezige deklaag niet zeker of de lijnen aangebracht zijn in de Romeinse tijd . 
+Geverfd aardewerk Eén fragment is afkomstig van een bord in techniek A , van het type Brunsting 17A . 
+Het andere fragment in techniek B heeft een radstempelversiering en is afkomstig van een beker . 
+Beide fragmenten zijn te e dateren in de 2 eeuw . 
+Gladwandig aardewerk Bijna de helft van de aangetroffen fragmenten zijn bodems van kruiken en gaven geen duidelijke datering . 
+Het enige randfragment betreft een complete hals met de aanzet van het tweeledige oor , zie e e afbeelding 10 . 
+Dit fragment is van het type Stuart 109 en is te dateren in de late 1 eeuw en de vroege 2 eeuw . 
+24 Wiepking 2005 , 177 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 21 Afb . 
+10 . 
+De kruikhals van het type Stuart 109 . 
+Amforen Twee van de drie fragmenten van amforen zijn uitgevoerd in het Dressel 20 baksel en het andere fragment is van een Scheldevallei amfoor . 
+Ruwwandig aardewerk Het ruwwandige aardewerk is veruit het beste vertegenwoordigd op deze vindplaats . 
+In totaal zijn er elf individuen aan een type toe te wijzen . 
+Het grootste deel daarvan bestaat uit kookpotten , van het type Stuart 201A , Stuart 201B en een zestal van het type Niederbieber 89 . 
+De enige kookpot van het type Stuart 201B heeft onder de rand nog de restanten van een rode verflaag . 
+Geverfd ruwwandig aardewerk 25 komt in deze regio vaker voor en werd in de regio geproduceerd . 
+Naast kookpotten zijn één deksel , één kan en één kom aangetroffen , van de typen Niederbieber 120A , Niederbieber 96 en Stuart 210. e e Het ruwwandige aardewerk is te dateren vanaf de late 1 eeuw tot de 3 eeuw . 
+Echter het merendeel van e de typen wijst toch op een datering in de 2 eeuw . 
+Bataafs Grijs aardewerk Het enige aangetroffen fragment betreft de rand van een kom , van het type Stuart 210 . 
+Deze kommen e e zijn te dateren van de late 1 eeuw tot de late 2 eeuw . 
+Dolia Slechts een handjevol fragmenten van dolia is op deze vindplaats aangetroffen . 
+Geen van de fragmenten had enig diagnostisch kenmerk op basis waarvan deze beter te determineren zou zijn . 
+Wrijfschalen Een derde van de fragmenten is in hetzelfde baksel uitgevoerd . 
+Dit zijn onder andere twee randfragmenten van het type Brunsting 36 en Brunsting 37 . 
+Daarnaast was nog één ander randfragment aangetroffen , deze is afkomstig van een Brunsting 36 . 
+Wat de randvorm betreft is deze wrijfschaal goed 26 te vergelijken met Bredase Akkers type 46. e De wrijfschalen zijn niet nauwkeurig te dateren , het type Brunsting 37 is na de 1 eeuw te dateren . 
+Kurkurnen Het fragment betreft een niet-diagnostisch wandfragment . 
+Lokaal handgevormd aardewerk Op deze vindplaats is weinig handgevormd aardewerk aangetroffen . 
+De aangetroffen fragmenten zijn niet-diagnostische wandfragmenten . 
+Verspreiding van het aardewerk De verspreiding van de verschillende baksels en typen kan inzicht geven in het gebruik van de aangetroffen structuren . 
+Alle soorten aardewerk hebben een bepaalde functie en het totaal van 25 26 Ibid . 
+217. van Enckevort 2004 , afbeelding 13.8 , type 46 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 22 verschillende functies dat in een gebouw wordt aangetroffen geeft een indicatie van het gebruik van een gebouw . 
+Op de verspreidingskaart ( afb . 
+11 ) is een viertal clusters te zien . 
+Bij structuur 1 en structuur 2 , daarnaast ten noorden van structuur 2 bij een kuilencluster en het terrein in het zuidwesten . 
+Structuur 1 In deze structuur is met name ruwwandig aardewerk aangetroffen waaronder een deksel en een aantal kookpotten . 
+Net ten zuidwesten ervan is het enige fragment Bataafs Grijs aardewerk aangetroffen . 
+Ook zijn fragmenten terra nigra en dolium aangetroffen . 
+Op basis van het grote aandeel ruwwandig aardewerk en de kookpotten had dit gebouw mogelijk een functie in de voedselverwerking . 
+In één van de paalkuilen is een gladwandige kruik van het type Stuart 109 aangetroffen . 
+Deze zijn te e e dateren in de late 1 eeuw en het eerste kwart van de 2 eeuw , en is waarschijnlijk afkomstig uit de aanlegfase van dit gebouw . 
+Structuur 2 Het aandeel ruwwandig aardewerk aangetroffen in deze structuur is kleiner dan bij de andere clusters . 
+De tafelwaren zijn goed vertegenwoordigd , daarnaast zijn andere bakselgroepen , zoals wrijfschalen ook aangetroffen . 
+Omdat een deel van dit materiaal in de aanwezige haardkuil is gevonden wijst dit op een meer domestische functie van dit gebouw . 
+Kuilencluster Hoofdzakelijk zijn hier wrijfschalen en ruwwandig aardewerk aangetroffen . 
+Daarnaast de enige fragmenten van amforen . 
+Doordat het cluster aan de rand van de put en een grote verstoring ligt is niet zeker of deze bij structuur 2 hoort of op zichzelf staat . 
+Het aardewerk wijst evenals bij structuur 1 op voedselverwerking . 
+Zuidwestterrein In dit deel van put 2 is geen structuur aangetroffen . 
+Het aardewerk dichtbij structuur 2 betreft voornamelijk wrijfschalen , ruwwandige kookpotten en een kom . 
+Daarentegen geeft het aardewerk verder weg van structuur 2 een heel ander beeld , daar zijn met name fragmenten terra nigra en fragmenten van gladwandige kruiken aangetroffen . 
+Opmerkelijk is dat fragmenten die in functie gelijk zijn aan structuur 1 dichterbij structuur 2 aangetroffen zijn en vice versa . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 23 Verspreiding van Aardewerk 319800 ( aantallen per vondstnummer ) 4 2 0,4 Terra sigillata Terra nigra Geverfd aardewerk Gladwandig aardewerk Amforen Ruwwandig aardewerk Bataafs grijs aardewerk Dolium Wrijfschaal Kurkurn Handgevormd aardewerk Indet 319775 N N N N N N 00000 5m 5m 5m 5m 5m 202750 202775 Verspreiding van Aardewerk 319800 ( aantallen per spoornummer ) 26 13 2,6 Terra sigillata Terra nigra Geverfd aardewerk Gladwandig aardewerk Amforen Ruwwandig aardewerk Bataafs grijs aardewerk Dolium Wrijfschaal Kurkurn Handgevormd aardewerk Indet 319775 N N N N N N 00000 5m 5m 5m 5m 5m © © ADC ADC 2010 2010 202750 202775 Afb . 
+11 . 
+De verspreiding van het aardewerk . 
+( de waarden bij de legenda geven de schaalverdeling aan ) . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 24 Vergelijking met vindplaatsen in de regio 27 Romeinse villa ’ s komen in Zuid Limburg veel voor . 
+Om het aardewerkassemblage te vergelijken met dat van andere villa ’ s in de buurt zijn er een paar recente onderzoeken geselecteerd die vergelijking toelieten . 
+Een vergelijking met het inventariserend veldonderzoek is niet mogelijk op basis van percentages . 
+Dat materiaal is alleen gewaardeerd en niet gekwantificeerd en is niet in onderstaande ste tabel op te nemen . 
+Het materiaal geeft hetzelfde beeld en is te dateren in het eind van de 1 tot net na de 28 het midden van de 2 eeuw . 
+Tabel 3 . 
+Overzicht van het aardewerk van villa ’ s in de regio , percentages op basis van aantalen scherven . 
+Bakselgroep Kerkrade – Kloosterraderplein Kerkrade – 29 Holzkuil Landgraaf – 30 Binnenring 1,8 % 10,0 % 1,8 % 1,6 % 1,3 % 17,7 % 9,1 % 2,7 % 55,5 % 0,9 % 1,8 % 22,1 % 39,3 % 1,3 % 0,8 % 6,1 % 0,1 % 27,1 % 2,8 % 44,1 % Terra sigillata Terra nigra Geverfd Gebronsd Gladwandig Amforen Ruwwandig Bataafs Grijs Low Lands Ware Dikwandig Dolium Wrijfschalen Kurkurn Handgevormd Indet Totaal 4,5 % 9,1 % 0,9 % 1,8 % 1,8 % 100 % 0,4 % 12,3 % 0,8 % 1,8 % 4,0 % 8,9 % 0,7 % 2,9 % 100 % 2,2 % 100 % Het aardewerk van Kerkrade–Holzkuil vertoont een paar discrepanties in methodologie en bakselgroepen . 
+De percentages bij de terra nigra en de amforen zijn niet geheel juist . 
+Het percentage van de terra nigra is eigenlijk de Belgische waar en omvat dus ook terra rubra en kurkurn . 
+De amforen omvatten daar ook de ( gladwandige ) kruiken . 
+Bij alle drie de onderzoeken is dezelfde tendens zichtbaar . 
+Ruwwandig aardewerk is het best vertegenwoordigd , ook het dikwandige aardewerk ( amforen , wrijfschalen en dolia ) is in groten getale aanwezig . 
+De tafelwaren nemen een klein deel in van het totale assemblage . 
+Daarbinnen zijn wel andere groepen per villa sterker vertegenwoordigd , wat mogelijk op een verschil in datering kan wijzen . 
+Conclusie e e Het aardewerk is te dateren in het eind van de 1 en in de 2 eeuw . 
+De oudste fragmenten , met name de hals van de kruik van het type Stuart 109 , komen uit de poeren van structuur 1 en zijn waarschijnlijk daar e terecht gekomen tijdens de aanleg ervan . 
+Dit geeft structuur 1 een begindatum in het eind van de 1 e e eeuw en het eerste kwart van de 2 eeuw . 
+De rest van het vondstmateriaal is voornamelijk in de 2 eeuw te dateren . 
+Het aardewerk wekt de indruk dat het om slechts één bewoningsfase gaat . 
+Het merendeel e e van het aardewerk is in de 2 eeuw te dateren , maar vormen die juist in de tweede helft van de 2 eeuw e te dateren zijn ontbreken . 
+Daarnaast zijn vormen die juist in de eerste helft van de 2 eeuw dateren wel aangetroffen , zoals het terra sigillata bord van het type Dragendorff 18/31 . 
+Op basis daarvan is dus te e veronderstellen dat de villa in de tweede helft van de 2 eeuw verlaten was . 
+Het merendeel van het aangetroffen aardewerk wijst op voedselverwerking . 
+Alleen het aardewerk , en voornamelijk het hoge aandeel tafelwaren , uit de haard in structuur 2 kan wijzen op een meer domestische functie van het gebouw . 
+De andere villa ’ s in de omgeving zijn zowel in opbouw als aardewerkassemblage vergelijkbaar . 
+In het algemeen geldt dat weinig tafelwaren aangetroffen worden en veel gebruiksaardewerk . 
+Gezien het feit dat villa ’ s in eerste instantie een agrarische functie hadden , is dat niet verwonderlijk . 
+27 Willems 1995 , afbeelding 1 . 
+Reigersman-van Lidth de Jeude 2010 , 17 . 
+Tichelman 2005 . 
+30 van Hoof & van Wijk 2007 . 
+28 29 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 25 3.3.2 Natuursteen ( M.J.A . 
+Melkert , ADC ArcheoSpecialisten ) Inleiding Van de opgraving Kerkrade Kloosterraderplein zijn 52 stuks natuursteen met een totaalgewicht van ruim 36 kilo geïnventariseerd middels een scan en circa 400 stuks grind via een quickscan bekeken op mogelijke sporen van gebruik . 
+Het materiaal is overwegend afkomstig uit sporen ( paalkuilen , kuilen en muren ) van een Romeinse villa . 
+Een deel van de structuren toont gelijkenissen met de meer noordelijk te 31 Kerkrade gelegen Romeinse villa Holzkuil . 
+De onderzoeksvragen met betrekking tot natuursteen richten zich met name op de aard , omvang , datering , gaafheid en conservering van de artefacten . 
+Alle vondsten zijn macroscopisch onderzocht op sporen van bewerking , gebruik , verbranding of verhitting en per vondstnummer gedetermineerd op steensoort . 
+Van het bewerkte materiaal zijn afmetingen , sporen van bewerking of gebruik , fragmentatie en preservatie , steensoort en eventuele bijzonderheden genoteerd . 
+Deze gegevens zijn opgenomen in bijlage 7 . 
+Het grind is onderzocht op sporen van gebruik en wordt kort omschreven . 
+Voor een inzicht in aard en datering is een vergelijking gemaakt met het natuursteen van het villacomplex Kerkrade-Holzkuil . 
+Resultaten In onderstaande tabel wordt een overzicht gegeven van de aangetroffen steensoorten in aantallen en gewicht , en de hoeveelheid bewerkt en verbrand of verhit materiaal . 
+Tabel 4 . 
+Steensoorten in aantal en gewicht . 
+vesiculaire lava1 conglomeraat kalksteen kwartsiet grind zandsteen kwartsitische zandsteen leisteen gangkwarts vuursteen siltsteen steenkool TOTAAL 1 aantal gewicht ( gr ) bewerkt/gebruikt verbrand/verhit 11 8835 11 11 4 7250 4 12 6670 2 5 4 4352 400 4350 11 3771 5 4 3 3404 3 2 2 801 2 736 1 1 1 252 1 135 1 1 1 4 452 40560 27 24 Deze steensoort wordt meestal met tefriet of basaltlava aangeduid . 
+Zie voetnoot 31 . 
+Bijna al het natuursteen is bewerkt of gebruikt , hoewel slechts de helft daar ook daadwerkelijk sporen van laat zien . 
+Met name bij het bouwmateriaal kan op basis van context , vorm en steensoort worden aangenomen dat veel materiaal zonder bewerkingssporen wel gebruikt is , bijvoorbeeld in de fundering . 
+Zo is het verder onbewerkte grind afkomstig uit een funderingskuil . 
+Ook van twee fragmenten vesiculaire lava mag worden aangenomen , dat ze tot een artefact hebben behoord , aangezien deze steensoort 32 speciaal werd toegepast voor maalstenen . 
+Het bewerkte materiaal valt in de artefactgroepen van maalstenen , wrijf/klopstenen , slijpgereedschap , bouwmateriaal en overig . 
+Bouwmateriaal vormt de grootste groep in aantal , maar wordt in gewicht overvleugeld door de maalstenen ( tabel 5 ) . 
+Hiervan zijn dan ook enkele grote fragmenten aanwezig . 
+De overige artefacten zijn slechts met enkele stuks vertegenwoordigd . 
+31 Zie Tichelman 2005 Maalstenen van vesiculaire lava komen in Nederland vanaf de Late Bronstijd in gebruik ( Heeringen 1985 ) en worden bij vindplaatsen uit deze en latere perioden veel aangetroffen . 
+Doorgaans wordt de steensoort benoemd als tefriet en daarmee wordt impliciet gezegd dat deze uit de Eifel afkomstig is . 
+Hoewel dit vermoedelijk in de meeste gevallen correct zal zijn , is die herkomst in feite alleen voor vroegmiddeleeuwse vondsten uit Dorestad petrografisch aangetoond ( Kars 1980 ) . 
+Lava kan macroscopisch niet op steensoort worden gedetermineerd . 
+32 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 26 Tabel 5 . 
+Bewerkt materiaal in aantallen en gewicht . 
+grind fundering overig bouwmateriaal maalstenen slijpgereedschap wrijf/klopstenen overig onbewerkt TOTAAL aantal ge gewicht wicht ( gr ) sporen van bewerking sporen van verhitting 400 4350 19 15723 8 6 15 16085 13 11 2 1379 2 2 2 411 2 1 1 48 13 2564 1 40560 25 21 452 40560 Wanneer de artefacten worden ingedeeld naar steensoort , geven deze een grote variatie te zien , wat vooral op het conto van het bouwmateriaal kan worden geschreven ( tabel 6 ) . 
+Naast het grind uit de funderingspijler , zijn zandsteen , kalksteen , kwartsiet , gangkwarts en leisteen als bouwmateriaal toegepast . 
+Tabel 6 . 
+Artefacten naar steensoort . 
+grind vesiculaire lava ( kw ) zandsteen kalksteen kwartsiet conglomeraat leisteen gangkwarts siltsteen steenkool TOTAAL maalsteen wrijf/klopsteen slijpblok bouw 400 11 2 7 5 4 4 2 1 1 1 15 2 2 overig TOTAAL 400 11 spel 1 10 5 4 4 2 2 1 brandstof 1 1 419 2 440 Werkput 1 Uit deze werkput is het meeste materiaal afkomstig . 
+Er werd hier veel en divers bouwmateriaal 33 verzameld , bijna allemaal uit paalkuilen . 
+Ook een klopsteen , twee kleine fragmenten lava van vermoedelijk een maalsteen en een fragmentje steenkool werden in paalkuilen aangetroffen . 
+Twee slijpblokken zijn bij een muur gevonden en een fragment van een maalsteen in een kuil . 
+Als losse vondst is een langwerpige wrijfsteen gevonden . 
+Maalsteen 34 Vondstnummer 43 is een randfragment van een planparallelle maalsteen van vesiculaire lava . 
+Met een dikte van 20 cm en een berekende diameter van 60 cm gaat het vermoedelijk om een kleine 35 mechanische molensteen . 
+Hiervan werd er ook één bij villa Holzkuil aangetroffen . 
+Het fragment heeft een dun verweringshuidje ontwikkeld , waarop nog vaag parallelle bijlsporen te zien zijn . 
+Wrijf/klopstenen 36 Een klopsteen van gangkwarts werd gevonden in een paalkuil ( vondstnummer 21 ) . 
+Het is een grote , afgeronde Maaskei met ruwe dellen van het hameren . 
+Een gladgeslepen , convex vlak zou het gevolg van gebruik als wrijfsteen kunnen zijn . 
+37 Als losse vondst is een langgerekte wrijfsteen gevonden ( vondstnummer 3 ) . 
+Het is een afgeronde steen met één afgeplat breed vlak en twee min of meer rechte zijkanten , die zo gevormd zijn omdat de centrale zone van de oorspronkelijk convexe kanten is weggeslepen . 
+Afgebroken schilfers aan één zijkant en één kopse kant doen vermoeden dat de steen ook als klopsteen is gebruikt . 
+33 Het betreft sporen 9 , 11 , 13 , 15 , 16 , 22 , 23 en 24 Vnr 43 : put 1 , spoor 1 ( kuil ) Kars 2005 36 Vnr 21 : put 1 , spoor 16 ; maximale lengte 90 mm 37 Vnr 3 , afmetingen 100 x 30 x 25 mm 34 35 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 27 Slijpblokken Twee slijpblokken , eveneens van Maaskeien , werden samen aangetroffen bij een muur ( vondstnummer 38 28 ) . 
+Ze hebben beide uitgeslepen zones en ruwere , verbleekte plekken geven aan dat ze ook als klopstenen zijn gebruikt . 
+Het lange slijpblok heeft sterk uitgeslepen , brede zones , het andere slijpblok is meer kubusvormig met één scheef uitgeslepen vlak . 
+Aan scheuren en huidafschilferingen te zien , zijn beide verhit geweest . 
+Bouwmateriaal Minder dan de helft van het bouwmateriaal heeft daadwerkelijke bewerkingssporen . 
+Dat het in de andere gevallen toch om bouwmateriaal gaat , is echter duidelijk uit de vorm of overeenkomstige steensoort . 
+Het gaat in alle gevallen om platte ( breuk ) stenen van diverse steensoorten : Nivelsteiner zandsteen , fijn gelaagde ( bryozoën ) kalksteen , kwartsitische kolenzandsteen , donkergrijze kwartsiet en – relatief- platte Maaskeien . 
+Drie stenen tonen nog resten aangehechte kalkmortel ( vondstnummer 21 en twee in vondstnummer 27 ) , één steen heeft resten grijze verf ( eveneens in vondstnummer 27 ) en vier stenen laten een oppervlaktebewerking zien in de vorm van behouwing ( vondstnummer 19 en drie in vondstnummer 54 ) . 
+De fragmenten met oppervlaktebewerking zijn van Nivelsteiner zandsteen . 
+De bewerking heeft de vorm van cannelures of groeven , met een maximum aantal cannelures bij een fragment in vondstnummer 54 . 
+Deze zijn samen 35 mm breed . 
+De twee grootste fragmenten zijn dikplat en meten respectievelijk 14 x 14 x 5 cm en 15 x 12 x 5 cm , de overige fragmenten zijn brokstukken . 
+Hoewel aan de vorm van de fragmenten de toepassing niet meer valt af te lezen , zijn het mogelijk onderdelen van kapitelen geweest . 
+In villa Holzkuil werden veel grote fragmenten van zuilonderdelen gevonden , zowel kapitelen als schachten , en bij sommige zijn aan de onderzijde van de abacus ( het bovenste , rechte deel van het 39 kapiteel ) ook cannelures te zien . 
+Alle zuilfragmenten in Holzkuil zijn eveneens van Nivelsteiner zandsteen . 
+Ze werden daar benoemd als e e Tuskische zuilen met een datering vanaf het einde van de 2 eeuw of in het begin van de 3 eeuw . 
+De steen met grijze verfresten uit vondstnummer 27 is afkomstig uit spoor 13 , een paalkuil . 
+Het is een fijnkorrelige , meanderend gelaagde , witte , poreuze kalksteen met afmetingen van 16 x 13 x 6,5 cm . 
+Eén breed oppervlak en één zijkant tonen resten van een grijs afwerklaagje . 
+Het fragment zou onderdeel van een vloer geweest kunnen zijn . 
+In hetzelfde spoor werden ook twee fragmenten met kalkmortelresten aangetroffen : een grijze variant van dezelfde fijngelaagde kalksteen ( afmetingen 18,5 x 9 x 7 cm ) en een platte Maaskei . 
+Het derde fragment met kalkresten is een breuksteen van kolenzandsteen . 
+Deze is door verhitting gebarsten . 
+Werkput 2 In werkput 2 werden niet alleen minder artefacten gevonden , maar ook andersoortige . 
+Ze zijn niet afkomstig uit paalkuilen , zoals in werkput 1 , maar uit één kuil ( spoor 31 ) . 
+Daarnaast is nog een vondst uit een laag geborgen . 
+Ook het grind uit de funderingssleuf is uit deze werkput afkomstig . 
+In de kuil werden 8 fragmenten van een maalsteen van lava aangetroffen ( vondstnummer 64 ) , vier fragmenten van een molensteen van fijnkorrelig conglomeraat ( vondstnummer 65 ) en twee grote , platte fragmenten leisteen ( eveneens vondstnummer 64 ) . 
+De fragmenten leisteen zijn tot 18,7 cm lang en bezitten diktes van respectievelijk 14 en 15,5 mm . 
+Dit is wel erg dik voor daklei en er zijn dan ook geen nagelgaten of andere aanwijzingen voor bevestiging op een dak te zien . 
+Zulke dikke leiplaten zullen eerder als vleilaag zijn verwerkt – dit was ook het geval bij villa Holzkuil . 
+Het leigesteente is blauwgrijs , toont diffuse ertsaanrijking in het splijtvlak ( nu oppervlak ) en is relatief hoog metamorf . 
+Deze lei komt eerder uit Duitsland dan uit België ( waar de leien een veel lagere metamorfosegraad hebben bereikt ) . 
+De vier fragmenten van een molensteen zijn weliswaar niet precies passend , maar kunnen wel ongeveer passend in circa een halve cirkel worden gelegd . 
+De diameter kon worden berekend en bedraagt 70 cm . 
+Er zijn drie randfragmenten aanwezig , waarvan één ook een deel van het centrale gat bevat – dit heeft een diameter van circa zes tot zeven centimeter . 
+De molensteen is het dikste bij het centrale gat en het dunste bij de rand , de gemiddelde dikte bedraagt circa vier centimeter . 
+Er zijn geen maal- of productiesporen –meer- zichtbaar op de platte vlakken , maar op één zijkant lijkt nog vaag loodrechte , parallelle streping aanwezig . 
+De molensteen is vervaardigd van een fijnkorrelig conglomeraat met een 38 39 Vnr 28 : put 1 , spoor 20 ; afmetingen slijpblok 1 : 160x60x40 mm , afmetingen slijpblok 2 : 80x80x60 mm Kars 2005 , afb . 
+9.17 op pagina 271 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 28 gemiddelde korrelgrootte van 5 mm , maar met uitschieters tot 17 mm . 
+Het is een dicht opeengepakt , niet kwartsitisch gesteente , waarin afgerond hoekige kwartsen een opvallend bestanddeel vormen . 
+Ook bij villa Holzkuil werden mechanische molenstenen van conglomeraat aangetroffen . 
+De acht fragmenten vesiculaire lava zijn afkomstig van een handmolen . 
+Er zijn drie randfragmenten aanwezig , waarvan twee aaneenpassen ; op één van de twee zijn nog parallelle segmentgroeven zichtbaar . 
+De rand van de handmolen is iets schuin , de diameter bedraagt 52 cm en de dikte 9 cm . 
+De overige fragmenten zijn verweerd tot afgerond , en er is rondom huidvorming opgetreden , waarbij de huid deels weer is afgestoten . 
+Vondstnummer 46 is afkomstig uit spoor 2000 . 
+Het is een iets ovaalvormig , maar verder knikkerrond bolletje van zandsteen met een diameter van 28 mm . 
+De stenen stuiter is volledig homogeen afgerond en toont rondom wrijfglans . 
+De afronding is natuurlijk . 
+Er zijn geen productiesporen zichtbaar in de vorm van bekapping en geen gebruikssporen in de vorm van butsen of krassen . 
+Het is goed denkbaar dat deze rolronde steen door iemand is opgeraapt en meegenomen , maar als de steen gebruikt is geweest , bijvoorbeeld in een spel , moet het op een zachte ondergrond zijn geweest . 
+Rolronde kiezels worden aangetroffen in de Maasafzettingen en zijn vaak de losgekomen bestanddelen van oudere conglomeraten , zoals bijvoorbeeld het conglomeraat van Burnot . 
+Grind uit de funderingssleuf Het grind heeft de gevarieerde samenstelling karakteristiek voor Maasgrind . 
+Aanwezige steensoorten zijn kwartisitische zandsteen , zandsteen , kwartsiet , gangkwarts , vuursteen en enkele kiezels , waarvan twee mogelijk lydiet . 
+Een concretie met natuurlijke uitholling ( in zakje ) lijkt een afgeronde , geelrode silicacortex . 
+Twee stenen zijn groter dan 60 mm ( en vallen daarmee buiten de definitie van grind ) en 10 stenen zijn tussen 40 en 60 mm . Van het overige grind is ongeveer de helft tussen 40 en 20 mm , en de andere helft kleiner dan 20 mm . Al het grind is afgerond , van enkele zijn een paar scherfjes af . 
+Alleen de twee grootste stenen zijn plat : één is een concretie met –natuurlijke- ronde rand , de andere heeft één platte kant en is verder afgerond . 
+Onbewerkt materiaal Het resterende materiaal heeft geen bewerkings- of gebruikssporen en kan ook niet door vorm of overeenkomstige steensoort bij het bouwmateriaal worden gerekend . 
+Het bestaat overwegend uit natuurlijk ogende brokken witte Krijtkalk en grofporeuze witte kalksteen . 
+In ieder geval één fragment met dunne schelplaagjes behoort tot de Maastrichter steen . 
+Mogelijk hebben deze stenen een relatie met 40 kalkbranden , hoewel krijtkalksteen hier in feite niet geschikt voor is . 
+In vondstnummer 16 werd een brokje steenkool aangetroffen . 
+Verbranding/verhitting Verbranding/verhitting Van de 52 stenen tonen er 24 mogelijke sporen van verhitting . 
+Hieronder bevinden zich ook de slijpblokken , de maalstenen van lava en de fragmenten Nivelsteiner zandsteen . 
+Een fragment kolenzandsteen uit vondstnummer 21 is door verhitting gebarsten , drie kalkstenen hebben een huidje met “ krimpscheuren ” . 
+Of dit laatste ook een verhittingsfenomeen is , is niet duidelijk . 
+De verbrande/verhitte stenen zijn niet specifiek rond een bepaalde locatie gegroepeerd en in sporen komt zowel niet als wel verbrande/verhitte steen tezamen voor . 
+Fysieke kwaliteit Er zijn geen intacte , complete voorwerpen aanwezig . 
+Hoewel de mate van verwering wisselend is , afhankelijk van de steensoort , komen met name de meer in het oog springende artefacten , zoals de maal- en molenstenen , alleen als –grote- fragmenten voor . 
+Afronding door verspoeling heeft niet plaatsgevonden . 
+Herkomst van het materiaal Zo goed als alle stenen zijn gewonnen in groeves , maar de meeste waarschijnlijk in de regio . 
+Het grind uit de funderingssleuf zal uit lokale terrasafzettingen afkomstig zijn en mogelijk , maar niet noodzakelijk , geldt dit ook voor de Maaskeien . 
+Deze keiharde , volledig verweringsbestendige stenen werden veel door de Romeinen toegepast als bouwstenen en zijn daarvoor bijvoorbeeld ook naar Tongeren aangevoerd . 
+Niveaus met winbare Maaskeien liggen ontsloten op het Kempische Plateau , langs de westkant van de 41 Maas . 
+40 41 Nillesen 1989 Dreesen et al . 
+2003 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 29 Ook andere steensoorten zijn zeer waarschijnlijk in de nabije omgeving gemijnd . 
+Zo komt kolenzandsteen rond Kerkrade direct onder de Kwartaire bovenlaag voor en werd Nivelsteiner zandsteen 42 in Duitsland , net over de grens bij Kerkrade-Rolduc , gewonnen . 
+Daar komt overigens ook steenkool aan de oppervlakte . 
+Drie steensoorten zijn niet lokaal . 
+Dit betreft het conglomeraat gebruikt voor de molensteen , de vesiculaire lava gebruikt voor maal- en molensteen , en de witte , fijngelamineerde kalksteen . 
+Deze laatste is mogelijk een Jura-kalksteen , waarvan bekend is dat deze veel door de Romeinen werd toegepast en in 43 diverse groeves in België , Luxemburg en Noord-Frankrijk werd gewonnen . 
+De herkomst van het conglomeraat is onbekend . 
+Een enigszins vergelijkbaar conglomeraat , eveneens toegepast voor maalstenen , werd aangetroffen bij de vindplaats Lomm Hoogwatergeul in Noord44 Limburg , bij een nederzetting uit de Midden-IJzertijd . 
+Ook bij dit conglomeraat vormen hoekig afgeronde kwartsen een opvallend bestanddeel , hoewel ze gemiddeld aanzienlijk groter zijn en de steen bovendien kwartsitisch is . 
+Als mogelijke herkomst voor dit kwartsitische kwarts-conglomeraat werd gewezen op het Gedau-conglomeraat nabij Aken , dat al in de bandkeramische tijd werd gewonnen voor 45 maalstenen . 
+Het Gedau-conglomeraat maakt onderdeel uit van de Carbonische kolenzandsteensequentie , die deels wel en deels niet kwartsitisch ontwikkeld is . 
+Dit geldt overigens ook voor de afzettingen in België , maar de kolenzandsteen is hier grijzer , verbreukt en kwartsdooraderd . 
+Zoals al opgemerkt in voetnoot 31 , wordt voor maalstenen van vesiculaire lava meestal aangenomen dat de steensoort tefriet is en afkomstig uit de Eifel . 
+Het gesteente uit de Eifel is macroscopisch echter niet te onderscheiden van lavagesteente uit de Auvergne , dat ook al vanaf de Romeinse tijd ( en door de 46 Romeinen ) werd gewonnen . 
+Een maalsteen van dit gesteente , een trachiet-andesiet , werd in een 47 Romeinse context onder andere aangetroffen in Engeland . 
+De hier aanwezige maal- en molenstenen van lava zouden dus zowel uit de Eifel als uit de Auvergne kunnen komen . 
+Ze werden in ieder geval van elders aangevoerd . 
+Vergelijking Vergelijking met villa Holzkuil Er zijn voor het natuursteen veel overeenkomsten op te merken tussen de hier aangetroffen –delen van een- Romeinse villa en het villacomplex Kerkrade-Holzkuil . 
+Dit geldt voor de grindfunderingen , maar ook voor verschillende soorten bouwmateriaal . 
+Zo werd op beide locaties bewerkte Nivelsteiner zandsteen gevonden naast steensoorten als kolenzandsteen , ( mogelijke ) Jurassische kalksteen en dikke , plaatvormige leisteen . 
+Daarnaast werden bij Kerkrade-Holzkuil , net als hier , zowel handmolens als mechanische molenstenen aangetroffen en in beide gevallen zijn dezelfde twee steensoorten vertegenwoordigd : vesiculaire lava en fijnkorrelig conglomeraat . 
+Een andere overeenkomst heeft betrekking op vulkanische tufsteen : deze is opvallend afwezig bij Kerkrade Kloosterraderplein , terwijl bij Kerkrade-Holzkuil , binnen de zeer grote hoeveelheid natuursteen die daar werd verzameld en geanalyseerd , slechts twee fragmenten van deze steensoort werden aangetroffen . 
+Het verschil met Kerkrade-Holzkuil ligt in het ontbreken van luxe steensoorten , zoals gemarmerde kalksteen voor mozaïekvloeren . 
+Daarnaast zijn de fragmenten van het hier onderzochte materiaal kleiner en lijkt veel bouwmateriaal hergebruikt te zijn in funderingen . 
+In feite is het materiaal zo overeenkomstig dat , de mogelijkheid van hergebruik van villa-Holzkuilmateriaal overwogen zou kunnen worden . 
+Conclusies Uit de resultaten van de scan natuursteen en de quickscan grind kunnen enkele duidelijke antwoorden worden gegeven met betrekking tot de onderzoeksvragen . 
+Daarnaast geeft dit globale onderzoek ook aanleiding tot aanbevelingen voor verder onderzoek . 
+Het natuursteenmateriaal is zonder twijfel afkomstig uit de Romeinse tijd en er zijn sterke overeenkomsten met bewerkt materiaal en steensoorten die zijn aangetroffen bij de opgraving van het villacomplex Kerkrade-Holzkuil . 
+42 Slinger et al . 
+1980 Kars en Broekman 1981 Melkert in voorbereiding 45 Weiner & Schalich 2006 46 Röder 1953 47 Williams-Thorpe & Thorpe 1988 43 44 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 30 Hoewel er geen intacte , complete voorwerpen zijn aangetroffen en fragmenten in wisselende mate verweerd zijn , vormen zowel bouwmateriaal als maal- en molenstenen belangrijk vergelijkingsmateriaal voor andere Romeinse villa ’ s . 
+De meeste steensoorten zijn gewonnen in groeves in de regio of uit lokale afzettingen . 
+Uitzonderingen vormen de grondstoffen van de maal- en molenstenen en van bouwmateriaal van mogelijk Jurassische kalksteen . 
+De maal- en molenstenen zijn gemaakt van twee verschillende steensoorten : vesiculaire lava en conglomeraat . 
+Dit type vesiculaire lava kan zowel in Duitsland in de Eifel als in Frankrijk in de Auvergne worden gevonden , waar het in beide gevallen door de Romeinen werd gemijnd voor maalstenen . 
+Het lavagesteente kan macroscopisch niet nader gedetermineerd worden , maar het verschil tussen lava uit de Eifel ( een tefriet ) en lava uit de Auvergne ( een trachiet-andesiet ) is petrografisch zeer duidelijk . 
+Hoewel dit type maalstenen vanaf de IJzertijd in Nederland zeer wijdverspreid voorkomt , is hiernaar slechts zeer beperkt petrografisch herkomstonderzoek gedaan . 
+Het zou daarom , vooral ook gezien de zuidelijke ligging van de vindplaats Kerkrade-Kloosterraderplein en de datering in de Romeinse periode , sterk aan te bevelen zijn een petrografische analyse te laten uitvoeren aan deze maalstenen . 
+De tweede steensoort die als grondstof voor een molensteen is toegepast , betreft een fijnkorrelig , kwartsrijk conglomeraat . 
+Dit type molenstenen werd al eerder in een Romeinse context aangetroffen , en wel specifiek bij Romeinse villa ’ s . 
+Kars ( 2005 ) wierp de mogelijkheid op dat voor de handel in natuursteen wellicht voor de Romeinse villa ’ s –ook- een ander netwerk bestond , naast het militaire netwerk . 
+Het zou in die zin een belangrijke steensoort kunnen zijn met veel informatie over handel , winning en transport in de Romeinse tijd . 
+Hoewel over steensoort en herkomst weinig tot niets bekend is uit de literatuur , verdient het ten sterkste aanbeveling hier nader petrografisch onderzoek naar te doen . 
+Uit de scan is verder naar voren gekomen , dat materialen en toepassingen van de villa KerkradeKloosterraderplein en het villacomplex Kerkrade-Holzkuil dermate sterk overeenkomen , dat een relatie tussen beide waarschijnlijk lijkt . 
+Concluderend kan gezegd worden dat al het natuursteenmateriaal verdere uitwerking verdient , bij voorkeur in relatie tot het natuursteen van andere Romeinse villa ’ s . 
+Daarnaast zou een petrografische analyse aan het natuursteen van de maal- en molenstenen een belangrijke bijdrage kunnen leveren aan zowel kennis omtrent deze vindplaats als toepassing van natuursteen door de Romeinen in het algemeen . 
+3.3.3 Keramisch bouwmateriaal ( R.C.A . 
+Geerts , ADC ArcheoProjecten ) Inleiding De opgraving heeft in totaal 31 fragmenten keramisch bouwmateriaal opgeleverd . 
+Het keramisch bouwmateriaal is alleen gescand . 
+Op basis van de scan is besloten om het materiaal niet verder uit te werken . 
+In het Programma van Eisen is een aantal onderzoeksvragen geformuleerd . 
+Een klein aantal hiervan is ( deels ) van toepassing op het aangetroffen keramische bouwmateriaal : 1 . 
+Welke vondstcategorieën zijn vertegenwoordigd ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is de vondstdichtheid en de verticale en horizontale spreiding ? 
+11 . 
+In welke mate kan het aangetroffen bouwmateriaal bijdragen aan het herkennen van de functie en het reconstrueren van de structuren ? 
+13 . 
+Hoe zijn de resultaten te plaatsen in perspectief met gelijktijdige en gelijkaardige Romeinse vindplaatsen op lokaal en regionaal vlak ? 
+Conservering Het keramische bouwmateriaal is niet optimaal geconserveerd . 
+Tijdens het wassen van de vondsten is gebleken dat het bouwmateriaal zacht geworden was . 
+Door lange onderdompeling in water en het schoonborstelen zouden sommige fragmenten zelfs in hun geheel kunnen oplossen . 
+Die fragmenten zijn toen niet verder gewassen . 
+Het keramisch bouwmateriaal Alle fragmenten keramisch bouwmateriaal zijn afkomstig uit de Romeinse tijd . 
+In de Romeinse tijd werd een drietal soorten bouwmaterialen geproduceerd : bakstenen , dakbedekking en verwarmingselementen . 
+Alle aangetroffen goed te determineren keramisch bouwmateriaal bestaat uit dakbedekkingelementen . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 31 Tabel 7 . 
+Het keramische bouwmateriaal . 
+Vorm n % n g % g Tegulae Imbrices Gewelfd Plat Mortel Totaal 11 6 4 9 1 31 35,5 % 19,4 % 12,9 % 29,0 % 3,2 % 100 % 9949 2313 215 793 42 13312 74,7 % 17,4 % 1,6 % 6,0 % 0,3 % 100 % Tegulae De tegulae zijn de Romeinse dakpannen . 
+Kenmerkend zijn de opstaande randen aan de lange zijden van de dakpannen , de flenzen . 
+Een tweede kenmerk zijn de uitsnijdingen op de vier hoeken , die als doel hebben de tegulae beter op elkaar aan te laten sluiten . 
+Om de opening tussen twee tegulae af te dekken werd er een halfronde dakpan , een imbrex , op gelegd . 
+Tegulae werden veelvuldig hergebruikt voor een breed scala aan objecten , van goten tot vloertegels . 
+Eén tegula is bijna compleet en weegt 5650 gram . 
+Verder is er één tegula waarvan de flens afgekapt is , iets dat op mogelijk hergebruik wijst . 
+Imbrices Een imbrex is een gewelfde dakpan , ook wel vorst genoemd . 
+Zoals bij de tegulae al beschreven werden deze gebruikt om het dak waterdicht te maken door de spleten tussen de tegulae af te dekken . 
+Gewelfde en platte fragmenten Niet nader te determineren fragmenten zijn ingedeeld in de categorieën gewelfd en plat . 
+Gewelfde fragmenten zijn mogelijk afkomstig van imbrices of andere gewelfde bouwmaterialen . 
+Platte fragmenten kunnen afkomstig zijn van onder andere tegels of tegulae . 
+Omdat op deze vindplaats alleen maar imbrices en tegulae aangetroffen zijn is het zeer aannemelijk dat deze fragmenten ook aan die categorieën toebehoord hebben . 
+Mortel Bakstenen werden bijeen gehouden door mortel . 
+Het aangetroffen fragment doet echter niet Romeins aan en is mogelijk van een recenter datum . 
+Spoor 1 in put 2 , waar dit fragment aangetroffen is , is te midden van een aantal verstoringen gelegen . 
+Dat maakt dat een recente datering voor dit fragment zeer waarschijnlijk is . 
+Verspreiding van het keramische k eramische bouwmateriaal De verspreiding van het keramische bouwmateriaal kan uitwijzen of op bepaalde locaties gebouwen met een pannendak gestaan hebben . 
+In afbeelding 12 is de verspreiding van het keramisch bouwmateriaal weergegeven . 
+Het leeuwendeel van de fragmenten is in het noordelijke deel van het terrein aangetroffen . 
+Een aantal clusters van keramisch bouwmateriaal springt in het oog . 
+Op het materiaal in het oosten van de vindplaats na is al het materiaal in of nabij gebouwen aangetroffen . 
+De drie clusters zijn aangetroffen in structuur 1 , structuur 2 en net ten noorden van structuur 2 in een kuilencluster . 
+Van belang is het om te analyseren of de aanwezigheid van een pannendak aan te tonen is . 
+Daarvoor 48 moet de verhouding van imbrices en tegulae 1:1,7 zijn . 
+Aan de hand van deze verhouding kan gekeken worden of het materiaal enige indicatie voor een structuur met een pannendak geeft . 
+Hierbij moet voordat enige analyse plaatsvindt opgemerkt worden , dat het slechts een klein aantal fragmenten betreft . 
+Hierdoor geeft de uitkomst mogelijk een vertekend beeld . 
+Structuur 1 Ongeveer tweederde van het materiaal betreft platte fragmenten en tegulae , voor de rest zijn alleen imbrices aangetroffen . 
+Aangenomen dat de platte fragmenten tegulae zijn is de verhouding van het materiaal goed om een pannendak te veronderstellen op deze structuur . 
+Structuur 2 In structuur 2 is zeer weinig bouwmateriaal aangetroffen . 
+Het merendeel van de fragmenten dat is aangetroffen is afkomstig uit spoor 31 ( put 2 ) . 
+Hoewel spoor 31 een haardkuil is , zijn de fragmenten niet verbrand . 
+In structuur 2 zijn te weinig fragmenten aangetroffen om enige uitspraak over een mogelijk 48 Gazenbeek 2009 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 32 pannendak te kunnen doen . 
+Ook de context waaruit een groot deel van het materiaal komt , een haardkuil , doet vermoeden dat het niet gebruikt is voor een pannendak maar eerder als afzetting van de haardplaats . 
+Kuilencluster ten noorden van structuur 2 Dit is verreweg de grootste van de drie clusters en bestaat voornamelijk uit fragmenten van tegulae . 
+De interpretatie van dit cluster wordt bemoeilijkt door de grote verstoring ten noorden en het niet opgegraven terrein ten oosten ervan . 
+Als de aangetroffen fragmenten restanten zijn van een pannendak is dat mogelijk van een niet opgegraven structuur , daar het weinige bouwmateriaal aangetroffen in de structuur het dichtste bij het kuilencluster , structuur 2 , niet wijst op het gebruik ervan aldaar . 
+De oververtegenwoordiging van tegulae in dit cluster lijkt dat echter tegen te spreken omdat dan meer imbrices aangetroffen hadden moeten worden . 
+De tegula waarvan de flens afgekapt is , lijkt hergebruik ( of onbedoeld primair gebruik ) te impliceren . 
+Hoe dit cluster dan geïnterpreteerd moet worden is onduidelijk . 
+Verspreiding keramisch bouwmateriaal 319800 5 2,5 0,5 Tegula Imbrex Gewelfd Plat Mortel 319775 N N N N N N 000000 5m 5m 5m 5m 5m 5m 202750 202775 Afb . 
+12 . 
+De verspreiding van het keramisch bouwmateriaal . 
+( de waarden bij de legenda geven de schaalverdeling aan ) . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 33 Vergelijking met vindplaatsen in de regio 49 In de regio Zuid-Limburg worden villa ’ s veelvuldig aangetroffen . 
+Voor de vergelijking zijn een aantal recentere onderzoeken van nabijgelegen villa ’ s geselecteerd die vergelijking toelieten ( zie tabel 8 ) . 
+Tabel 8 . 
+Overzicht van het keramisch bouwmateriaal van villa ’ s in de regio . 
+Vorm DO & IVO Kerkrade – Kloosterraderplein Kerkrade – Holzkuil Landgraaf – Binnenring 40,5 % 32,4 % 32,9 % 13,7 % 12,8 % 7,3 % 5,0 % 1,1 % 1,1 % 79,0 % Tegula Imbrex Tubulus Bessalis Bessalis rond Lydion Pedalis Gewelfd Plat Mortel Indet Totaal 5,4 % 12,1 % 1,3 % 8,1 % 100 % 21,9 % 4,3 % 100 % 21,0 % 100 % Bij het onderzoek van Kerkrade – Holzkuil is een grotere variëteit aan bouwmateriaal aangetroffen dan bij beide andere villa ’ s . 
+Deze villa was in zijn geheel opgegraven terwijl de andere onderzoeken kleine delen van een villaterrein betroffen . 
+De typen die alleen bij de Holzkuil zijn aangetroffen zijn allen afkomstig van het hoofdgebouw . 
+Alle drie de onderzoeken hebben als grootste aandeel hetzelfde soort materiaal opgeleverd , tegulae en imbrices , ofwel dakbedekking . 
+Conclusie De conservering van het keramisch bouwmateriaal is niet erg goed . 
+Door de lössgrond is het aangetast . 
+Het is zeker nog herkenbaar , maar kan door overmatig borstelen in combinatie met water zo oplossen . 
+Net zoals bij de villa ’ s in de omgeving bestaat het aangetroffen materiaal voornamelijk uit fragmenten van dakbedekking . 
+Evenals bij die villa ’ s is het primair gebruikte materiaal niet indicatief voor een functie van het gebouw , het kan alleen maar aantonen of er een pannendak op heeft gezeten . 
+Alleen bij structuur 1 is de juiste verhouding van imbrices en tegulae aangetroffen om een pannendak te veronderstellen . 
+Het keramisch bouwmateriaal is met name in en nabij de structuren aangetroffen . 
+Deels was het waarschijnlijk gebruikt voor een pannendak maar deels ook voor andere doeleinden , zoals in de haardkuil in structuur 2 . 
+De soorten aangetroffen keramisch bouwmateriaal kunnen een indicatie geven welk deel van het villaterrein opgegraven is . 
+Bij het onderzoek van Kerkrade – Holzkuil zijn in het hoofdgebouw allerlei typen bouwmateriaal aangetroffen , die te maken hebben met het verwarmingssysteem . 
+Hieruit is af te leiden dat als deze villa ook eenzelfde luxueus hoofdgebouw heeft gehad , dat hier in ieder geval niet opgegraven is . 
+3.3.4 Metaal ( röntgenonderzoek door J. Kempkens en T. Lupak , Restaura ) Tijdens het onderzoek aan het Kloosterraderplein zijn tien metalen voorwerpen gevonden . 
+Het ging in alle gevallen om ijzeren voorwerpen , bedekt met een dikke corrosiekorst . 
+In acht gevallen was een dermate dikke korst van corrosie ontstaan dat röntgenonderzoek nodig was om de betreffende voorwerpen te kunnen determineren . 
+De overige twee vondsten betroffen spijkerstelen . 
+Vanwege het ontbreken van een kop konden ze niet worden ingedeeld in de typologie , die is opgesteld bij het onderzoek in Kerkrade Holzkuil . 
+Deze spijkers werden direct afgestoten . 
+Vnr . 
+12 betrof een muntje . 
+Deze bleek echter te verweerd om te kunnen worden gedetermineerd en is derhalve ook afgestoten . 
+Na röntgenonderzoek bleek het aantal overgebleven vondsten te bestaan uit een pen ( vnr . 
+11 ) , drie spijkers waarvan twee aan elkaar gecorrodeerd ( vnr. ’ s 33 en 64 ) , twee slakken ( vnr . 
+16 en 59 ) en een haak ( vnr . 
+47 ) . 
+49 Willems 1995 , afbeelding 1 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 34 3.3.5 Slakken ( scan door M. Melkert ) Uit een scan van het slakmateriaal bleek dat de 19 fragmenten van vondstnummers 5 , 15 , 26 , 33 en 63 ( 5 fragmenten ) productieslakken betrof . 
+De overige 16 fragmenten van vondstnummer 63 zijn smeedslakken . 
+Op één fragment hiervan is hamerslag waargenomen . 
+De twee fragmenten van vondstnummer 43 bleken ijzer te betreffen . 
+IJzerslak kan van verschillende processen afkomstig zijn : productie van ijzer , en het zogenaamde herverhitten en smeden van ijzer . 
+In het algemeen worden productie- , en herverhittingsslakken in verhouding minder vaak teruggevonden , veel vaker gaat het om smeedslakken . 
+Dit lijkt hier niet geval , maar door het lage aantal is het beeld mogelijk vertekend . 
+Productieslakken kunnen in situ liggen ( slakkenhoop , in of naast een oven , kuilovenslak in kuiloven ) . 
+Herverhittings- en smeedslakken worden ook in situ aangetroffen ( hamerslag in een smidse , smeedslakken in een smeedhaard ) , maar meestal worden de grotere exemplaren in een afvalkuil 50 gevonden , of verspreid over de opgraving . 
+Bij deze opgraving zijn de productieslakken van vondstnummer 5 , 15 , 26 en 33 allen afkomstig uit kuilen van structuur 1 . 
+Vondstnummer 63 bevat zowel productie- als smeedslakken , die afkomstig zijn uit spoor 20 in het meest oostelijke deel van de opgraving . 
+Waarschijnlijk is dit een dergelijke afvalkuil . 
+4 Synthese 4.1 Algemeen De archeologische verwachtingen die in het Programma van Eisen waren vooropgesteld , kunnen op basis van het huidige onderzoek worden gespecificeerd en aangevuld . 
+Het proefsleuvenonderzoek leverde substantieel resultaten op voor de Romeinse tijd . 
+Behalve een veelheid aan vondstmateriaal konden ook diverse sporen aan die periode worden toegewezen , met name een ‘ vuile vondstlaag ’ , drie paalkuilen en twee funderingssleuven . 
+De ‘ paalkuilen ’ ( eigenlijk grindfunderingen ) en de funderingssleuven leken tot een grootschalige Romeinse constructie of meervoudige constructie te behoren . 
+Naar analogie met de locatie Kerkrade-Holzkuil als meest vergelijkbare vindplaats , zowel landschappelijk als op basis van het vondstmateriaal en de sporen , leek men te maken te hebben met een villa rustica . 
+De waarnemingen bevestigden de enige bron van informatie die we over deze vindplaats bezitten , een kort vooroorlogs krantenartikel over de vondst van sporen van een Romeinse villa tijdens de bouw van twee woningen aan het Oranjeplein . 
+Tijdens de opgraving is de aangetroffen structuur meer vrij gelegd en onderzocht . 
+Tevens is er zowel ten westen als ten oosten van deze structuur nog een structuur aangetroffen . 
+Enkele palen van de oostelijke structuur waren ook al aangetroffen bij het proefsleuvenonderzoek . 
+Structuur 1 heeft op basis van het e e aardewerk een begindatum in het eind van de 1 eeuw en het eerste kwart van de 2 eeuw . 
+Het overige e aardewerk op de site wordt in de eerste helft van de 2 eeuw gedateerd , maar kan niet direct gerelateerd worden aan de overige twee structuren . 
+De bouwtechniek betreft steen- of steensokkelbouw . 
+Bij steensokkelbouw worden de natuursteen bouwstenen slecht tot op een bepaalde sokkelhoogte ( ca . 
+11,5 m boven maaiveld ) gebruikt , waar bovenop dan een traditionele vakwerkbouw met hout en leem e e heeft gestaan . 
+Beide bouwtechnieken zijn algemeen in de 2 en 3 eeuw . 
+Alle drie de structuren hebben een stenen fundering . 
+In ieder geval voor structuur 1 is duidelijk dat er steenbouw is toegepast , omdat in de paalkuilen van deze structuur zuilfragmenten zijn teruggevonden . 
+Functies van gebouwen kunnen op basis van vondsten en sporen bepaald worden . 
+Soms kunnen haarden op een woonfunctie wijzen , maar daarbij moet worden opgemerkt dat haardplaatsen ondiepe sporen achterlaten en daardoor vaak niet bewaard zijn gebleven . 
+Andersom is het niet ondenkbaar dat resten van een vuurplaats bepaalde werkzaamheden dienden die niets met wonen te maken hebben . 
+De haard in structuur 2 bevat dermate veel aardewerk , en dan voornamelijk tafelwaren , dat het gebouw wel een domestische functie moet hebben gehad . 
+Het overige aardewerk duidt voornamelijk op voedselverwerking . 
+Het natuursteen en slakmateriaal duidt op ambachtelijke activiteiten . 
+De natuurstenen werktuigen zijn vooral in de paalkuilen van structuur 1 aangetroffen , evenals een deel van het slakmateriaal . 
+Het bouwmateriaal kan geen uitsluitsel geven over de functie van het gebouw , alleen over de aan- of afwezigheid van een pannendak . 
+Op basis van de hoeveelheid materiaal en de juiste verhouding imbrices en tegulae , wordt bij structuur 1 een pannendak verondersteld . 
+Bij structuur 2 is dit 50 Veldhandleiding Archeologie 2002 , p. 105 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 35 niet bewezen . 
+De meeste pannen die hier zijn aangetroffen zullen voornamelijk met de haard te maken hebben gehad . 
+Over de functie van structuur 3 bestaat de meeste onduidelijkheid . 
+Door het gebrek aan vondstmateriaal kan er helaas geen uitsluitsel over de aard van het gebouw worden gegeven . 
+e De vindplaats is op basis van het vondstmateriaal ( voornamelijk het aardewerk ) gedateerd in de laat 1 e e tot 2 eeuw , en daardoor in datering vergelijkbaar met andere villa ’ s in de omgeving . 
+Het eind van de 1 51 eeuw is een periode waarin in heel Germania Inferior veel villa ’ s worden gesticht . 
+De villa ’ s in deze regio liggen voornamelijk op hellingen naar dalen , maar ook op plateaus . 
+Uit de verspreiding van de vondstlocaties in de gemeente Kerkrade , ontstaat de indruk van een landelijke omgeving met meerdere villa ’ s , hoewel de gegevens vaak summier zijn en het daardoor niet duidelijk is of elke site ook echt een villa betreft en welke datering het heeft . 
+Wat betreft de aard van het villaterrein , is het Kloosterraderplein juist lastig te vergelijken met andere complexen . 
+Meestal worden enkel hoofdgebouwen vergeleken omdat er zelden een villaterrein compleet is opgegraven . 
+We kunnen wel met zekerheid stellen dat het hoofdgebouw op dit terrein ontbreekt . 
+Het hoofdgebouw is veelal een gebouw met een porticus en daarachter een grote hal . 
+In het hoofdgebouw van villa Holzkuil zijn veel verschillende typen bouwmateriaal gevonden , die te maken hebben met een verwarmingssysteem . 
+Dit alles is hier niet teruggevonden . 
+Helaas is de omvang van het te onderzoeken gebied beperkt gebleven , waardoor de exacte omvang van het villaterrein niet kon worden bepaald . 
+De grootte van villacomplexen varieert nogal , van ca . 
+1,8 tot 3,6 ha . 
+Villa Holzkuil , evenals villa Voerendaal , behoort met een oppervlakte van 3,6 ha tot de grootste in zijn soort . 
+Het bebouwde oppervlak op het terrein van villa Holzkuil is tussen 390 en 570 m² groot . 
+Op het Kloosterraderplein hebben we een bebouwd oppervlak van tenminste 300 m² . 
+In verhouding lijkt dit dan toch al een aanzienlijk deel te zijn van het complete terrein . 
+Ook begrenzing van het terrein , in de vorm van bijvoorbeeld hekwerk of greppels , is niet aangetroffen . 
+e Het overgrote deel van de villa ’ s raakt buiten gebruik in de tweede helft van de 3 eeuw . 
+Dit lijkt 52 verbonden met de economische crisis en politieke instabiliteit in deze periode . 
+Het aardewerk op dit e terrein wijst echter op een eerdere verlating , namelijk in de tweede helft van de 2 eeuw . 
+Doordat niet het gehele terrein is opgegraven , is dit beeld natuurlijk niet helemaal betrouwbaar . 
+4.2 Beantwoording van de onderzoeksvragen De onderzoeksvragen die in het Programma van Eisen zijn gesteld zullen hier worden beantwoord op basis van de bevindingen van het onderzoek . 
+Algemeen : 1 . 
+Welke vondstcategorieën zijn vertegenwoordigd ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is de vondstdichtheid en de verticale en horizontale spreiding ? 
+De belangrijkste vondstcategorieën zijn aardewerk , keramisch bouwmateriaal en natuursteen . 
+Het aardewerk bestaat uitsluitend uit gedraaid aardewerk . 
+Het bouwmateriaal bestaat uit Romeinse dakbedekkingsmaterialen . 
+Verder zijn er enkele metaaltjes , slakken en een paar fragmenten glas aangetroffen . 
+Het aardewerk is gefragmenteerd en sterk verweerd . 
+Het aardewerk is te dateren in het eind van de ste de 1 en in de 2 eeuw . 
+Op de verspreidingskaart is een viertal clusters te zien . 
+Bij structuur 1 en structuur 2 , daarnaast ten noorden van structuur 2 bij een kuilencluster en het terrein in het zuidoosten . 
+De oudste fragmenten komen uit de poeren van structuur 1 en zijn waarschijnlijk daar terecht gekomen tijdens de aanleg ervan , Dit geeft structuur 1 een begin datum in het eerste kwart de de van de 2 eeuw . 
+De rest van het vondstmateriaal is voornamelijk in de 2 eeuw te dateren . 
+De andere villa ’ s in de omgeving zijn zowel in opbouw als aardewerkassemblage vergelijkbaar . 
+In het algemeen geldt dat weinig tafelwaren aangetroffen worden en veel gebruiksaardewerk . 
+Het natuursteenmateriaal is zonder twijfel afkomstig uit de Romeinse tijd en er zijn sterke overeenkomsten met bewerkt materiaal en steensoorten die zijn aangetroffen bij de opgraving van het villacomplex Kerkrade-Holzkuil . 
+Het meeste materiaal is afkomstig uit put 1 . 
+Bijna alle stenen komen uit de poeren van structuur 1 . 
+In put 2 zijn veel minder stenen gevonden . 
+Hier zijn de meeste fragmenten afkomstig uit de haard van structuur 2 . 
+Hoewel er geen intacte , complete voorwerpen zijn aangetroffen en fragmenten in wisselende mate verweerd zijn , vormen zowel bouwmateriaal als maal- en molenstenen belangrijk vergelijkingsmateriaal voor andere Romeinse villa ’ s . 
+De meeste 51 52 Tichelman 2005 , p. 316 . 
+Tichelman 2005 , p. 313 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 36 steensoorten zijn gewonnen in groeves in de regio of uit lokale afzettingen . 
+Uitzonderingen vormen de grondstoffen van de maal- en molenstenen en van bouwmateriaal van mogelijk Jurassische kalksteen . 
+De maal- en molenstenen zijn gemaakt van twee verschillende steensoorten : vesiculaire lava en conglomeraat . 
+Uit de scan is verder naar voren gekomen , dat materialen en toepassingen van de villa Kerkrade-Kloosterraderplein en het villacomplex Kerkrade-Holzkuil dermate sterk overeenkomen , dat een relatie tussen beide waarschijnlijk lijkt . 
+De conservering van het keramisch bouwmateriaal is niet erg goed . 
+Door de lössgrond is het aangetast . 
+Net zoals bij de villa ’ s in de omgeving bestaat het aangetroffen materiaal voornamelijk uit dakbedekkingonderdelen . 
+Het keramisch bouwmateriaal is met name in en nabij de structuren aangetroffen . 
+Deels was het waarschijnlijk gebruikt voor een pannendak maar deels ook voor andere doeleinden , zoals in de haardkuil in structuur 2 . 
+Het aangetroffen metaal is verspreid over het onderzoekgebied aangetroffen en was slecht geconserveerd . 
+De meeste voorwerpen bleken spijkers , die niet geschikt zijn voor nader onderzoek . 
+De productieslakken van vondstnummer 5 , 15 , 26 en 33 zijn allen afkomstig uit kuilen van structuur 1 . 
+Vondstnummer 63 bevat zowel productie- als smeedslakken , die afkomstig zijn uit spoor 20 in het meest oostelijke deel van de opgraving . 
+De drie verzamelde fragmenten glas zijn niet nader onderzocht . 
+2 . 
+Indien er kansrijke paleo-ecologische sporen zijn bemonsterd , wat kunnen de resultaten ons vertellen over het natuur- en cultuurlandschap , de fauna en de voedseleconomie van de aangetroffen vindplaats ( en ) , eventueel over verschillende perioden ? 
+Er zijn tijdens de opgraving geen kansrijke sporen aangetroffen die monsters konden opleveren voor ecologisch of zoölogisch onderzoek . 
+3 . 
+Hoe ziet de bodemopbouw van het plangebied eruit ? 
+In welke mate is het plangebied verstoord ? 
+De bodemopbouw van het plangebied bestaat uit een pakket löss dat is afgezet aan het eind van de laatste ijstijd . 
+In de hierop volgende warme periode raakte het oppervlak begroeid en is er een bodem in de top van deze afzettingen ontwikkeld . 
+Boven deze oude bodem bevindt zich een pakket colluvium , verspoelde löss , met een dikte van circa 80 cm . 
+Buiten de recente bouwvoor en het oostelijke deel van put 1 , is het bodemprofiel intact . 
+In het oostelijke deel van put 2 zijn in het vlak verstoringen aangetroffen . 
+Een aantal van deze verstoringen ( in de vorm van sleuven voor nutsvoorzieningen ) reiken tot in het sporenvlak onder het colluvium . 
+4 . 
+In hoeverre is de locatie van de vindplaats ( en ) landschappelijk te verklaren ? 
+In geologisch opzicht bevindt de vindplaats zich op het plateauterras van Kerkrade , dat ruim 600 ha groot was . 
+De villa Kerkrade-Holzkuil bevindt zich op een noordelijke uitloper van ditzelfde terras . 
+De steile wanden van het plateau waren ongeschikt voor landbouw , maar de beschikbare plateaurug van 600 ha kon wellicht diverse villae dragen . 
+Het plateau was in Romeinse tijd doorsneden met kleine beekdalen , waarvan de meeste ondertussen drooggevallen zijn . 
+Ook voor het onderzoeksgebied geldt dat er zich zowel ten noorden als ten zuiden een droge geul bevindt . 
+Om permanent over water te kunnen beschikken had men echter een waterput nodig ( wellicht de put die is gezien bij de werkzaamheden op het Oranjeplein ) . 
+Om het grondwater te bereiken moet deze put vele meters diep zijn geweest ; in het Duitse Rijnland zijn voorbeelden bekend tot 20 m diep . 
+De oriëntatie van de structuren binnen het onderzoeksgebied is zuidwest-noordoost . 
+Deze richting is identiek aan die van de hoofdgebouwen van de villa Kerkrade-Holzkuil , maar deze parallel berust wellicht op toeval : in beide gevallen volgt de oriëntatie immers de lokale hoogtelijnen van het plateau . 
+Op relatief korte afstand ( ca . 
+3,3 km ) van het onderzoeksgebied bevindt zich de Nivelsteiner groeve , waaruit reeds in de Romeinse tijd bouwmateriaal werd gehaald . 
+5 . 
+Indien er vindplaatsen uit verschillende archeologische periodes worden aangetroffen , is er continuïteit in bewoning tussen de verschillende vindplaatsen ? 
+Er is geen continuïteit in bewoning . 
+De Nieuwe tijd sporen betreffen slechts afvalkuilen . 
+Daarnaast zijn sporen uit de Middeleeuwen in het onderzochte gebied niet aangetroffen . 
+Prehistorie : 6 . 
+Zijn er onder het Romeinse sporenniveau nog oudere archeologische niveaus aan te treffen ? 
+Dit is niet uit te sluiten . 
+Er zijn echter geen aanwijzingen voor gevonden . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 37 7 . 
+Zo ja , zijn er sporen die te associëren zijn met deze prehistorische la ( a ) g ( en ) ? 
+Niet van toepassing . 
+8 . 
+Zijn deze sporen te reconstrueren tot structuren ? 
+Zo ja , welke ? 
+Wat is hun eventuele functie ? 
+Niet van toepassing . 
+Romeinse tijd : 9 . 
+Welke Romeinse sporen zijn aangetroffen in het onderzoeksgebied ? 
+Wat is de fysieke kwaliteit ( gaafheid en conservering ) ? 
+Wat is hun verticale en horizontale spreiding ? 
+Binnen het plangebied zijn restanten van een Romeinse nederzetting aangetroffen . 
+Het gaat hierbij om een villa rustica , een zogenaamd landelijk villaterrein . 
+De meeste van de aangetroffen sporen behoren tot een structuur . 
+Behalve kuilen en paalkuilen , zijn er ook funderingssleuven aangetroffen . 
+De duidelijkste parallel voor dit soort sleuven , met een compacte kiezelvulling en verbredingen op regelmatige afstanden , vinden we terug in het hoofdgebouw van de villa Holzkuil , eveneens te Kerkrade . 
+Enkele sporen zijn van recente of natuurlijke aard en er zijn enkele ‘ losse ’ sporen die niet aan structuur zijn toe te schrijven . 
+De gehele noordoosthoek van put 1 is verstoord . 
+Ook in het oostelijke deel van put 2 bevindt zich een aantal verstoringen , o.a . door kabels en leidingen . 
+In het westelijke deel van put 2 zijn verder enkele grote kuilen aangetroffen , die op basis van steengoedscherven in de Nieuwe tijd dateren . 
+Het is niet uit te sluiten dat buiten het onderzoeksgebied zich ook nog sporen bevinden die behoren tot het areaal van de villa rustica . 
+Dit lijkt op basis van deze resultaten zelfs waarschijnlijk . 
+De archeologische sporen zijn over het algemeen gaaf , goed bewaard door de afdekking van het pakket colluvium . 
+Van de sporen van structuur 3 was niet veel meer over . 
+Deze beginnen waarschijnlijk al op een hoger niveau , maar zijn daar nog niet zichtbaar . 
+10 . 
+Welke structuren zijn er te herkennen ? 
+Zijn deze te linken aan een villacomplex ? 
+Zo ja , welk ( e ) onderde ( e ) l ( en ) van het villaterrein is/zijn aangesneden ? 
+Zijn er verschillende bouwfasen te reconstrueren ? 
+Zo ja , wat is de datering voor de verschillende fasen ? 
+Er zijn in totaal drie structuren aangetroffen . 
+Van west naar oost zijn dit structuur 1 , 2 en 3 . 
+Structuur 1 had op basis van het grote aandeel ruwwandig aardewerk en de kookpotten mogelijk een functie in de voedselverwerking . 
+In één van de paalkuilen is een gladwandige kruik van het type Stuart 109 de aangetroffen . 
+Deze zijn te dateren in het eerste kwart van de 2 eeuw , en is waarschijnlijk afkomstig uit de aanlegfase van dit gebouw . 
+Het aandeel ruwwandig aardewerk dat is aangetroffen in structuur 2 is kleiner dan bij de andere clusters . 
+De tafelwaren zijn goed vertegenwoordigd , daarnaast zijn andere bakselgroepen , zoals wrijfschalen ook aangetroffen . 
+Omdat een deel van dit materiaal in de aanwezige haardkuil is gevonden wijst dit op een meer domestische functie van dit gebouw . 
+Het e aardewerk dateert grofweg in de 2 eeuw . 
+Ook het aardewerk ter hoogte van structuur 3 dateert in e de 2 eeuw . 
+Dit is aanzienlijk minder , waarschijnlijk door de recente verstoringen , en is niet afkomstig uit de sporen van de structuur . 
+Er is derhalve geen functie aan het gebouw toe te schrijven . 
+Het aardewerk wekt in het algemeen de indruk dat het om slechts één bewoningsfase gaat . 
+11 . 
+In welke mate kan het aangetroffen bouwmateriaal bijdragen aan het herkennen van de functie en het reconstrueren van de structuren ? 
+Evenals bij de structuren van villa ’ s in de omgeving is het primair gebruikte materiaal niet indicatief voor een functie van het gebouw , het kan alleen maar aantonen of er een pannendak op heeft gezeten . 
+Alleen bij structuur 1 is de juiste verhouding van imbrices en tegulae aangetroffen om een pannendak te veronderstellen . 
+Hierbij moet worden opgemerkt dat het incompleet opgraven van de structuren de verhoudingen sterk beïnvloed kan hebben . 
+12 . 
+Zijn er uitspraken te doen omtrent de omvang en/of begrenzingen van de Romeinse vindplaats ? 
+De omvang van de vindplaats strekt zich tenminste uit over de volledige breedte en lengte van het plangebied . 
+Ook is zichtbaar aan de structuren , die geen van allen compleet zijn , dat deze zich uitstrekken buiten het plangebied . 
+Het blijft onduidelijk wat de exacte omvang is geweest , en dat is door moderne bebouwing/vergraving waarschijnlijk ook niet meer te achterhalen . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 38 13 . 
+Hoe zijn de resultaten te plaatsen in perspectief met gelijktijdige en gelijkaardige Romeinse vindplaatsen op lokaal en regionaal vlak ? 
+De belangrijkste parallel voor deze vindplaats is de villa Holzkuil , eveneens gelegen in Kerkrade . 
+Structuur 2 is vergelijkbaar met gebouw XIX van dit villa-complex . 
+Het restant is ook hier een grindsleuf met regelmatig muurverbredingen aan de buitenzijde van de buitenwanden . 
+De datering e e e van dat gebouw is 2 /3 eeuw . 
+Structuur 2 wordt op basis van het aardewerk gedateerd in de 2 eeuw . 
+Het aardewerkassemblage is vergeleken met dat van andere villa ’ s in de buurt . 
+Dat materiaal ste de geeft hetzelfde beeld en is te dateren in het eind van de 1 tot net na het midden van de 2 eeuw . 
+In het algemeen geldt dat weinig tafelwaren aangetroffen worden en veel gebruiksaardewerk . 
+Gezien het feit dat villa ’ s in eerste instantie een agrarische functie hadden , is dat niet verwonderlijk . 
+Ook voor het natuursteen is een vergelijking gemaakt met villa Holzkuil . 
+Zo werd op beide locaties bewerkte Nivelsteiner zandsteen gevonden naast steensoorten als kolenzandsteen , ( mogelijke ) Jurassische kalksteen en dikke , plaatvormige leisteen . 
+Daarnaast werden bij Kerkrade-Holzkuil , net als hier , zowel handmolens als mechanische molenstenen aangetroffen en in beide gevallen zijn dezelfde twee steensoorten vertegenwoordigd : vesiculaire lava en fijnkorrelig conglomeraat . 
+Een andere overeenkomst heeft betrekking op vulkanische tufsteen : deze is opvallend afwezig bij Kerkrade Kloosterraderplein , terwijl bij Kerkrade-Holzkuil , binnen de zeer grote hoeveelheid natuursteen die daar werd verzameld en geanalyseerd , slechts twee fragmenten van deze steensoort werden aangetroffen . 
+Het verschil met Kerkrade-Holzkuil ligt in het ontbreken van luxe steensoorten , zoals gemarmerde kalksteen voor mozaïekvloeren . 
+Daarnaast zijn de fragmenten van het hier onderzochte materiaal kleiner en lijkt veel bouwmateriaal hergebruikt te zijn in funderingen . 
+In feite is het materiaal zo overeenkomstig , dat de mogelijkheid van hergebruik van villa-Holzkuil-materiaal overwogen zou kunnen worden . 
+Bij het onderzoek van de villa Holzkuil is een grotere variëteit aan keramisch bouwmateriaal aangetroffen . 
+Deze villa was in zijn geheel opgegraven terwijl de andere onderzoeken ( Landgraaf Binnenring en Kerkrade Kloosterraderplein ) kleine delen van een villa terrein betroffen . 
+Alle vier de onderzoeken hebben als grootste aandeel het zelfde soort materiaal opgeleverd , tegulae en imbrices , ofwel dakbedekking . 
+14 . 
+Kunnen er uitspraken gedaan worden omtrent de reden voor het einde van de Romeinse nederzetting ? 
+Hier zijn geen aanwijzingen voor gevonden . 
+Middeleeuwen : 15 . 
+Zijn er sporen uit de Middeleeuwen aangetroffen ? 
+Zo ja , welke ? 
+Nee , er zijn geen sporen uit de Middeleeuwen aangetroffen , slechts enkele ( afval ) kuilen uit de Nieuwe tijd . 
+16 . 
+Behoren de sporen tot een structuur ? 
+Zijn er verschillende fasen te reconstrueren ? 
+Zo ja , wat is de datering van de verschillende fasen ? 
+Niet van toepassing . 
+17 . 
+Indien er sprake is van ( een ) middeleeuwse vindplaats ( en ) , is er sprake van continuïteit met de voorafgaande Romeinse bewoning ? 
+Niet van toepassing . 
+5 Conclusie De opgraving heeft bevestigd dat we hier te maken hebben met een Romeins villaterrein . 
+Er zijn drie e e structuren aangetroffen , die op basis van het vondstmateriaal ( vnl . 
+aardewerk ) in de 1 en 2 eeuw dateren . 
+Wat betreft het natuursteen wordt er door de specialist geadviseerd het materiaal verder uit te werken in betrekking tot andere villacomplexen in Zuid-Limburg . 
+Het is onderzoek is uitgevoerd conform de KNA 3.1 , protocol opgraven . 
+Dit betekent dat sporen en vondsten 'ex situ ' bewaard zijn en dat in het onderzochte gebied geen archeologische waarden meer aanwezig zijn . 
+Het is echter niet geheel uit te sluiten dat buiten het onderzochte gebied toch nog archeologische resten voorkomen . 
+Daarom merken wij op dat het aanbeveling verdient om de uitvoerder van het grondwerk te wijzen op de plicht archeologische vondsten te melden bij de bevoegde overheid , zoals aangegeven in de Monumentenwet 1988 , artikel 53 , lid 1 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 39 Literatuur Algemeen Claeys , J. , 2009 : PvE Definitief Archeologische Onderzoek ( DO ) , Kerkrade Kloosterraderplein , versie 2 , 20 november 2009 , ADC-PvE 09-057 . 
+Claeys , J. , 2009 : Romeinse bebouwing bij het Kloosterraderplein in de gemeente Kerkrade . 
+Een Inventariserend Veldonderzoek in de vorm van proefsleuven , ADC-rapport 2129 , Amersfoort . 
+Tichelman , G. ( ed ) , 2005 : Het villacomplex Kerkrade-Holzkuil , ADC-rapport 155 , Amersfoort . 
+Fysisch geografisch onderzoek Bakker , H. de , & J. Schelling , 1966 : Systeem voor bodemclassificatie , Wageningen . 
+Bakker , H. de , & W.P . 
+Locher ( red . 
+) , 1990 : Bodemkunde van Nederland . 
+Deel 2 : Bodemgeografie , Den Bosch . 
+Berg , M.W . 
+van den , 1989 : Geomorfologische kaart van Nederland 1:50000 kaartblad 59 Genk , 60 Sittard , 61 Maastricht , 62 Heerlen , met toelichting ( 32 p ) en de kaart Maasterrassen en hellingklassen , Staring Centrum , Wageningen en Rijks Geologische Dienst , Haarlem . 
+Berg , M.W . 
+van den,1996 : Fluvial sequences of the Maas , a 10 Ma record of neotectonics and climate change at various time-scales , Proefschrift , Universiteit Wageningen , ISBN 90-5485-598-3 , 181 pp . 
+Bosch , J.H.A. , 2005 : Archeologische Standaard Boorbeschrijvingsmethode , Versie 5.2 . 
+Utrecht ( TNOrapport , NITG 05-043-A ) . 
+Bunnik , F.P.M. , 1999 : Vegetationsgeschichte der Lößbörden zwischen Rhein und Maas von der Bronzezeit bis in die frühe Neuzeit , Proefschrift Universiteit Utrecht , Laboratorium Paleobotanie en Palynlogie . 
+Haans , J.C.F.M. , L.J . 
+Pons , J.N.B . 
+Poelman , G.C . 
+Maarleveld , J.M.M . 
+van den Broek , 1981 : Bodemkundige landschappen van Nederland . 
+Toelichting Bodemkaart van Nederland schaal 1 : 200.000 . 
+Gedeeltelijke heruitgave van De Bodem van Nederland , Wageningen , Stichting voor Bodemkartering . 
+Houtgast , R.F. , R.T . 
+van Balen , L.M . 
+Bouwer , G.B.M . 
+Brand , J.M . Brijker , 2002 : Late Quaternary activity of the Feldbiss Fault Zone , Roer Valley Rift System , the Netherlands , based on displaced fluvial terrace fragments , Tectonophysics 352 , 3-4 , pp . 
+295-315 . 
+Kooistra , L.I. , 1996 : Borderland Farming , Possibilities and Limitations of Farming in the Roman Period and Early Middle Ages between the Rhine and Meuse , Assen/Amersfoort . 
+Kuyl , O.S . 
+1980 : Geologische kaart Heerlen , blad 62W/62O , Rijks Geologische Dienst , Heerlen . 
+Mulder , E.F.J . 
+de , M.C . 
+Geluk , I.L . 
+Ritsema , W.E . 
+Westerhoff , T.E . Wong , 2003 : De ondergrond van Nederland . 
+Wolters-Noordhoff , Groningen . 
+Normalisatie-Instituut , Nederlands 1989 : Geotechniek , classificatie van onverharde grondmonsters NEN 5104 , Delft . 
+Stichting voor Bodemkartering , 1990 : Bodemkaart van Nederland , schaal 1:50.000 , blad 61-62 West en Oost , Maastricht-Heerlen . 
+Zonneveld , J.I.S.,1974 : The traces of the Maas ( and Rhine ) downstream of Maastricht . 
+In : L'evolution Quartenaire des Bassins Fluviaux de la Mer du Nord Meridionale , pp . 
+133-157 , Centenaire de la Société Géologique de Belgique , Liège . 
+Natuursteen Dreesen , R , M. Dusar & F. Dopere , 2003 : Atlas Natuursteen in Limburgse Monumenten , z.p. , 2de , verbeterde druk . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 40 Kars , E.A.K. , 2005 : Keramisch bouwmateriaal en natuursteen , In : G. Tichelman ( ed ) , het villacomplex Kerkrade-Holzkuil , ADC-rapport 155 , Amersfoort , pp . 
+257-87 . 
+Kars , H. , 1980 : Early Medieval Dorestad , an Archaeo-Petrological study , Part I : The Tephrite Querns , Berichten ROB 30 : pp . 
+393–422 . 
+Kars , H. & J.A . Broekman , 1981 : Early Medieval Dorestad , an Archaeo-Petrological Study , IV : The Mortars , the Sarcophagi , and other Limestone Objects – Petrograohy and Provenance of the Limestone Material , Berichten ROB 31 , pp . 
+415-452 . 
+Melkert , M.J.A. , in voorbereiding : Natuursteen : meer dan afval ? 
+( In : Hakvoort , Lomm Hoogwatergeul fase II , ADC-rapport ) . 
+Nillesen , J.H.M. , 1989 : Een bijdrage tot de kennis van het kalkbranden in Zuid-Limburg , Grondboor en Hamer 5-6 , pp . 
+185-194 . 
+Röder , J. , 1953 : Zur lavaindustrie von Mayen und Volvic ( Auvergne ) , Germania 31 : pp . 
+24-7 . 
+Slinger , A. , H. Janse en G. Berends , 1980 : Natuursteen in monumenten , Zeist . 
+Tichelman , G. ( ed ) , 2005 : Het villacomplex Kerkrade-Holzkuil , ADC-rapport 155 , Amersfoort . 
+Weiner J. en Schalich J. , 2006 : On Potential Bandkeramik Millstone Quarries In The Rhineland , In : Stone Age - Mining Age - Der Anschnitt , Beiheft 19 , 2006 . 
+Williams-Thorpe , O . 
+& R.S . 
+Thorpe , 1988 : The provenance of Donkey Mills from Roman Britain , Archaeometry 30 , pp . 
+275-289 . 
+Bouwmateriaal Gazenbeek , G. , 2009 : Het dak op . 
+Het grofkeramisch materiaal van Forum Hadriani , Dertiende Dag van het Romeinse Aardewerk , Nijmegen . 
+Willems , W.J.H. , 1995 : Die Villa Rustica von Voerendaal ( NL ) und die ländliche Besiedlung . 
+Balácai Közlemények III , 1994 . 
+Forschungen und Ergebnisse . 
+Internationale Tagung über römische Villen. , pp . 
+116123 . 
+Aardewerk Geerts , R. C. A . & W . 
+F. Reigersman-van Lidth de Jeude , In prep . 
+: Aardewerk uit de Romeinse tijd . 
+In : P. L. M. Hazen , E. Blom ( red . ) . 
+Boeren , Romeinen en Edelen in het Westlandse kustgebied . 
+Een archeologische opgraving te Poeldijk , De Kreken Fase II , vindplaatsen F en G/H , ADC-rapport 2153 , Amersfoort . 
+Brunsting , H. , 1937 : Het grafveld onder Hees bij Nijmegen : Een bijdrage tot de kennis van Ulpia Noviomagus , Amsterdam ( Archeologisch-historische bijdragen van de Allard Pierson stichting , 4 ) . 
+Dragendorff , H. , 1895 : Terra sigillata : ein Beitrag zur Geschichte der griechischen und römischen Keramik . 
+Bonner Jahrbücher 96 ( 7 ) , pp . 
+18-155 . 
+Dressel , H. , 1899 : Corpvs Inscriptionvm Latinarvm . 
+Inscriptiones Vrbis Romae Latinae . 
+Instrvmentvm Domesticvm . 
+Reimervm ( Volvmis Decimiqvinti Pars Posterior Fascicvlvs , I ) . 
+Enckevort , H. van , 2004 : Het gedraaide aardewerk uit de Romeinse Tijd . 
+In : C. W. Koot & R. Berkvens ( red . 
+) , Bredase akkers eeuwenoud : 4000 jaar bewoningsgeschiedenis op de rand van zand en klei . 
+Breda ( Rapportage Archeologische Monumentenzorg , 102 ) , pp . 
+281-358 . 
+Gazenbeek , G. , 2009 : Het dak op . 
+Het grofkeramisch materiaal van Forum Hadriani . 
+Dertiende Dag van het Romeinse Aardewerk , Nijmegen . 
+Hoof , L.G.L . 
+van & I . 
+M. van Wijk , 2007 : Romeinen aan de Ring . 
+Een villa-terrein aan de Binnenring te Landgraaf ? 
+Archol-rapport 66 , Leiden ) . 
+Hoog , middelhoog en laag . 
+Een archeologische verwachtings- en cultuurhistorische advieskaart voor de Parkstad Limburg gemeenten en de gemeente Nuth , in : Archeologische verwachtings- en advieskaart : locatie van vindplaatsen , RAAP-rapport 1483 , kaartbijlage 4a , schaal 1:10.000 . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 41 Oelmann , F. , 1914 : Die Keramik des Kastells Niederbieber . 
+Frankfurt a. M. ( Materialien zur römischgermanischen Keramik , I ) . 
+Reigersman-van Lidth de Jeude , W.F. , 2010 : Aardewerk . 
+In : J. Claeys ( red . 
+) , Romeinse bebouwing bij het Kloosterraderplein in de gemeente Kerkrade . 
+Een Inventariserend Veldonderzoek in de vorm van proefsleuven , ADC-rapport 2129 , Amersfoort , p. 17 . 
+Stuart , P. , 1963 : Gewoon aardewerk uit de Romeinse legerplaats en de bijbehorende grafvelden te Nijmegen . 
+Leiden ( Beschrijving van de verzamelingen in het Rijksmuseum G.M . 
+Kam te Nijmegen , 6 ) . 
+Tichelman , G. , 2005 : Het villacomplex Kerkrade-Holzkuil , ADC-rapport 155 , Amersfoort . 
+Werff , J.H . van der , H. Thoen & R. M. van Dierendonck , 1997a : Amphora production in the Lower Scheldt Valley ( Belgium ) ? 
+The Valkenburg-Marktveld Evidence . 
+In : S. Zabehlicky-Scheffenegger ( red . 
+) , Rei Cretariae Romanae Favtorvm Acta 35 . 
+Congressvs Vicesimvs Rei Cretariae Romanae Favtorvm Eboraci et Ponte Aelio Habitvs . 
+MCMXCVI . 
+Abingdon , pp , 63-71 . 
+Werff , J.H . van der , H. Thoen & R.M . 
+van Dierendonck , 1997b : Scheldevallei-amforen : Belgisch bier voor Bataven en Cananefaten ? 
+Westerheem 46 ( 6 ) , pp . 
+1-12 . 
+Wiepking , C.G. , 2005 : Aardewerk . 
+In : G. Tichelman ( red . 
+) , Het villacomplex Kerkrade-Holzkuil . 
+ADC-rapport 155 , Amersfoort , pp . 
+177-220 . 
+Willems , W.J.H. , 1995 : Die Villa Rustica von Voerendaal ( NL ) und die ländliche Besiedlung . 
+Balácai Közlemények III , 1994 . 
+Forschungen und Ergebnisse . 
+Internationale Tagung über römische Villen. , pp . 
+116123 . 
+Lijst van afbeeldingen Afb . 
+1 . 
+Locatie van het onderzoeksgebied . 
+Afb . 
+2 . 
+Ligging plangebied en putten . 
+Afb . 
+3 . 
+Locatie van het plangebied binnen de geologische kaart . 
+Afb . 
+4 . 
+Locatie van het plangebied binnen het geologische profiel . 
+Afb . 
+5 . 
+Lössprofiel binnen het plangebied . 
+Afb . 
+6 . 
+Kuilen van structuur 1 , opgevuld met natuursteen . 
+Afb . 
+7 . 
+Structuur 2 . 
+Afb . 
+8 . 
+Structurenkaart . 
+Afb . 
+9 . 
+Geomorfologische kaart met hoogtelijnen . 
+Afb . 
+10 . 
+De kruikhals van het type Stuart 109 . 
+Afb . 
+11 . 
+De verspreiding van het aardewerk . 
+Afb . 
+12 . 
+De verspreiding van het keramisch bouwmateriaal . 
+Lijst van tabellen Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Tabel 2 . 
+Overzicht van het Romeinse aardewerk . 
+Tabel 3 . 
+Overzicht van het aardewerk van villa ’ s in de regio . 
+Tabel 4 . 
+Steensoorten in aantal en gewicht . 
+Tabel 5 . 
+Bewerkt materiaal in aantallen en gewicht . 
+Tabel 6 . 
+Artefacten naar steensoort . 
+Tabel 7 . 
+Het keramische bouwmateriaal . 
+Tabel 8 . 
+Overzicht van het keramisch bouwmateriaal van villa ’ s in de regio . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 42 Bijlage 1 . 
+Sporenoverzichten 319805 Put 1 vlak 1 18 999 319800 999 19 11 12 9 999 319795 2.000 10 16 7 8 6 1 3 13 2 4 N N N N N 319790 999 17 5 14 999 15 5m 5m 5m 5m 5m 319785 00000 202730 202735 202740 202745 202750 202755 202760 P ut 1 vlak 2 319805 999 319800 24 999 22 999 319795 999 1 3.000 23 N N N N N N 21 319790 999 20 000000 202730 5m 5m 5m 5m 5m 5m 202735 ADC ArcheoProjecten Rapport 2223 202740 202745 202750 202755 202760 Kerkrade Kloosterraderplein 43 319790 Put 2 vlak 1 15 16 12 11 999 999 319780 17 14 14 vu2 13 4 999 999 2.000 9 999 319770 N N N N N N 7 6 3 999 999 999 1 5 2 8 10 999 999 998 00000 5m 5m 5m 5m 5m 202740 202750 202760 202770 202780 319790 Put 2 vlak 2 29 30 999 24 22 21 23 319780 28 18 19 999 27 999 3.000 999 999 31 N N N N N N 26 25 999 20 20 vu2 319770 999 000000 5m 5m 5m 5m 5m 5m 202740 ADC ArcheoProjecten Rapport 2223 202750 202760 202770 202780 Kerkrade Kloosterraderplein 44 Bijlage 2 . 
+Sporenlijst PUTNR VLAKNR SPOORNR AARDSPOOR VORM VLAK VORM COUPE DIEPTE 1 1 1 KL OVL 1 1 1 1 1 1 1 1 1 1 2 PK 3 PK 4 PK 5 PK 6 VL RND OVL RND RND RND RND RND VLK VLK 16 6 8 32 1 1 7 VL RND 1 1 8 NV RND 1 1 9 PK RND 1 1 10 PK RND 1 1 11 PK RND 1 1 12 NV RND 1 1 1 1 13 PK 14 NV RND OVL RND 42 1 1 1 1 15 PK 16 PK RND RND VLK 38 1 1 17 PK RND 1 1 18 PK OVL 1 1 19 PK RND 1 1 999 REC ONR 1 1 2000 LG ONR 1 2 1 KL ONR 1 2 20 MU ONR 1 2 21 KL ONR 1 1 1 2 2 2 22 PK 23 PK 24 PK RND RND RND ONR ONR 36 36 2 2 1 1 1 PK 2 KL RND ONR RND 32 2 2 2 1 1 1 3 MU 4 KL 5 MR ONR RND RHK VLK RND 44 24 2 1 6 KL RND 2 1 7 LG ONR 2 2 2 2 2 2 1 1 1 1 1 1 8 PK 9 PK 10 PK 11 PK 12 PK 13 LG RND RND RND OVL RND RND RND RND RND RND ONR 22 28 20 28 18 2 2 2 1 1 1 14 PK 15 PK 16 NV RND RND RND VLK VLK 6 20 2 2 2 2 1 1 1 1 17 KL 18 KL 19 KL 999 REC RND RND ONR ONR ONR ONR ONR 56 10 12 2 1 2000 LG ONR 2 2 20 PK ONR ONR 50 ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 45 PUTNR VLAKNR SPOORNR AARDSPOOR VORM VLAK VORM COUPE DIEPTE 2 2 21 PK ONR 2 2 22 PK ONR 2 2 23 PK RND 2 2 2 2 24 PK 25 PK RND ONR 2 2 26 PK ONR 2 2 27 PK RND 2 2 28 PK RND 2 2 29 PK RND 2 2 30 PK ONR 2 2 31 KL OVL ONR 4 Bijlage 3 . 
+Vullingenlijst PUTNR VLAKNR SPOORNR VULLINGNR KLEUR 1 1 1 1 LI GR/BR 1 1 2 1 GR 1 3 1 GR 1 1 1 4 1 LI GR/BR 1 1 5 1 LI GR 1 6 1 LI GR/GR 1 1 1 7 1 LI GR/BR 1 1 8 1 LI GR/BR 1 1 9 1 GR 1 1 10 1 LI GR/BR 1 1 11 1 LI GR/BR 1 1 12 1 BR/DO GR 1 1 13 1 LI GR/BR 1 1 13 2 GR/BR 1 14 1 GR/BR 1 1 1 15 1 GR/DO BR 1 1 16 1 LI GR/BR 1 1 17 1 GR/BR 1 1 18 1 DO GR 1 1 19 1 DO GR 1 999 1 ZW/DO GR 1 1 1 999 2 DO GR/BR 1 1 2000 1 BR 1 2 20 1 OR/BR 1 2 21 1 GR 2 22 1 GR/LI GR 1 1 2 23 1 GR 1 2 23 2 LI GR/BR 1 2 24 1 BR/GR 2 1 1 1 BR/GR 2 1 2 1 BR/WT 2 1 3 1 OR/BR 2 1 4 1 DO GR 2 1 5 1 RO 2 1 6 1 BR/DO GR 2 1 7 1 OR 2 1 8 1 DO GR 2 1 8 2 BR/GR 2 1 9 1 BR/DO GR 2 1 9 2 BR/GR 2 1 10 1 BR/DO GR 2 1 10 2 BR/LI GR ADC ArcheoProjecten Rapport 2223 TEXTUUR GEVLEKT INSLUITSEL LZ1 Nee BW , NS LZ1 Nee BW , HK LZ1 Nee BW++ LZ1 Nee BW , IETS HK LZ1 Nee BW , HK LZ1 Nee LZ1 Nee BW LZ1 Nee ZS3 Nee NS ++ LZ1 Nee NS ++ LZ1 Nee NS ++ LZ1 Ja LZ1 Nee HK , NS , BW LZ1 Nee LZ1 Nee LZ1 Nee BW , NS , ++AW LZ1 Nee NS ++ LZ1 Nee LZ1 Nee HK LZ1 Nee NS LZ1 Nee LZ1 Ja LZ1 Nee LZ1 Nee NS LZ1 Nee AW , BW , GLS LZ1 Ja HK , NS , BW LZ1 Nee NS LZ1 Ja LZ1 Nee NS ++ LZ1 Ja LZ3 Nee LZ1 Nee NS LZ1 Nee BW XXX Nee BS LZ1 Nee BW , HK LZ1 Nee LZ1 Nee LZ1 Ja LZ1 Nee LZ1 Ja LZ1 Ja HK LZ1 Nee Kerkrade Kloosterraderplein 46 PUTNR VLAKNR SPOORNR VULLINGNR KLEUR TEXTUUR GEVLEKT INSLUITSEL 2 1 11 1 BR/GR LZ1 Nee BW , HK 2 1 12 1 BR/GR LZ1 Nee HK , BW 2 1 12 2 GR/BR LZ1 Nee HK , BW 2 1 13 1 BR/DO GR LZ1 Ja BW , HK 2 1 14 1 GR LZ1 Nee HK 2 1 15 1 DO GR LZ1 Nee HK , BW 2 1 16 1 BR/GR LZ1 Ja HK 2 1 17 1 BR/GR LZ1 Nee HK 2 1 17 2 DO GR LZ1 Nee HK 2 1 18 1 LI BR LZ1 Nee 2 1 19 1 LI GR LZ1 Nee 2 1 999 1 ZW/DO GR LZ1 Nee 2 1 2000 1 BR LZ1 Nee 2 2 20 1 BR LZ1 Nee NS 2 2 20 2 GR LZ1 Nee HK , PUINSPIK 2 2 21 1 LI GR LZ1 Nee 2 22 1 BR LZ1 Nee NS/GRIND 2 2 2 23 1 BR LZ1 Nee NS/GRIND 2 2 24 1 GR/DO ZW LZ1 Nee 2 2 25 1 BR LZ1 Nee NS/GRIND 2 2 26 1 BR LZ1 Nee 2 2 27 1 BR LZ1 Nee 2 2 28 1 LI GR LZ1 Nee BW 2 2 29 1 BR LZ1 Nee NS/GRIND 2 2 30 1 GR/BR LZ1 Nee NS 2 2 31 1 DO GR LZ1 Nee Bijlage 4 . 
+Fotolijst FOTONR SOORT PUTNR VLAKNR SPOORNRS ONDERWERP 1 VLAK 1 1 vlakoverzicht FOTOGRAAF PH 2 COUPE 3 COUPE 4 VLAK 1 1 2 19 15 1 funderingspoer paalkuil vlakoverzicht 5 VLAK 1 1 uitbreiding NW hoek PH 6 COUPE 7 COUPE 8 COUPE 9 COUPE 10 COUPE 11 VLAK 1 1 1 1 1 1 1 13 1 10 1 15 1 16 1 11 1 funderingspoer funderingspoer funderingspoer funderingspoer funderingspoer overzicht structuur JE PH PH PH PH PH 12 COUPE 13 VLAK 2 1 11 2 coupe spoor vlakoverzicht JE JE 14 PROFIEL 1 kolommen 1 t/m 5 JE 15 COUPE 16 COUPE 17 DETAIL 18 VLAK 19 COUPE 20 VLAK 21 COUPE 22 COUPE 23 COUPE 24 VLAK 1 1 1 1 2 1 2 2 2 2 2 22 2 23 21 2 3000/24 13 2 24 13 14 13 1 coupe spoor coupe spoor tegulae uitbreiding bij versterking vlakoverzicht coupe spoor coupe s4 door s3 coupe spoor middendeel JE JE PH NB PH NB JE JE PH PH 25 COUPE 26 VLAK 27 COUPE 28 COUPE 1 1 2 2 2 24 2 3000 1 11 1 12 funderingspoer t.h.v . 
+proefsleuf 2 coupe spoor coupe spoor JE NB NH NH ADC ArcheoProjecten Rapport 2223 103 PH JE NH Kerkrade Kloosterraderplein 47 FOTONR SOORT PUTNR VLAKNR SPOORNRS ONDERWERP 29 COUPE 2 1 15 coupe spoor 30 COUPE 2 1 14 coupe spoor 31 COUPE 2 1 10 coupe spoor 32 COUPE 2 19 coupe spoor 33 COUPE 2 18 coupe spoor 34 COUPE 2 1 17 coupe spoor 35 VLAK 2 2 vlakoverzicht 36 COUPE 37 COUPE 38 VLAK 39 VLAK 40 COUPE 41 COUPE 42 COUPE 2 2 2 2 2 2 2 103 20 101 22 2 23 2 31 2 27,28,29,30 2 31 103 25 coupe spoor coupe spoor vlakoverzicht vlakoverzicht coupe spoor coupe spoor coupe spoor FOTOGRAAF NH NH NH NH NH NH NH NH NH NH NH NH NH NH Bijlage 5 . 
+Tekeningenlijst TEK_CAT TEK_NR AARD OMSCHRIJF TEKENAAR SCHAAL B 1 MMF coupes NH 1:20 B 2 MMF coupes NH 1:20 B 3 MMF profielkolommen NH 1:20 B 4 MMF vlakoverzicht p1 vl1 NB 1:250 B 5 MMF vlakoverzicht p1 vl2 NB 1:250 B 6 MMF vlakoverzicht p2 vl1 NB 1:400 B 7 MMF vlakoverzicht p2 vl2 NB 1:400 Bijlage 6 . 
+Vondstenlijst VONDSTNR PUTNR VLAKNR SPOORNR VULLINGNR INHOUD VERZAMEL 1 1 1 2000 1 AW PUNT 2 1 1 2000 1 AW PUNT 3 1 1 2000 1 SXX PUNT 4 1 1 10 1 BOUWMAT AANV 5 1 1 11 1 AW AANV 6 1 1 12 1 AW AANV 7 1 1 2000 1 BOUWMAT PUNT 8 1 1 1 1 BOUWMAT AANV 9 1 1 2000 1 AW PUNT 10 1 1 2000 1 AW PUNT 11 1 1 2000 1 MFE PUNT 12 2 1 2000 1 MXX PUNT 13 2 1 2000 1 MIX PUNT 14 1 1 5 1 AW COUP 15 1 1 15 1 MIX AFW 16 1 1 11 1 MIX COUP 17 1 1 10 1 AW AFW 18 1 1 2000 1 MIX PUNT 19 1 1 11 1 MIX COUP 20 1 1 2000 1 MIX PUNT 21 1 1 16 1 MIX COUP 22 2 1 2000 1 AW PUNT 23 1 1 2 1 MIX COUP 24 1 1 3 1 MIX COUP 25 1 1 5 1 MIX COUP 26 1 1 15 1 MIX COUP 27 1 1 13 1 MIX COUP 28 1 1 10 1 SXX COUP 29 1 1 9 1 SXX COUP 30 1 1 13 1 AW COUP ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 48 VONDSTNR PUTNR VLAKNR SPOORNR VULLINGNR INHOUD VERZAMEL 31 1 2 999 1 AW PUNT 32 2 1 1 1 AW COUP 33 1 2 22 1 MIX COUP 34 1 2 23 1 SXX AFW 35 2 1 2000 1 AW PUNT 36 2 1 2000 1 AW PUNT 37 2 1 2000 1 AW PUNT 38 2 1 2000 1 AW PUNT 39 2 1 2000 1 AW PUNT 40 2 1 2000 1 AW PUNT 41 2 1 2000 1 AW PUNT 42 2 1 2000 1 AW PUNT 43 1 2 1 1 MIX AFW 44 1 2 21 1 MIX COUP 45 1 2 1 1 BOUWMAT AFW 46 2 1 2000 1 MIX PUNT 47 1 2 1 1 MXX PUNT 48 2 1 8 1 AW COUP 49 2 1 2000 1 AW PUNT 50 2 1 2000 1 AW PUNT 51 2 1 2000 1 AW PUNT 52 2 1 2000 1 AW PUNT 53 2 1 2000 1 AW PUNT 54 1 2 24 1 MIX COUP 55 2 1 15 1 AW COUP 56 2 1 4 1 AW AFW 57 2 1 3000 1 AW SPIT 58 2 1 11 1 BOUWMAT AFW 59 2 1 19 1 MIX COUP 60 2 1 3 1 SVU AANV 61 2 2 26 1 AW AFW 62 2 2 31 1 XXX AFW 63 2 2 20 2 MIX COUP 64 2 2 31 1 MIX AFW 65 2 2 31 1 SXX AFW ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 49 Bijlage 7 . 
+Verklarende woordenlijst Antropogene sporen Alle immobiele sporen van menselijke oorsprong , variërend van paalgaten of fosfaatvlekken tot muurresten . 
+AMK Archeologische Monumentenkaart geeft een overzicht van gewaardeerde archeologische terreinen in vier categorieën : 1 ) . 
+Archeologische waarde , 2 ) Hoge archeologische waarde , 3 ) Zeer hoge archeologische waarde en 4 ) Zeer hoge archeologische waarde beschermd . 
+De AMK is de gezamenlijke verantwoordelijkheid van de RCE en de provincies en wordt beheerd door de RCE . 
+Archeologische indicatoren Indicatief archeologisch materiaal dat bij ( boor ) onderzoek een aanwijzing kan zijn voor de aanwezigheid , ter plaatse of in de nabijheid , van een archeologische vindplaats . 
+Archis Archeologisch Informatie Systeem . 
+Dit door de RCE beheerde systeem bevat informatie over o.a . onderzoeksmeldingen , vondstmeldingen , waarnemingen , complexen en monumenten . 
+14 C Koolstof ( radioactieve isotoop ) , gebruikt voor datering . 
+CIS Het landelijke registratienummer ten behoeve van archeologisch onderzoek , uitgegeven door het Centraal Informatiesysteem . 
+CMA Centraal Monumenten Archief . 
+Ex situ niet ter plaatse . 
+Aanduiding die wordt gebruikt om aan te geven of grondsporen en / of artefacten zich niet meer op de oorspronkelijke plaats in de bodem bevinden . 
+Behoud ex situ is het bewaren van de archeologische informatie door definitief onderzoek ( opgraven , documenteren en registreren ) . 
+IKAW Indicatieve kaart van archeologische waarden , een door de RCE geproduceerde kaart op landelijk niveau met de verwachte relatieve of absolute dichtheid van ( bepaalde ) archeologische verschijnselen in de bodem . 
+IVO Inventariserend Veld Onderzoek . 
+Het verwerven van ( extra ) informatie over bekende of verwachte archeologische waarden binnen een onderzoeksgebied , als aanvulling op en toetsing van de archeologische verwachting , gebaseerd op het bureauonderzoek middels waarnemingen in het veld . 
+In situ Achtergebleven op exact de plaats waar de laatste gebruiker het heeft gedeponeerd , weggegooid of verloren . 
+Behoud in situ is het behouden van archeologische waarden in de bodem . 
+KNA Kwaliteitsnorm Nederlandse Archeologie . 
+PVA Plan van Aanpak . 
+Een door de opdrachtnemer op te stellen plan voor de uit te voeren werken waarmee beoogd wordt aan de vereisten zoals geformuleerd in het Programma van Eisen en/of het ontwerp te voldoen . 
+Ook wordt hierin een voorstel gedaan voor de werkwijze waarmee de in het Programma van Eisen en/ of ontwerp geformuleerde resultaatsverwachtingen bereikt kunnen worden . 
+PVE Programma van Eisen . 
+Het PvE is een door een bevoegde overheid opgesteld of bekrachtigd document dat de probleem- en doelstelling van de te verrichten werkzaamheden van de vindplaats geeft en de daaruit af te leiden eisen formuleert met betrekking tot het uit te voeren werk . 
+RCE Rijksdienst voor het Cultureel Erfgoed . 
+RTS Robotic Total Station . 
+Hiermee worden vlakken direct digitaal ingemeten . 
+Selectieadvies Archeologisch inhoudelijk advies over de behoudenswaardigheid van een vindplaats . 
+Dit wordt opgesteld aan de hand van de waarderingscriteria . 
+ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 50 Bijlage 8 . 
+Afkortingen in de database REFERENTIELIJSTEN Versie 1.4 AARD SPOOR Aard van het spoor Code AKR AWC BA BES BG BKS BOC BPA BPL BPT BRL BU BUN BV CR DIG DK DLT DP DR EG ES FU GA GE GHE GR GRK GT HA HAK HG HKC HI HO HU IN KEL KGO KGR KGV KL KS LAK LAT LG LO LS MI MR MSK MST MU NV NVD NVP OV PA PAK PG PGK PK PL PLW PO POE POT PS PSE PSK REC RPA Omschrijving ( oude ) akkerlaag aardewerk-concentratie balk beschoeiing boorgat bekisting botconcentratie beschoeiing , palen beschoeiing , planken beerput/beerkelder brandlaag bustum visbun bouwvoor crematiegraf dierbegraving drenkkuil doorlaat ( door een muur ) depressie drain erfgreppel esdek fuik gracht geul grafheuvel greppel grafkuil goot haard haardkuil huisgreppel houtskool-concentratie hoefindruk hout hutkom inhumatiegraf kelder ovale kringgreppel ronde kringgreppel vierkante kringgreppel kuil karrenspoor Laklaag latrine laag ophogingslaag stortlaag muurinsteek muur mestkuil muursteen muuruitbraak natuurlijke verstoring dierlijke verstoring plantaardige verstoring oven houten paal paal met paalkuil paalgat paalgat met paalkuil paalkuil plank plaggenwand poel poer potstal ploegspoor ploegspoor , eergetouw ploegspoor , keerploeg recent palenrij ADC ArcheoProjecten Rapport 2223 RPG RPK RPL SG SI SL SPB SPG SS ST STC VL VR VSC VW WA WG WK WL WOO XXX rij paalgaten rij paalkuilen rij planken standgreppel silo sloot spaarboog spitsgracht spitspoor steen steenconcentratie vlek vloer vuursteenconcentratie vlechtwerk waterput weg waterkuil wal woonlaag onbekend COUPEVORM Vorm van de onderkant van het spoor in de coupe . 
+Code Omschrijving ONR onregelmatig PNT punt RND rond VLK vlak KOM komvormig NG niet gecoupeerd VLAKVORM Vorm van het spoor op het horizontale vlak Code Omschrijving LIN lineair ONR onregelmatig OVL ovaal RHK rechthoekig RND rond SIK sikkelvormig VKT vierkant KLEUR Duiding van de kleur . 
+Code BE BL BR GL GN GR OR PA RO RZ WI ZW Referentie beige blauw bruin geel groen grijs oranje paars rood roze wit zwart Daarnaast : D L SCH VL ZR donker licht schoon vuil zeer DBRGR = donkerbruingrijs ( hoofdkleur is dan grijs ) Kerkrade Kloosterraderplein 51 INSLUITSEL Aard van een insluitsel van een vulling . 
+INHOUD Aard van het materiaal van een vondst . 
+Code AS AW BOT BW FE FF GL HK HL HT KER KI LR MET MN NS OKR SCH SL VKL VST Code AW BOT BW COP GL HK HT KER LR MET MIX NS OKR PIJ SCH SL TOU TXT VKL VST XXX Referentie as aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( baksteen , dakpan , tegel ) ijzeroer fosfaat glas houtskool huttenleem hout keramische objecten ( weefgewichten ) kiezel leer metaal mangaan natuursteen oker schelp slak verbrande klei vuursteen Referentie aardewerk vaatwerk bot ( geen schelp ) bouwaardewerk ( keramisch , geen steen ) coproliet glas ( geen slak ) houtskool hout ( geen houtskool , geen plantaardige resten ) keramische objecten ( weefgewichten ed . ) 
+leer metaal ( geen slak ) gemengd natuursteen ( geen vuursteen ) oker pijpenkoppen en -stelen schelp slakken touw ( vaak vlas of bast ) textiel ( wol of draad ) verbrande klei ( geen lemen gewichten ) vuursteen overig TEXTUUR Textuur van een vulling met NEN-classificatie . 
+MONSTER Aard van een monster . 
+Code K ZK MK LK Z-K Code MA MAR MBOT MC14 MCH MCR MD MFF MHK MHT MP MSC MSL MZ NEN K Ks1 Ks2 Ks3 Referentie klei zware klei matig zware klei lichte klei zandige klei Zl ZZl MZl LZl Kz1 Kz2 Kz3 zavel zware zavel matig lichte zavel lichte zavel L SL Z-L L Lz1 Lz3 leem siltige leem zandige leem V V1 V2 V3 Z-V V Vk3 Vk1 Vm Vz1 veen venige klei kleiig veen veen zandig veen Z FZ MZ GZ ILZ LZ IGHZ MGHZ SGHZ V-Z Z Zs1 Zs1 Zs1 Zs2 Zs3 g1 g2 g3 Vz3 zand fijn zand middelgrof zand grof zand iets lemig zand lemig zand iets grindhoudend zand matig grindhoudend zand sterk grindhoudend zand venig zand G FG GG IZHG MZHG SZHG G grind fijn grind grof grind iets zandhoudend grind matig zandhoudend grind sterk zandhoudend grind Gz1 Gz2 Gz3 ST steen HT hout H0 H1 H2 h1 h2 h3 Referentie monster algemeen monster artropoden monster bot monster voor C-14 datering chemisch monster crematiemonster monster voor dendrochronologisch onderzoek fosfaatmonster houtskoolmonster houtmonster pollenmonster schelpenmonster monster slijpplaat zadenmonster voor botanisch onderzoek VERZAMELWIJZE Manier waarop een vondst of monster is verzameld . 
+Code AAC AANV BIGB COUP DETC LICH verwijderd ) MAA MAF MSCH PUNT SCHA SPIT TROF Referentie aanleg coupe ( handmatig schaven ) aanleg vlak of profiel ( handmatig ) bigbag couperen ( handmatig ) detectorvondst lichten ( vondst met omringende grond integraal machinale aanleg machinale afwerking ( of machinaal couperen ) machinaal schaven puntvondst ( ingemeten ) uitschaven ( handmatig ) uitspitten ( handmatig ) troffelen humushoudend matig humeus humusrijk ADC ArcheoProjecten Rapport 2223 Kerkrade Kloosterraderplein 

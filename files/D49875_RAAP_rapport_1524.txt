@@ -1,0 +1,437 @@
+RAAP-RAPPORT 1524 Aanleg Tweede Maasvlakte Gemeente Rotterdam Archeologisch vooronderzoek : Mm veldonderzoek ( MIVO ) , onderW , RAAP RAAP-RAPPORT 1524 Aanleg Tweede Maasvlakte Gemeente Rotterdam Archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) b^ Colofon Opdrachtgever : Havenbedrijf Rotterdam Deskundige namens RACM : drs . P. Stassen Titel : Aanleg Tweede Maasvlakte , gemeente Rotterdam ; Archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Status : eindversie Datum : mei 2007 Auteur : drs . I.A . 
+Schute Projectcode : ROAM Bestandsnaam : RA1524-R0AM.qxd Projectleider : drs . I.A . 
+Schute ARCHIS-vondstmeldingsnummer : pro memorie ARCHIS-waarnemingsnummers : pro memorie ARCHIS-onderzoeksmeldingsnummer/CIS-code : 21143 Autorisatie : drs . A.J . 
+Tol ISSN : 0925-6229 RAAP Archeologisch Adviesbureau B.V. telefoon : 0294-491500 Leeuwenveldseweg 5b telefax : 0294-491519 1382 LV Weesp E-mail : raap @ raap.nl Postbus 5069 1380 GB Weesp e RAAP Archeologisch Adviesbureau B.V. , 2007 RAAP Archeologisch adviesbureau B.V. aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit het gebruik van de resultaten van dit onderzoek of de toepassing van de adviezen . 
+Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ Samenvatting In opdracht van het Havenbedrijf Rotterdam ( projectbureau Tweede Maasvlakte ) heeft RAAP Archeologisch Adviesbureau van 13 t/m 16 maart 2007 een maritiem inventariserend onderzoek ( onderwaterfase ; MI\/0-2 ) uitgevoerd in verband met de voorgenomen aanleg van de Tweede Maasvlakte . 
+Doel van dit onderzoek was op 9 door middelvan akoestisch-geofysische metingen ( side scan sonar en multi beam echoloding ) bepaalde Locaties te bepalen of hier archeologische resten aanwezig waren en , voor zover mogelijk , een eerste indruk te geven van de kwaliteit ( gaafheid en conservering ) , aard , datering en omvang ervan . 
+In totaal zijn 12 duikinspecties met commerciële duikers uitgevoerd . 
+Aan boord van het schip stond een archeoloog door middelvan een video- en audioverbinding met de duiker in contact . 
+In alle gevallen kon het betreffende object ondanks het slechte zicht en de sterke stroming relatief eenvoudig geïdentificeerd worden . 
+Er zijn ankers , ankerkettingen , visnetten en stortstenen aangetroffen , soms in combinatie voorkomend . 
+De archeologische betekenis van deze vondsten wordt als gering ingeschat . 
+Voor deze locaties wordt dan ook aanbevolen geen verder vervolgonderzoek uitte laten voeren . 
+Op locatie 6003 is een scheepswrak aangetroffen . 
+Het betreft een houten schip dat waarschijnlijk niet breder was dan circa 5 m en niet langer dan ruwweg 15 m. Er kon een scheepswand met scheepshuid , spanten en wegering vervolgd worden over een lengte van net iets meer dan 5 m. Er zijn 2 concentraties met stenen ( ballaststenen ? ) 
+en gietijzeren halffabrikaten ( waarschijnlijk lading ) aangetroffen . 
+Hiertussen is nog een constructiedeel aangetroffen , waarschijnlijk een deel van een dek . 
+Aard en datering van het schip blijven daarmee onzeker . 
+Een eerste indruk is dat het een klein transportschip uit de 19e of begin 20e eeuw betreft . 
+Aanbevolen wordt de behoudenswaardigheid van het scheepswrak door middel van een waarderend onderzoek ( MIVO-3 ) te bepalen . 
+Het doel van dit onderzoek moet zijn om de aard , datering , fysieke kwaliteit en dimensie van het wrak zo volledig mogelijk in beeld te krijgen . 
+Op basis van deze gegevens dient een selectieadvies opgesteld te kunnen worden . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 3 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ Inhoud 3 Samenvatting 5 1 Inleiding 7 2 Projectopzet 2.1 Projectorganisatie 2.2 Onderzoeksfasering 9 3 Archeologische verwachting en onderzoeksvragen 3.1 Samenvatting resultaten eerder uitgevoerd onderzoek 3.2 Archeologische verwachting ( ontleend aan Stassen , 2007 ) 12 4 Methoden en technieken 4.1 Vaartuig en bemanning 4.2 Werkproces 15 5 Resultaten 5.1 Inleiding 5.2 Het scheepswrak op locatie 6003 5.3 Resultaten overige onderzoekslocaties 27 6 Beantwoording onderzoeksvragen 31 7 Conclusie en aanbevelingen 32 Literatuur 32 Gebruikte afkortingen 33 Verklarende woordenlijst 34 Overzicht van figuren , tabellen en bijlagen RAAP-rapport 1524 / eindversie 31-05-2007 [ 4 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP *~' 1 Inleiding Kader In opdracht van Havenbedrijf Rotterdam B.V. ( Projectorganisatie Maasvlakte 2 ) heeft RAAP Archeologisch Adviesbureau in samenwerking met Noordhoek Diving Company BV tussen 13 en 16 maart 2007 een archeologisch-maritiem inventariserend veldonderzoek ( onderwaterfase , karterend ) uitgevoerd in verband met de aanleg van de Tweede Maasvlakte in de gemeente Rotterdam . 
+De realisatie van de Tweede Maasvlakte moet de Rotterdamse vraag naar ruimte voor haven- en industriële activiteiten naar verwachting tot 2033 kunnen opvangen . 
+In totaal wordt 4 km zeewering aangelegd , waarbinnen ruimte ontstaat voor circa 1000 ha nieuw havengebied . 
+De Tweede Maasvlakte komt direct ten westen van de Eerste Maasvlakte te liggen . 
+Het gebied staat afgebeeld op kaartblad 37A van de topografische kaart van Nederland ( schaal 1:25.000 ) . 
+Het gebied is op dit moment voornamelijk in gebruik als recreatief watergebied ( zwemmen , surfen en sportvisserij ) . 
+Doelstelling Het archeologisch onderzoek diende te worden uitgevoerd omdat realisatie van de plannen zou kunnen leiden tot aantasting of vernietiging van mogelijk aanwezige archeologische resten . 
+Doel van het onderzoek was het opsporen van deze resten en , indien mogelijk , een eerste indruk geven van de aard , datering en conservering ervan . 
+Het onderzoek en de rapportage Het onderzoek bestond uit een aantal duikinspecties op oorspronkelijk 11 mogelijk archeologisch waardevolle locaties die in de zogenaamde opwaterfase met akoestischgeofysische technieken waren aangetroffen . 
+Lopende het onderzoek vielen 2 locaties af nadat daar aanvullende akoestisch-geofysische metingen waren gedaan ( figuur 1 ) . 
+In dit rapport worden in hoofdstuk 2 de projectopzet en -fasering kort beschreven , in hoofdstuk 3 de archeologische verwachting en onderzoeksvragen ( op basis van de samengevatte resultaten van de verschillende vooronderzoeken ) , waarna in hoofdstuk 4 de methode en technieken en in hoofdstuk 5 de resultaten van het onderzoek aan bod komen . 
+In hoofdstuk 6 worden de onderzoeksvragen uit het Programma van Eisen beantwoord . 
+In hoofdstuk 7 volgen tenslotte de conclusies en aanbevelingen . 
+Kwaliteit RAAP Archeologisch Adviesbureau en de door RAAP toegepaste procedures zijn goedgekeurd door het College voor de Archeologische Kwaliteit ( CvAK ) , de instelling die het beheer heeft over de Kwaliteitsnorm Nederlandse Archeologie ( KNA ) en die valt onder de Stichting Infrastructuur Kwaliteitsborging Bodembeheer ( SIKB ; http : //www.sikb.nl ) . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 5 ] RAA P Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Het onderzoek is uitgevoerd volgens het door het RACM opgestelde Programma van Eisen ( PvE ; Stassen , 2007 ) . 
+Zie tabel 1 voor de dateringen van de in dit rapport genoemde archeologische perioden . 
+Enkele vaktermen worden achter in dit rapport beschreven ( zie verklarende woordenlijst ) . 
+Figuur 1 . 
+Ligging van de onderzochte locaties en de contouren voor de te realiseren Tweede Maasvlakte ; inzet : ligging in Nederland ( ster ) . 
+Periode Nieuwe tiji Late Middeleeuwen Vroege Middeleeuwe'n '' Romeinse tijd Ijzertijd Bronstijd Neolithicum ( nieuwe steentijd ) Mesolithicum ( midden steentijd ) Paleolithicum ( oude steentijd ) RAAP-rapport 1524 / eindversie 31-05-2007 Tabel 1 . 
+Archeologische Datering 1050 300.000 tijdschaal . 
+heden 1500 na Chr . 450 12 800 2000 4900 8800 na Chr . voor Chr . • : m voor Chr . voor Chr . voor Chr . voor Chr . [ 6 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ 2 Projectopzet 2.1 Projectorganisatie Het archeologisch onderzoek is in opdracht van het Havenbedrijf Rotterdam door 2 partners uitgevoerd . 
+Noordhoek Diving Company was verantwoordelijk voor het vaartuig , de positionering en het duikwerk , terwijl het archeologisch werk aan boord door RAAP Archeologisch Adviesbureau werd uitgevoerd . 
+Verantwoordelijken en contactpersonen voor de verschillende partijen waren Abram de Pagter ( Havenbedrijf Rotterdam ) , David van der Bijl ( Noordhoek Diving Company ) en Ivar Schute ( RAAP Archeologisch Adviesbureau ) . 
+2.2 Onderzoeksfasering In de terrestrische archeologie heeft zich de afgelopen jaren , onder invloed van de ondertekening van het Verdrag van Malta en de hiermee samenhangende herziening van de Monumentenwet , een getrapt opgezet onderzoeksstramien ontwikkeld ( de cyclus van de archeologische Monumentenzorg ) die op het 'natte ' nog geen gemeengoed is geworden . 
+Een probleem hierbij was namelijk het gebrek aan gekwalificeerd personeel , heel specifiek archeologen-duikers . 
+Om dit probleem blijvend te kunnen ondervangen , is ervoor gekozen een methodische opzette ontwikkelen waarbij archeologen vanaf een schip met professionele duikers samenwerken . 
+Opgemerkt moet worden dat de voortdurende verbetering van akoestisch-geofysische technieken dit nu mogelijk maakt . 
+Het project Aanleg Tweede Maasvlakte is een van de eerste projecten waarbij dit onderzoeksstramien is uitgetest . 
+Door de verschillen in methodiek is de concrete aanpak in de verschillende onderzoeksfasen uiteraard verschillend met die op het 'droge ' , maar het onderzoeksstramien is in principe hetzelfde . 
+Archeologisch onderzoek is er heden ten dage op gericht vindplaatsen in kaartte brengen , deze te waarderen en in het geval een vindplaats daadwerkelijk behoudenswaardig is , de vindplaats blijvend te beschermen of op te graven . 
+( In sommige gevallen kan overigens gekozen worden voor een vorm van uitvoeringsbegeleiding . ) 
+Al het onderzoek tot het moment dat een bevoegd gezag een bindende uitspraak doet over de behoudenswaardigheid valt onder de noemer 'archeologisch vooronderzoek ' . 
+Hierin wordt een onderscheid gemaakt tussen bureauonderzoek en het navolgende inventariserend veldonderzoek . 
+Op het land wordt dit inventariserend veldonderzoek aangeduid met de afkorting IVO en op het water met de afkorting MIVO ( maritiem-IVO ) . 
+Een IVO is normaliter onderverdeeld in een karterende fase ( waar zit het ? ) 
+en - als er iets wordt aangetroffen - een waarderende fase ( wat is het waard ? ) . 
+In de RAAP-rapport 1524 / eindversie 31-05-2007 [ 7 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ maritieme archeologie is dit niet anders . 
+Het onderscheid zit hem in de toegepaste technieken en methoden . 
+Na het bureauonderzoek volgt de zogenaamde'opwaterfase ' , het MIVO-1 . 
+Dit is een kartering door middel van akoestisch-geofysische technieken . 
+In het geval verdachte locaties worden aangetroffen , volgt de 'onderwaterfase ' , het MI\/0-2 , een nadere kartering en identificatie met behulp van de inzet van een archeoloog , ondersteund door professionele duikers . 
+Dit rapport doet verslag van het MIVO-2 . 
+Daarmee wordt de karterende fase van onderzoek afgesloten . 
+De aanbevelingen van dit onderzoeksverslag moeten gericht zijn op het eventueel uit te voeren vervolgonderzoek ( waarderend onderzoek , het MIVO-3 ) en/of moeten betrekking hebben op de inrichting van de archeologische begeleiding . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 8 ] RAAP Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) 3 Archeologische verwachting en onderzoeksvragen 3.1 Samenvatting resultaten eerder uitgevoerd onderzoek Het onderhavige onderzoek borduurt voort op het eerder uitgevoerde bureauonderzoek en diverse akoestisch-geofysische onderzoeken ( Baggeley , 2005 ; Hessing e.a. , 2005 ; Brenk & Van Mierlo , 2006 ) . 
+Deze geofysische metingen betroffen side scan sonaropnamen en multibeam echolood opnamen . 
+In eerste instantie zijn in het plangebied 94 objecten of bodemverstoringen waargenomen . 
+Vervolgens is in detail gekeken of deze objecten daadwerkelijk door baggerwerkzaamheden of inklinking van de waterbodem worden bedreigd . 
+Bleek dit inderdaad het geval dan is getracht op basis van de geofysische beelden de objecten te identificeren ( bijvoorbeeld overboord geslagen containers zijn vaak duidelijk herkenbaar ) . 
+Deze analyses reduceerden de lijst tot 13 'verdachte ' locaties . 
+Hiervan zijn er nog eens 2 afgevallen , om de simpele reden dat ze buiten het plangebied bleken te liggen . 
+Op deze wijze bleef een lijst van 11 mogelijk archeologisch waardevolle objecten of locaties over . 
+Lopende het hier gepresenteerde onderzoek zijn op 2 locaties ( 6017 en 6018 ; de nummering is ontleend aan de rapportage van Periplus Archeomare ) nog aanvullende multibeam opnames gemaakt . 
+Op basis van de resultaten van deze metingen zijn ook deze 2 locaties voor nader onderzoek komen te vervallen . 
+De lijst van uiteindelijk door middelvan duikers te inspecteren locaties bestond op die manier uit 9 locaties of objecten ( tabel 2 ; zie ook figuur 1 ) : Nr . 
+Beschrijving 6003 6006 Object met slijpgeul Langwerpig object , kabel of pijp Onregelmatig gevormd Object met sLijpgeul Lepelvormig object met slijpgeul Object met slijpgat Kabel of leiding 6010 6012 6022 6057 6081 6082 N2 Klein object Klein object Klein rond object met groot slijpgat rondom RDx 60366 RDy 444693 B ( m ) 2,15 H ( m ) 1,05 445319 L ( m ) 15,75 102 60745 D ( m ) 1,0 0,15 18,65 17,9 60691 445310 19 3,2 0,65 17,75 57882 441501 5,9 2,75 0,5 13,3 60059 59885 443709 444236 1,4 72 0,9 0,4 0,6 0,2 16,05 18,75 59997 59990 60272 443588 443579 1,3 0,6 0,4 0,2 17,1 17,05 444820 0,9 1,2 0,4 0,8 0,5 18,35 1 Tabel 2 . 
+Overzicht van de onderzochte locaties . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 9 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ 3.2 Archeologische verwachting ( ontleend aan Stassen , 2007 ) Het onderzoekspotentieelis relatief hoog door de ligging van het plangebied aan de monding van de Maas . 
+Hierbij moet wel worden opgemerkt dat dit dynamische kustlandschap een complicerende factor is voor zowel het archeologische vooronderzoek als voor het opstellen van een archeologische verwachting . 
+In algemene zin kan gesteld worden dat , ten aanzien van de te verwachten scheepsresten , het scheepstype zeer sterk kan variëren . 
+Er moet rekening gehouden worden met scheepstypen die verbonden kunnen worden meteen lokale , regionale of interregionale inzet . 
+Verder zal het duidelijk zijn dat een vaarroute in het verleden vanuit oogpunt van bevaarbaarheid gemarkeerd werd . 
+Deze vaarwegmarkeringen zullen eveneens een archeologische weerslag in de waterbodem hebben . 
+Naast de functie van de Maasmonding als vaarroute kan in het plangebied ook rekening worden gehouden met archeologica afkomstig van andere watergebonden activiteiten . 
+Hierbij kan bijvoorbeeld gedacht worden aan de visserij , jacht , scheepsonderhoud , waterbouwkundige werken e.d . 
+De informatiewaarde en kwaliteit zijn sterk wisselend . 
+Belangrijk voor de detectie en de preservatie van de wrakken is de plaatselijke dynamiek van de zeebodem . 
+Met name in het noordwestelijke deel van het zandwinningsgebied komen 'zandgolven' ( dikte 5-10 m ) , die actief migreren , voor . 
+De migratie van deze zandgolven wordt geschat tussen de 0-10 m per jaar . 
+Naast de hiervoor genoemde 'natuurlijke' bodemdynamiek van de acfeve laag moet ook rekening worden gehouden met een lokaal verstoorde bodemdynamiek als gevolg van objecten op , of stekend uit , de waterbodem . 
+Deze objecten , die vaak van archeologische aard zijn , kunnen verantwoordelijk zijn voor het ontstaan van lokale zandplaten en slijpgeulsystemen . 
+In dit kader kan ook het verschijnsel scheepswrak op drift aan de orde komen . 
+Het gaat hierbij om scheepswrakken die door bepaalde waterstromingen uit de zeebodem losgewoeld worden en vervolgens door stromingen verplaatst worden . 
+In het laatste geval kan het om substantiële archeologische resten gaan van een relatief hoge ouderdom . 
+3.3 Onderzoeksvragen De voor dit onderzoek relevante onderzoeksvragen zijn in het Programma van Eisen ( Stassen , 2007 ) als volgt geformuleerd : -Indien er archeologische resten worden gevonden , wat is dan de aard , conservering en ouderdom ervan ? 
+-Welk type vindplaatsen vertegenwoordigen de eventuele archeologische resten ? 
+Is hierin een bepaald patroon te herkennen ? 
+-In welke lagen of locaties van de waterbodem zijn archeologische resten of aanwijzingen voor land- of watergebruik aanwezig ? 
+-In welke lagen of locaties van de waterbodem zijn nog meer archeologische resten of aanwijzingen voor of watergebruik anderszins te verwachten ? 
+- In hoeverre is het mogelijk om generalisaties op te stellen voor de conservering en gaafheid van vindplaatsen op verschillende plaatsen van de waterbodem ? 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 10 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ Indien geen archeologische resten worden gevonden , zijn er dan aanwijzingen dat dit het gevolg is van de eroderende werking van waterstromen , van sedimentatie of van menselijk handelen ? 
+•In hoeverre zeggen de resultaten van het onderzoek iets over menselijke activiteiten in het gebied in het verleden ? 
+•In hoeverre is het natte inventariserende vooronderzoek te verbeteren ? 
+Hierbij gaat het zowel om de gebruikte methodiek als om de procesgang . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 11 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoeic : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAA P 4 Methoden en technieken 4.1 Vaartuig en bemanning Vaartuig Het vaartuig dat gebruikt is voor de duikinspectie is een zogenaamde multicat , genaamd 'Neptunus ' , netto tonnage 32 ton ( figuur 2 ) . 
+De lengte van het vaartuig bedroeg 22,3 m , de breedte 8,5 m en het vaartuig had een diepgang van 1,9 m. Aan boord was een kraan met DPGS , een decompressietank en zuurstofvoorziening . 
+Figuur 2 . 
+De Neptunus . 
+Bemanning De bemanning bestond uit de volgende personen : Gerrit van de Marel Ben Oskam Jos von Unen Hans Spelt Guido Hartmann Rob Patty Dave Beije IvarSchute schipper matroos duikgroepleider duiker/duikgroepleider duiker duiker leerling-duiker archeoloog RAAP-rapport 1524 / eindversie 31-05-2007 Noordhoek Diving Company Noordhoek Diving Company Noordhoek Diving Company Noordhoek Diving Company Noordhoek Diving Company Noordhoek Diving Company Noordhoek Diving Company RAAP Archeologisch Adviesbureau [ 12 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP 4.2 Werkproces Positionering De positionering van het schip vond plaats door het schip met behulp van satellietnavigatie met 3 ankers boven de betreffende locaties te manoeuvreren . 
+Het DGPS-systeem was op de punt van de kraan bevestigd , zodat de duiker op de meter exact boven de met multibeam-data bepaalde locatie te water kon worden gelaten . 
+Figuur 3 . 
+Duiker met video- en audioverbinding . 
+Duikproces De duiker werd in droogpak gehesen en was op zijn helm voorzien van een video- en audioverbinding met het schip ( figuur 3 ) . 
+De archeoloog en duikgroepleider stonden op die manier met de duiker in verbinding ( figuur 4 ) . 
+De duiker daalde aan een met gewichten voorziene staalkabelaf tot op de bodem . 
+Daar had hij de beschikking over een touw met een lengte van 5 m. Door naar het uiteinde van dit touw te zwemmen of kruipen kon hij een 'zoekslag ' maken met een diameter van 10 meter . 
+Afhankelijk van de stroming kon deze zoekslag vergroot worden . 
+In voorkomende gevallen werd het schip , met de duiker beneden , een paar meter verlegd in de gewenste richting . 
+Op verzoek van de archeoloog werden tijdens de inspecties video-opnames gemaakt , de bodem met een sonderingsijzer of prikstok afgeprikt ( tot een maximale diepte van één meter ) , objecten verzameld of objecten ingemeten . 
+Ten behoeve van het onderzoek met een prikstok of het inmeten van objecten werden naar believen basismeetlijnen uitgezet . 
+In totaal zijn 12 duikinspecties uitgevoerd , in lengte variërend van 4 tot 43 minuten ( tabel 3 ) . 
+De opgegeven waarden zijn afkomstig van Noordhoek Diving Company . 
+De totale duiktijd bedroeg 4 uur en 5 minuten . 
+Gegevens over stroming en zicht ontbreken ; in algemene zin kan worden gesteld dat de stroming relatief sterk was en het zicht circa 0,5 m. RAAP-rapport 1524 / eindversie 31-05-2007 [ 13 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAA P Met uitzondering van de duikinspectie die in eerste instantie op locatie 6010 is uitgevoerd ( zie § 5.3 ) , bleek de positionering door middelvan DGPS op basis van de multibeam-opnamen iedere keer een maximaal effect te sorteren : de duiker had in alle gevallen binnen enkele minuten het betreffende object gelokaliseerd , ondanks het slechte zicht ( ca . 
+0,5 m ) en de sterke tot zeer sterke stroming . 
+Nr . : Locatie nr . : Datum : Duiker : 1 6012 13-03-2007 Guido Hartmann 2 6022 13-03-2007 3 6082 4 Duiktijd : Duikdiepte : Tabel 3 . 
+Overzicht van de uitgevoerde 11 min 14 m Rob Patty 4 min 16 m 13-03-2007 Rob Patty 4 min 20 m 6081 13-03-2007 Rob Patty 4 min 20 m 5 6010 14-03-2007 Rob Patty 26 min 18 m 6 6006 , 6010 14-03-2007 Guido Hartmann 42 min 19 m 7 6003 14-03-2007 Hans Spelt 40 min 18 m 8 N2 15-03-2007 Rob Patty 6 min 18 m 9 6057 15-03-2007 Guido Hartmann 17 min 20 m 10 6010 15-03-2007 Hans Spelt 6 min 19 m 11 6003 16-03-2007 Hans Spelt 43 min 19 m 12 6003 16-03-2007 Guido Hartmann 42 min 19 m duikinspecties . 
+RAAP-rapport 15Z4 / eindversie 31-05-2007 [ 14 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP 5 Resultaten 5.1 Inleiding In totaal zijn 9 locaties ( zie § 3.1 ) door middelvan een duikinspectie onderzocht . 
+Op locatie 6003 werd een scheepswrak aangetroffen . 
+Hier zijn meerdere duiken uitgevoerd ; de resultaten hiervan worden apart in § 5.2 beschreven . 
+De resultaten van de overige duikinspecties op de overige locaties worden in tabelvorm in § 5.3 beschreven . 
+Opvallend is dat er relatief veel ankers en ankerkettingen zijn aangetroffen . 
+Naast de in § 5.3 vermelde objecten zijn , curieus genoeg , bij het ophalen van de ankers van de Neptunus nog een anker en een ankerketting opgevist . 
+Deze objecten zijn niet uit het akoesfsch-geofysisch onderzoek naar voren gekomen . 
+Er is klaarblijkelijk sprake van relatief veel'zwerfmetaal ' . 
+Ook vermeldenswaardig is dat in 2 gevallen een stortsteen is aangetroffen in de directe nabijheid van een dam van dezelfde steen . 
+Een vergelijking van de akoestisch-geofysische data met luchtfoto 's kan dergelijke objecten er wellicht in de opwaterfase eruit filteren . 
+O nP O^ÛA O ^JID m^Hiuifi^-vtJn aoM^cf^w foeJùroaJ^e . 
+Sc I ^twXc . '' 
+f-^^'o-r /• '' < AJje-f- fp ie töiö / Figuur 5 . 
+Schetsmatige plattegrond van het aangetroffen scheepswrak . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 15 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP 5.2 Het scheepswrak op locatie 6003 Op locatie 6003 werd bij duik nummer 7 ( tabel 3 ) een deel van een scheepswrak aangetroffen . 
+Bij duik nummer 11 en 12 werd dit wrak vervolgens nader verkend . 
+Figuur 5 geeft een schetsmatig overzicht ( 'de veldtekening ' ) weer van de aangetroffen resten zoals die hieronder beschreven worden . 
+Op figuur 6 zijn de multibeam data van het vergelijkbare gebied weergegeven . 
+Figuur 6 . 
+Multibeamopname van het scheepswrak . 
+Scheepshuid , spanten en wegering Over een lengte van drca 5 m kon een scheepswand ( scheepshuid ) met een hoogte van circa 70 cm worden vervolgd . 
+De spanten staken hier maximaal nog 30 cm bovenuit . 
+De aangetroffen scheepshuid bestond uit 3 planken boven elkaar , bevestigd aan in totaal 10 nog zichtbare spanten ( figuur 7 ) . 
+De planken van de scheepshuid hadden een dikte van 4,5 cm en een hoogte van 17 cm . 
+De spanten zaten van hart tot hart gemeten 50 tot 55 cm uit elkaar , zijn gezaagd en waren met houten pen-/ gatverbindingen aan de planken van de scheepshuid bevestigd ( figuur 7 ) . 
+De doorsnede van de pen bedroeg 28 mm . Enkele spanten waren gebroken . 
+Eén spantdeel lag los tussen scheepshuid en binnenwand en is derhalve geborgen met het oog op een dendrochronologische analyse ( vondstnummer 5 ) . 
+De binnenwand is niet gemeten , omdat er teveel stortstenen of ballaststenen ( ? ) 
+op lagen . 
+De duiker heeft echter visueel een beplanking van de binnenzijde van de inhouten ( wegering ) waargenomen . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 16 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAA P Figuur 7 . 
+Onderwaterfoto van de scheepshuid , een verbindingspen en een spant . 
+Ballast en lading Parallel aan de binnenzijde van de scheepswand zijn metalen 'broodjes ' aangetroffen die volgens de duiker ( bij de eerste duik ) keurig in verband/gelid lagen . 
+Videobeelden bevestigen dit niet . 
+Deze broodjes hadden een lengte van circa 40 cm . 
+Er is er eentje geborgen ( vondstnummer 3 ; figuur 8 ) . 
+Aan de noordzijde van de scheepswand is een kleiner formaat aangetroffen . 
+Ook van dit model is er eentje geborgen ( vondstnummer 2 ) . 
+Los verspreid over de metalen broodjes , mogelijk te interpreteren als lading , zijn talloze stenen aangetroffen , aangeduid als stortstenen . 
+Deze onregelmatige gevormde maar gerolde stenen hadden een omvang van gemiddeld 30 cm . 
+Zes meter ten noordoosten van de scheepswand is een tweede grote concentratie van dergelijke stenen aangetroffen . 
+In deze concentratie zijn geen houten constructiedelen waargenomen , noch overige vondsten gedaan . 
+Overige constructiedelen Bij duik nummer 11 zijn in de concentratie metalen broodjes en stortstenen naast de scheepshuid 3 evenwijdige palen aangetroffen , liggend en haaks op de scheepswand , ongeveer 3 m ervandaan . 
+Dein doorsnede rechthoekige palen van 15x13 cm zijn afgedekt door wat een houten vloertje lijkt te zijn , aan de oostzijde is het geheel duidelijk afgebroken . 
+Deze palen hadden gaten , klaarblijkelijk van verdwenen pen-/ gatverbindingen . 
+Eronder , vanaf de oostzijde gezien , zat een minstens 80 cm diepe holle ruimte . 
+Wellicht kan het geheel als een deel van dek worden geïnterpreteerd . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 17 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP Figuur 8 . 
+Gietijzeren halffabrikaat . 
+ROAM Overige vondsten en waarnemingen Bij duikinspectie 11 en 12 is een visnet waargenomen van relatief recente makelij . 
+Dit net is waarschijnlijk achter een aantal stenen blijven haken en heeft geen relatie met het scheepswrak . 
+Ook is een overall aangetroffen , die gezien de moderne drukknopen later verloren moet zijn ( vondstnummer 6 ) . 
+Ten slotte is er een handgemaakte koperen koekenpan zonder steel ( uitgeklopt ) geborgen ( vondstnummer 7 ; figuur 9 ) . 
+Deze koekenpan heeft waarschijnlijk deel uitgemaakt van descheepsinventaris . 
+Aan de zuidwestzijde , circa 50 cm buiten het schip is een circa 40 kilo zware concretie aangetroffen waarin een houten klos zichtbaar was , evenals naar later bleek een metalen katrol . 
+Daarnaast is een metalen haak met deze vondsten verkit . 
+Het geheel is geborgen ( vondstnummer 4 ; figuur 10 ) . 
+Ruimtelijke dimensie Bij duik nummer 11 is getracht de ruimtelijke dimensie van het scheepswrak te bepalen . 
+Daartoe zijn 2 meetlijnen uitgezet . 
+De eerste staat haaks op de scheepshuid ; het nulpunt ligt ter hoogte van het 3e spant ( gezien vanuit het zuiden ) . 
+De lijn heeft een lengte van 6 m. Ter hoogte van het 2 meterpunt is een tweede lijn uitgezet in noordelijke richting , parallel aan de scheepswand . 
+Deze lijn was 12 m lang . 
+Met behulp van een sondeerijzer is getracht de diepte van een eventuele bodem , een dek of aanwezige lading/inventaris te bepalen . 
+Dit verliep uiterst moeizaam . 
+In wezen kan alleen bepaald worden of er obstakels in de zin van hout , steen of metaal in de bodem zaten , of niet . 
+Dit overzicht geeft overigens wel goed het oorzakelijke verband aan tussen de mate van reliëf in de zeebodem zoals gemeten bij het akoestischgeofyisch onderzoek en de aanwezigheid van obstakels in de zeebodem . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 18 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) ^^^^^ '' ^5T7 RAA P Figuur 9 . 
+Koperen koekenpan . 
+V-r^B-7- I ROAIVI 07 Figuur 10 . 
+Concretie met metalen katrol ( links ) , haak ( rechts ) en een houten klos ( bovenop ) . 
+RAAP-rapport 1524 / eindversie 31-05-2007 : i9 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ Over een lengte van minimaal 10 m werden obstakels op een diepte van 20 tot 50 cm aangeprikt . 
+In de breedte was dit , gerekend vanaf de scheepshuid , slechts 3 m. Het voert echter te ver om hier de maatvoering van het schip uit af te leiden . 
+De omliggende waterbodem bestaat volgens de waarneming van de duikers uit zand . 
+Op enkele geborgen objecten zat echter een siltig sediment . 
+Dit werd ook waargenomen tijdens het onderzoek met het sonderingsijzer . 
+Rond het wrak zijn duidelijke stroomribbels zichtbaar ( figuur 6 ) . 
+Interpretatie De dimensie , functie en datering van het schip zijn niet geheel duidelijk . 
+De hoogte van de planken van de nog ( deels ) aanwezige scheepshuid duiden op een relatief klein schip , misschien 4 tot 5 m breed . 
+Een deel van een dek lijkt nog aanwezig te zijn . 
+Anderzijds is een groot deel van de constructie in elk geval niet meer intact . 
+Het is onduidelijk of er nog scheepsdelen onder het zand verborgen liggen ; er zijn in elk geval geen aanwijzingen voor . 
+Er zijn 2 zones met stortstenen en gietijzeren broodjes . 
+Deze broodjes of halffabrikaten zijn waarschijnlijk als lading te interpreteren . 
+De stortstenen kunnen ook als ballast gefungeerd hebben ; het kan echter ook lading betreffen , bijvoorbeeld stenen voor dijkbouw ( hoewel het formaat daar niet op wijst ) . 
+Omdat er maar een beperkt zicht is op de constructie van het schip , is de aard en functie van het schip moeilijk te bepalen . 
+Het kan een klein transportschip geweest zijn . 
+Het geborgen spant kon helaas niet dendrochronologisch onderzocht worden , hiervoor bezat het spant te weinig jaarringen ( mond . 
+med . 
+Tamara Vernimmen , RING ) . 
+Daarmee geven alleen de koekenpan en de metalen katrol een idee van de ouderdom van het schip . 
+Voor zover zichtbaar is de katrol in zijn geheel van metaal , hetgeen duidt op een datering eind 19e eeuw . 
+De grootte van katrol met haak ( respectievelijk ca . 
+25 cm en 40 cm ) doet echter sterk betwijfelen of deze daadwerkelijk tot het schip behoorde ( mond . 
+med . 
+Ton van der Horst , Scheepvaartmuseum Amsterdam ) . 
+De koekenpan is niet gedraaid maar uitgeklopt en heeft geen zichtbare tinlaag aan de binnenzijde . 
+De sterke verwering kan hier overigens debet aan zijn . 
+Dergelijke pannen zijn - ruwweg - al sinds 17e eeuw in gebruik . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 2 0 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP 5.3 Resultaten overige onderzoekslocaties Locatie nr . : 6006 Oorspronkelijke Langwerpig object , kabel of pijpleiding omschrijving : RDx : 60.745 RDy : 445.319 Lengte : 102 m Breedte : 1,0 m Hoogte : 0,15 m Diepte ( -NAP ) : 17,9 m Resultaten Op een zandbodem is een met pokken begroeide ankerketting duikinspectie aangetroffen met schalmen van 30 cm lengte en 20 cm 14 maart 2007 : breedte . 
+De ankerketting is over een lengte van 30 m vervolgd . 
+Opvallend is dat de oriëntatie ( noordoost-zuidwest , ca . 
+230 graden ) niet overeenstemt met de multibeam-beelden . 
+Parallel aan de ankerketting is een losse plank aangetroffen die geborgen is ( vondstnummer 1 ) . 
+Overigens is op locatie 6010 , mogelijk samenhangend met 6006 , bij dezelfde duik , ondanks de goede positionering en het maken van meerdere zoekslagen , niets aangetroffen . 
+De houten plank heeft een lengte van 2,35 m en loopt in de breedte taps toe , van 19 cm naar 12 cm . 
+Het betreft een eiken plank waarop geen sporen van dissel of bijl zijn te bekennen . 
+Op regelmatige afstand ( 40 cm ) zitten steeds 2 gaten van gesmede nagels ( vierkant met eveneens vierkante kop ) . 
+Waarschijnlijk vormde de plank een deel van een scheepshuid en heeft deze geen relatie met de aangetroffen ketting . 
+De grootte van de schalmen van de ketting staat in geen verhouding tot de relatief geringe grootte van het schip zoals de hoogte van de plank dit suggereert . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 21 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Locatie nr . : 6010 Oorspronkelijke Onregelmatig object met sLijpgeul RAAP omschrijving : RDx : 60.728 RDy : 445.339 Lengte : 19,0 m Breedte : 3,2 m Hoogte : 0,65 m Diepte ( -NAP ) : 17,75 m Resultaten Er is 2 maal naar dit object gedoken op basis van de eerst duikinspectie verstrekte multibeam-coördinaten ( duik 5 en 6 ; tabel 3 ) . 
+Bij 14 maart 2007 : elke duik zijn meerdere zoekslagen uitgevoerd ( bij tweede duik tot 13 m ) . 
+Voor de tweede duik heeft het schip zich opnieuw gepositioneerd . 
+Het onderzoek is zonder resultaat gebleven . 
+Wel werd bij het ophalen van een anker een relatief recente ( want nauwelijks gecorrodeerde en begroeide ) ankerketting meegetrokken . 
+Deze ketting had schalmen van circa 10 cm . 
+Opvallend is dat er coördinaatfouten zitten in het rapport Periplüs Archeomare . 
+Er zit een verschil tussen de tekening en de lijst met coördinaten . 
+Mogelijk is dit de oorzaak van de negatieve waarneming . 
+Op basis hiervan werd besloten deze locatie nog een keer met multibeam echosound te meten . 
+Resultaten Met op dezelfde dag nieuwe verstrekte coördinaten is een duikinspectie derde maal naar deze locatie gedoken . 
+Nu bleken de verstrekte 15 maart 2007 : coördinaten exact te kloppen ( Nb . 
+De locatie zit circa 30 m naar het zuidwesten ) . 
+Er is een anker aangetroffen met daaraan een ankerketting , naar alle waarschijnlijkheid dezelfde als op locatie 6006 . 
+De maat van de schalmen en mate van verwering is identiek . 
+In het anker zijn twee visnetten blij ven hangen , waarvan een vrijwel complete recentelijk . 
+Locatie nr . : 6012 Oorspronkelijke Lepelvormig object met driehoekige slijpgeul omschrijving : RDx : 57.897 RDy : 441.532 Lengte : 5,9 m Breedte : 2,75 m Hoogte : 0,5 m Diepte ( -NAP ) : 13,3 m Resultaten Op deze locatie is een slik-/zandbodem aangetroffen . 
+Over een duikinspectie kleine bult zat een strakgespannen en deels ingegraven 13 maart 2007 : vissersnet . 
+Waarschijnlijk is het verloren en op natuurlijke wijze deels ingegraven geraakt . 
+Mogelijk is dit versneld of geïnitieerd door netgewichten . 
+Op die manier is een bult sediment in het net 'gevangen ' geraakt , hetgeen vervolgens tot de vorming van een slijpgeultje aan de noordzijde heeft geleid . 
+Het net zat minstens 60 cm ingegraven . 
+Andere voorwerpen zijn niet aangetroffen . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 22 ] Plangebted Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Locatie nr . : 6017 Oorspronkelijke Patch of dark reflectors with possible structures RAAP omschrijving ( op basis sonarbeeLd ) : RDx ( sonar ) : 58.900 Rdy ( sonar ) : Lengte : 444.829 - Breedte : - Hoogte : - Diepte ( -NAP ) : - Resultaten Na de op 15 maart 2007 uitgevoerde muLtibeam echoloding duikinspectie : is deze locatie voor nadere kartering komen te vervallen SURVEYDA'A Figuur 11 . 
+Multibeam-opname van locatie nummer 6017 . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 23 ] RAA P Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Locatie nr . : 6018 Oorspronkelijke Patch of dark reflectors with possible structures omschrijving ( op basis sonarbeeLd ) : RDx ( sonar ) : 58.742 Rdy ( sonar ) : 444.529 Lengte : Hoogte : - Diepte ( -NAP ) : - Resultaten Na de op 15 maart 2007 uitgevoerde multibeam echoloding duikinspectie : is deze locatie voor nadere kartering komen te vervallen Breedte : ' ys î ï - 1 4*i '' '' i '' i^ , . 
+- - i ''i :1 ' , 3 i Î l r / / ' - - 1 3+ '' 1 - - -MtMfcfW » , , i -f -f ; / ^• , + 'f •+ '' * • / + tté^'^vm* \ + - + + : . 
+• -- ' •1- • ... 1* ' '• \ \ ! 
+\ UU & MM ./ / + - * • • + + + _j_ '^ +- + / ' +• + •f ï '* '' ' `` '' ' 3 • 39 '' - 414 > 4 « IA' + 4. « » . 
+^ 1 ? ' 
+- •• ^^^HBi 'VMI ; ï-i . 
+- .. Nawtayer .. - ^ 'i •' f •J s r . 
+a ' , , ï i , , ä - ri Î Figuur 12 . 
+Multibeam-opname van locatie nummer 6018 . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 24 ] - Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Locatie nr . : 6022 Oorspronkelijke Object metslijpgeulaan de noordzijde RAAP omschrijving : RDx : 60.045 RDy : 443.692 Lengte : l,4m Breedte : 0,9 m Hoogte : 0,6 m Diepte ( -NAP ) : 16,05 m Resultaten Op een zandbodem met stroomribbels is een stortsteen duikinspectie 13 maart 2007 : aangetroffen . 
+De betreffende duiklocatie ligt op minder dan 100 m van een uit dergelijke stenen bestaande dam , terwijl de waterdiepte circa 16 meter bedraagt . 
+De damhoogte is daarmee meer dan 18 m. De basis van de dam kan niet ver van de aangetroffen steen liggen . 
+Of de steen is hiervan afkomstig en iets weggerold of bij het opwerpen al verloren gegaan . 
+Locatie nr . : 6057 Oorspronkelijke Kabel en/of ankerketting omschrijving : RDx : 59.885 RDy : 444.236 Lengte : 72 m Breedte : 0,4 m Hoogte : 0,2 m Diepte ( -NAP ) : 18,75 m Resultaten Op een zandbodem is een met pokken begroeide ankerketting duikinspectie aangetroffen met schalmen van 30 cm lengte en 20 cm breedte . 
+15 maart 2007 : De ankerketting is over een lengte van circa 10 m vervolgd . 
+Locatie nr . : 6081 Oorspronkelijke Klein object met slijpgeul aan de noordzijde omschrijving : RDx : 59.997 RDy : 443.588 Lengte : 1,3 m Breedte : 1,2 m Hoogte : 0,4 m Diepte ( -NAP ) : 17,0 m Resultaten Op een zandbodem met stroomribbels is een stalen anker duikinspectie aangetroffen . 
+Er zijn geen andere voorwerpen aangetroffen . 
+13 maart 2007 : RAAP-rapport 1524 / eindversie 31-05-2007 [ 25 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) Locatie nr . : 6082 Oorspronkelijke Klein object met slijpgeul aan de noordzijde RAA P omschrijving : RDx : 59.990 RDy : 443.579 Lengte : 0,6 m Breedte : 0,4 m Hoogte : 0,2 m Diepte ( -NAP ) : 17,0 m Resultaten Op een zandbodem met stroom ribbels is een stortsteen duikinspectie aangetroffen . 
+De betreffende duiklocatie ligt op minder dan 13 maart 2007 : 100 m van een uit dergelijke stenen bestaande dam , terwijl de waterdiepte circa 16 meter bedraagt . 
+De damhoogte is daarmee meer dan 18 m. De basis van de dam kan niet ver van de aangetroffen steen liggen . 
+Of de steen is hiervan afkomstig en iets weggerold of bij het opwerpen al verloren gegaan . 
+Locatie nr . : N2 Oorspronkelijke Klein object met slijpgeul aan de noordzijde omschrijving : RDx : 60.272 RDy : 444.820 Lengte : 0,9 m Breedte : 0,8 m Hoogte : 0,5 m Diepte ( INAP ) : 18,35 m Resultaten Op een zandbodem is een steen ( stortsteen ) met een grootte duikinspectie van 1,5 m X 0,5 m X 0,5 m aangetroffen . 
+Er zijn meerdere 15 maart 2007 : zoekslagen gemaakt , maar er is verder niets aangetroffen . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 26 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoelt : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ 6 Beantwoording onderzoeksvragen Indien er archeologische resten worden gevonden , wat is dan de aard , conservering en ouderdom ervan ? 
+- In totaal zijn 9 locaties onderzocht . 
+Er zijn 3 stortstenen , 2 ankers ( waarvan eentje met een ketting ) , 2 ankerkettingen en 4 visnetten aangetroffen . 
+Bij toeval zijn daarnaast nog een anker en een ankerketting aangetroffen . 
+De ankers , waarvan er eentje is opgevist , maken evenals de netten een ( zeer ) recente indruk . 
+De stenen lijken afkomstig te zijn van een dam die is opgeworpen langs de Eerste Maasvlakte , en zijn dus ook zeer recent . 
+De ankerkettingen vertoonden weinig sporen van corrosie of begroeiing , of hadden dermate grote schalen dat een hoge ouderdom is uitgesloten . 
+Van al deze objecten wordt de archeologische waarde ( zeer ) laag ingeschat ; - Daarnaast is een losse plank aangetroffen met gaten en afdrukken van gesmede nagels ( bij locatie 6006 ) . 
+De plank heeft waarschijnlijk deel uitgemaakt van een scheepshuid en dateert mogelijk uit het begin van de vorige eeuw of zelfs daarvoor . 
+De plank kan als losse vondst worden beschouwd en heeft geen verdere archeologische betekenis ; -Op locatie 6003 ten slotte is een scheepswrak aangetroffen van een houten zeilschip . 
+De functie is niet geheel duidelijk , maar het is zeker niet ondenkbaar dat het een klein transportschip betreft . 
+Een deel van de scheepsromp , lading , ballast en deel van een dek konden worden geïdentificeerd . 
+Ondanks een onderzoek met een sondeerijzer is geen goede indruk van de dimensie en gaafheid van het schip verkregen . 
+De hoogte van de planken van de scheepshuid duidt erop dat het een relatief klein schip is geweest met een breedte van misschien 4 à 5 m. De scheepshuid is over een lengte van 5 m te vervolgen maar aan beide uitersten afgebroken . 
+Gezien de verspreiding van ballast en/of lading is het zeker niet ondenkbaar dat er nog een ( deel van de ) scheepsbodem aanwezig is . 
+De datering van het schip is slechts zeer globaal aan te geven . 
+De aangetroffen metalen katrol dateert mogelijk uit de 2e helft van de 19e eeuw , maar lijkt niet te passen bij de ruimtelijke dimensie van de opgetekende resten . 
+De eveneens geborgen koekenpan kan niet scherper gedateerd worden dan 'voorkomend vanaf de 17e eeuw ' . 
+Well < type vindplaatsen vertegenwoordigen de eventuele archeologische resten ? 
+Is hierin een bepaald patroon te herkennen ? 
+- De losse verspreiding van netten , ankers en ankerkettingen duidt op een intensief watergebruik , waarschijnlijk vooral voor commerciële doeleinden . 
+Ook het scheepswrak past in dat patroon . 
+De stenen die zijn aangetroffen hangen hoogstwaarschijnlijk samen met het opwerpen van de dam voor de Eerste Maasvlakte . 
+RAAP-rapport 1524 /eindversie 31-05-2007 [ 2 7 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoelc Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP '' '' ^ In welke lagen of locaties van de waterbodem zijn archeologische resten of aanwijzingen voor land- of watergebruik aanwezig ? 
+-Binnen de kaders van dit project is alleen het 'dagzomende ' deel van de zeebodem afgezocht : in geologische zin het Bligh Bank Laagpakket ( ook wel 'de actieve laag ' genoemd ) . 
+Op/in deze laag zijn bovengenoemde resten aangetroffen . 
+In welke lagen of locaties van de waterbodem zijn nog meer archeologische resten of aanwijzingen voor of watergebruik anderszins te verwachten ? 
+- Het eerder uitgevoerde bureauonderzoek ( Messing e.a , 2005 ) maakte duidelijk dat met name in het centrale deel van de Tweede Maasvlakte sporen uit het Laat Paleolithicum of Mesolithicum zijn te verwachten . 
+Deze sporen kunnen zich bevinden op het pleistocene dekzand , of op de oeverwalsystemen van de Laag van Velsen ( voorheen : Afzettingen van Calais I ; deze afzettingen dekken het Pleistoceen niveau af ) . 
+Daarnaast kunnen 'oudere ' historische scheepswrakken met een hoge mate van intactheid voorkomen in , of aan de basis van , de Subatlantische ( geul ) afzettingen van het Bligh Bank Laagpakket . 
+Het is echter de vraag of er ( geofysische ) methoden bestaan , of in zoverre ontwikkeld zijn , dat op een zinvolle wijze deze lagen met dergelijke archeologische fenomenen geïnventariseerd kunnen worden . 
+In hoeverre is het mogelijk om generalisaties op te stellen voor de conservering en gaafheid van vindplaatsen op verschillende plaatsen van de waterbodem ? 
+-Op basis van het nu uitgevoerde onderwateronderzoek is dit maar moeilijk te zeggen . 
+Het lijkt logisch dat aan de zeebodem zichtbare objecten ( scheepswrakken ) snel aangetast worden door de visserij en door ankers . 
+Tekenend is in dat opzicht ook dat op diverse plekken netten zijn aangetroffen die achter een obstakel zijn blijven hangen . 
+Een scheepswrak vormt daarmee een soort 'artefact trap ' . 
+Bovendien schijnt het zo te zijn dat 'dagzomende ' onregelmatigheden ( weer : scheepwrakken ) veel bodemleven aantrekken , en daarmee ook vissers . 
+Op deze wijze versterkt dit proces zich vanzelf ; - Het opgeviste spant bleek aangetast te zijn door de paalworm ( Teredo navalis ) ; -Ten slotte kan opgemerkt worden dat het Bligh Bank Laagpakket niet voor niets als een actieve laag wordt omschreven . 
+De hoge bodemdynamiek kan nu aan de zeebodem niet zichtbare objecten aan het 'daglicht ' brengen en verstoren . 
+En eenmaal aan de oppervlakte van de zeebodem zijn de wrakken als vanzelf weer kwetsbaarder . 
+Indien geen archeologische resten worden gevonden , zijn er dan aanwijzingen dat dit het gevolg is van de eroderende werking van waterstromen , van sedimentatie of van menselijk handelen ? 
+-Er is een scheepswrak aangetroffen . 
+Tijdens de duikinspecties zijn geen aanwijzingen aangetroffen voor erosie of sedimentatie . 
+Wel kan geconstateerd worden dat ( intensieve ) visserij en ander watergebruik ( het voor anker gaan ) een negatief effect heeft op gaafheid van archeologische resten . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 2 8 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ In hoeverre zeggen de resultaten van het onderzoek iets over menselijke activiteiten in het gebied in het verleden ? 
+-Alle aangetroffen resten duiden op een intensief watergebruik . 
+De voornaamste vormen van gebruik zijn waarschijnlijk de visserij en transport . 
+In hoeverre is het natte inventariserende vooronderzoek te verbeteren ? 
+Hierbij gaat het zowel om de gebruikte methodiek als om de procesgang . 
+- Het karterend onderwateronderzoek op basis van akoestisch-geofysische data blijkt een goede methode te zijn om aan de zeebodem zichtbare onregelmatigheden te identificeren , in het geval van de Tweede Maasvlakte zelfs bij slecht zicht en een relatief sterke stroming . 
+Om een optimaal resultaat te bereiken , is een aantal voorwaarden noodzakelijk : -Voor en na elke duik is een kort overleg ( of korte instructie ) tussen de betreffende duiker en de archeoloog noodzakelijk ( 'briefing en debriefing ' ) . 
+Het verdient sterke voorkeur de debriefing direct 'uit het water ' plaats te laten vinden . 
+Wat goed lijkt te werken , is de duiker eerst de situatie te laten tekenen en dit vervolgens te vergelijken met waarneming van de archeoloog en de videobeelden . 
+Projectie van de op deze wijze gemaakte schets op locatie 6003 ( het wrak ) en de eerder gemaakte multibeam-data maakt dit duidelijk ( figuur 13 ) ; -Voor het welslagen van het project is het van groot belang dat de communicatie tussen duikgroepleider en archeoloog optimaal is ; - Het perfect positioneren van het schip is van groot belang . 
+Een foutenmarge van meer dan 10 m is te veel . 
+-Als beperking van de gevolgde methode en procesgang geldt dat er geen objecten zijn of kunnen worden gekarteerd die onder het zand of slik verborgen gaan . 
+De inzet van bodempenetrerende methoden ( akoestisch-geofysische of grondradar ) in een MIVO-1 levert op dit moment nog geen bruikbare resultaten op . 
+-Verdere aanbevelingen : -Achteraf kan gesteld worden dat het mogelijk is om kritischer te zijn over de multibeam-data . 
+Opvallend was dat de oorspronkelijk beschrijving en interpretatie ( mits ook gegeven ) op basis van de sonarbeelden vrijwel steeds klopte . 
+Met name lineaire structuren zonder verdere zichtbare daarmee samenhangende anomalieën kunnen gevoeglijk als ankerketting of kabel worden geïdentificeerd ; -Wellicht kunnen bij de interpretatie van multibeam-data in binnenwateren en kustwateren luchtfoto 's een rol spelen . 
+Bij het onderzoek in de Tweede Maasvlakte is naar 2 stortstenen gedoken , terwijl het schip op ( zeer ) korte afstand van een met dergelijke blokken opgeworpen dam lag ; - Wellicht is het mogelijk - in het geval een wrak wordt aangetroffen - om de plaats van de duiker nauwkeurig te volgen , idealiter geprojecteerd op de multibeam-data . 
+Gebleken is dat alleen een audio- en videoverbinding met de duiker de archeoloog weliswaar een idee geeft over vorm en ligging van het wrak , maar dat evengoed 'missers ' worden gemaakt . 
+De oriëntatie van het schip , richting van de stroming , zwemrichting van de duiker en slecht zicht zijn factoren die het de archeoloog ernstig bemoeilijken zich een goed beeld te vormen . 
+Bij de debriefing bleek dit keer op keer . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 29 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP Figuur 13 . 
+Projectie van de 'veldtekening ' van het scheepswrak op de multibeam-opname . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 30 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP ^^ 7 Conclusie en aanbevelingen Bij het karterend onderzoek ( onderwaterfase ) op de Tweede Maasvlakte zijn 9 locaties onderzocht . 
+Er is één scheepswrak aangetroffen ( locatie 6003 ) . 
+Het betreft een houten schip dat gezien de hoogte van de planken van de scheepshuid , en de verspreiding van de aangetroffen resten , waarschijnlijk niet breder was dan circa 5 m en niet langer dan ruwweg 15 m. Er kon een scheepswand met scheepshuid , spanten en wegering vervolgd worden over een lengte van net iets meer dan 5 m. Er zijn 2 concentraties metstenen ( ballaststenen ? ) 
+en loodbroodjes ( waarschijnlijk ook voor ballast ) aangetroffen . 
+Hiertussen is nog een constructiedeel aangetroffen , waarschijnlijk een deel van een dek . 
+Een geborgen spant kon helaas niet dendrochronologisch gedateerd worden . 
+Verdere vondsten betroffen een metalen katrol met haak , waarvan onduidelijk is of het tot het schip behoort , en een koperen handgesmede koekenpan . 
+Aard en datering van het schip blijven daarmee onzeker . 
+Een eerste indruk is dat het een werkmansschip uit de 19e eeuw betreft . 
+Op de overige locaties zijn stenen , netten , ankers en/of ankerkettingen aangetroffen . 
+De archeologische betekenis van deze vondsten wordt als gering ingeschat . 
+Voor deze locaties wordt dan ook aanbevolen geen verder vervolgonderzoek uit te laten voeren . 
+Aanbevolen wordt de behoudenswaardigheid van het scheepswrak door middel van een waarderend onderzoek ( MIVO-3 ) te bepalen . 
+Het doel van dit onderzoek moet zijn om de aard , datering , fysieke kwaliteit en dimensie van het wrak zo volledig mogelijk in beeld te krijgen . 
+Op basis van deze gegevens dient een selectieadvies opgesteld te kunnen worden . 
+Ten aanzien van een eventuele uitvoeringsbegeleiding van onderwaterwerken kunnen op basis van dit locatiegerichte onderzoek ( bovendien expliciet niet gericht op de [ diepere ] geologische opbouw van de zeebodem ) , geen uitspraken worden gedaan . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 31 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoei < : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RAAP '' '' * Literatuur Baggeley , P. , 2005 . 
+Maasvlakte 2 . 
+Archaeological Assessment of Sidescan Sonar and Multibeam Bathymetry Data . 
+Wessex Archaeology , Salisbury . 
+Brenk , S. van den & B . 
+Van Mierlo , 2006 . 
+Rapportage Archeologische Assessment , Maasvlakte II . 
+Periplus Archeomare Rapport 2006-005 . 
+Periplus Archeomare BV , Amsterdam . 
+Messing , W.A.M. , C. Sueur , P.C . 
+Vos & S. Webster , 2005 . 
+Maasvlakte 2 : Archeologisch Vooronderzoek Fase 1 . 
+Bureauonderzoek , Risico-analyse en Aanbevelingen voor vervolgstappen . 
+Vestigia-rapport V165 . 
+Vestigia , Amersfoort . 
+Stassen , P. , 2007 . 
+Programma van Eisen Haven Rotterdam , aanleg Maasvlakte 2 ( MV2 ) . 
+Rijksdienst voor Archeologie , Cultuurlandschap en Monumenten , Amersfoort . 
+Gebruikte afkortingen B ( m ) CvAK D ( m ) DGPS H ( m ) KNA L ( m ) MIVO NAP PvE RD ( x ) RD ( y ) RACM SIKB Breedte in meters College voor de Archeologische Kwaliteit Diepte in meters t.o.v . 
+NAP Differential Global Positioning System Hoogte in meters Kwaliteitsnorm voor de Nederlandse Archeologie Lengte in meters Maritiem inventariserend veldonderzoek Normaal Amsterdams Peil Programma van Eisen X-coördinaatin het stelstelvan de Rijksdriehoeksmeting Y-coördinaat in het stelstelvan de Rijksdriehoeksmeting Rijksdienst voor Archeologie , Cultuurlandschap en Monumenten Stichting Infrastructuur Kwaliteitsborging Bodembeheer RAAP-rapport 1524 / eindversie 31-05-2007 [ 3 2 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( karterend ) RA A P Verklarende woordenlijst akoestische geofysica Akoestisch geofysische methoden maken gebruik van de weerkaatsing van geluidsgolven op de zeebodem en leveren daardoor een reliëfbeeld van de zeebodem . 
+dendrochronologie Absolute dateringsmethode waarbij gebruik gemaakt wordt van de ( unieke ) variatie in de dikte van jaarringen van bomen . 
+multibeam echoloding Akoestisch-geofysische onderzoekstechniek . 
+pen-/gatverbinding Houtverbinding waarbij een houten pen door een gat wordt geslagen en aldus de verbinding vormt . 
+preservatie Synoniem voor fysiek kwaliteit . 
+De fysieke kwaliteit betreft enerzijds de conservering ( in hoeverre is iets gedegradeerd/ aangetast , bijvoorbeeld door oxidatie ) en anderzijds de gaafheid ( in hoeverre is iets nog heel , bijvoorbeeld geërodeerd of vergraven ) . 
+schalm Schakel van een ankerketting . 
+side scan sonar Akoestisch-geofysische onderzoekstechniek . 
+sUjpgeul Geul die ontstaat achter een op de zeebodem liggend object , altijd in de overheersend stroomafwaartse richting . 
+spant Elk van de gebogen balken of inhouten die de dwarsverbindingen van de scheepsromp vormen . 
+stroomribbel Ribbel die ontstaat door eb- en vloedwerking ( golfwerking ) , haaks op de overheersende stroomrichting . 
+terrestrisch Op land betrekking hebbend , bij of in land voorkomend , door of in land gevormd . 
+wegering Al de overlangse planken waarmee de romp van een schip van binnen is bekleed . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 33 ] Plangebied Tweede Maasvlakte , gemeente Rotterdam ; archeologisch vooronderzoek : Maritiem inventariserend veldonderzoek ( MIVO ) , onderwaterfase ( kartierend ) RAAP ^^ Overzicht van figuren , tabellen en bijlagen Figuur 1 . 
+Figuur 2 . 
+Figuur 3 . 
+Figuur 4 . 
+Figuur 5 . 
+Figuur 6 . 
+Figuur 7 . 
+Figuur 8 . 
+Figuur 9 . 
+Figuur 10 . 
+Figuur 11 . 
+Figuur 12 . 
+Figuur 13 . 
+Tabel 1 . 
+Tabel 2 . 
+Tabel 3 . 
+Ligging van de onderzochte locaties en de contouren voor de te realiseren Tweede Maasvlakte ; inzet : ligging in Nederland ( ster ) . 
+De Neptunus . 
+Duiker met video- en audioverbinding . 
+De video- en audioverbinding met de duiker in de stuurhut . 
+Schetsmatige plattegrond van het aangetroffen scheepswrak . 
+Multibeam-opname van het scheepswrak . 
+Onderwaterfoto van de scheepshuid , een verbindingspen en een spant . 
+Gietijzeren halffabrikaat . 
+Koperen koekenpan . 
+Concretie met metalen katrol ( links ) , haak ( rechts ) en een houten klos ( bovenop ) . 
+Multibeam-opname van locatie nummer 6017 . 
+Multibeam-opname van locatie nummer 6018 . 
+Projectie van de 'veldtekening ' van het scheepswrak op de multibeamopname . 
+Archeologische tijdschaal . 
+Overzicht van de onderzochte locaties . 
+Overzicht van de uitgevoerde duikinspecties . 
+Bijlage 1 . 
+DVD . 
+RAAP-rapport 1524 / eindversie 31-05-2007 [ 34 ] -•^* Ott • S S ! i ! 
+'l I ^-^^ ? 5i . 
+\ ^ » i55 |4- '' J 

@@ -1,0 +1,738 @@
+1 2 Archeologisch onderzoek “ Kijk in de Pot ” in Bergen op Zoom Een opgraving van bewoningssporen uit de IJzertijd en Romeinse tijd 3 Archeologisch onderzoek “ Kijk in de Pot ” Administratieve gegevens Gemeente : Plaats : Toponiem : Kadastraal : Coördinaten : Objectcode : Opdrachtgever : Uitvoerder : Bevoegd gezag : Opgravingsperiode : OM – nummer : Perioden : Complextype : Bergen op Zoom Bergen op Zoom Stadspark Kijk in de Pot , Geertruidaplein . 
+BGN01 H5396 en H4393 . 
+78.176 / 389.815 ( centrum ) KYN GEM Bergse Haven Beheer BV . 
+Gemeente Bergen op Zoom , SROB , Bureau Vergunningen en Handhaving , cluster Monumenten en Archeologie . 
+Jacob Obrechtlaan 4 , 4611 AR Bergen op Zoom Gemeente Bergen op Zoom 22 okt-21 dec 2004 ; 27 juli-26 sep 2006 ; 26 nov-5 dec 2007 . 
+18216 IJZL-ROMM ; VME ; NTA . 
+Nederzetting ; vestingwerken . 
+Vondsten en documentatie bevinden zich in het archeologisch depot van Bergen op Zoom . 
+Medewerkers en vrijwilligers bij het veldwerk : Alexander van der Kallen Berrie van Hoof Marco Vermunt Ad van Baal Piet Bakx Joost Geling Wis van Meurs Henk Noordhuizen Geert Papa Claus Suijkerbuijk Els Verpalen De leden van de Stichting In den Scherminckel hebben gewerkt aan het reinigen , nummeren en restaureren van de vondsten . 
+Een deel van de vondstdeterminatie werd verzorgd door Auxilia te Nijmegen , o.l.v . 
+Ryan Niemeijer en Rien Polak . 
+4 Inhoud 1 . 
+Inleiding 6 2 . 
+Ligging en geomorfologie 8 3 . 
+Historie 10 4 . 
+Eerder onderzoek 13 5 . 
+Onderzoeksvragen 15 6 . 
+Methode 15 7 . 
+Resultaten 7.1 . 
+7.2 . 
+7.3 . 
+7.4 . 
+7.5 . 
+8 . 
+Verticale bodemopbouw Horizontale bodemopbouw Vondstverspreiding Sporen Vondsten Synthese en beantwoording van de onderzoeksvragen 17 17 21 24 27 39 Literatuur Sporenlijst 5 1 . 
+Inleiding De opgravingen op het stadspark Kijk in de Pot en het aangrenzende Geertruidaplein waren een direct gevolg van het plan “ Bergse Haven ” dat door de gemeente Bergen op Zoom in samenwerking met projectontwikkelaar AM en vastgoedonderneming AMVEST wordt ontwikkeld . 
+Zij zijn hiertoe verenigd in de Gezamenlijke Exploitatie Maatschappij Bergse Haven ( GEM ) . 
+Het plan Bergse Haven omvat een complete reconstructie van het westelijke front van de stad , zoals de aanleg van een jachthaven en de bouw van woonwijken in het gebied Geertruidapolder en op de plaats van de alcoholfabriek Nedalco . 
+Als onderdeel van het plan Bergse Haven was ook woningbouw gepland op het noordwestelijke gedeelte van het voormalige militaire oefenterrein “ Kijk in de Pot ” . 
+Het zuidelijke en zuidoostelijke gedeelte van Kijk in de Pot was op het einde van de jaren ’ 90 van de 20ste eeuw veranderd in een stadspark . 
+Het park werd sindsdien aan de westkant begrensd door een fietspad van het Geertruidplein naar de Gertrudisboulevard . 
+Het daarnaast gelegen noordwestelijke terreingedeelte bestond gedeeltelijk uit bos en gedeeltelijk uit grasland ( het restant van een paardenrenbaan ) en kreeg in het plan Bergse Haven uiteindelijk een woonbestemming . 
+De bouwplannen voor dit deelplan Kijk in de Pot omvatten een groot aantal vrije sector woningen in een parkachtige omgeving . 
+Aan de noordzijde , deels op het Geertruidaplein en achter de meubelboulevard van de Konijnenburgweg , zou hoogbouw met appartementen en kelders komen . 
+Afb.1 . 
+Uitsnede van de topografische kaart 1:25.000 met het plangebied van Kijk in de Pot Noord paars omlijnd . 
+Op deze kaart uit 1995 is de renbaan nog weergegeven . 
+Al in een vroeg stadium werd de archeologische waarde van het deelplangebied Kijk in de Pot in kaart gebracht . 
+Aanvankelijk leek de kans op het aantreffen van archeologische resten vrij gering , omdat een groot deel van het grasland in 1950 was ontgraven voor de aanleg van een paardenrenbaan . 
+Aan de westelijke zijde bevond zich een abrupte overgang naar een lager gelegen terrein , dat zich uitstrekte tot de 6 voormalige suikerfabriek “ De Zeeland ” . 
+Ook dit gedeelte was flink verstoord , onder meer door de aanleg van een kogelvanger , die was opgeworpen met afgegraven grond . 
+In 2004 werd een booronderzoek uitgevoerd op het grasland van de voormalige renbaan . 
+Over een groot deel lag een 70 cm diepe verstoring , waaronder vrijwel direct schoon zand volgde , met uitzondering van de noordzijde grenzend aan het Geertruidaplein . 
+De boringen wezen hier op het voorkomen van een terreindepressie die was opgevuld met grijze zandlagen en oud vondstmateriaal ( Romeins en Laatmiddeleeuws aardewerk ) . 
+Aanvullend werd in het najaar van 2004 een proefsleuvenonderzoek uitgevoerd , waarbij de ligging van de terreindepressie beter in beeld kwam en de noodzaak tot vervolgonderzoek , mede vanwege de bouw van kelders , duidelijk werd . 
+Een deel van de proefsleuf was al uitgebreid tot een kleine werkput . 
+Proefsleuven op de andere delen van het terrein leverden geen archeologische sporen op . 
+In 2006 , na een lange periode van stagnatie in de planontwikkeling , vond een booronderzoek in het bos ten oosten van de renbaan plaats . 
+De ondergrond was hier diep verstoord , waarschijnlijk tijdens de aanleg van een hoornwerk in de 16de eeuw . 
+Er was geen sprake meer van intacte bodemsporen . 
+Direct daarna ging de opgraving bij het Geertruidaplein van start . 
+Het doel was om de omvang van de terreindepressie in kaart te brengen en eventuele bewoningssporen aan de rand ervan in beeld te krijgen . 
+Het onderzoek werd in 2007 uitgebreid met het gedeelte onder het Geertruidaplein . 
+Dit plein was tot dan toe steeds als parkeerplaats in gebruik . 
+Een deel ervan moest worden ontgraven voor het verleggen van kabels en leidingen . 
+Dit kon worden gecombineerd met het archeologisch onderzoek . 
+Afb.2 . 
+Het plangebied op een luchtfoto van 2008 . 
+Het zuidelijke deel van Kijk in de Pot is ingericht als park , op het noordelijke deel worden de eerste woningen gebouwd . 
+7 2 . 
+Ligging en geomorfologie De onderzoekslocatie ligt direct ten zuidwesten van de middeleeuwse stadskern van Bergen op Zoom , ruim 175 meter buiten de voormalige stadswallen . 
+De ondergrond bestaat uit pleistoceen zand . 
+De maaiveldhoogte bedraagt ter plaatse van de opgraving 8,50 meter boven NAP . 
+Het terrein bestaat uit een terraswelving die aan westelijke en zuidwestelijke zijde scherp begrensd wordt door een afbraakwand . 
+Het maaiveld daalt er abrupt tot 3 meter boven NAP . 
+Ten westen van de wand wordt de bodem gevormd door holocene ( mariene ) afzettingen . 
+Het onderliggende pleistocene zand daalt hier nog verder , tot 1 meter +NAP . 
+In ruimere zin maakt het plangebied deel uit van de Brabantse Wal . 
+Deze pleistocene zandrug heeft aan de westzijde een steilrand , die kenmerkend is voor het hele gebied tussen Ossendrecht en Lepelstraat . 
+Deze rand is in het zuiden meer dan 20 meter hoog , in het noorden nog slechts 1 meter . 
+In het zuidelijke deel van Kijk in de Pot is de steilrand ruim 7 meter hoog ; in het noordelijke deel 5 meter . 
+Over het ontstaan van de steilrand bestaan twee theorieën . 
+Volgens de eerste ( Kasse 1988 ) is de Brabantse Wal ontstaan door rivierprocessen in het Pleistoceen ( vanaf 2 tot 1,6 miljoen jaar geleden ) . 
+Toen vormde het gebied een estuarium waarin Rijn en Maas uitmondden . 
+In dit estuarium werden onder invloed van eb en vloed afwisselend zand en klei afgezet ( Formatie van Waalre ) . 
+Door grootschalige bodembewegingen verschoof de loop van Rijn en Maas naar het noordoosten en verscheen de Schelde in het gebied . 
+Die mondde vroeger noordelijker dan nu uit in de Noordzee . 
+De Schelde heeft , enige tienduizenden jaren lang , steeds wat zand en klei van de Wal geknabbeld en de steile wand , een zogenaamde terrasrand achtergelaten . 
+Volgens de andere theorie ( Caris e.a . 
+1989 ) is de steilrand ontstaan als gevolg van erosie door de zee in het Eemien ( 130.000 tot 115.000 jaar geleden ) . 
+Hierdoor ontstond een soort klifkust . 
+Op 2 meter –NAP bevindt zich een fossiel strandniveau . 
+In deze periode zou de geleidelijke afhelling van de pleistocene lagen tot een scherpe rand teruggezet zijn . 
+De daling van het pleistoceen ten westen van de steilrand gaat nog door tot onder de holocene afzettingen . 
+Het zand duikt er tot 12 meter –NAP . 
+In het Holoceen ( 10.000 jaar geleden tot heden ) heeft de zee ten westen van de rand dikke lagen klei afgezet ( Laagpakket van Walcheren , voorheen afzettingen van Duinkerken genoemd ) , wardoor het hoogteverschil werd gemaskeerd . 
+Op het einde van de laatste IJstijd ( Weichselien , 110.000 – 10.000 jaar geleden ) werden door de wind stuifzanden afgezet op de oudere zandrug : de dekzanden ( formatie van Twente ) . 
+Ze hebben een sterk wisselende dikte . 
+De steilrand ontwikkelde zich zo nog verder tot een landduin . 
+Ook in de droge perioden van het Holoceen ( vanaf 10.000 jaar geleden ) werd hier nog stuifzand afgezet , zelfs tot in de 13de eeuw . 
+Het pleistocene zand van de steilrand en het oostelijk daarvan gelegen gebied is bijzonder rijk aan leemlagen ( voorheen formatie van Tegelen genoemd ) . 
+Deze zijn op veel plaatsen meer dan 1 meter dik . 
+Door stagnatie van regenwater ontstond hierin veengroei ( Griendtsveen-veen ) . 
+De hele ondergrond van stad en omgeving wordt gekenmerkt door de afwisseling van dekzandruggen en vennen . 
+Sommige vennen zijn erg klein , andere vormden enorme veenvlakten . 
+In de middeleeuwen werd het veen ontgonnen en laagtes werden gedempt . 
+Bij opgravingen komen vaak de onderste venige lagen van de terreindepressies aan het licht . 
+De zandrug van de Brabantse Wal wordt ter hoogte van de Bergse binnenstad door een oude oost-west gerichte pleistocene erosiegeul doorsneden . 
+Hierin ontwikkelde zich de haven van Bergen op Zoom . 
+Het plangebied ligt zo op de uiterste noordwestelijke punt van het hoge zandplateau en vormt als het ware een soort kaap . 
+De steilrand die aan de westelijke zijde nog als een scherpe overgang aanwezig is , loopt noordwaarts door onder het voormalige bos naast de renbaan en onder de meubelboulevard , en buigt vervolgens iets naar het oosten af tot aan de Zuidzijde Haven . 
+Het hoogteverschil is hier nauwelijks nog waarneembaar , omdat de lagere gronden aan de voet van de rand aan weerszijden van de haven sinds de middeleeuwen flink opgehoogd werden . 
+Dat gebeurde deels met zel-as van de zoutziederijen . 
+Het gebied Kijk in de Pot heeft in de loop van de laatste 100 jaar grote veranderingen ondergaan . 
+Het terrein had eeuwenlang het aanzien van een hoge zandheuvel , die sinds het ontstaan van het Oosterscheldebekken als een duin opstak langs het strand . 
+Tot de jaren ’ 80 van de 20ste eeuw kwam het vloedwater tot tegen de voet van de steilrand . 
+De bodem van het terrein bestaat uit sterk lemig zand , waarvan het natuurlijke oppervlak grotendeels is vergraven . 
+Dit gebeurde vanaf het einde van de 16de eeuw , toen om strategische redenen de natuurlijke heuvels rond de stad werden afgetopt . 
+In het zuidwestelijke deel van het stadspark Kijk-in-de-Pot bevond zich een dergelijke heuvel , de “ Holwegenberg ” . 
+8 Ter plaatse legde men een groot hoornwerk aan . 
+Een tweede grote ingreep was de aanleg van een militair exercitieterrein na de ontmanteling van de vesting in 1882 . 
+Een deel was ingericht als schietbaan met kogelvangers , aangelegd met grond van afgravingen . 
+Een derde ingreep was de aanleg van een paardenrenbaan in 1950 . 
+Daarbij werd de bodem over een groot deel van het plangebied flink omgezet . 
+De randen van de renbaan werden aangelegd met zand van het midden van het terrein . 
+Het vrijkomende zand werd benut om de haven te dempen . 
+In het zuiden van Kijk in de Pot ( het stadsparkgedeelte ) lagen drie grote bastions , naar ontwerp van Menno van Coehoorn ( zie afb.6 ) . 
+Die werden in 1882 afgegraven . 
+Bij de aanleg van de renbaan verlaagde men het terrein nog eens 2 meter . 
+Tijdens eerder onderzoek werd daar namelijk vastgesteld dat de bodem van de bastiongrachten slechts 1 meter onder het maaiveld lag . 
+Het is aannemelijk dat delen van de gronden in Kijk in de Pot al vóór de 16de eeuw in cultuur waren gebracht . 
+Ten zuiden en westen van het stadspark zijn thans nog oude landbouwgronden aanwezig . 
+In de proefsleuven op de renbaan werd nog het onderste niveau van een akker aangetroffen . 
+Afb . 
+3 . 
+Reconstructie van de hoogten van de ( dek ) zanden in de stadskern en daarbuiten . 
+Het plangebied ligt duidelijk aan de rand van het pleistocene zand . 
+Ten westen daarvan wordt het zand bedekt door holocene afzettingen . 
+9 3 . 
+Historie Het terrein van Kijk in de Pot werd in de 15de eeuw “ Holwegenberg ” genoemd , wat aangeeft dat het een heuvelachtige omgeving was . 
+Vermoedelijk slaat deze benaming op het zuidelijke deel waar nu het stadspark is . 
+Jacob van Deventer tekende op zijn kaart van de stad en omgeving omstreeks 1545 een heuvelachtig terrein , met bomen op de steilrand . 
+Er was slechts één boerderij , die ter hoogte van het dierenasiel moet hebben gestaan , juist ten oosten van de goederenspoorlijn . 
+Ook staan er enkele wegen afgebeeld . 
+Eén weg liep vanuit de havenbuurt langs de voet van de steilrand , via de genoemde boerderij , naar het dorp Borgvliet . 
+Een andere verliet de stad vanuit de Hoogstraat en de ( veronderstelde ) 13de eeuwse stadspoort in de richting van het dorp Borgvliet . 
+Een zijpad voerde westwaarts naar het polderland voorbij de steilrand , via een tracé dat niet veel afwijkt van de tegenwoordige Gertrudisboulevard die het stadspark aan de zuidzijde begrenst . 
+Afb.4 . 
+Het plangebied geprojecteerd op de kaart van Jacob van Deventer ( ca.1545 ) Na diverse stormvloeden ging in 1570 het polderland bij Bergen op Zoom definitief verloren en kwam het gebied vlak aan het zoute water van de Oosterscheldebekken te liggen . 
+De strandlijn werd gevormd door de pleistocene rand van de steilrand . 
+Deze situatie bleef tot 1860 ongewijzigd . 
+In de periode 1581-1630 vonden ingrijpende aanpassingen plaats aan de verdedigingswerken van Bergen op Zoom . 
+De aanleiding vormden de vele gevechten en belegeringen door de Spaanse troepen . 
+In 1588 was zwaar gevochten bij de Holwegenberg . 
+In 1606 werd een kleine redoute gebouwd op de top van de heuvel , op een plaats die al in 1600 ‘ Kijckindepot ’ werd genoemd . 
+In hetzelfde jaar verscheen voor het Oranjebolwerk , ten zuiden van haven , een halvemaanvormig ravelijn . 
+Kort na de voltooiing vond daar een aanval plaats . 
+In het belegeringsjaar 1622 werd onder leiding van David van Orleans een groot hoornwerk ( een rechthoekige versterking met twee halve bastions op de hoeken ) aangelegd ten zuiden van de halve maan . 
+Deze besloeg een groot deel van het huidige plangebied . 
+Op de vestingkaart uit 1622 staat het hoornwerk afgebeeld , met een opvallend onregelmatige westelijke zijde : men had bij de aanleg gebruik gemaakt van de natuurlijke steilrand . 
+Sir Robert Henderson , aanvoerder van de Schotse troepen , bouwde een retranchement tussen de Bospoort en het redoute Kijk in de Pot , zodat een nieuwe zuidelijke verdedigingslinie onder de stad ontstond . 
+Deze linie , bestaande uit een aarden wal en drie bastions , lag in het huidige stadspark . 
+10 In 1629 was men druk bezig met het afgraven van de vele heuvels rondom de stad . 
+Ongetwijfeld gebeurde dat ook op en rond de Holwegenberg . 
+Afb.5 . 
+Het plangebied geprojecteerd op de kaart van David van Orleans ( 1622 ) . 
+Het bestrijkt een deel van het hoornwerk en ravelijn . 
+Ten zuiden ervan ligt de linie naar het fort Kijk in de Pot . 
+Een volgende fase van modernisering onder leiding van Menno van Coehoorn vond plaats in de periode van 1698 tot 1744 . 
+Een van de eerste werken die gereedkwamen was een nieuwe linie die het oude retranchement verving , bestaande uit drie lunetten en een ‘ slikbatterij ’ aan de voet van de steilrand ter vervanging van de redoute . 
+Dit werd in 1701 opgeleverd . 
+Het oudere hoornwerk verdween . 
+Afb.6 . 
+Het plangebied geprojecteerd op een vestingkaart uit de 18de eeuw . 
+Het ligt dan langs de glacis van de vesting . 
+11 In 1860 werd de Geertruidapolder ten westen van het plangebied ingepolderd , waardoor de sterkte van de vesting aan die zijde aanmerkelijk in kracht inboette . 
+Na de opheffing van de vesting in 1867 begon de ontmanteling . 
+De werken rond Kijk in de Pot verdwenen in de jaren 1868-1872 . 
+Al in 1868 was er op het terrein een militair exercitieveld . 
+In 1884 werden de reeds aanwezige schietdoelen vervangen door hoog opgeworpen kogelvangers . 
+Ook was er een harddrafbaan voor de ruiterij . 
+Die drafbaan werd vanaf 1950 in het kader van een DUW-project ( werkverschaffing ) ingrijpend omgevormd tot een grote renbaan . 
+Daarbij werd het maaiveld flink verlaagd en het vrijkomende zand gebruikt om de haven van Bergen op Zoom te dempen . 
+In 1978 verloor Kijk in de Pot zijn militaire functie , waarna de gemeente eigenaar werd . 
+In 1998 begon de aanleg van een stadspark . 
+Het zuidelijke ( grootste ) gedeelte werd een park , van het noordelijke deel gescheiden door een fiets- en wandelpad . 
+De kogelvangers werden afgegraven en het bos ten noorden van de renbaan , dat in de jaren ’ 60 was aangeplant , werd gekapt . 
+Het noordelijke deel vormt thans onderdeel van het nieuwbouwplan Bergse Haven . 
+12 4 . 
+Eerder onderzoek In het verleden werden incidenteel oppervlaktevondsten verzameld door amateur-archeologen in de buurt van het park Kijk in de Pot . 
+De collectie van de heer Nijssen uit Bergen op Zoom werd verzameld ‘ op het Scheldestrand ’ en bestaat uit aardewerkscherven uit zowel IJzertijd , Romeinse tijd als Vroege Middeleeuwen . 
+De exacte vindplaats is echter niet bekend . 
+De vondsten werden gemeld aan de Rijksdienst voor het Oudheidkundig Bodemonderzoek en in 1973 gepubliceerd.1 Ook andere amateurarcheologen zouden in de jaren ’ 70 en ’ 80 van de vorige eeuw scherven van Vroegmiddeleeuws aardewerk op en rond Kijk in de Pot hebben gevonden , maar daarvan is niets gemeld . 
+Het gebied was bovendien tot 1978 een afgesloten militair terrein . 
+Datzelfde geldt voor een waarneming in de buurt van het dierenasiel aan de noordwestelijke kant van het park . 
+Hier zou bij graafwerkzaamheden voor de gasleiding een hoeveelheid Badorf-aardewerk naar boven zijn gekomen . 
+Het bevond zich enkele meters diep onder de holocene klei . 
+Een andere vindplaats ligt 500 meter ten zuiden van Kijk in de Pot . 
+Hier werd bij de aanleg van de goederenspoorlijn in 1986 een hoeveelheid Vroegmiddeleeuws aardewerk gevonden . 
+Ook hier is de exacte vindplaats niet bekend : waarschijnlijk in het talud van de steilrand , die voor de spoorlijn recht afgegraven werd . 
+Deze vindplaats is vermoedelijk dezelfde als van de heer Nijssen een decennium eerder , dus ver buiten het militaire oefenterrein . 
+Op het einde van de 20ste eeuw werd in opdracht van de gemeente een nieuw park aangelegd . 
+In 1999 voerde de gemeentelijke archeologische dienst van Bergen op Zoom een opgraving uit naar de resten van een tegenmijngang uit de 18de eeuw . 
+De aanleiding was niet alleen het afgraven van de ondergrond bij de aanleg van het stadspark , maar ook de wens om sporen uit het vestingverleden in het park zichtbaar te maken . 
+De tegenmijngang was een onderaardse gang vanuit een gracht rond enkele grote bastions , aangelegd in 1701 . 
+Deze gang lag destijds onder het glacis van de vestingwerken , op circa 2 meter onder maaiveld . 
+Bij de opgraving werd alleen de vloer en enkele steenlagen teruggevonden . 
+Het bleek dat plaatselijk minstens 4 meter grond verwijderd was . 
+Nader onderzoek naar de resten van de bastions toonde aan dat hier en daar nog geringe sporen van de bodem van de gracht bewaard waren . 
+Het overgrote deel van de vestingwerken was door egalisatie verdwenen . 
+In de onderliggende zeer kleiige grond tekenden zich sporen van kleiwinning af , vermoedelijk voor de pottenbakkersindustrie van Bergen op Zoom . 
+Bij het onderzoek werd geen spoor van oudere bewoning aangetroffen , evenmin losse vondsten . 
+Ten behoeve van het Bestemmingsplan Bergse Haven is in 2004 eerst een bureauonderzoek naar de archeologische waarden uitgevoerd , gevolgd door een inventarisarend veldonderzoek in de vorm van grondboringen . 
+Deze leverden aan de kant van het Geertruidaplein resten op van een terreindepressie in het zand , alsook enig vroegmiddeleeuws scherfmateriaal . 
+Op de rest van het plangebied werd geen vondstmateriaal opgeboord . 
+Enkele maanden later werd het veldwerk uitgebreid met proefsleuven . 
+Op de voormalige renbaan bevond zich een dik pakket van vuil verspit zand , vermengd met modern afval . 
+Daaronder lag nog een dun esdekje , dat op basis van de weinige vondsten uit de late Middeleeuwen moest dateren . 
+Hieronder lag lemig schoon zand . 
+Ten zuiden van de renbaan bij de kogelvanger lag pleistoceen zand direct onder het gras . 
+Deze verstoringen zijn veroorzaakt door de aanleg van de renbaan in 1950 . 
+Aan de kant van het Geertruidaplein bevond zich een terreindepressie , die opgevuld was met gelaagd zand en rijk was aan vondstmateriaal . 
+Het ven strekte zich vanaf het Geertruidaplein 30 meter zuidwaarts uit . 
+De noordelijke grens onder het plein zelf kon niet onderzocht worden omdat het als parkeerterrein in gebruik was . 
+De maximale diepte bedroeg ongeveer 1 meter . 
+Direct na de aanleg van de proefsleuven is besloten tot een gedeeltelijke verbreding van proefsleuf 1 ( later werkputten 10 , 12 en 13 genoemd ) , om meer inzicht te krijgen in de aard van het ven en de relatie met de omgeving . 
+Dit gebeurde in de winter van 2004 . 
+Het ven leek te zijn opgevuld door een natuurlijk proces van dichtstuiven en dichtslibben . 
+De onderste laag bevatte enig aardewerk uit de IJzertijd ; het middelste uit de Romeinse Tijd ( 1ste-2de eeuw ) . 
+Een dunne toplaag bevatte materiaal uit de Vroege Middeleeuwen ( 8ste-9de eeuw ) . 
+Het ven toont aan dat er bewoning geweest is in de directe nabijheid . 
+Toch werden er geen bewoningssporen aangetroffen in de vorm van paalgaten of dergelijke aan de rand van de terreindepressie . 
+Sporadisch werden in de verstoorde bovenlaag Romeinse scherven gevonden , maar er waren geen duidelijke aanwijzingen dat er op het centrale deel van de renbaan ooit een stratigrafie uit de IJzertijd of Romeinse tijd was geweest . 
+1 Beex 1973 . 
+13 Andere resultaten van de boringen en de proefsleuven betreffen resten van de vestingwerken . 
+In proefsleuf 2 bevond zich een smalle diepe greppel , die geïnterpreteerd wordt als de onderzijde van de oostelijke gracht rond het hoornwerk van 1606 . 
+De projectie van de kaart van David van Orleans uit 1622 op de huidige ondergrond laat zien dat de hoornwerkgracht vrijwel overeenkomt met het aangetroffen spoor ( verg . 
+afb.5 ) . 
+Een ander spoor kwam aan het licht in een boorraai aan de westelijke rand van de renbaan . 
+Vlak achter de renbaan bevond zich een diepe ingraving ( meer dan 4 meter onder maaiveld ) waarin zowel 17de eeuwse scherven als fragmenten van aardewerk uit de ijzertijd voorkwamen . 
+Het gaat hier om de uiterste zuidelijk punt van de gracht om het halvemaanvormige ravelijn van 1606 , dat voor het Oranjebolwerk lag . 
+Deze gracht lag ruim 16 meter zuidelijker dan op de kaart van 1622 is afgebeeld . 
+Aanvullende waarnemingen werden verricht in het bos nabij de kogelvanger , ten zuidwesten van de renbaan . 
+In het talud van een moderne vijver kon de scherpe aftekening van de steilrand tegen de holocene kleilagen worden ingemeten . 
+Enkele kleine proefsleuven toonden aan dat de noordelijke voortzetting van de steilrand inderdaad overeenkwam met de westflank van het hoornwerk . 
+Op korte afstand van elkaar werd direct onder het maaiveld schoon lemig zand gevonden tegenover meer dan 3 meter zandige ophoging op een ondergrond van venig zand . 
+Dit laatstgenoemde zandpakket is waarschijnlijk in de 19de eeuw over de steilrand geworpen tijdens egalisaties van het terrein ( misschien bij de aanleg van de Geertruidapolder in 1860 ) . 
+In de voortgang van het planproces werd geadviseerd om de archeologische waarden van het aangetroffen ven veilig te stellen door een nader archeologisch onderzoek , juist omdat hier onderkelderde nieuwbouw was gepland . 
+Op de andere delen van het plangebied was geen aanvullend onderzoek nodig . 
+Afb.7 . 
+Het onderzochte terrein en de proefsleuven . 
+De rode en groene lijnen markeren de steilrand . 
+Tevens zijn de voormalige renbaan en de kogelvanger gestippeld weergegeven . 
+14 5 . 
+Onderzoeksvragen Uit het vooronderzoek kwam het beeld naar voren , dat de terreindepressie mogelijk het enige restant zou zijn van vroegere bewoning in het plangebied . 
+De mogelijkheden om hier veel van terug te vinden , waren niet erg groot . 
+Er was reeds vastgesteld dat het omringende terrein ( aan de west- , zuid- en zuidoostzijde ) – voor zover er een laatmiddeleeuwse esdekje aanwezig was- geen onderliggende bewoningsniveaus bevatte . 
+Bovendien waren er tal van recente graafactiviteiten geweest . 
+De noord- en noordoostzijde gaven evenmin veel kansen . 
+In de 18de en 19de eeuw lag een groot bastion ten noorden van de vindplaats . 
+De gracht ervan besloeg een groot deel van de huidige parkeerplaats en oudere sporen waren daar niet meer aanwezig . 
+Ook bevond zich daar een tracé van gas- en elektraleidingen . 
+Het op te graven oppervlak bleef beperkt tot het volume van de geplande nieuwbouw , derhalve aan de noordoostelijke zijde door het parkeerterrein begrensd . 
+De opgraving was dus min of meer beperkt tot de terreindepressie zelf . 
+De onderzoeksvragen luidden : 1 . 
+2 . 
+3 . 
+4 . 
+5 . 
+6 . 
+7 . 
+8 . 
+Kan de omvang van de laagte vastgesteld worden ? 
+Is deze aan alle zijden scherp begrensd ? 
+Hoe is de terreindepressie opgevuld geraakt ? 
+Is er sprake van bewoningssporen aan de randen ervan ? 
+Kan uit de vondstverspreiding een uitspraak gedaan worden over de plaats van bewoning ? 
+Kan het vondstmateriaal nader in tijd worden begrensd ? 
+Is er een relatie met de vondsten van de Parade ? 
+Kunnen er uit de sporen conclusies worden getrokken over de kans om elders in de omgeving soortgelijke sporen aan te treffen ? 
+6 . 
+Methode Het onderzoek bestond uit het ontgraven van het volume van de geplande nieuwbouw . 
+Dit gebeurde met een mobiele kraan . 
+Een eerste vlak werd aangelegd op de bovenste vullaag van de terreindepressie . 
+Een deel hiervan werd met de hand nagezocht op vondsten . 
+In 2004 was nog de gehele vulling van de beide vullagen in de werkputten 10 en 11 met de hand uitgetroffeld ; in 2006 en 2007 was deze aanpak niet meer haalbaar en ook niet nodig . 
+Op enkele plaatsen werd een tweede vlak aangelegd op de onderste vullaag . 
+De scheiding tussen deze lagen was over het algemeen slecht zichtbaar . 
+Vanwege het zeer geringe aantal vondsten is de onderste laag over het algemeen minder intensief onderzocht dan de bovenste laag . 
+Zowel in 2006 als 2007 zijn steekproefsgewijs kleine oppervlakken van de vulling geheel uitgetroffeld om een beeld van de verticale vondstverspreiding te krijgen . 
+Het veldwerk van 2006 omvatte de werkputten 14 tot en met 19 . 
+Daarbij kwamen de westelijke en zuidelijke grenzen van de depressievulling in beeld . 
+De oostelijke flank bleek sterk verstoord door recentere ingravingen , variërend van kuilen uit de Tweede Wereldoorlog tot moderne vuilstort . 
+Het was niet wenselijk om het onderzoek verder oostwaarts uit te breiden omdat dan buiten het volume van de nieuwbouw gegraven zou worden . 
+Dit terreingedeelte zou niet verstoord worden . 
+Bovendien was uit de boringen al gebleken dat de verstoringen zich verder voortzetten , zodat de kans om de rand van het ven te vinden erg klein was . 
+In 2007 was het mogelijk om het onderzoek uit te breiden over de parkeerplaats . 
+Inmiddels was de bomenrij tussen de parkeerplaats en het gras reeds verwijderd , daarna volgde ook een deel van de bestrating van het plein . 
+De werkputten 20 tot en met 24 werden aangelegd . 
+Dit leverde de noordelijke grens van de depressie op , met sporen van een mogelijke tweede laagte in het terrein . 
+De noordgrens van het onderzoek werd niet alleen bepaald door het volume van de nieuwbouw , maar ook door de aanwezigheid van een groot aantal kabels en leidingen onder het plein . 
+Bovendien lag daar de gracht van de vestingwerken uit 1700 . 
+De oostelijke grens van de depressie bleef ook hier onduidelijk : deze lag waarschijnlijk buiten het te onderzoeken volume . 
+Een oostwaartse uitbreiding van de werkputten was onmogelijk vanwege de nieuw gelegde riolering . 
+De nog functionerende lantaarnpalen vormden eveneens obstakels . 
+15 Afb.8 . 
+Het opgravingsoppervlak met de werkputten en de proefsleuven 1 en 2 . 
+Tevens zijn daarin alle aangetroffen sporen weergegeven . 
+16 7 . 
+Resultaten 7.1 . 
+Verticale bodemopbouw De opbouw van de bodem was op en rond het onderzoeksterrein tamelijk uniform . 
+De bovenste 60 tot 100 centimeter bestond steeds uit heterogeen zand , dat volledig was verspit en modern afval bevatte . 
+Ook in de proefsleuven op de voormalige renbaan was er een dergelijke bovenlaag . 
+Mogelijk is het een restant van de aanleg van de renbaan in 1950 . 
+Vanuit dit pakket waren enkele diepe kuilen gegraven , waarin resten van militaria werden gevonden . 
+Hierbij horen ook de meeste sporen in de werkputten 16 , 19 , 20 en 21 . 
+Deze dateren alle uit de Tweede Wereldoorlog ( zie ook hierna ) . 
+Daaronder bevond zich een pakket van heterogene opbouw , bestaande uit twee of meer lagen . 
+De bovenste was 17de-eeuws en heeft waarschijnlijk te maken met het opwerpen van het hoornwerk in 1622 . 
+Daaronder lagen dunnere laagjes en kuilen met een vulling van grijsbruin zand . 
+Het schaarse vondstmateriaal hierin dateerde uit de 13de tot de 16de eeuw . 
+Aan de oostzijde van het opgravingsgebied was deze laag iets dikker en homogener . 
+Het is een restant van een es , gevormd door bemesting , zoals die ook plaatselijk op het zuidwestelijke deel van de renbaan werd getraceerd . 
+Dit wijst er op dat een deel van het gebied vrij lang als akkerland in gebruik was , iets wat ondersteund wordt door de vondst van enkele ploegvoren in werkput 15 . 
+In het noordelijke gedeelte ( de parkeerplaats ) was deze laag nauwelijks aanwezig , dan wel afgegraven in moderne tijden . 
+Dieper bevonden zich nog enkele lagen . 
+Zij vormden samen de vulling van een natuurlijke terreindepressie . 
+De bovenste hiervan was 20 tot 30 cm dik en bestond uit grijswit of geelwit zand , waarin kleine zwarte laagjes voorkwamen . 
+Het zijn typische infiltratiebandjes . 
+De witte kleur van de laag is een gevolg van het langzaam uitlogen van de grond door natuurlijke processen ( podzolvorming ; zie afb.9 ) . 
+In de laag werden over het algemeen scherven van aardewerk uit de Romeinse tijd aangetroffen . 
+Op de overgang naar de bovenliggende donker gekleurde heterogene zandlagen bevonden zich ook scherven van Karolingisch aardewerk . 
+De onderkant van de laag lag rond 7.00 m +NAP . 
+Onder deze laag bevond zich een dikker pakket van beigegeel tot donkergeel fijn zand . 
+Die was niet scherp van de eerste gescheiden . 
+Er was sprake van een geleidelijke overgang . 
+Ook hierin kwamen tal van spoellaagjes voor . 
+De maximale dikte bedroeg 30 tot 40 cm . 
+De onderkant lag op 6.50 m +NAP . 
+Het zand was wat losser van structuur dan de bovenliggende witte laag en wat betreft kleur en structuur nauwelijks te onderscheiden van het natuurlijke pleistocene zand . 
+In deze laag werden vooral scherven van aardewerk uit de IJzertijd gevonden . 
+De diepste laag was 10 tot 20 cm dik en bestond uit een sterk doorworteld pakket van donkergeel zand . 
+Het lag op de natuurlijke pleistocene ondergrond . 
+In feite gaat het om de onderste zone van het bovenliggende pakket . 
+Hierin kwamen over het algemeen zeer sporadisch aardewerkscherven voor . 
+Er was een zeer geleidelijke overgang naar het pleistoceen . 
+Dit werd gekenmerkt door een vastere structuur en het ontbreken van infiltratiebandjes . 
+Naar onder toe werd dit zand lemig . 
+7.2 . 
+Horizontale opbouw Bij de opgraving werden diverse profielen getekend waarin de lagenopbouw duidelijk werd . 
+Bij het aanleggen van de vlakken werden de randen van de vullagen zichtbaar . 
+De bovenste laag van grijswit zand had een scherpe begrenzing aan de westelijke en zuidwestelijke zijde . 
+In het vlak vormde dit zandpakket een rechthoekige structuur van 19 bij 25 meter . 
+De oostelijke begrenzing kon worden gevonden in de werkputten 10 en 16 . 
+Daarin werd de laag oostwaarts steeds dunner . 
+De noordelijke grens was alleen in werkput 21 duidelijk zichtbaar . 
+Waarschijnlijk is er ook ten noorden van deze vulling een soortgelijke vullaag van een terreindepressie geweest . 
+In werkput 20 en 23 werd namelijk een laag van grijszwart zand gevonden , dat ook Romeins vondstmateriaal bevatte . 
+Het zand in deze laag was veel compacter en harder dan in het zuidelijke gedeelte . 
+De middelste en onderste vullagen van de terreindepressie tekenden zich minder duidelijk af . 
+In feite werd alleen de westelijke begrenzing aangetroffen . 
+Het ontbreken van de laag in proefsleuf 2 , samen met de grenzen in werkput 18 en in werkput 20 , wijzen op een omvang van ruim 60 meter , gerekend van noord naar zuid . 
+Er kan ook sprake zijn van twee depressies , omdat de laag met IJzertijd-aardewerk in werkput 21 vrij dun was en in werkput 23 weer dikker . 
+De oostelijke begrenzing kon niet worden aangetoond . 
+In werkput 19 was een onderste antropogene laag van 40 cm dikte bewaard , die sterk was doorworteld . 
+Hierboven lag een verstoring uit de 20ste eeuw 17 ( WOII ) . 
+Opmerkelijk was het voorkomen van aardewerk uit de 17de eeuw in de onderste laag , waarschijnlijk het gevolg van bioturbatie . 
+In de proefsleuven kon worden vastgesteld , dat in het oostelijke gedeelte een dikker esdek was gevormd , waarin een deel van de vulling van de terreindepressie was opgenomen . 
+Op zijn beurt was dit esdek weer opgenomen in een 20ste eeuwse verstoring . 
+Afb.9 . 
+Een detail van het zuidprofiel in proefsleuf 1 . 
+In het midden is de uitgeloogde laag van wit zand duidelijk zichtbaar . 
+Daaronder ligt het gele zand dat voornamelijk vondsten uit de IJzertijd bevat . 
+Boven de witte laag bevindt zich een dun pakket akkergrond uit de Late Middeleeuwen , dat door een laagje met verspitte gele leem gescheiden wordt van moderne verstoringen erboven . 
+18 Afb.10 . 
+De plaats van de drie getekende profielen ( zie afb.11 ) 19 Afb . 
+11 . 
+Profielen 20 7.3 . 
+Vondstverspreiding Tijdens het onderzoek bleek dat in de vullagen van de terreindepressie vondstmateriaal voorkwam , dat chronologisch verdeeld kan worden in drie groepen : IJzertijd , Romeinse tijd en Vroege Middeleeuwen ( in totaal gaat het om 3712 aardewerkfragmenten ) . 
+De beide onderste lagen bevatten grotendeels handgevormd aardewerk , de bovenste laag bevatte draaischijfaardewerk . 
+Toch werd er ook Romeins aardewerk aangetroffen in de diepere laag , die aan de IJzertijd wordt toegeschreven , en IJzertijd aardewerk in de top van de Romeinse laag . 
+In de analyse van de vondsten ( zie hierna ) zal blijken dat beide vondstgroepen toch in tijd duidelijk van elkaar gescheiden zijn . 
+De oorzaak van de vermenging is waarschijnlijk bioturbatie . 
+Via diergangen werd het aardewerk , dat sterk gefragmenteerd was , door de lagen verspreid . 
+In de lagen zijn namelijk geen duidelijke sporen van menselijke activiteit aangetroffen , vroeger dan de 17de eeuw ( de aanleg van de hoornwerkgracht ) . 
+De doorwortelde onderlaag van het IJzertijd-pakket bevatte vrijwel geen vondstmateriaal , behalve in de werkputten 10 en 12 . 
+Hier werd een concentratie van dikwandig aardewerk aangetroffen . 
+In werkput 23 was de Romeinse laag ( door ploegen ? ) 
+gemengd met de bovenliggende niveaus , wat resulteerde in vondsten uit Romeinse tijd , Vroege middeleeuwen en late middeleeuwen in dezelfde laag . 
+De horizontale verspreiding van de aardewerkfragmenten laat een duidelijke concentratie zien in de werkputten 12 en 13 . 
+Dat geldt voor zowel de IJzertijd als de Romeinse tijd . 
+Dit is deels het gevolg van het zorgvuldig uittroffelen van de lagen in werkput 12 . 
+In de andere putten werd alleen steekproefsgewijs verzameld . 
+Desondanks werd er een verschil waargenomen tussen de vondstdichtheid in de onderlinge werkputten , bijvoorbeeld tussen put 12 en 16 . 
+De vondsten uit de IJzertijd waren het talrijkst in werkput 12 en namen in aantal sterk af in zuidelijke en vooral noordelijke richting . 
+In de werkputten 10 en 12 bevond zich meer aardewerk in de onderste doorwortelde laag . 
+De vondsten uit de Romeinse tijd leken daarentegen verspreid over twee concentraties : een rondom werkput 12 en een andere bij werkput 23 . 
+De indruk bestaat dat daar een tweede , iets minder diepe terreindepressie lag . 
+Helaas was een groot deel van het oppervlak verstoord door funderingen van een 20ste-eeuwse barak . 
+Afb.12 . 
+Werkput 14 , richting het westen . 
+De vulling van de terreindepressie tekent zich als een donkere vlek af ten opzichte van het lichtere pleistocene zand . 
+21 Afb.13 . 
+Reconstructie van de omvang van de vullagen uit de IJzertijd . 
+Waarschijnlijk gaat het om twee afzonderlijke terreindepressies . 
+22 Afb.14 . 
+Reconstructie van de omvang van de vullagen uit de Romeinse tijd . 
+In werkput 23 bevinden zich twee ( paal ) kuilen . 
+23 7.4 . 
+Sporen De opgraving heeft behalve de grenzen van de terreindepressie , vrijwel geen sporen opgeleverd die ouder zijn dan de 20ste eeuw . 
+Aan de zuidwestelijke , zuidelijke en zuidoostelijke zijde van de depressie werd onder de resten van het esdekje schoon zand gevonden . 
+Na de opgraving vond daar de aanleg plaats van wegcunetten en de kuilen voor de bouw van de villa ’ s . 
+Deze ontgravingen werden archeologisch begeleid maar leverden evenmin sporen van bewoning of bebouwing op . 
+In werkput 23 kwamen onder de witgele bovenste vullaag twee ondiepe kuilen tevoorschijn ( F14 en F15 ) . 
+Een ervan was 65 x 100 cm groot , ruim 60 cm diep en bevatte een grote ijzeren nagel . 
+De andere was ondieper , grillige gevormd en bevatte enkele scherven gedraaid aardewerk waaronder geverfde waar . 
+Beide kuilen hadden tamelijk vlakke bodems maar waren zeer waarschijnlijk toch paalkuilen , die uit de Romeinse tijd dateren . 
+Opmerkelijk was het ontbreken van het bovenste deel van de kuilen in het witte zandpakket . 
+Dit komt waarschijnlijk door het compleet uitlogen van de grond . 
+Laatmiddeleeuwse sporen waren bijzonder schaars . 
+Het gaat om enkele greppeltjes en kuilen , daterend uit de 13de tot de 16de eeuw . 
+Veel duidelijker zijn de sporen van het hoornwerk uit 1622 . 
+In werkput ten 14 , 15 en 18 en in proefsleuf 2 werden delen van de oostelijke gracht rond het hoornwerk gevonden . 
+Deze was 3,50 m breed , 1 m diep en gevuld met humeus bruin zand . 
+In aanvullende proefsleuven ten zuiden van de opgraving kon de uiterste zuidoostelijke punt van het hoornwerk getraceerd worden ( bij H op afbeelding 15 ) . 
+Daar was nog maar 10 cm van de onderste vulling bewaard : een teken dat het bovenliggende zand ooit meters diep was afgegraven . 
+Dankzij deze sporen en de resultaten van de boringen is de positie van het hoornwerk en het ravelijn exact in beeld gebracht . 
+De meeste sporen in de werkputten dateren uit de 20ste eeuw . 
+Ze kunnen preciezer gedateerd worden . 
+In de sporen van werkput 16 , 12 en 21 bevond zich veel vondstmateriaal , bestaande uit geweerpatronen , kleding , glas en porselein , dat afkomstig was van het Duitse leger . 
+Ook was er Engels en Amerikaans materiaal aanwezig . 
+De sporen bestonden uit gemetselde structuren ( werkput 16 ) , greppels ( werkputten 12 en 20 t/m 23 ) en paalkuilen ( werkput 19 en 20 ) . 
+Waarschijnlijk stonden er tijdens de Tweede Wereldoorlog twee barakken aan de rand van het exercitieterrein , of mogelijk nog meer . 
+Op luchtfoto ’ s uit 1937 is hiervan nog niets te zien , evenmin op luchtfoto ’ s van kort na de oorlog . 
+Omdat de periode van de Tweede Wereldoorlog buiten de onderzoeksvraagstellingen viel , is geen nader onderzoek naar archiefbronnen gedaan . 
+24 Afb.15 . 
+De aangetroffen sporen van het hoornwerk ( H ) en het ravelijn ( R ) . 
+25 Afb.16 . 
+Sporen uit de 13de-16de eeuw ( groen ) en uit de 20ste eeuw ( rood ) . 
+In grijs de vermoedelijke omvang van de barakken uit de Tweede Wereldoorlog 26 7.5 . 
+Vondsten . 
+De oudste vondsten van de opgraving zijn fragmenten van vuursteen . 
+In totaal werden 36 fragmenten gevonden waarvan de meeste afslagen zijn . 
+Ze bevonden zich op verschillende diepten in de opvulling van de terreindepressie . 
+Drie zijn ( fragmenten van ) kleine werktuigjes . 
+Ze dateren uit het Mesolithicum . 
+Afb . 
+17 . 
+Vondsten uit het Mesolithicum . 
+Boven twee stekers . 
+Schaal 1:2 . 
+Het vondstmateriaal uit de vullagen van de terreindepressie bestaat grotendeels uit aardewerk ( 3712 fragmenten ) . 
+Verder werden er fragmenten natuursteen gevonden ( 72 , waarvan de meeste tefriet ) , glas ( 4 ) , daktegel ( 14 ) en metalen voorwerpen ( 4 munten en 2 fibulae ) . 
+Dierlijk botmateriaal was bijzonder schaars ( < 10 fr . ) . 
+Het aardewerk kan onderverdeeld worden in handgevormd en gedraaid aardewerk . 
+De eerste groep dateert ( grotendeels ) uit de IJzertijd ; de tweede uit de Romeinse tijd en Vroege Middeleeuwen . 
+Handgevormd aardewerk uit de IJzertijd Het totaal aantal fragmenten van handgevormd aardewerk bedraagt 2380 . 
+Deze zijn afkomstig uit de onderste vullagen van de terreindepressie en in mindere mate uit de bovenste laag . 
+Het aardewerk is over het algemeen zeer fragmentarisch en bestaat overwegend uit kleine wandfragmenten ( < 12 cm² ) . 
+De kleur van het baksel varieert van beige tot rossig geelbruin of oranjebruin , slechts een klein deel ( ca.13 % ) is zwart of grijsbruin . 
+Het baksel is opvallend homogeen en meestal matig zacht ( met de nagel in te krabben ) tot matig hard ( moeilijk met de nagel in te krabben ) gebakken . 
+Vaak is de kern van de breuk of de binnenzijde van de potwand iets donkerder door onvoldoende verhitting ( reductieverschijnsel ) . 
+De meeste fragmenten hebben geen duidelijke magering . 
+Als er zichtbare magering aanwezig is , dan bestaat die meestal uit stukjes potgruis en vrijwel nooit zand of mica . 
+De klei ziet er brokkelig uit , wat geen resultaat is van magering , maar van het onvoldoende doorkneden en zuiveren van de grondstof . 
+Wanneer de klei minder brokkelig is en wat homogener van structuur , is er nauwelijks een verschil zichtbaar met aardewerk uit de 12de eeuw , dat in Bergen op Zoom gevonden wordt . 
+Datzelfde geldt voor de zwarte of grijsbruine baksels . 
+Deze zijn over het algemeen nog iets homogener en ‘ zuiverder ’ van textuur dan de rossige fragmenten . 
+Veel van deze fragmenten vertonen geen zichtbaar verschil met het 12de-eeuwse aardewerk , behalve dat zij iets zachter gebakken zijn . 
+Bijna alle fragmenten vertonen een grote component mica , dat van nature in de klei voorkomt en als zeer kleine lichte glinstertjes op het oppervlak herkenbaar is . 
+Organische magering komt niet voor . 
+Een klein aantal fragmenten ( minder dan 3 % ) heeft een duidelijk afwijkend baksel . 
+Het is wat harder en gemagerd met mica , fijn zand en potgruis . 
+Het meeste handgevormde aardwerk heeft een tamelijk glad afgewerkt oppervlak . 
+Een bewerking zoals het besmijten van de wanden komt opvallend weinig voor ( minder dan 5 % ) . 
+De gegladde fragmenten zijn eveneens gering in aantal en meestal van een donkergrijs of bijna zwart baksel . 
+27 De randafwerking van de potten kan grofweg in twee groepen verdeeld worden : steile , hoekige randen met decoratie op de bovenzijde , en wat ronder afgewerkte , maar onverdikte randen . 
+De eerste groep bestaat vooral uit rossig gebakken aardewerk . 
+De bovenzijde van de randen zijn met een stokje ingedrukt waardoor een patroon van gaatjes of indeukingen ontstaat ( ook wel vingertop-versiering genoemd , hoewel de indrukken veel te klein zijn voor vingers ) . 
+De afgeronde randen zijn meestal iets dunner en onverdikt . 
+Enkele randen zijn opvallend dun en glad afgewerkt en horen tot de zwarte of zwartbruine baksels ( afb.18.45-53 ) . 
+Sommige wandfragmenten zijn versierd met inkervingen . 
+Soms zijn het enkele lijnen , soms kamstreken in kruisende banen . 
+Eén schouderfragment heeft een versiering van ronde indrukkingen ( afb.18.20 ) . 
+Helaas bieden de fragmenten nauwelijks mogelijkheden voor het reconstrueren van de vorm van de potten , wat de datering van het complex moeilijk maakt . 
+De meeste randfragmenten lijken afkomstig te zijn van grote gesloten vormen op vlakke bodems . 
+Een kleiner aantal is van een open vorm , zoals een kom of bak . 
+Verder werden er een oorfragment en twee spinsteentjes gevonden ( afb . 
+18.24-26 ) . 
+Vanwege de textuur van de klei , de verwantschap met het middeleeuwse aardewerk , het voorkomen van mica en potgruis en het ontbreken van organische magering , mag aangenomen worden dat het meeste van het handgevormde aardewerk van lokale herkomst is . 
+De wat hardere en duidelijk met zand en steengruis gemagerde donkere scherven lijken van elders afkomstig . 
+Voor de datering van het materiaal kan vergeleken worden met andere vondstcomplexen uit zuidelijk Nederland en België , bijvoorbeeld Breda2 , Oostbrabant3 en Brecht4 . 
+Enkele kenmerken zoals organische magering en indrukken op de zijkant van de randen of spiraalgewijze decoratie op de randen , die kenmerkend zijn voor de Late IJzertijd , ontbreken hier . 
+Het relatief kleine aantal gegladde wandfragmenten en de magering met potgruis zouden ook wijzen op een vroegere datering . 
+Het aardewerk van de vindplaats Kijk in de Pot lijkt te dateren in de periode van het einde van de Vroege IJzertijd tot de Midden IJzertijd . 
+2 Taayke 2004 . 
+Van den Broeke 1980 en 1987 . 
+4 Gautier en Annaert 2006 . 
+3 28 Afb . 
+18 . 
+Handgevormd aardwerk uit de IJzertijd . 
+Schaal 1:4 . 
+Nrs . 
+1 t/m 42 : overwegend gelig en rossig baksel ; nrs . 
+43 en 44 : grof gemagerd zwart baksel ; nrs . 
+45 t/m 54 : geglad bruinzwart en zwart baksel . 
+29 Overige vondsten uit de IJzertijd In werkput 12 werd een fragment van een bronzen draadfibula gevonden . 
+De bewaard gebleven lengte bedraagt slechts 35 millimeter . 
+De helft van de veer , de hele naald en de naaldvanger of naaldschoen ontbreken . 
+De vorm en afwerking van de fibula tonen aan dat deze niet in de Romeinse tijd werd vervaardigd , maar ouder moet zijn . 
+Dit type wordt door Richard Hattatt5 gedateerd in de 4de en 3de eeuw voor Chr. , de Midden IJzertijd tot het begin van de Late IJzertijd . 
+Afb . 
+19 . 
+Draadfibula uit de Midden-IJzertijd . 
+Boven- en zijaanzicht . 
+5 Hattatt 2000 , p. 288 ; fig . 
+147-724/725 . 
+30 Aardewerk uit de Romeinse tijd Er werden 1202 fragmenten van gedraaid aardewerk gevonden , die dateren uit de Romeinse tijd . 
+Ze kunnen worden onderverdeeld in een aantal groepen . 
+Ook hier zijn de fragmenten gemiddeld weer erg klein . 
+Het grootste deel ( 955 ) bestaat uit grijs- en roodbakkend aardewerk . 
+Het is over het algemeen zacht tot matig hard gebakken . 
+Het merendeel is toe te schrijven aan Lowlands Ware en de zogenaamde Scheldevallei amforen . 
+Lowlands Ware werd in of rond Bergen op Zoom vervaardigd . 
+Veel wandfragmenten zijn nauwelijks te onderscheiden van 13de en 14de-eeuws lokaal aardewerk . 
+Ook voor vele van de Scheldevallei amforen wordt een lokale productie vermoed . 
+Een enkel fragment van Belgische Waar kan misschien ook toegeschreven worden aan de Lowlands Ware6 . 
+Een veel kleinere groep vormt het ruwwandige aardewerk ( slechts 33 fragmenten ) . 
+Andere groepen worden gevormd door de geverfde waar ( 37 fr . ) , terra sigilata ( 17 fr . ) en de wrijfschalen ( 6 fr . ) . 
+Dit zijn alle importproducten . 
+Het gedraaide aardewerk is in een ‘ quick-scan ’ bestudeerd door Auxilia in Nijmegen . 
+Doel was om dit vondstcomplex te vergelijken met het rituele depot van de Parade/Thaliaplein . 
+In deze quick-scan zijn 236 herkenbare randfragmenten geselecteerd7 . 
+Het vormenspectrum van de Lowlands Ware omvat relatief veel randen van potten Arentsburg 140-142 ( afb.21.1-15 ) . 
+Er zijn ook andere pot- en bekerranden , evenals een bakje ( als Oelman 111 , afb.21.23 ) . 
+Een aparte groep vormen de zogenaamde Scheldevallei-amforen ( afb.20.31-41 ) . 
+Een van de amfoororen heeft inkervingen ( afb.21.41 ) . 
+Verder zijn nog kommen , een bord , beker , pot en een wrijfschaal in hetzelfde baksel herkend ( afb.21.26 wrijfschaal , als Vanvinckenroye 1991.350 ; afb.21.28 pot , als Oelmann 89 ) . 
+Het ruwwandige aardewerk is vertegenwoordigd door potten met dekselgeul ( Oelmann 89 , afb.22.3-5 ) en naar binnen gebogen rand ( Oelmann 104 , afb.22.6-7 ) . 
+Het gladwandige aardewerk is gering in aantal . 
+Een herkenbaar stuk is een deksel ( afb.22.10 ) . 
+Er zijn fragmenten van een versierde terra sigillatakom aangetroffen en van geverfde bekers in ‘ Qualitätsware ’ . 
+Een twintigtal kleine scherfjes zijn afkomstig van een kom in Pompejaans rood ( afb.22.13 ) . 
+Afbeelding 20 toont de functieverdeling van het aangetroffen aardewerk , vergeleken met dat van de opgraving Parade . 
+De percentages zijn gebaseerd op het minimum aantal individuen ( MAI = 66 ) . 
+Het Romeinse aardewerk van de Parade bestond grotendeels uit gladwandige miniatuuramforen in een rituele depositie . 
+Dergelijke kleine amfoortjes ontbreken op Kijk in de Pot . 
+Een ander verschil met de opgraving Parade is de toestand van het aardewerk . 
+Het materiaal van Kijk in de Pot is doorgaans harder en het oppervlak is minder aangetast , wat er op wijst dat het niet of slechts kort in een natte context heeft gelegen . 
+Ook zijn de fragmenten doorgaans iets groter dan op de Paradeplaats.. 
+De samenstelling en toestand van het aardewerk komen overeen met wat men kan verwachten bij nederzettingsafval uit de tweede en derde eeuw : alle functiegroepen zijn goed vertegenwoordigd en per potindividu zijn slechts een of enkele scherven aangetroffen . 
+Er zijn geen vondsten geborgen die wijzen op bijzondere activiteiten die in de omgeving van de vindplaats hebben plaatsgevonden . 
+Het Romeinse draaischijfaardewerk dateert vanaf de tweede eeuw tot en met de eerste helft van de derde eeuw . 
+De eerste importen van Kijk in de Pot zijn daarmee iets ouder dan van de vindplaats Paradeplaats.8 6 De Clercq en Degryse 2008 . 
+Niemeijer 2009 . 
+8 Niemeijer 2009 . 
+7 31 Afb.20 . 
+Functieverdeling van het Romeinse aardewerk van de opgraving Kijk in de Pot ( op basis van MAI=66 , rechts ) vergeleken met de Parade ( links ) . 
+32 Afb . 
+21 . 
+Lowlands Ware , grijs baksel ( nrs 1 t/m 24 ) en rood baksel ( nrs . 
+25 t/m 30 ) ; ‘ Scheldevalleiamforen ’ ( nrs 31 t/m 41 ) . 
+Schaal 1:4 . 
+33 Afb . 
+22 . 
+Overig Romeins aardewerk . 
+1-2 : wrijfschalen ( Gose 354 ) ; 3-9 : ruwwandig aardewerk ; 10 : gladwandig aardewerk ; 11-13 : terra sigillata en Pompeïaans rood . 
+Schaal 1:4 . 
+Overige vondsten uit de Romeinse tijd Tot de vondsten uit de Romeinse tijd behoren 13 fragmenten van daktegels en imbrices . 
+Van de vier kleine stukjes glas is één afkomstig van een vierkante fles en een van een beker met opgelegde glasdraad . 
+De metaalvondsten zijn , zoals verwacht in een droge zanderige omgeving , uiterst schaars . 
+Er werden vier bronzen sestertii en een gegoten bronzen vingerhoed gevonden . 
+Uit werkput 12 is een bronzen sestertius afkomstig geslagen onder Commodus ( 180-192 ) in 180 of 181 na Chr.9 ( afb.23.4 ) . 
+De keerzijde van deze munt toont keizer Commodus op een podium omringd door twee figuren en een derde persoon die het podium via een trap benadert . 
+Het tafereel stelt Commodus voor die een liberalitas geeft . 
+Dit was een feest ter ere van de ouditalische god Liber en zijn eega Libera , dat op 17 maart als lentefeest gehouden werd in Rome . 
+Op dit feest werden aan jongelingen van ca . 
+17 jaar de toga virilis of libera gegeven . 
+Zij werden door hun vader en verwanten naar het forum begeleid en daar aan bekenden en invloedrijke personen voorgesteld . 
+Zo deden ze hun intrede in de wereld der volwassenheid . 
+De keizer schonk op die dag geld en goederen aan de burgers . 
+Uit werkput 16 kwam een sestertius van Hadrianus ( 117-138 ) geslagen tussen 134 en 138 na Chr . Op de keerzijde staat vermoedelijk Providentia10 . 
+( afb.23.2 ) . 
+Twee andere munten zijn afkomstig uit werkput 23 ter hoogte van paalkuil F15 . 
+De eerste munt betreft een sestertius van Antoninus Pius ( 138-161 ) geslagen aan het begin van zijn regeerperiode tussen 140 en 144 na Chr . met op de keerzijde Salus.11 ( afb.23.1 ) De tweede munt is eveneens een sestertius van Antoninus Pius , maar dan geslagen tegen het eind van zijn regeerperiode in de jaren 159 of 160 na Chr . met op de keerzijde Pietas en drie kinderen12 . 
+( afb.23.3 ) . 
+9 RIC III , pag . 
+402 , no 300 ( a ) . 
+RIC II , pag . 
+439 , no 772 ? 
+( bij no . 
+772 wordt echter niet gesproken over een borstbeeld zonder harnas ) . 
+11 RIC III , pag . 
+111 , no 635 . 
+12 RIC II , pag . 
+152 , no 1031 . 
+10 34 Afb . 
+23 . 
+Romeinse munten . 
+Schaal 1:1 . 
+Een bijzondere vondst uit werkput 12 is een bronzen vingerhoed . 
+Het betreft een gegoten exemplaar dat met de hand is geput . 
+De vingerhoed heeft een hoogte van 15 millimeter en een diameter van ca . 
+20 millimeter . 
+De exacte diameter is niet meer te bepalen omdat de vingerhoed is samengedrukt . 
+Het gaat hier naar alle waarschijnlijkheid om een Romeins exemplaar . 
+Hoewel de uiterlijke kenmerken van dergelijke vingerhoeden vrijwel identiek zijn aan de exemplaren uit de 14de en 15de eeuw is het vrijwel uitgesloten dat we hier met een laatmiddeleeuws exemplaar van doen 35 hebben . 
+De vingerhoed is aangetroffen in het midden van het pakket en in de nabijheid hiervan waren geen verstoringen of ploegsporen uit latere tijden aanwezig . 
+Vingerhoeden uit de Romeinse tijd zijn echter uitzonderlijk en niet eerder gevonden in Nederland . 
+De oudst bekende Romeinse vingerhoed is gevonden in Pompeï en stamt uit de 1ste eeuw voor Chr . Een vrijwel identiek exemplaar is gevonden in Verulamium , het huidige St.Albans in Groot Brittannië.13 Afb.24 . 
+Vingerhoed . 
+Tenslotte kan nog de vondst van een stukje pleisterwerk genoemd worden . 
+Dit werd gevonden in de witte laag , vlak bij een sestertius . 
+Het is een klein fragmentje van witte kalkpleister , 3 mm dik , waarop bruine spatten zichtbaar zijn . 
+Mogelijk gaat het om resten van beschildering . 
+13 http : //www.stalbansmuseums.org.uk/Sites/Verulamium-Museum 36 Aardewerk uit de Vroege Middeleeuwen Het bovenste niveau van de grijswitte zandlaag , die in de Romeinse tijd dateert , bevatte ook enig vondstmateriaal uit de Vroege Middeleeuwen . 
+Het betreft 130 aardewerkfragmenten en een slijpsteen . 
+Het aardewerk is steeds gedraaid en bestaat grotendeels uit kleine wandfragmentjes . 
+De weinige randfragmenten behoren toe aan een kom , type WX ( afb.23.2 ) en Badorf potten , type WIIB ( afb.23.4-5 ) . 
+Een randfragment en een wandfragment met radstempelversiering zijn van Walberberg keramiek ( afb.23.3 en 23.8 ) . 
+Het aardewerk dateert uit de 8ste tot de 9de eeuw . 
+Afb.25 . 
+Vondstmateriaal uit de Vroege Middeleeuwen . 
+1-8 Aardewerk . 
+Schaal 1:4 ; 9-10 Wetsteen en fragment van een maalsteen van tefriet . 
+Schaal 1:2 . 
+37 Overige vondsten uit de Vroege Middeleeuwen In het zuidelijke deel van werkput 20 werd een opmerkelijk natuurstenen voorwerp gevonden . 
+Het lag schuin in de bovenste vullaag van geelwit zand . 
+Het is een rolronde staaf van 33 cm lengte en 33 mm dikte ( afb.25.9 ) . 
+De beide uiteinden zijn bekapt en enigszins afgerond . 
+De steen is een gegroefde lichtgrijze steen , die door Archeolospecialisten werd geïdentificeerd als Eidsborgfylliet14 . 
+Zeer waarschijnlijk gaat het om een slijp- of wetsteen . 
+Deze steensoort is afkomstig van Telemarken in Noorwegen en werd gedurende de middeleeuwen en Nieuwe Tijd gebruikt om slijp- en wetstenen te maken . 
+Om die reden is een datering in de Romeinse tijd , ondanks de ligging in de laag , uitgesloten . 
+De steen vertoont geen sporen van gebruik . 
+Mogelijk gaat het om een nieuw stuk of om een ruwe steen die plaatselijk tot kleinere verwerkt kon worden . 
+Wat datering betreft sluit de steen vermoedelijk aan bij de andere vondsten uit de Vroege Middeleeuwen ( 8ste-9de eeuw ) . 
+Een voor Bergen op Zoom bijzondere vondst werd met de metaaldetector gedaan tijdens het bouwrijp maken van het terrein . 
+Ruim 50 meter ten zuiden van het opgravingsgebied werd een geëmailleerde fibula gevonden . 
+De fibula lag in de demping van de 17de-eeuwse hoornwerkgracht . 
+Het is aannemelijk dat de hoornwerkgracht werd gedempt met de grond die in de 17de eeuw elders van het terrein is afgegraven . 
+De fibula meet 30 bij 13 millimeter en is wat de vorm betreft enigszins afgeleid van het lunaofwel maanvormige type . 
+De bolle kant van de maanvorm is echter wat hoekiger uitgevoerd en op de hierdoor ontstane hoeken zijn drie kleine uitstulpinkjes zichtbaar . 
+Aan de bovenzijde zijn nog resten van het oorspronkelijke rode emaille inlegwerk te zien . 
+De secundaire naald aan de achterzijde ontbreekt maar dat is niet ongewoon bij dit type fibula . 
+Dergelijke fibula ’ s zijn een vereenvoudigde uitvoering van de grotere , rijk versierde fibula ’ s in cloisonné techniek die bekend zijn uit de Merovingische en Karolingische tijd . 
+Dit exemplaar dateert waarschijnlijk uit de 9de eeuw . 
+De fibula lijkt sterk op een exemplaar dat in 2005 gevonden werd in de Augustapolder en dat eveneens in de 9de eeuw gedateerd werd15 . 
+Afb.26 . 
+Voor- en achterzijde van een fibula uit de Vroege Middeleeuwen . 
+Schaal 2:1 . 
+14 15 Mededeling K.Esser , Archeospecialisten . 
+Vermunt en Van der Kallen 2009 , afb.49 . 
+38 8 . 
+Synthese en beantwoording van de onderzoeksvragen Het onderzoek heeft niet alle vragen afdoende kunnen beantwoorden . 
+Een van de belangrijkste vragen betrof de omvang van de terreindepressie . 
+De depressie is als zodanig vastgesteld ten opzichte van het hogere pleistocene zand aan de west- en zuidzijde , maar het is niet zeker of het daadwerkelijk om een geïsoleerde laagte gaat , of om een overgang naar een lager terrein dat zich naar het oosten verder uitstrekt . 
+De geconstateerde ruimtelijke begrenzing van het Romeinse materiaal , en vermoedelijk ook de vondsten uit de IJzertijd doen vermoeden dat het inderdaad om een laagte gaat die ook aan het oosten en noordoosten scherp werd begrensd . 
+Het beeld wordt daar flink vertroebeld door moderne ingravingen en verstoringen . 
+Alleen toekomstig onderzoek onder de parkeerplaats kan meer helderheid brengen . 
+Een andere vraag betrof de processen die ten grondslag liggen aan de opvulling van de terreindepressie . 
+Er zijn geen duidelijke aanwijzingen dat hier sprake is van een ven of een langdurige accumulatie van grond door regenwater . 
+Ook de geringe aantasting van de scherven wijst eerder op een droog milieu . 
+Het meest voor de hand liggend is een langzame opvulling van een laagte door stuifzandafzettingen vanuit de hogere zandtoppen in de omgeving , gecombineerd met inspoeling . 
+In dit pakket heeft zich door het neerslaan van mineralen langzaam een podzol ontwikkeld , die gekenmerkt wordt door wit of bleekgrijs zand boven en geel zand onder . 
+De onderste sterk doorwortelde laag is een restant van het oorspronkelijke vegetatiedek in de depressie . 
+Een kleine cluster van dikwandige IJzertijdscherven in de doorwortelde laag in werkput 12 getuigt van de vroegste bewoningsfase . 
+Opvallend is de grote fragmentatie van de aardewerkscherven . 
+Er is zeker geen sprake van een depositie , zoals op de Parade . 
+De scherven zijn geleidelijk in de laagte terecht gekomen , waarschijnlijk door menselijke activiteit , vanuit een bewoningsareaal op en rond dezelfde locatie . 
+Het geleidelijke dichtstuiven van de laagte heeft dus al plaatsgevonden tijdens de bewoningsfasen zelf . 
+De fragmentatie van de scherven was grotendeels het gevolg van het bewerken ( ploegen ) van de grond in de IJzertijd en de Romeinse tijd . 
+Een verdere fragmentatie van de scherven door laatmiddeleeuwse grondbewerking moet uitgesloten worden , omdat de fragmenten te diep in de ondergrond verspreid lagen en er evenmin sporen van ploegen waargenomen werden . 
+De enige laatmiddeleeuwse ploegsporen werden in de top van het Romeinse zand gezien . 
+Door de sterke uitloging van de grond waren eventuele oudere ( ploeg ) sporen niet meer zichtbaar . 
+Er zijn vrijwel geen sporen van bebouwing uit de IJzertijd of Romeinse tijd in het onderzoeksgebied gevonden . 
+De twee Romeinse paalkuilen in werkput 23 zijn de enige aanwijzingen dat bewoning in die tijd waarschijnlijk ten noordoosten van de laagte gesitueerd was . 
+Opmerkelijk is de vaststelling dat deze kuilen alleen nog in de onderliggende gele laag zichtbaar waren en niet meer in de Romeinse witte laag , van waaruit ze gegraven waren . 
+De aftekening moet door uitloging volledig vervaagd zijn . 
+Aanvankelijk werd aangenomen dat het oorspronkelijke maaiveld in het gebied van de renbaan , ten zuidwesten van de opgraving , door afgravingen aanmerkelijk verlaagd was en dat daardoor ook eventuele oudere bewoningssporen verdwenen zouden zijn . 
+Dit is echter in tegenspraak met het aantreffen van een dun esdekje in de diverse proefsleuven op de renbaan en in proefsleuven 1 en 2 . 
+Een deel van deze cultuurlaag uit de late middeleeuwen is weliswaar opgenomen door de verstoringen van 1950 , maar echt veel dikker zal deze niet geweest zijn . 
+De veronderstelde Holwegenberg moet daarom in het uiterste zuidwesten van het stadspark gezocht worden , waar ook het oudste militaire fortje stond . 
+Ook het ontbreken van sporen uit de Romeinse tijd , zelfs onderkanten van diepe structuren zoals waterputten , wijst er op dat deze bewoning op een andere plek gezocht moet worden . 
+De meest logische plaats is dan ten noorden en noordoosten van het opgegraven volume . 
+Het bewoningsareaal lag dan juist ten noordoosten van een stuifzandglooiing , die de vorm van een duin had en aan de westkant abrupt daalde naar een wat vochtiger terrein . 
+Verder naar het noorden bevond zich de glooiing van de pleistocene rug , overgaand in de erosiegeul van de ( latere ) haven . 
+Deze grond was waarschijnlijk in de IJzertijd en Romeinse tijd voldoende geschikt voor cultivatie . 
+Helaas zijn daar de sporen uitgewist door het uitgraven van grote bastiongrachten in 1700 . 
+In het gebied is geen continue bewoning geweest . 
+Er is sprake van drie perioden : het einde van de Late IJzertijd tot het einde van de Midden IJzertijd , globaal 600 v.Chr . 
+tot 250 v.Chr . 
+Daarna de Romeinse tijd , globaal van 100 tot 250 na Chr. , gevolgd door de Vroege Middeleeuwen , 700-900 na Chr . 
+Het belang van de opgraving Kijk in de Pot ligt in het feit dat voor het eerst aangetoond kon worden dat er een voorstedelijke ( met name Romeinse ) bewoning was . 
+Sporen daarvan waren tot dusver bijzonder schaars in het uiterste westen van de provincie . 
+De site van de Gertrudiskerk werd nog onvoldoende 39 onderzocht om vast te kunnen stellen of hier ook een bewoningskern was , of dat er uitsluitend sprake was van de infrastructuur van een heiligdom naast een ven . 
+Het is interessant om de site van Kijk in de Pot te vergelijken met die van het offerdepot , dat uit de 2de en 3de eeuw dateert . 
+De vindplaatsen lagen wellicht minder dan 500 meter van elkaar . 
+Bij de kerk werden ook sporen van een akker uit de IJzertijd gevonden , helaas niet nauwkeurig gedateerd . 
+De beide plaatsen liggen op de randen van de noordelijke flank van een pleistocene zandrug . 
+In het licht van de veronderstelde aardewerkproductie ( Lowlands Ware ) en de aanname dat de huidige havenstroom al in de Romeinse tijd als transportroute gebruikt werd , is er grote kans dat er in de toekomst nog meer bewoningsresten aan deze rand zullen worden aangetroffen . 
+Afb.27 . 
+De vindplaatsen Parade en Kijk in de Pot op de flanken van de pleistocene zandrug . 
+In zwart de contouren van de middeleeuwse omwalde stad met kerk . 
+40 Literatuur Beex , G.A.C . 
+( 1973 ) , Roman finds in North Brabant , in : Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 23 , 159-188 . 
+Beex , G.A.C . 
+( 1973 ) , Archeologisch Nieuws , in : Bulletin van de Koninklijke Nederlandse Oudheidkundige Bond . 
+Broeke , P.W . 
+van den ( 1980 ) , ‘ Bewoningssporen uit de IJzertijd en andere perioden op de Hooidonkse Akkers , gem . 
+Son en Breugel , prov.Noord-Brabant ’ Analecta Praehistorica Leidensia VIII , Leiden . 
+p.7-80 . 
+Broeke , P.W . 
+van den ( 1987 ) , ‘ Oss-Ussen : het handgemaakte aardewerk ’ , in : W.A.B . 
+van der Sanden , en P.W . 
+van den Broeke ( red . 
+) , Getekend zand . 
+Tien jaar archeologisch onderzoek in Oss-Ussen . 
+Waalre . 
+p. 101-119 . 
+Clercq , W. de , en Degryse , P. ( 2008 ) , ‘ The mineralogy and petrography of Low Lands Ware 1 ( Roman lower Rhine-Meuse-Scheldt basin ; the Netherlands , Belgium , Germany ) ’ in : Journal of Archaeological Science 35. p.448-458 . 
+Gautier , S. en Annaert , R. ( 2006 ) , ‘ Een woonerf uit de midden-ijzertijd onder de verkaveling Capelakker te Brecht-Overbroek ( prov . 
+Antwerpen ) ’ , Relicta 2 . 
+Archeologie , Monumenten- en Landschapsonderzoek in Vlaanderen . 
+p. 9-48 . 
+Hattatt , R. ( 2000 ) , ‘ A visual catalogue of Richard Hattatt ’ s Ancient Brooches ’ Oxford . 
+Niemeijer , R.A.J. , Vermunt , M.J.A. , e.a . 
+( 2009 ) , Archeologisch onderzoek Parade . 
+Een Romeinse offerplaats onder de middeleeuwse stad . 
+( Archeologische rapporten gemeente Bergen op Zoom 15 ) . 
+Taayke , E. ( 2004 ) , ‘ Het aardewerk uit de periode Late Bronstijd – Midden-IJzertijd ’ , in : C.W.Koot en R.Berkvens , Bredase akkers eeuwenoud . 
+4000 jaar bewoningsgeschiedenis op de rand van zand en klei ( Rapportage Archeologische Monumentenzorg 102/Erfgoedstudies Breda 1 ) , Breda . 
+p.167-178 . 
+Vermunt , M.J.A . 
+en Kallen , A.van der ( 2009 ) , Archeologisch onderzoek Augustapolder . 
+Een opgraving van nederzettingssporenuit de 12de en 13de eeuw op de rand van zand en veen . 
+( Archeologische rapporten gemeente Bergen op Zoom 14 ) . 
+41 Sporenlijst Featurelijst Nr Locatie Soort Omschrijving Vulling Bovenkant Onderkant Datering 1 wp10 ; 12 t/m 16 ; 18 ; 20 ; Demping 21 en 23 Gelaagde vulling van een terreindepressie Donkergrijs zand ( 1 ) ( =top van 2 ) Lichtgrijs tot wit zand ( 2 ) Geel zand ( 3 ) 760+ 712+ 700+ 650+ ( IJZM + ROMM + ) VME IJZM + ROMM IJZM 2 wp 14 ; 22 Greppel Schuine wanden , grillige bodem Vlekkig grijs zand 769+ 739+ 14 3 wp14 Greppel Rechte wanden , vlakke bodem Vlekkig grijs verspit zand 764+ 732+ 17 ? 
+4 Wp 15 Ingraving Komvormige wanden en bodem Vlekkig zwartgrijs zand 748+ 729+ 17 5 Wp 15 Ingraving Schuine wanden en bodem Grijsgeel zand 746+ 734+ 14-18 6 Wp 15 Ingraving Komvormig Grijsgeel zand 734+ 722+ 17-18 7 Wp 15 Ingraving Minder dan 2 cm diep Grijsgeel zand 742+ 740+ 14-15 8 Wp 15 Ingraving Rechte wanden , vlakke bodem Geelgrijs zand 739+ 731+ LME 9 Wp 15 Ingraving Schuine wanden , komvormige bodem Geelgrijs vlekkig zand 736+ 724+ LME 10 Wp 2 ; 11 ; 14 ; 15 ; 17 en Hoornwerkgracht 18 Schuine wanden , vlakke bodem Verspit geel en grijs zand 747+ 620+ 17 11 Wp 20 Ingraving Komvormige wanden , vlakke bodem Vlekkig zwartgrijs zand + houtskool 714+ 702+ LME 12 Wp 20 Ingraving Zwart zand + baksteenpuin 713+ 13 Wp 20 Ingraving Schuine westwand , komvormige oostwand , komvormige bodem Vlekkig zwart zand 700+ 680+ 20A 14 Wp 23 vl 2 Paalkuil Komvormig ; dieper deel heeft rechte wanden en vlakke bodem Grijs zand 676+ 626+ 2d 15 Wp 23 vl 2 Ingraving Schuine wanden , komvormige bodem Wit zand 685+ 673+ 2d 16-17 42 Colofon Dit is een uitgave van de Gemeente Bergen op Zoom , sector Ruimtelijke Ontwikkeling en Beheer , afdeling Bedrijvigheid , Toerisme en Vergunningen , cluster Monumenten en Archeologie . 
+Gegevens uit deze publicatie mogen gebruikt worden indien eerst toestemming is gevraagd aan de uitgever . 
+Titel : Auteurs : Tekeningen : Foto ’ s : Plaats , datum : NUR : ISBN-13 : Archeologische rapporten 18 : Archeologisch onderzoek “ Kijk in de Pot ” . 
+Een opgraving van bewoningssporen uit de IJzertijd en Romeinse tijd . 
+M.J.A . 
+Vermunt , H.L.A . 
+van der Kallen M.J.A . 
+Vermunt , H.L.A . 
+van der Kallen . 
+Eigendom gemeente Bergen op Zoom , tenzij anders vermeld Bergen op Zoom , april 2010 682 978-90-78106-12-8 43 

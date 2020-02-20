@@ -1,0 +1,244 @@
+1 Inventariserend Veldonderzoek door middel van proefsleuven “ ROC terrein ” Wouwsestraatweg in Bergen op Zoom 2 3 Administratieve gegevens Gemeente : Plaats : Toponiem : Centrumcoördinaten : Kadastraal perceel : Opdrachtgever : Uitvoerder : Bevoegd gezag : Opgravingsperiode : Objectcode : OM – nummer : Perioden : Complextype : Bergen op Zoom Bergen op Zoom Wouwsestraatweg 079.800 / 390.300 BGN01 C2690 en C3975 ROC West Brabant Gemeente Bergen op Zoom , Afdeling ECE , Team Cultuur en Toerisme . 
+Jacob Obrechtlaan 4 , 4611 AR Bergen op Zoom Gemeente Bergen op Zoom 2 t/m 9 aug 2010 ROC 42405 LME t/m NTB boerderij Vondsten en documentatie bevinden zich in het archeologisch depot van Bergen op Zoom . 
+Medewerkers : Alexander van der Kallen Marco Vermunt Marcella de Jong Joost Gheling 4 Inhoud 1 . 
+Aanleiding van het onderzoek pag . 
+6 2 . 
+Bureauonderzoek pag . 
+6 2.1 . 
+Ligging pag . 
+6 2.2 . 
+Geomorfologie pag . 
+7 2.3 . 
+Historie pag . 
+7 2.4 . 
+Grondgebruik en reeds bekende gegevens pag . 
+10 3 . 
+Veldonderzoek pag . 
+11 3.1 . 
+Resultaten pag . 
+12 4 . 
+Antwoorden op onderzoeksvragen pag . 
+16 5 . 
+Literatuur pag . 
+17 6 . 
+Featurelijst pag . 
+18 5 1 . 
+Aanleiding voor het onderzoek In augustus 2010 werd een archeologisch onderzoek door middel van proefsleuven uitgevoerd op een terrein ten noorden van de Wouwsestraatweg in Bergen op Zoom . 
+De aanleiding voor het onderzoek was de geplande uitbreiding van het Markiezaat College , onderdeel van het Regionaal Opleidings Centrum , op een groot braakliggend terrein langs de Wouwsestraatweg . 
+Door de bouw van een ´Techniek Boulevard´ zou de school direct aan een van de belangrijkste verkeerswegen van de stad komen te liggen . 
+Aangezien het terrein op de gemeentelijke archeologische waardenkaart een middelhoge archeologische trefkans had , werd een nader onderzoek noodzakelijk geacht . 
+In april 2010 gaf het ROC West Brabant opdracht tot het onderzoek . 
+2 . 
+2.1 Bureauonderzoek Ligging Het terrein bevindt zich aan de noordzijde van de Wouwsestraatweg , ten oosten van het historische centrum , en is 9.744 m² groot . 
+Het wordt aan de westzijde begrensd door de Voltastraat , aan de noordzijde door de Drebbelstraat en aan de oostzijde door het perceel van een tankstation . 
+Het terrein bestond ten tijde van het onderzoek uit grasland . 
+Afb.1 . 
+Topografie van de binnenstad en omgeving . 
+Het onderzoeksgebied is in blauw aangegeven . 
+In geel de oorspronkelijke weg naar Wouw ( nu deels Kastanjelaan ) ; in groen de Wouwsestraatweg na 1702 . 
+6 2.2 Geomorfologie Het onderzoeksterrein ligt op de overgang van relatief hoge zandgronden in het zuiden naar een laaggelegen terrein in het noorden . 
+Het maaiveldverloop is van 6.50 m +nap ter hoogte van Vijverberg Noord tot 4.70 m +nap aan de Drebbelstraat . 
+Het maaiveld van het terrein zelf ligt aan de straatzijde op 5.20 m +nap en aan de noordgrens op 4.80 m +nap . 
+Ten noorden van het onderzoeksterrein ligt het industriegebied “ De Lage Meren ” . 
+Dit lage terrein was oorspronkelijk met veen bedekt . 
+Het werd al in 1286 aangeduid als “ Maere ” en reikte tot het noordoosten van de middeleeuwse stad . 
+Het veen werd vermoedelijk al in de 13de eeuw gewonnen , waarna een waterrijk landschap overbleef . 
+In 1647 werd het “ de Leeghe Meijren ” genoemd . 
+De Moervaart ( turfvaart ) stroomde er doorheen . 
+De Lage Meren speelden sinds 1628 een belangrijke rol als inundatiegebied voor de linie tussen Bergen op Zoom en Steenbergen . 
+Via de Moervaart kon zoet water in de Lage Meren worden toegelaten . 
+Ten zuiden en oosten van de Meren bevonden zich boerderijen en akkergronden . 
+Deze zijn overwegend sinds de 17de eeuw uit schriftelijke bronnen bekend , zoals boerderij de Ketel in 1687 . 
+Geomorfologisch zijn er geen directe gegevens omdat het gebied in de bebouwde kom ligt , maar door extrapolatie is aannemelijk dat hier sprake is van terrasafzettingswelvingen . 
+De bodem werd in 1948 ingedeeld in de ‘ vochtige , zeer humeuze stuifzandgronden ’ , welke grotendeels overeenkomen met de hoge zwarte enkeerdgronden . 
+Dit zijn gronden die door eeuwenlang opbrengen van stalmest , stadsvuil en plaggen tenminste 50 centimeter zijn opgehoogd . 
+2.3 Historie De Wouwsestraat vormt een deel van de historische verbindingsweg tussen Bergen op Zoom en het oostelijk gelegen dorp Wouw . 
+Het gedeelte tussen de onderzoekslocatie en de stad werd een aantal malen veranderd vanwege de aanleg van de vestingwerken en de spoorlijn naar Roosendaal . 
+De oorspronkelijk route liep via de Oude Wouwsebaan en de Kastanjelaan oostwaarts en sloot ter hoogte van de Acacialaan aan op de Wouwsestraatweg . 
+In 1702 werd een deel van de weg omgelegd vanwege de bouw van een nieuwe stadspoort . 
+Het nieuwe gedeelte kreeg een noordelijker verloop via de huidige spoorwegovergang en de Bredasestraat . 
+Het onderzoeksterrein ligt precies ten oosten van de aansluiting van de Kastanjelaan op de Wouwsestraatweg . 
+De oudste gedetailleerde kaarten van dit gebied werden in de 18de eeuw door de landmetersfamilie Adan gemaakt . 
+Een overzichtskaart van Bergen op Zoom en omgeving , waarop onder meer ook de aanvallinies van de Fransen zijn getekend , laat enkele boederijen aan weerszijden van de weg zien , waarvan één de naam “ de Ketel ” had . 
+Dit was een boerderij , later herberg , die voor het eerst in 1687 werd genoemd . 
+In 1700 heette ze “ den Brouwketel ” 1 . 
+Omdat later aan de overzijde van de weg een boerderij met de naam “ Nieuwe Ketel ” verrees , werd de Ketel sinds de 19de eeuw ook wel “ de Oude Ketel ” genoemd . 
+De ( oude ) Ketel stond juist ten oosten van het onderzoeksgebied nabij het huidige tankstation . 
+Een cijnskaart uit 1751 , gemaakt door Hendrik Adan , toont de omgeving nog gedetailleerder2 . 
+In de uiterste zuidwesthoek van het onderzoeksterrein , tegenover de kruising van de Wouwsestraatweg en de Kastanjelaan , stond een boerderij . 
+Deze wordt echter niet met een naam aangeduid . 
+Bij de boerderij lagen negen rechthoekige percelen , verdeeld door paden waarlangs bomen stonden . 
+Zes van de negen lagen binnen het onderzoeksgebied . 
+Bij projectie van de kaart op de huidige ondergrond ( zie ook afbeelding 10 ) blijkt de merkwaardige schuine grens tussen de panden Wouwsestraatweg 125 en 127 een relict van deze perceelsindeling te zijn . 
+Dit geldt ook voor de huidige oostelijke perceelgrens van het onderzoeksterrein . 
+1 2 Van Ham 1995 . 
+MHC , ARR D29 7 Op de oudste kadastrale kaart van het gebied , kort na 1811 gemaakt , staat opnieuw een boerderij afgebeeld . 
+Het gaat om twee gebouwen , waarschijnlijk een woongedeelte langs de straat en een schuur daarachter . 
+Hun positie komt echter niet precies overeen met de plaats in de 18de eeuw . 
+Dezelfde gebouwen komen nog voor op diverse kaarten uit de 19de eeuw , maar in 1902 zijn ze verdwenen3 . 
+Het onderzoeksgebied bleef de hele 20ste eeuw zonder bebouwing . 
+In 1944 lieten de bezetters de lokale bevolking een tankgracht uitgraven , waarvan de huidige Vijver ten zuiden van de Wouwsestraatweg nog een overblijfsel is . 
+Oospronkelijk liep de tankgracht ook ten noorden van de straat , aan de oostzijde van het onderzoeksterrein4 . 
+Dit noordelijke deel werd kort na de oorlog weer gedempt , aanvankelijk om opnieuw als landbouwgrond dienst te doen . 
+Vanaf 1952 kwam iets noordelijker het industriegebied De Lage Meren tot stand . 
+Dat werd opgehoogd met zand , afkomstig van afgravingen in de Heide . 
+De Drebbelstraat vormt de grens tussen het industriegebied en het onderzoeksterrein . 
+Het zuidelijke deel van de tankgracht bleef bestaan en werd aan de westzijde bebouwd tijdens de aanleg van de wijk Gageldonk ( Vijverberg en omgeving ) . 
+Afb.2 . 
+Projectie van het onderzoeksgebied op een kaart van omstreeks 1748 , vervaardigd door H.Adan . 
+Geheel links de stad met vestingwerken en aanvalsloopgraven ; boven de liniewal in de Lage Meren . 
+De ‘ grand chemin de Breda ’ is de Wouwsestraatweg . 
+3 4 Bron : www.watwaswaar.nl Luyks 2005 8 Afb.3 . 
+Uitsnede uit de cijnskaart van H.Adan van 1751 Afb.4 . 
+Detail van de kadastrale minuut 1811-1832 . 
+De bebouwing wijkt af van die op de kaart van Adan . 
+9 2.4 Grondgebruik en reeds bekende gegevens De onderzoekslokatie was alleen aan de zuidwestelijke zijde bebouwd . 
+Het is niet zeker of de door Adan getekende boerderij ( hij tekende maar één gebouw ) dezelfde is als de bebouwing op de kadastrale kaart uit de 19de eeuw ; eerder lijkt er sprake van een nieuwbouw . 
+De boerderij uit de 18de eeuw stond in de uiterste zuidwesthoek van het onderzoeksterrein en gedeeltelijk zelfs daarbuiten , op het huidige trottoir . 
+De bebouwing uit de 19de eeuw stond iets meer naar het oosten . 
+Uit het gebied zijn binnen een straal van 1 kilometer geen vondstmeldingen bekend . 
+Bij de bouw van de wijk Gageldonk werd nooit enig archeologisch onderzoek verricht . 
+Een week voor het proefsleuvenonderzoek werden door de gemeentelijke dienst karterende boringen op het terrein gezet . 
+Twaalf regelmatig verdeelde boringen moesten antwoord geven op de vraag of het terrein in het verleden ooit was vergraven of verstoord . 
+De boringen toonden aan dat dit in beperkte mate was gebeurd . 
+Op gemiddeld 60 cm onder maaiveld werd lemig dekzand ( Chorizont ) aangeboord , waarop een volledig verspit pakket van grijsbruin zand lag . 
+Bij de meest noordelijke boringen lag het dekzand iets dieper ( 70 cm onder maaiveld ) . 
+In één van deze boringen , in de noordoostelijke hoek van het terrein , was nog een venige laag aanwezig , met daaronder een dunne uitspoelingshorizont . 
+Hier was duidelijk sprake van een overgang naar een lager terrein , dat waarschijnlijk met veen was gevuld . 
+In slechts twee andere boringen was nog een deel van de inspoelingshorizont bewaard . 
+Over het algemeen was dus sprake van een A-C profiel , waarbij het langdurige gebruik als akker de oorspronkelijke podzol vrijwel geheel had opgeruimd . 
+In het noordoosten was de overgang naar het nattere , moerassige terrein van de Lage Meren merkbaar . 
+Deze bevindingen maakten de kans op het aantreffen van sporen uit het paleolithicum en het mesolithicum vrijwel nihil . 
+10 3 . 
+Veldonderzoek Onderzoeksvragen - Het proefsleuvenonderzoek moest antwoord geven op de volgende vragen : Zijn er bewoningssporen op het terrein aanwezig uit de periode vanaf het Neolithicum tot de Nieuwe Tijd . 
+Zijn er sporen van de boerderij die op de 18de-eeuwse kaarten van Adan voorkomt . 
+Uit welke tijd dateert deze boerderij . 
+Zijn de sporen dusdanig waardevol dat ze beschermd moeten worden in de toekomstige ruimtelijke ontwikkeling van het terrein . 
+Methode Op het terrein werden twee parallelle proefsleuven aangelegd met een lengte van 70 en 80 meter en een breedte van 2 meter . 
+Tussen de beide werd nog een derde , korte sleuf van 10 meter aangelegd . 
+De eerste sleuf werd zuidwaarts uitgebreid met een dwarssleuf . 
+Alle aangetroffen sporen werden onderzocht ( gecoupeerd ) en er werd vondstmateriaal verzameld . 
+Dit werk vond plaats op 2 augustus . 
+Afb.5 . 
+De plaats van de proefsleuven in het onderzoeksterrein . 
+11 3.1 Resultaten In sleuf 1 , aangelegd van zuid naar noord , bevonden zich enkele rechthoekige ingravingen ( F8 t/m F17 ) . 
+Ze strekten zich uit tot een afstand van 40 meter vanaf de straat . 
+In de noordelijke sleufhelft werden geen sporen meer aangetroffen . 
+In die helft was een dunne natuurlijke kleilaag aanwezig , die het witte zand afdekte . 
+Het gaat hier om een pleistocene afzetting , waar in dit geval geen jonger dekzand op werd afgezet ( of waar dit later weer werd geërodeerd ) . 
+Direct op de klei lag het akkerpakket van humeus zwartbruin zand , dat een dikte van 55 tot 65 cm had . 
+Sleuf 2 vertoonde aan de zuidzijde sporen van bebouwing in de vorm van een stenen gootje . 
+Het dateerde uit de 19de eeuw . 
+Het zand was rijk aan slooppuin en bevatte ook plastic . 
+Het gaat hier waarschijnlijk om een ingraving met modern afval . 
+In het midden van de sleuf werd niet meer dan één kleine vierkante ingraving gevonden . 
+Deze was ingegraven in het zachte witte zand . 
+Een kleilaag ontbrak hier . 
+In de noordelijke sleufhelft bestond de natuurlijke ondergrond uit bruingeel rul en droog zand , waarin zich veel ploegsporen aftekenden . 
+In sleuf 3 werd onder de akkergrond een ondiepe ingraving aangetroffen , waarin grote hoeveelheden potscherven zaten . 
+Het gaat om afval van een pottenbakkerij dat getuige de stempels op het aardewerk , van na 1798 moet dateren . 
+Aan de noordzijde werd de kuil begrensd door een sleuf met resten van een gresriool . 
+Noordwaarts bevonden zich geen sporen meer . 
+Sleuf 1 werd vergroot met een dwarssleuf van 16 meter lengte teneinde de mogelijk resten van een 18de- eeuwse boerderij te traceren . 
+In deze sleuf kwamen zeven parallelle greppels tevoorschijn die samen een rechthoekig oppervlak vormden van tenminste 11 meter lengte en 5,20 meter breedte . 
+De sporen zetten zich voort in zuidelijke en westelijke richting , onder het trottoir van de Wouwsestraatweg . 
+De eerste conclusies van het proefsleuvenonderzoek waren , dat zich op het terrein géén sporen bevonden die ouder waren dan de Nieuwe Tijd ( ouder dan ca.1500 ) . 
+De aangetroffen sporen concentreerden zich bovendien in de zuidwestelijke hoek van het onderzoeksterrein . 
+De gevonden parallelle greppels worden geïnterpreteerd als de resten van een gebouw dat gedeeltelijk buiten het onderzochte gebied stond . 
+Het vondstmateriaal bestaat vrijwel geheel uit aardewerk , dat over het algemeen goed gedateerd kan worden . 
+Het meeste dateert uit de 17de en 18de eeuw , met een uitloop in de 19de eeuw . 
+Het weinige materiaal uit de 14de tot en met de 16de eeuw ( onder meer scherfjes van grijsbakkend aardewerk en Rijnlands steengoed ) is waarschijnlijk tegelijk met stadsmest op het terrein gekomen . 
+Sporen en vondsten De greppels F1 t/m F7 waren elk 50-65 cm breed en lagen steeds ongeveer 1,10 meter uit elkaar . 
+Ze waren 15 tot 30 cm diep in het gele zand ingegraven , hadden vlakke bodems en waren gevuld met een dun laagje verspit geel zand met daarop grijs humeus zand . 
+Tijdens het onderzoek van de vulling werd vastgesteld dat de noordelijke uiteinden van de greppels dieper en komvormig waren uitgegraven . 
+Toen hier handmatig een dieper vlak werd aangelegd , bleek dat onder elk greppeluiteinde een rechthoekige of ronde kuil lag . 
+Deze kuilen waren komvormig ingegraven tot 3540 cm diepte en op de bodem steeds gevuld met een laagje verspit zand ( brokjes B-horizont en Chorizont ) . 
+In één geval ( F6 ) tekende zich een diepere paalkuil af ( 60 cm diep ) . 
+12 De vondsten uit de greppels ( de grijze zandvulling ) waren niet talrijk . 
+Ze bestonden uit enkele scherven van rood aardewerk met loodglazuur en fragmenten van tabakspijpjes , daterend uit de tweede helft van de 17de eeuw . 
+Afb.6 . 
+de aangetroffen sporen in de sleuven 1 en 3 . 
+Ten noorden van de greppels bevonden zich drie rechthoekige kuilen ( F8/F9/F10 ) die grotendeels buiten de sleuven lagen . 
+Ze waren ondiep , slechts 10-20 cm en gevuld met grijs zand op een onderlaagje van verspit geel zand . 
+Uit F9 kwam een fragment van een tabakspijp met merkje op de zijkant van de ketel . 
+Het merk bestond uit de gekroonde letters PVB , te identificeren als Pieter Janszoon van de Berg ( 1718-1748 ) . 
+Het merk werd echter ook gebruikt door zijn weduwe Berta Swart ( 1748-1755 ) . 
+In de vulling van F10 werd een bronzen riembeslag van een paardentuig gevonden , te dateren in de 17de of 18de eeuw . 
+De nog noordelijker gelegen kuilen F11 t/m F17 leverden kleine aantallen scherven van rood aardewerk en steengoed op , daterend uit de 17de en 18de eeuw . 
+In F15 werd een musketkogel aangetroffen en een stukje vuursteen , mogelijk een sterk afgesleten restant van een vuurkets . 
+Bijna alle sporen waren relatief ondiep , behalve de rechthoekige kuilen F14 en F15 , die tot 70-80 cm diep reikten . 
+De bodems van deze kuilen waren zeer grillig uitgespit . 
+13 De functie van al deze kuilen is niet duidelijk . 
+Gelet op de vorm kunnen het geen onderdeel zijn van een gebouwde structuur ( paalkuilen ) . 
+Het schaarse vondstmateriaal maakt een functie als afvalkuil onwaarschijnlijk Eerder gaat het om mestkuilen of plantbedden ( F8 en F9 ) . 
+De greppels F1 t/m F7 zijn ongetwijfeld wel onderdelen van een structuur . 
+Het gaat dan om een rechthoekige structuur van tenminste 11 bij 5,20 meter . 
+Gelet op de vlakke bodems , zouden de greppels restanten ( indrukken ) kunnen zijn van liggende balken , dwars op de as van het gebouw , waarvan de uiteinden op kleine ( houten ? ) 
+blokken lagen . 
+Er was zeker geen sprake van ingegraven palen , ondanks het feit dat onder F6 een wat diepere kuil werd gevonden . 
+Voor een dergelijke bouwwijze met liggende balken zijn geen parallellen gevonden . 
+Ze lijkt ook vreemd , omdat men eerder bakstenen funderingen of tenminste stenen poeren zou verwachten . 
+Opmerkelijk genoeg ontbreken baksteenfragmenten in het vondstmateriaal . 
+Als de veronderstelde liggende balken een houten vloer gedragen zouden hebben , wat op vochtige zandgrond niet zo logisch lijkt , dan blijft nog de vraag waar de funderingen van de buitenmuren zijn gebleven . 
+Het ontbreken daarvan kan niet verklaard worden door latere ploegwerkzaamheden . 
+Of was hier sprake van een volledig houten schuur ? 
+Een andere mogelijkheid , namelijk de aftekening van aspergebedden in plaats van balken , ligt niet zo voor de hand . 
+Op de eerste plaats liggen de sporen te diep : de bodems van de greppels liggen ruim 85 cm onder het maaiveld , wat voor asperges te veel is . 
+Er is geen reden aan te nemen dat het maaiveld in de 17de eeuw aanmerkelijk lager lag dan tegenwoordig . 
+Tevens wijkt de breedte van de greppels af van de gangbare breedte van aspergebedden . 
+Bovendien is de aspergeteelt in Nederland pas veel later ( 19de eeuw ) tot ontwikkeling gekomen . 
+Een plausibeler verklaring dan onderdeel van een fundering van een gebouw lijkt er niet , mede gelet op de ligging die overeenkomt met de plaats van de boerderij op de tekening van Adan . 
+Afb.7 . 
+Overzicht van de sporen F1 t/m F7 in westelijke richting . 
+14 Spoor F21 was onderdeel van een ondiepe kuil , gevuld met pottenbakkersafval . 
+Tot de vondsten behoren naast het roodbakkende aardewerk ( voornamelijk bakpannen ) ook fragmenten van daktegels die in de oven als proenen werden gebruikt . 
+De bovenste 50 cm van de kuilvulling moet door latere ploegactiviteiten verdwenen zijn . 
+Hoewel er op talloze plaatsen in en rond de binnenstad van Bergen op Zoom pottenbakkersafval wordt aangetroffen , is deze stort bijzonder door de grotere afstand tot de binnenstad . 
+Het valt niet uit te sluiten dat een pottenbakker uit de stad ter plaatse klei heeft gedolven en bij die gelegenheid zijn afval heeft achtergelaten . 
+Er zijn althans geen gegevens voor het bestaan van een lokale pottenbakkerij langs de Wouwsestraatweg . 
+Wel is bekend , dat er in de 19de eeuw klei werd gewonnen ter hoogte van landgoed Ruytershove , enige honderden meters naar het oosten . 
+Afb.8 . 
+Doorsnede door het noordelijke uiteinde van spoor F2 Afb.9 . 
+Twee parallelle greppels ( F1 en F7 ) in de zuidwand van de opgravingsput . 
+15 4.1 Antwoorden op de onderzoeksvragen Op het terrein zijn geen sporen aangetroffen van bewoning vóór de 17de eeuw . 
+Het schaarse vondstmateriaal uit de 14de tot en met de 16de eeuw ( enkele aardewerkfragmenten ) werd waarschijnlijk tegelijk met stadsmest op het terrein aangevoerd . 
+Ook op andere plaatsen in de wijk Gageldonk werden in het verleden door amateurarcheologen humusrijke akkerpercelen met laatmiddeleeuws vondstmateriaal waargenomen5 . 
+De aangetroffen parallelle sporen dateren hoogstwaarschijnlijk uit de tweede helft van de 17de eeuw en kunnen overblijfselen van een gebouw zijn van tenminste 11 x 5,20 meter dat langs de Wouwsestraatweg stond . 
+Het valt vrijwel samen met de positie van de boerderij die Hendrik Adan in 1751 op die plaats tekende ( zie afb.10 ) . 
+De constructie van deze boerderij blijft raadselachtig , mede door het ontbreken van baksteenresten . 
+Het ontbreken van stenen funderingen kan niet verklaard worden door latere ploegwerkzaamheden , omdat de aftekening van de veronderstelde liggende balken , die een vloer droegen , nog goed bewaard is gebleven . 
+De datering van dit gebouw wordt ondersteund door de vondsten uit de diverse kuilen eromheen . 
+Het oprichten van een boerderij of woning in de tweede helft van de 17de eeuw past bij de vroegste vermelding van boerderij de Ketel in 1687 . 
+De omgeving van de stad had in de Tachtigjarige Oorlog flink te lijden van plunderende soldaten , wat tot een complete ontvolking leidde , met name in de omgeving van Wouw . 
+Pas na deze oorlog trad een bestendige periode van rust in , waarbij nieuwe ontginningen mogelijk werden . 
+Op basis van de onderzoeksresultaten wordt geadviseerd om bij toekomstige ontwikkelingen het uiterste zuidwestelijke deel van het terrein zoveel mogelijk te ontzien . 
+Voor de rest van het terrein gelden geen beperkingen.6 Afb.10 . 
+Bij projectie van de kaart van Adan valt de plaats van de boerderij ( oranje ) vrijwel samen met de parallelle sporen F1 t/m F7 ( zie ook inzet rechts ) . 
+5 6 Mondelinge mededeling L.Weijs . 
+Het voorgenomen plan van het ROC is in 2011 ingetrokken . 
+Het terrein ligt thans ( 2012 ) nog braak . 
+16 Literatuurverwijzingen Ham , W.A . 
+van , De straatnamen van Bergen op Zoom , Bergen op Zoom 1995 . 
+Luyks , P. , Jeugdherinneringen aan de verdedigingslinie rond Bergen op Zoom . 
+De Waterschans 12005 , p.19-25 . 
+Markiezenhof Historisch Centrum , Archieven der Raad en Rekenkamer ( ARR ) . 
+17 Featurelijst ROC terrrein Wouwsestraatweg Nr Soort Omschrijving Vulling Datering 1 greppel Noord-zuid gerichte smalle greppel . 
+Vlakke bodem . 
+Onder het noordelijk einde een vierkante ingraving met komvormige bodem 2 greppel Als F1 ; onder het noordelijke einde een ronde ingraving 3 greppel Als F2 Een dunne laag verspit B/C 17B zand , daarop grijs humeus zand als F1 17B Als F2 17B 4 greppel Als F2 Als F2 17B 5 greppel Als F2 Als F2 17B 6 greppel Als F2 ; onder het noordelijke einde een diepe paalkuil Als F2 17B 7 greppel Als F2 Als F2 17B 8 kuil Rechthoekig kuil tegen de oostelijke sleufwand , 20 cm diep Als F8 , 8 cm diep dunne onderlaag van verspit 18A B/C zand , daarop grijs zand als F8 18A rechthoekige kuil tegen de westwand van sleuf 1 . 
+1525 cm diep , golvende bodem Ronde kuil met grillige bodem , rechte wanden . 
+20 cm diep vervallen dunne onderlaag van verspit 17B-18 B/C zand , daarop grijs zand dunne onderlaag van verspit 17B-18 B/C zand , daarop grijs zand Vierkante kuil met rechte wanden , komvormige bodem . 
+50 cm diep onderlaag van verspit B/C zand met grote brokken leem , daarop grijs zand verspit geel en grijs zand met leembrokken verspit geel en grijs zand met leembrokken 9 kuil 10 kuil 11 kuil 12 13 kuil 14 kuil Vierkante kuil met rechte wanden , grillige bodem . 
+60 cm diep 15 kuil Vierkante kuil met schuine wanden , grillige bodem . 
+80 cm diep 16 kuil Vierkante ingraving met schuine wanden , grillige bodem . 
+15 cm diep 17 greppel Ondiepe o-w gerichte smalle greppel , komvormig 18 inspitting ondiepe vierkante inspitting 19 inspitting als F18 20 kuil rechthoekige kuil in sleuf 2. vlakke boden , 15 cm diep 21 kuil Ondiepe kuil in sleuf 3 met twee vullagen . 
+Vlakke bodem . 
+22 greppel smalle greppel in sleuf 3 17B-18 17B-18 17B-18 17 grijs zand 17 grijs zand ? 
+als F18 ? 
+gelaagd grijs zand 17B-18 onderlaag van grijs zand , daarop stort van potscherven grijs zand , gresbuis 19A 20 18 19 Colofon Dit is een uitgave van de Gemeente Bergen op Zoom , Afdeling ECE , team Cultuur en Toerisme , bureau archeologie . 
+Gegevens uit deze publicatie mogen gebruikt worden indien eerst toestemming is gevraagd aan de uitgever . 
+Titel : Auteur : Tekeningen : Foto ’ s : Plaats , datum : NUR : ISBN-13 : Archeologische rapporten 27 : Inventariserend veldonderzoek “ ROC terrein ” aan de Wouwsestraatweg in Bergen op Zoom . 
+M.J.A . 
+Vermunt H.L.A . 
+van der Kallen , M.J.A . 
+Vermunt . 
+Eigendom gemeente Bergen op Zoom , tenzij anders vermeld Bergen op Zoom , oktober 2012 682 20 

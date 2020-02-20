@@ -1,0 +1,499 @@
+Eemshaven wrak D1 rapport 2538 AD C ArcheoProjecten is een onderdeel van het Archeologisch Diensten Centru m Eemshaven , wrak D1 Inventariserend veldonderzoek , waarderende fase W.B . 
+Waldus , K. van Campenhout en S. van den Brenk In samenwerking met In opdracht van Rijksdienst voor het Cultureel Erfgoed Colofon ADC Rapport 2538 Eemshaven , wrak D1 Inventariserend veldonderzoek , waarderende fase Auteurs : W.B . 
+Waldus , K. van Campenhout en S. van den Brenk In opdracht van : RCE Lelystad Foto ’ s en tekeningen : ADC ArcheoProjecten en Periplus Archeomare © ADC ArcheoProjecten , Amersfoort , december 2010 . 
+Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke wijze dan ook zonder voorafgaande schriftelijke toestemming van de uitgevers . 
+ADC ArcheoProjecten aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit de toepassing van de adviezen of het gebruik van de resultaten van dit onderzoek . 
+Autorisatie : A.F.L . 
+van Holk ISBN 978-94-6064-529-7 ADC-ArcheoProjecten Postbus 1513 3800 BM Amersfoort Tel 033-299 81 81 Fax 033-299 81 80 Email info @ archeologie.nl Inhoudsopgave Administratieve gegevens van het onderzoeksgebied 4 Samenvatting 5 1 Inleiding 7 2 Doelstelling en onderzoeksvragen 8 3 3.1 3.2 3.3 3.4 3.5 Methoden en technieken Werkvaartuig Positionering Duikmethodiek Opnamen met de sectorscanner Multibeamopnamen 9 9 9 10 12 12 4 4.1 4.2 4.3 Vooronderzoek en de dynamiek van de waterbodem Uitgangssituatie Aanvullende metingen Historische dieptegegevens 13 13 14 16 5 Onderzoeksstrategie 18 6 6.1 6.2 6.3 6.4 6.5 Beschri Beschrijving chrijving van de wraklocatie Inleiding Bodemopbouw Zones Los scheepshout Reconstructie afmetingen schip 20 20 20 20 21 21 7 Conclusies 22 8 Waardering van de vindplaats 24 9 Advies 27 10 Tot slot 27 Literatuur 28 Lijst van afbeeldingen 28 Bijlage 1 . 
+Woordenlijst en afkortingen 29 Bijlage 2 . 
+Overzicht wraklocatie 31 Bijlage 3 . 
+Schaaltekening van de los aangetroffen huidplank 32 Bijlage 4 . 
+Schaaltekening van de los aangetroffen dekbalkknie ( zone F ) 33 CD bijlage met digitale bestanden en duikvideo ’ s 35 ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek Administratieve gegevens van het onderzoeksgebied Provincie : Gemeente : Plaats : Toponiem : Kaartblad : Centrumcoördinaten wraklocatie ( RD ) ( zie ook afbeelding 1 ) Groningen Eemsmond Eemshaven Eemshaven , wrak D1 3G Projectleider : W.B . 
+Waldus Opdrachtgever : Bevoegde overheid : Deskundige namens de bevoegde overheid : ARCHIS-onderzoeksmeldingsnummer ( CIScode ) : ADC-projectcode : Rijksdienst voor het Cultureel Erfgoed , dhr . 
+B. van Tilburg Rijksdienst voor het Cultureel Erfgoed Dhr . 
+P. Stassen Complex en ABR codering : Periode ( n ) : KNA versie : Huidig watergebruik : Scheepswrak ( NSCHE ) 17e eeuw 3.1 Waterbodem Waddenzee Waddenzee , waterdiepte hoog water : ca 13,5 meter , zicht slecht ( < 0,5 m. ) , zeer hoge stroomsnelheid tijdens getijden ( 2,4 knopen ) . 
+9 t/m 13 augustus 2010 Noordelijk archeologisch depot te Nuis Waterkundige omstandigheden : Uitvoering van het veldwerk : Beheer en plaats documentatie : ADC ArcheoProjecten Rapport 2538 253.681 / 608.099 40498 4110326 Wrak Eemshaven D1 , waarderend onderzoek 5 Samenvatting In opdracht van de Rijksdienst voor het Cultureel Erfgoed ( RCE ) heeft ADC Maritiem in samenwerking met Periplus Archeomare en Subcom van 9 tot en met 13 augustus 2010 een waarderend onderzoek uitgevoerd op wrak D1 bij de Eemshaven . 
+Het wrak is in 2006 gevonden tijdens het vooronderzoek met sonar en multibeam dat werd verricht in het kader van de aanleg van de NorNed kabel . 
+Tijdens dit onderzoek werden wrakresten aangetroffen in een gebied van 9,5 bij 9,5 meter . 
+De deels in verband liggende wrakresten vormden een duidelijk waarneembare verhoging in de waterbodem . 
+Een dendrochronologisch monster resulteerde in een kapdatum van 1663 ± 6 jaar . 
+Tevens werd een menselijk bot ( rechterbovenarm ) aangetroffen . 
+Omdat de route van de kabel werd aangepast en dus geen bedreiging vormde voor de vindplaats , is geen vervolgonderzoek uitgevoerd . 
+Het ging hier om een scheepsarcheologische vindplaats met een mogelijk hoge archeologische waarde en om deze reden heeft de RCE het waarderende onderzoek alsnog laten uitvoeren . 
+De scheepsresten die in 2010 zijn aangetroffen strekken zich uit over een gebied van 30 bij 12 meter . 
+Het gaat om losse scheepsdelen die zonder onderling verband verspreid liggen over en deels in de bodem . 
+Uit de analyse van diverse lodingen vanaf 2001 is gebleken dat het gebied waar het wrak ligt onderhevig is aan sterke bodemerosie als gevolg van een zich verleggende erosiegeul . 
+De wrakresten op de locatie uit het onderzoek in 2006 zijn als gevolg hiervan inmiddels geheel verdwenen . 
+De zones met wrakresten uit onderhavig onderzoek zijn recentelijk aan het oppervlak gekomen en zullen – indien de trend van verdieping zich doorzet – op niet al te lange termijn ( enkele jaren ) ook wegspoelen en verdwijnen . 
+Een van de scheepsdelen is gelicht ; het betreft een dekbalkknie met een lengte van bijna 3 meter . 
+Op basis van de afmetingen van dit scheepsonderdeel kan met enige voorzichtigheid een berekening worden gemaakt van de afmetingen van het oorspronkelijke vaartuig . 
+Deze zou een lengte van 120 voet ( ca . 
+35 meter ) kunnen hebben gehad . 
+De bevindingen van het onderzoek in 2010 contrasteren sterk met de eerste waarnemingen die in 2006 zijn gedaan . 
+In het rapport is uitgebreid ingegaan op de oorzaken van de veranderingen in de waterbodem in het oostelijke Waddengebied . 
+Omdat tot heden weinig onderzoek naar maritieme vindplaatsen is gedaan in dit gebied , is het aan te bevelen de komende jaren prioriteit te geven aan het Oostelijke Waddengebied . 
+De noodzaak tot een archeologische inventarisatie wordt versterkt door de grootschalige veranderingen in de waterbodem die zich hier in de afgelopen jaren hebben gemanifesteerd . 
+Het is aannemelijk dat wrak D1 niet de enige vindplaats is die recent is geërodeerd . 
+Het verdient daarom aanbeveling het gebied regelmatig te monitoren . 
+ARCHEOLOGISCHE PERIODEN Periode Nieuwe tijd Late-Middeleeuwen Vroege-Middeleeuwen Romeinse tijd Ijzertijd Bronstijd Neolithicum ( Nieuwe Steentijd ) Mesolithicum ( Midden Steentijd ) Paleolithicum ( Oude Steentijd ) ADC ArcheoProjecten Rapport 2538 1500 1050 450 12 800 2000 5300 8800 300.000 na Chr . na Chr . na Chr . Voor Chr . Voor Chr . Voor Chr . Voor Chr . Voor Chr . Voor Chr . Tijd in jaren heden 1500 1050 450 12 800 2000 4900 8800 na Chr . na Chr . na Chr . voor Chr . voor Chr . voor Chr . voor Chr . voor Chr . 
+Wrak Eemshaven D1 , waarderend onderzoek 6 Afbeelding 1 . 
+De onderzoekslocatie ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 7 1 Inleiding In opdracht van de Rijksdienst voor het Cultureel Erfgoed ( RCE ) heeft ADC Maritiem in samenwerking met Periplus Archeomare en Subcom een waarderend onderzoek uitgevoerd op wrak D1 in de Eemshaven ( afbeelding 1 ) . 
+Het wrak is in 2006 gevonden tijdens het vooronderzoek met sonar en multibeam dat werd verricht in het 1 kader van de aanleg van de NorNed kabel . 
+Omdat de route van de kabel werd aangepast en dus geen bedreiging vormde voor de vindplaats , is geen vervolgonderzoek uitgevoerd . 
+Het ging hier om een scheepsarcheologische vindplaats met een mogelijk hoge archeologische waarde en om deze reden heeft de RCE het onderzoek alsnog laten uitvoeren . 
+2 Ten behoeve van dit onderzoek is een Programma van Eisen ( PvE ) opgesteld ( zie volgend hoofdstuk ) . 
+Het onderzoek is verricht conform dit PvE en de KNA Waterbodems 3.1 protocol 4103 , inventariserend veldonderzoek onderwater . 
+Het waarderend onderzoek is uitgevoerd in de periode 9 tot en met 13 augustus 2010 vanaf het werkschip ‘ De Gerdia ’ . 
+Bij het onderzoek waren de volgende personen betrokken : W.B . 
+Waldus ( ADC , Senior KNA archeoloog en onderwaterarcheoloog ) , Kirsten van Campenhout ( ADC , KNA archeoloog en onderwaterarcheoloog ) , P.Leensen ( Aquasupport , senior veldtechnicus waterbodems ) , S. van den Brenk ( Periplus , Senior Prospector Waterbodems ) , R. V. Stee ( Subcom , duikploegleider ) , T. Tournier en S. de Kruif ( duikers Subcom ) en M. Bakker en N. Poortman ( bemanning Gerdia ) . 
+Het onderzoek wordt gerapporteerd conform KNA specificaties VS05 , VS06 en VS07 . 
+Eerst worden de onderzoeksopdracht en de doelstelling van het onderzoek nader toegelicht . 
+Vervolgens zullen de methoden en technieken en de onderzoeksstrategie worden besproken . 
+Als inleiding op de onderzoeksstrategie en de resultaten volgt een hoofdstuk over het verrichte vooronderzoek en de dynamiek van de waterbodem in het oostelijke Waddengebied . 
+Bij de resultaten wordt ingegaan op de waarnemingen onder water en het scheepsarcheologische onderzoek op het droge . 
+In het daarop volgende hoofdstuk worden de conclusies van het onderzoek weergegeven aan de hand van de onderzoeksvragen . 
+Het rapport sluit af met een waarderingstabel en een selectieadvies . 
+Scheepsbouwkundige termen en afkortingen staan toegelicht in de verklarende woordenlijst ( pagina 29 ) . 
+Op de CD bijlage zijn het PvE , een aantal duikfilms , de dagrapporten en het rapport in PDF formaat opgenomen . 
+In bijlage 5 en de dagrapporten staan de duikers , duiktijden en de werkzaamheden per dag beschreven . 
+1 2 Hielkema e.a . 
+2006 . 
+Waldus en Van den Brenk 2010 . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 8 2 Doelstelling en onderzoeksvragen Ten behoeve van het onderzoek is een PvE opgesteld ( zie CD bijlage ) . 
+De doelstelling van het onderzoek was het verzamelen van gegevens op basis waarvan een waardering van de vindplaats conform KNA waterbodems 3.1 kan worden gegeven . 
+Verder diende een inschatting gemaakt te worden van het behoudsperspectief van de vindplaats . 
+Daarnaast is een aantal onderzoeksvragen opgesteld : Algemene vragen over de wraklocatie : -Wat is de omvang en verspreiding van de scheepsresten ? 
+-Is er sprake van 3 tot 4 zones met wrakdelen ? 
+-Wat is de positie van de wrakdelen in de bodem ? 
+-Wat is de gaafheid en conservering van het wrak ? 
+-In welke geologische en bodemkundige eenheden dan wel lagen bevinden zich archeologische resten ? 
+-Is er sprake van een of meerdere vondstlagen ? 
+-Wat is de invloed van de wrakvormende processen geweest op deze vindplaats ? 
+Vragen met betrekking tot de inhoud van het wrak : -Zijn resten van de uitrusting , scheepsinventaris , lading en persoonlijke eigendommen aanwezig ? 
+Zo ja , kan een inschatting worden gemaakt van de archeologische waarde van deze vondstcomplexen ? 
+-Bevindt de inventaris zich in situ ? 
+-Wat is de ruimtelijke relatie tussen inventaris en de scheepsonderdelen ? 
+-Geven inventaris en lading een indicatie over de datering van het vergaan van het schip ? 
+-Geeft de lading een indicatie van de gevolgde route en/of vaargebied ? 
+Vragen met betrekking tot de scheepsconstructie : -Zijn er constructiedetails waarneembaar ? 
+-Welke houtsoorten zijn gebruikt ( zegt dit eventueel iets over de herkomst van het wrak ) ? 
+-Welke functie had het schip ? 
+-Om wat voor scheepstype gaat het ? 
+-Wat is de nationaliteit van het schip ? 
+Vragen met betrekking tot het behoud van de vindplaats : -Is het wrak behoudenswaardig conform de waarderingscriteria KNA Waterbodems 3.1 , tabel 2 ? 
+-Wat is het behoudsperspectief van de wraklocatie ? 
+-Indien behoudenswaardig : welke beschermingsmaatregelen dienen te worden getroffen om het wrak in situ te kunnen beschermen ? 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 9 3 Methoden en technieken 3.1 Werkvaartuig Het duikonderzoek is uitgevoerd vanaf het werkschip M.S . 
+‘ Gerdia ’ ( afbeelding 3 ) . 
+Het betreft een werkschip van 42 meter lang , 12 meter breed met een diepgang van maximaal 0,5 meter . 
+De ‘ Gerdia ’ is een schip dat in het verleden werd gebruikt voor de kokkelvisserij . 
+Het vaartuig is aangepast en omgebouwd , zodat het kan worden ingezet als onderzoeksschip . 
+Het beschikt over een hydraulische kraan op het voorschip met een reikwijdte van 20 m. Het schip is zeer goed wendbaar en beschikt over twee elektrisch bedienbare spudpalen met een lengte van maximaal vijftien meter . 
+Afbeelding 2 . 
+Het werkschip ‘ Gerdia. ’ 3.2 Positionering Vanwege de verwachte waterdiepte van maximaal 13,5 meter en de sterke stroming kon geen gebruik worden gemaakt van de spudpalen om het onderzoekschip op locatie te houden . 
+Daarom werd gebruik gemaakt van een vierpunts ankersysteem . 
+Het was echter niet toegestaan om ankerdraden over de nabijgelegen NorNed kabel uit te zetten . 
+Om het schip toch goed boven de onderzoekslocatie te kunnen positioneren werden in overleg met de vergunningverlener twee betonblokken met een gezamenlijk gewicht van 5 ton op een veilige afstand ( minimaal 25 meter ) van de NorNed kabel op de bodem gezet en gebruikt als ankerblok . 
+Afbeelding 3 . 
+Betonblokken ingezet als ankerblok ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 10 Afbeelding 4 . 
+Ankerplan tijdens uitvoering . 
+Iedere werkdag werd de boei op het ankerblok aangepikt en werden de overige ankers uitgezet . 
+Voorafgaand aan het onderzoek is een dubbele GPS antenne ( Hemisphere ) aan boord van de ‘ Gerdia ’ geplaatst . 
+De antenne was aangesloten op een navigatiepakket waarmee het vaartuig na boven de te onderzoeken locatie kon worden gepositioneerd . 
+Afbeelding 5 . 
+Voorbeeld van het navigatiescherm . 
+Tijdens het duikonderzoek was een extra mobiele dGPS-antenne beschikbaar , die gebruikt werd als controle voor de positionering van de duikladder ten opzichte van de te onderzoeken locaties . 
+3.3 Duikmethodiek Het duikteam bestond uit vijf man ( waarvan één duikploegleider ) . 
+Op het werkdek van de ‘ Gerdia ’ werd een tien-voets container geplaatst met daarin de benodigde apparatuur voor de duikwerkzaamheden . 
+Voor het onderzoek waren de duikers uitgerust met Surface Supply Equipment ( SSE ) , communicatie inclusief videocamera en verlichting . 
+Een aantal waarnemingen onder water zijn met beeld en geluid vastgelegd door middel van een DVD harddisk recorder . 
+Het zicht onderwater was matig tot slecht : ca . 
+0,5 meter tot geen zicht . 
+In bijlage 5 en de dagrapporten staan de duikers , duiktijden en de werkzaamheden per dag beschreven . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 11 Afbeelding 6 . 
+Het duikpaneel in de duikcontainer . 
+Afbeelding 7 . 
+Duiker gaat te water . 
+De duiker draagt een helm met video- en audioverbinding via umbilical . 
+Tijdens het onderzoek werd duidelijk dat de waterdiepte van een aantal onderzoekslocaties bij hoogwater meer dan 15 meter bedroeg , in tegenstelling tot de verwachte maximale waterdiepte van 13,5 meter . 
+Om deze reden is tijdens het onderzoek een decompressietank gemobiliseerd . 
+Afbeelding 8 . 
+Decompressietank opgesteld naast de duikcontainer . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 12 3.4 Opnamen met de sectorscanner Tijdens het duikonderzoek is een sectorscanner ingezet . 
+Dit is een mobiel systeem , vergelijkbaar met een side scan sonar dat in een frame op de waterbodem gezet wordt , waarna de omgeving 360° rondom met akoestiek gescand wordt . 
+Een groot voordeel van dit systeem is dat het ingezet kan worden tijdens het duikonderzoek , waarbij de duiker gevolgd en geleid kan worden . 
+Daarnaast kunnen hoge resolutie afbeeldingen gemaakt worden van de onderzoekslocatie . 
+De sectorscanner is dan ook gebruikt voor het maken van overzichten van de wraklocatie . 
+Afbeelding 9 . 
+De sectorscanner . 
+3.5 Multibeamopnamen Op dinsdag 10 augustus heeft het meetvaartuig “ Geocat ” van het bedrijf Geoplus nieuwe multibeamopnamen van de onderzoekslocatie gemaakt . 
+Afbeelding 10 . 
+Meetvaartuig “ Geocat ” van GeopPlus De “ Geocat ” beschikt over een middelhoge resolutie multibeamsysteem EM3002 . 
+Bij een waterdiepte van 15 meter bedraagt de footprint of resolutie 10 à 20 cm . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 13 4 Vooronderzoek en de dynamiek van de waterbodem 4.1 Uitgangssituatie Het wrak is in 2006 gevonden tijdens het vooronderzoek met sonar en multibeam dat werd verricht in het kader van de aanleg van de NorNed kabel . 
+Afbeelding 11 . 
+Oorspronkelijke sonar en multibeamopnamen uit 2006 ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 14 Op basis van deze gegevens is het eerste verkennende duikonderzoek uitgevoerd in april 2006 . 
+Tijdens dit onderzoek werden wrakresten , aangetroffen in een gebied van 9,5 bij 9,5 meter.3 Dit gebied met wrakresten vormde een duidelijk waarneembare verhoging in de waterbodem ( wrakbult in afbeelding 12 ) . 
+De diepte van de wrakbult bedroeg 11,5 tot 12,2 meter ten opzichte van NAP . 
+Aan de oostzijde van de wrakbult werd een diepe slijpgeul aangetroffen , veroorzaakt door de ( dominerende ) vloedstroom . 
+Het gebied is afgezocht met zoekslagen tot 18 meter rondom de wrakbult . 
+Hierbij zijn aan het waterbodemoppervlak geen wrakdelen aangetroffen . 
+Een dendrochronologisch monster resulteerde in een kapdatum van 1663 ± 6 jaar . 
+Tevens werd een menselijk bot ( rechterbovenarm ) aangetroffen . 
+4.2 Aanvullende metingen Gezien de grote tijdspanne tussen het moment van ontdekking van het wrak in 2006 en het geplande waarderend onderzoek in 2010 heeft Rijkswaterstaat Noordzee op verzoek van het onderzoeksteam op 10 februari 2010 extra onderzoek uitgevoerd . 
+Dit onderzoek bestond uit het maken van opnamen gemaakt met een DIDSON ( Dual-frequency IDentification Sonar ) akoestische camera . 
+Afbeelding 12 . 
+Het onderzoekschip Zirfaea ( links ) met de ROHP ( rechts ) De DIDSON is een hoge resolutie akoestische camera die gebruik maakt van akoestische lenzen om fotorealistische afbeeldingen en films te maken in omstandigheden waar optische systemen zoals reguliere videocamera ’ s niet werken , zoals in troebel water . 
+Dit systeem is gemonteerd op het ROHP ( Remote Operated Hoisting Platform ) aan boord van het onderzoekschip de Zirfaea . 
+Het doel van dit onderzoek was , om te meten in hoeverre de situatie op de locatie nog vergelijkbaar was met die van vier jaar eerder . 
+Uit de resultaten bleek , dat dit niet het geval was . 
+De oorspronkelijke bult met wrakresten werd niet op de oorspronkelijke locatie teruggevonden . 
+Op acht meter en verder ten oosten van de oorspronkelijke locatie werden echter wel mogelijke wrakresten gevonden , verspreid over minstens vier verschillende geïsoleerde locaties . 
+In afbeelding 13 worden de resultaten van het DIDSON onderzoek weergegeven , uitgebreid met de locaties ( zones A t/m H ) waar tijdens het waarderend onderzoek daadwerkelijk wrakresten werden aangetroffen . 
+In de afbeelding is de gevolgde route van de ROHP met akoestische camera weergegeven met de locaties waar duidelijk wrakdelen werden waargenomen . 
+3 Hielkema e.a . 
+2006 , Van den Brenk en van Mierlo 2007 . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 15 Afbeelding 13 . 
+Resultaten van het onderzoek met de DIDSON akoestische camera ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 16 Multibeamopnamen Tijdens het waarderend duikonderzoek werd duidelijk dat de onderzoekslocatie sterk veranderd was sinds 2006 , wat ook al werd geconstateerd tijdens het voorgaande onderzoek van Rijkswaterstaat . 
+De belangrijkste verandering was het feit dat de waterbodem op de locatie sterk was verdiept , waardoor de waterdiepte bij hoog water meer dan vijftien meter bedroeg . 
+Om een recent beeld van de ligging van de waterbodem te verkrijgen heeft het meetvaartuig “ Geocat ” van het bedrijf Geoplus op dinsdag 10 augustus nieuwe multibeamopnamen van de onderzoekslocatie gemaakt . 
+Afbeelding 14 . 
+Overzicht van de multibeamopnamen gemaakt op 10 augustus 2010 4.3 Historische dieptegegevens Uit het vooronderzoek met de DIDSON akoestische camera was al gebleken dat de omstandigheden op de locatie ten opzichte van 2006 veranderd waren . 
+Tijdens het waarderend onderzoek in augustus 2010 werd dit bevestigd . 
+De oorspronkelijke wrakbult uit het onderzoek in 2006 was verdwenen , de waterbodem op de locatie was enkele meters dieper geworden . 
+Om deze verandering van de waterbodem te verklaren zijn bij Rijkswaterstaat , afdeling Noord-Nederland historische lodinggegevens opgevraagd . 
+Voor het gebied rondom de onderzoekslocatie waren digitale gegevens uit 2001 en 2008 beschikbaar . 
+Deze gegevens zijn afkomstig van zogenaamde overzichtslodingen ; dieptepeilingen uitgevoerd met een singlebeam echolood met vaarlijnen om de 200 meter . 
+Door deze data te interpoleren ( vergridden ) wordt een digitaal model van de waterbodem verkregen met een celgrootte van 20 bij 20 meter . 
+Het model van 2008 is afgetrokken van het model van 2001 . 
+Hierdoor ontstaat een verschilmodel waarmee verandering van de waterbodem ( verdiepingen en verontdiepingen ) zichtbaar worden . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 17 Afbeelding 15 . 
+Veranderingen van de waterbodem tussen 2001 en 2008 en dwarsprofiel over onderzoekslocatie Uit het verschilmodel blijkt , dat de waterbodem in het gebied tussen 2001 en 2008 sterk is veranderd . 
+De gemiddelde waterdiepte in het grotere gebied is nauwelijks veranderd , maar delen van het gebied zijn sterk verdiept ( tot zes meter ) of verondiept ( tot zeven meter ) . 
+De onderzoekslocatie bevindt zich in een ( natuurlijke ) stroomgeul parallel aan de kustlijn die sterk verdiept is . 
+In het dwarsprofiel over de onderzoekslocatie in afbeelding 15 zijn ook de resultaten van de multibeammetingen uit 2006 en 2010 toegevoegd . 
+Uit het profiel kan worden opgemaakt dat de verdieping op de onderzoekslocatie geleidelijk maar constant is verlopen . 
+Op basis van deze gegevens is het aannemelijk dat : • • De oorspronkelijke wrakbult uit 2006 is weggespoeld ; De wrakresten die zijn aangetroffen tijdens het waarderend onderzoek in 2010 tot voor kort nog begraven lagen in het sediment en recentelijk aan het oppervlak zijn gekomen . 
+Indien deze trend van verdieping in het gebied zich doorzet zullen ook de tijdens het onderhavige onderzoek aangetroffen wrakresten verloren gaan . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 18 5 Onderzoeksstrategie Gezien de in het vorige hoofdstuk beschreven veranderingen in de bodem ter plaatse van de wraklocatie , was de onderzoeksstrategie op voorhand niet in detail te bepalen . 
+De door middel van de akoestische camera onderscheiden zones dienden eerst geïnspecteerd te worden en afhankelijk van wat zou worden aangetroffen , zouden de vervolgstappen bepaald worden . 
+De eerste duiken van het onderzoek waren er dan ook op gericht het onderzoeksgebied opnieuw in kaart te brengen door middel van zoekslagen en sectorscanopnamen . 
+Afbeelding 16 . 
+Overzicht onderzoeksgebied Afbeelding 16 geeft de zones met scheepsdelen aan , geprojecteerd op de multibeamopname uit 2010 . 
+De zoekslagen zijn begonnen op locatie A. Vanaf deze locatie is de bodem afgezocht door middel van de cirkel-methode . 
+Hierbij verbindt de duiker een touw aan een vast punt en zwemt cirkels om de locatie heen van een steeds grotere straal . 
+Door het touw strak te houden en steeds een meter erbij te pakken nadat een cirkel is afgerond , is het gebied afgezocht . 
+De aangetroffen scheepsdelen zijn gelabeld met letters en met elkaar verbonden door middel van touw . 
+Zodra een nieuw scheepsdeel was aangetroffen , zijn de zoekslagen opnieuw begonnen vanaf deze nieuwe locatie . 
+Op deze wijze is het onderzoeksgebied systematisch afgezocht . 
+De onderlinge afstanden en de oriëntaties van de zones zijn vastgelegd . 
+Door deze gegevens te combineren met sectorscanopnamen en multibeamopnamen is een overzichtskaart gemaakt van de onderzoekslocatie . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 19 Afbeelding 17 . 
+Sectorscanopname gebruikt voor het inmeten van de verschillende zones . 
+Nadat alles in kaart was gebracht en het gebied met scheepsresten was begrensd , zijn de zones nader onderzocht , beschreven en gedocumenteerd . 
+Het was niet noodzakelijk sediment te verwijderen met de zuigpomp , omdat de scheepsdelen zich nagenoeg volledig aan de oppervlakte van de waterbodem bevonden en determinatie goed mogelijk was . 
+Door middel van handmatige sonderingen is van ieder deel de begrenzing opgezocht . 
+Hieruit is gebleken dat er geen samenhang in de zones zat en dat het om losse fragmenten van een wrak ging . 
+Van alle zones is een detailtekening en een duikfilm gemaakt . 
+De overzichtstekening van het onderzoeksgebied is in dit rapport opgenomen als bijlage 2 . 
+De duikinspecties staan op de CD bijlage . 
+Tijdens het veldwerk is de voortgang van het project dagelijks besproken met de contactpersoon bij de RCE . 
+Op de vierde dag van het onderzoek is in overleg besloten de los aangetroffen dekbalkknie ( zone F ) te lichten om dit kenmerkende scheepsdeel nauwkeurig te documenteren op het droge . 
+Deze werkzaamheden zijn uitgevoerd op dag 5 ( afbeelding 18 ) . 
+Op dezelfde dag is het project afgerond , nadat voor de laatste keer sectorscanopnamen van de wraklocatie zijn gemaakt . 
+Afbeelding 18 . 
+De dekbalkknie wordt aan boord gehesen . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 20 6 Beschrijving van de wraklocatie 6.1 Inleiding In dit hoofdstuk zullen de resultaten van het duikonderzoek worden weergegeven . 
+Omdat er geen sprake is van een samenhangende scheepsconstructie in verband maar van zones met losse scheepsdelen , zal de vindplaats per zone worden besproken . 
+Alvorens in te gaan op deze zones zal eerst een korte beschrijving van de bodemopbouw ter plaatse worden gegeven . 
+Voor de overzichtskaart wordt verwezen naar bijlage 2 en de duikfilms per zone zijn op een CD bijlage aan dit rapport toegevoegd . 
+Scheepsbouwkundige termen die niet in de tekst staan toegelicht , zijn terug te vinden in de verklarende woordenlijst in bijlage 1 . 
+6.2 Bodemopbouw In hoofdstuk 4 is ingegaan op de dynamiek van de waterbodem in het onderzoeksgebied . 
+Tijdens het duikonderzoek kon op kleine schaal worden waargenomen dat het gebied continu aan veranderingen onderhevig is . 
+Vooral ter plaatse van zone C , G en E is vastgesteld dat van de ene op de andere dag sedimentverplaatsing had plaatsgevonden van enkele decimeters . 
+De bodem rondom de wrakresten bestond uit matig tot grof zand met schelpresten . 
+Er is geen dagzomende kleilaag aangetroffen . 
+De dikte van deze mobiele zandlaag is niet vastgesteld . 
+Op de kaart waarop de veranderingen in de waterbodem tussen 2001 en 2008 staan weergegeven ( afbeelding 15 ) is op te maken dat plaatselijk 4 meter sediment is verdwenen . 
+De dikte van de mobiele zandlaag zal vermoedelijk in die orde van grootte liggen . 
+6.3 Zones Bij de beschrijving van de zones wordt verwezen naar de overzichtstekening van de vindplaats ( bijlage 2 ) en de duikvideo ’ s op de CD bijlage . 
+Zone Beschrijving A Bij locatie A is een deel van de huid van het wrak aangetroffen dat plat op de bodem ligt , met de buitenhuid naar boven . 
+De lengte van het fragment bedraagt 5,2 meter en de breedte 2,8 meter . 
+De oriëntatie is noordoost-zuidwest . 
+Het midden van het scheepsdeel is afgedekt met sediment . 
+De constructie loopt echter niet verder de bodem in . 
+Er zijn twee en mogelijk drie berghouten aanwezig . 
+De planken worden van zuidwest naar noordoost beschreven . 
+De meest zuidwestelijke balk ( berghout ) heeft een dikte van 10 cm . 
+Daartegenaan liggen twee huidplanken met een breedte van 30 cm . 
+Bij de tweede huidplank is een schuine lasverbinding zichtbaar . 
+De vierde plank is een breed uitgevoerd berghout ( 40 cm ) . 
+De dikte was niet goed te bepalen . 
+De vijfde plank is weer een huidplank met een breedte van 15 cm en de laatste plank is vermoedelijk ook een berghout . 
+Op basis van de geringe bolling van dit stuk scheepshuid en de aanwezigheid van de berghouten , gaat het hier om een scheepsdeel dat zich oorspronkelijk ruim boven de waterlijn bevond . 
+B Locatie B is een losse balk ( l=630 cm , breedte 50 cm , dikte 10 cm ) met een sponning dan wel droge naad van 15 cm . 
+De oriëntatie is ongeveer oost-west . 
+Deze plank is los aangetroffen . 
+Het is goed mogelijk dat het een berghout betreft . 
+C Bij locatie C is een stuk boord met een aantal inhouten en huidplanken aangetroffen . 
+De oriëntatie is ongeveer noord-zuid en de afmetingen van het scheepsdeel bedragen 4,1 meter ( lengte ) bij 1,4 meter ( breedte ) . 
+Het betreft een boordfragment met een sterke ronding dat met de buitenhuid naar beneden op de bodem ligt . 
+Er zijn in totaal drie huidplanken en zes inhouten aangetroffen . 
+De inhouten variëren in breedte tussen de 20 en 30 cm en steken schuin uit de bodem omhoog . 
+De onderlinge afstand tussen de balken bedraagt 10 tot 20 cm . 
+Aan de westzijde is de scheepsconstructie nog voor circa 50 cm bedekt met sediment . 
+D Bij locatie D zijn op de eerste dag van het onderzoek kleine balken die voor een klein deel in de bodem zaten . 
+Zone D bevond zich ten zuidwesten van zone C , maar is gedurende de daaropvolgende veldwerkdagen niet meer aangetroffen . 
+Als gevolg van zandverplaatsing gedurende de getijden is zone D weer afgedekt , zodat het niet meer onderzocht kon worden . 
+E Bij locatie E is een balk van 600 bij 30 bij 12 cm aangetroffen met een schuine las van 115 cm aan de zuidwest zijde . 
+De balk ligt los . 
+F Bij locatie F is een dekbalkknie aangetroffen . 
+De oriëntatie is zuidwest-noordoost . 
+Deze knie is gelicht en wordt in de volgende paragraaf in detail besproken . 
+H Bij locatie H zijn twee losse planken aangetroffen . 
+De oriëntatie is noord-zuid . 
+De breedte bedraagt per plank circa 40 cm en ze steken over een lengte van 150 cm uit de bodem . 
+Aan de noordzijde verdwijnen ze in de bodem . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 21 6.4 Los scheepshout In totaal zijn gedurende het onderzoek twee losliggende scheepsdelen aan dek gebracht . 
+Het eerste betreft een huidplank met een lengte van 471 cm , een maximale breedte van 56 cm en een dikte van 4 cm ( bijlage 3 ) . 
+Op de plank bevinden zich op regelmatige afstanden houten pennen en pengaten : de verbindingen met de inhouten . 
+Uit de aanwezigheid van spijkers en spijkergaten blijkt dat de inhouten zowel met houten pennen als spijkers werden vastgezet . 
+Eén van de pennen is gedetermineerd op houtsoort . 
+Het blijkt te gaan om eikenhout ( Quercus sp . 
+) .4 Het tweede losse scheepsdeel betreft de eerder genoemde dekbalkknie ( bijlage 4 ) . 
+Deze heeft een lengte van bijna 3 meter en een maximale doorsnede van 29 bij 29 cm . 
+Het betreft een knie uit een stam en zijtalk van een boom , waarbij de lengte van het dragende deel van de knie 134 cm bedraagt . 
+De knie heeft een kleine uitsparing aan de achterzijde ter hoogte van de bevestiging tegen de balkweger . 
+De knie werd tegen de wegering vastgezet door middel van ijzeren bouten . 
+Op het dragende deel is een uitsparing gemaakt voor het lijfhout . 
+Duidelijk is te zien dat de dekbalk in een sponning tegen het dragende deel van de knie werd geplaatst en bevestigd door middel van vier ijzeren bouten . 
+Uit de lichte kromming van de knie is op te maken dat deze oorspronkelijk ter hoogte van het midden van het ruim heeft gezeten . 
+6.5 Reconstructie afmetingen schip Op basis van de afmetingen van de knie kan een inschatting worden gemaakt van de grootte van het schip . 
+De knie is in dwarsscheepse richting even dik als de dekbalk waar hij bij hoort . 
+De dikte van de dekbalk bedroeg zodoende 29 cm ( ca 12 duim ) . 
+Volgens van Yk is de dikte van een dekbalk van het onderste dek 2 duim voor elke 5 voet die het schip breed is.5 Dus dat betekent 6 ( de helft van 12 duim ) x 5 voet is 30 voet . 
+De oorspronkelijke lengte is ongeveer vier keer de breedte , die daarmee op 120 voet 6 komt . 
+Dit betekent een oorspronkelijke scheepslengte van circa 35 meter . 
+4 5 6 Domínguez Delmás 2010 . 
+Van Yk 1697 , 82 en 83 . 
+Persoonlijke communicatie a. Hoving 11 okt 2010 . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 22 7 Conclusies De conclusies van het onderzoek zullen hieronder aan de hand van de onderzoeksvragen worden weergegeven . 
+Algemene vragen over de wraklocatie : -Wat is de omvang en verspreiding van de scheepsresten ? 
+De scheepsresten zijn aangetroffen in een gebied van 30 bij 12 meter . 
+Het gaat om losse scheepsdelen die zonder onderling verband verspreid liggen over en deels in de bodem . 
+-Is er sprake van 3 tot 4 zones met wrakdelen ? 
+In totaal zijn 7 zones met wrakdelen onderscheiden . 
+-Wat is de positie van de wrakdelen in de bodem ? 
+De wrakdelen bevinden zich alle aan het oppervlak van de waterbodem . 
+Bij zone A en C is door middel van handmatige sonderingen vastgesteld dat het wrakdeel nog een stuk in de bodem steekt . 
+Het gaat echter niet om een substantieel afgedekt deel . 
+-Wat is de gaafheid en conservering van het wrak ? 
+De gaafheid van het wrak is zeer beperkt . 
+Op basis van het vooronderzoek in 2006 was de verwachting opgesteld dat zich hier een wrakbult met een substantiële scheepsconstructie zou bevinden . 
+Het veldonderzoek in 2010 heeft uitgewezen dat de vindplaats grotendeels verslagen is als gevolg van natuurlijke erosieprocessen . 
+Wat betreft de conservering van het hout is macroscopisch bij de dekbalkknie vastgesteld dat er weinig sporen van aantasting ( organische aantasting en erosie ) zijn . 
+Dit kan erop wijzen dat de knie recent aan het bodemoppervlak is gekomen . 
+-In welke geologische en bodemkundige eenheden dan wel lagen bevinden zich archeologische resten ? 
+De scheepsresten bevinden zich alle in een matig tot grove schelpenrijke zandafzetting . 
+De dikte van deze laag is niet vastgesteld , het gaat hier om een mobiele zandlaag die over de bodem in de Eemsmond migreert . 
+Het laatste is in hoofdstuk 4 op grote schaal aangetoond . 
+-Is er sprake van een of meerdere vondstlagen ? 
+Tijdens het onderzoek zijn geen vondsten gedaan . 
+Tijdens verschillende duiken is de bodem door middel van zoekslagen afgezocht , waarbij geen vondsten zijn gedaan . 
+Daar komt bij dat in de zones met scheepshout tijdens het documentatiewerk geen vondsten zijn gedaan . 
+Geconcludeerd kan worden dat er geen sprake ( meer ) is van een vondstlaag . 
+Dit contrasteert met de vondst van het menselijk bot in 2006 . 
+-Wat is de invloed van de wrakvormende processen geweest op deze vindplaats ? 
+Uit vergelijkingen van recente en historische dieptegegevens tussen 2001 en 2010 blijkt dat de locatie zich bevindt in een stroomgeul parallel aan de kustlijn die zich geleidelijk maar constant verdiept . 
+De wrakresten op de locatie uit het onderzoek in 2006 zijn geheel verdwenen ; de zones met wrakresten uit onderhavig onderzoek zijn recentelijk aan het oppervlak gekomen en zullen – indien de trend van verdieping zich doorzet – op niet al te lange termijn ( enkele jaren ) ook wegspoelen en verdwijnen . 
+Verder is onderzocht in hoeverre bodemverstorende werkzaamheden in de buurt van het wrak hebben plaatsgevonden in het kader van de aanleg van de Norned kabel . 
+Uit de verstrekte gegevens van de waterbeheerders is gebleken dat hier geen sprake van is geweest . 
+Bovendien zou dergelijke bodemingreep in vergelijking tot de hier spelende natuurlijke erosie van geen betekenis zijn geweest . 
+Vragen met betrekking tot de inhoud van het wrak : Gezien het ontbreken van een aan de wrakresten te relateren vondstlaag , zijn onderstaande onderzoeksvragen niet te beantwoorden . 
+-Zijn resten van de uitrusting , scheepsinventaris , lading en persoonlijke eigendommen aanwezig ? 
+Zo ja , kan een inschatting worden gemaakt van de archeologische waarde van deze vondstcomplexen ? 
+-Bevindt de inventaris zich in situ ? 
+-Wat is de ruimtelijke relatie tussen inventaris en de scheepsonderdelen ? 
+-Geven inventaris en lading een indicatie over de datering van het vergaan van het schip ? 
+-Geeft de lading een indicatie van de gevolgde route en/of vaargebied ? 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 23 Vragen met betrekking tot de scheepsconstructie : -Zijn er constructiedetails waarneembaar ? 
+Ondanks dat het zicht onderwater beperkt was , konden de 7 zones goed onderzocht worden . 
+De details zijn in zoverre waarneembaar dat van elke zone een determinatie op scheepsdeel mogelijk was . 
+Details omtrent houtverbindingen , houtbewerking en sporen van scheepsonderhoud konden niet worden waargenomen . 
+Van de dekbalkknie die aan dek gebracht is , is een gedetailleerde documentatie vervaardigd . 
+Op basis van deze documentatie is het mogelijk uitspraken te doen over de omvang van het oorspronkelijke schip . 
+-Welke houtsoorten zijn gebruikt ( zegt dit eventueel iets over de herkomst van het wrak ) ? 
+Voor zover onderwater was vast te stellen , zijn geen andere houtsoorten dan eik waargenomen . 
+De huidplank en de dekbalkknie zijn eveneens van eik vervaardigd . 
+Een van de houten pennen uit deze huidplank is microscopisch onderzocht , ook hier gaat het om eik ( Quercus sp . ) . 
+-Welke functie had het schip ? 
+Om deze onderzoeksvraag te kunnen beantwoorden zijn te weinig gegevens verzameld . 
+-Om wat voor scheepstype gaat het ? 
+Om deze onderzoeksvraag te kunnen beantwoorden zijn te weinig gegevens verzameld . 
+-Wat is de nationaliteit van het schip ? 
+Om deze onderzoeksvraag te kunnen beantwoorden zijn te weinig gegevens verzameld . 
+Vragen met betrekking tot het behoud van de vindplaats : -Is het wrak behoudenswaardig conform de waarderingscriteria KNA Waterbodems 3.1 , tabel 2 ? 
+De conclusie van het waarderende onderzoek is dat het niet om een behoudenswaardige vindplaats gaat ( zie volgend hoofdstuk ) . 
+-Wat is het behoudsperspectief van de wraklocatie ? 
+De wrakresten op de locatie uit het onderzoek in 2006 zijn inmiddels geheel verdwenen ; de zones met wrakresten uit onderhavig onderzoek zijn recentelijk aan het oppervlak gekomen en zullen – indien de trend van verdieping zich doorzet – op niet al te lange termijn ( enkele jaren ) ook wegspoelen en verdwijnen . 
+-Indien behoudenswaardig : welke beschermingsmaatregelen dienen te worden getroffen om het wrak in situ te kunnen beschermen ? 
+Deze vraag is gezien de resultaten van het onderzoek niet van toepassing . 
+Indien het een behoudenswaardig wrak zou zijn geweest , zouden de natuurlijke erosieprocessen van de waterbodem het noodzakelijk hebben gemaakt om op korte termijn maatregelen te nemen voor behoud ex-situ . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 24 8 Waardering van de vindplaats Het vaststellen van de archeologische waarde vormt de basis voor het selectieadvies . 
+De waarde van een scheepswrak wordt vastgesteld op basis van belevingswaarde , fysieke kwaliteit en inhoudelijke waarde . 
+Hieronder zullen deze aspecten voor dit wrak nader worden uitgewerkt . 
+1 . 
+Belevingsaspecten 1.1 Schoonheid Niet van toepassing 1.1.1 zichtbaarheid 1.1.1.1 zichtbaarheid als landschapselement Niet van toepassing 1.1.1.2 zichtbaarheid als expositie-element Met het lichten van de dekbalkknie en de daaropvolgende conservering bij het ADC , is van het wrak een beeldend onderdeel bewaard gebleven ten behoeve van expositie . 
+Wat betreft de overige scheepsdelen is het de vraag of lichten en conserveren zinvol is . 
+1.2 Herinneringswaarde 1.2.1 historisch Het wrak is niet geïdentificeerd , maar omdat het om een aanzienlijk wrak gaat ( ca 120 voet ) bestaat de kans dat er iets te vinden is in de archieven . 
+Daar komt bij dat de bouwdatum van het vaartuig vrij scherp begrensd is door middel van dendrochronologisch onderzoek . 
+De ondergangsdatum is echter wegens het ontbreken van archeologische vondsten niet vastgesteld . 
+Mogelijk kan op basis van de locatie van vergaan , de grootte en de bouwdatum een aanknopingspunt worden gevonden met een historisch gedocumenteerde schipbreuk . 
+Indien in de toekomst de archiefgegevens systematisch worden ontsloten , bestaat een kleine kans het wrak te identificeren . 
+Totale score belevingsaspecten : 1 punt . 
+2 . 
+Fysieke kwaliteit 2.1 Gaafheid 2.1.1 aanwezigheid scheepsresten De aangetroffen scheepsdelen betreffen delen van de huid , inhouten , losse balken en een dekbalkknie . 
+Een onderling verband ontbreekt echter en om deze reden is de gaafheid zeer beperkt . 
+2.1.2 gaafheid scheepsresten De delen zijn alle goed herkenbaar omdat er weinig sprake is van aantasting door erosie of biologische krachten . 
+Vermoedelijk is dit omdat de scheepsresten recent vrij zijn komen te liggen . 
+2.1.3 stratigrafie intact Van een stratigrafie is nauwelijks sprake , omdat de wrakresten grotendeels aan de oppervlakte liggen . 
+Er zijn geen aan het wrak relateerbare vondstlaag , noch verspoelde vondsten aangetroffen . 
+2.1.4 mobilia in situ Er zijn geen mobilia in situ aangetroffen . 
+Om deze reden zijn de volgende twee beoordelingscriteria niet van toepassing . 
+2.1.4.1 relatie tussen de mobilia en de scheepsresten 2.1.4.2 relatie tussen de mobilia onderling 2.1.5 stabiliteit van de natuurlijke omgeving Uit hoofdstuk 4 is naar voren gekomen dat de natuurlijke omgeving zeer instabiel is . 
+Eindscore gaafheid : 1 punt ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 25 2.2 Conservering 2.2.1 conservering wrakdelen 2.2.1.1 organische wrakdelen De conservering van het scheepshout is voor zover dat macroscopisch valt te beoordelen goed . 
+2.2.1.2 metalen constructiedelen van het wrak Substantiële metalen constructiedelen zijn niet aangetroffen . 
+De ijzeren bouten en spijkers in de dekbalkknie bevinden zich in een goede staat van conservering . 
+2.2.2 conservering mobilia 2.2.2.1 organische mobilia Deze categorie is niet aangetroffen . 
+2.2.2.2 anorganische mobilia Deze categorie is niet aangetroffen . 
+Eindscore Conservering : 1 punt . 
+3 . 
+Inhoudelijke kwaliteit 3.1 Zeldzaamheid 3.1.1 zeldzaamheid periode Gezien het ontbreken van informatie over de aard van het schip is het bepalen van de zeldzaamheid niet mogelijk . 
+3.1.2 zeldzaamheid regio Scheepsvondsten in het oostelijke Waddengebied zijn tot op heden schaars . 
+Dit is vooral het gevolg van het ontbreken van een systematische inventarisatie van de bestaande gegevens en gericht veldonderzoek . 
+Hoewel de relatie tussen de vondstlocatie en oorspronkelijk vaargebied in belangrijke mate op toeval berust , geeft het hier onderzochte wrak een indicatie van het archeologisch potentieel van het oostelijke Waddengebied . 
+Het is aannemelijk dat de regio een tot nu toe onbekende rijkdom aan archeologische sites bevat . 
+De recente vondst van het 18e eeuwse ‘ dakpannenwrak ’ in het kader 7 van vooronderzoek in de Doekegatreede illustreert dit . 
+3.2 Informatiewaarde 3.2.1 Geografische kennislacunes Zie 3.1.2 3.2.2 Inhoudelijke kennislacunes Het onderzoekspotentieel van deze vindplaats is te laag om een kennislacune op te kunnen vullen . 
+Hierbij moet worden opgemerkt dat de Nationale Onderzoeksagenda Archeologie nog steeds geen hoofdstuk over de maritieme archeologie heeft , waarin de kennislacunes staan aangegeven . 
+3.3 Representativiteit De representativiteit van deze scheepsvondst is niet te bepalen wegens de gebrekkige gaafheid van de vindplaats . 
+Eindscore inhoudelijke kwaliteit : 1 punten . 
+7 Van Campenhout en van den Brenk 2010 . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 26 4 . 
+Eindscore Waarden § 1 Beleving §2 Fysieke kwaliteit §3 Inhoudelijke kwaliteit Criteria Scores § 1.1 Schoonheid 0 § 1.2 Herinneringswaarde 1 Eindbeoordeling Beleving 1 = niet behoudenswaard § 2.1 Gaafheid 1 § 2.2 Conservering 1 Totaalscore Fysieke kwaliteit 2 = niet behoudenswaard § 3.1 Zeldzaamheid 1 § 3.2 Informatiewaarde 1 § 3.3 Representativiteit 1 Totaalscore Inhoudelijke kwaliteit 3 = niet behoudenswaard Samenvattend luidt de eindconclusie dat het scheepswrak zowel op belevingswaarde , fysieke kwaliteit als inhoudelijke kwaliteit laag scoort en dat het daarom niet behoudenswaardig is . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 27 9 Advies Het onderzoek heeft uitgewezen dat wrak D1 bij de Eemshaven niet behoudenswaardig is . 
+Er worden dan ook geen aanvullende maatregelen of vervolgonderzoek geadviseerd . 
+De bevindingen van het onderzoek in 2010 contrasteren sterk met de eerste waarnemingen die in 2006 zijn gedaan . 
+In het rapport is uitgebreid ingegaan op de oorzaken van de veranderingen in de waterbodem in het oostelijke Waddengebied . 
+Het oostelijke Waddengebied is een archeologische blinde vlek , waar tot heden weinig onderzoek is e verricht naar maritieme vindplaatsen . 
+Het onderhavige onderzoek en de vondst van het ’ 18 eeuwse dakpannenwrak ’ zouden een goede aanleiding kunnen zijn tot een eerste inventarisatie . 
+De noodzaak tot een archeologische inventarisatie wordt versterkt door de grootschalige veranderingen in de waterbodem die zich hier in de afgelopen jaren hebben gemanifesteerd . 
+Het is aannemelijk dat wrak D1 niet de enige vindplaats is die recent is geërodeerd . 
+Het verdient daarom aanbeveling het gebied regelmatig te monitoren . 
+10 Tot slot Dit project heeft opnieuw duidelijk gemaakt dat duikonderzoek in de Nederlandse wateren het best in combinatie met geofysisch onderzoek uitgevoerd kan worden . 
+In deze specifieke situatie was het niet mogelijk om alleen op de waarnemingen van de duikers af te gaan om tot een waardering van de vindplaats te komen . 
+Bij vergelijkbare sites in waterbodems met een hoge dynamiek wordt daarom aanbevolen om kort voor het duikonderzoek de bodemmorfologie van de site vast te leggen met bijvoorbeeld hoge resolutie multibeam , teneinde vast te stellen in hoeverre de situatie is gewijzigd ten opzichte van het vooronderzoek . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 28 Literatuur Domínguez Delmás , M. , 2010 : RING briefrapport houtdeterminaties 2010010 , Amersfoort . 
+Hielkema , J.B . 
+et . 
+al. , 2006 : Underwater archaeological investigations of a shipwreck near the Eemshaven , municipality Eemsmond ( Gr . 
+) , ARC publicaties 152 . 
+Hoving , A.J. , 1994 : Nicolaes Witsens Scheeps-bouw-konst Open Gestelt , Franeker . 
+IMAGO projectgroep , 2003 : Samenvatting en conclusies IMAGO ( Innovatief Meten Aan Gezonken Objecten ) project , RDIJ rapport nr . 2003 . 
+KNA Waterbodems 3.1 Van Campenhout , K. en van den Brenk . 
+S. 2010 . 
+Doekegat Reede – Waddenzee , Inventariserend veldonderzoek ( onderwaterfase ) door middel van duikinspecties , Periplus Archeomare rapport nr . 10_A009 . 
+Van den Brenk , S. en B.E.J.M . 
+van Mierlo , 2007 : Maritime Archaeological Field Assesment , Norned Cable HVDC project , Eemshaven , the Netherlands , Periplus Archeomare rapport 2006-01 . 
+Van Yk , C. , 1697 : De Nederlandsche scheepsbouwkonst , Amsterdam ( Facsimile uitgave COREX Dordrecht ) . 
+Waldus , W.B . 
+en S. van den Brenk , 2010 : PvE wrak Eemshaven D1 , Inventariserend Veldonderzoek Onderwaterfase verkennend , Amersfoort . 
+Lijst van afbeeldingen Afbeelding 1 . 
+De onderzoekslocatie Afbeelding 2 . 
+Het werkschip ‘ Gerdia. ’ Afbeelding 3 . 
+Betonblokken ingezet als ankerblok Afbeelding 4 . 
+Ankerplan tijdens uitvoering . 
+Afbeelding 5 . 
+Voorbeeld van het navigatiescherm . 
+Afbeelding 6 . 
+Het duikpaneel in de duikcontainer . 
+Afbeelding 7 . 
+Duiker gaat te water . 
+De duiker draagt een helm met video- en audioverbinding via umbilical . 
+Afbeelding 8 . 
+Decompressietank opgesteld naast de duikcontainer . 
+Afbeelding 9 . 
+De sectorscanner . 
+Afbeelding 10 . 
+Meetvaartuig “ Geocat ” van GeopPlus Afbeelding 11 . 
+Oorspronkelijke sonar en multibeamopnamen uit 2006 Afbeelding 12 . 
+Het onderzoekschip Zirfaea ( links ) met de ROHP ( rechts ) Afbeelding 13 . 
+Resultaten van het onderzoek met de DIDSON akoestische camera Afbeelding 14 . 
+Overzicht van de multibeamopnamen gemaakt op 10 augustus 2010 Afbeelding 15 . 
+Veranderingen van de waterbodem tussen 2001 en 2008 en dwarsprofiel over onderzoekslocatie Afbeelding 16 . 
+Overzicht onderzoeksgebied Afbeelding 17 . 
+Sectorscanopname gebruikt voor het inmeten van de verschillende zones . 
+Afbeelding 18 . 
+De dekbalkknie wordt aan boord gehesen . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 29 Bijlage 1 . 
+Woordenlijst en afkortingen De omschrijvingen in deze lijst berusten ( deels ) op het Zeilvaart Lexicon van J . Van Beijlen ( B ) , Van Dale groot woordenboek der nederlandse taal ( elfde herziene druk ; D ) , “ De Zeehond , een Groninger tjalk gebouwd in 1878 '' van Oosting en Vlierman ( O ) en “ Kleine bootjes en middeleeuws scheepshout ” van Vlierman ( V ) . 
+Verder zijn aanvullingen gedaan die betrekking hebben op onderzoeksmethoden en technieken . 
+Achtersteven : over het algemeen een rechte balk die op de achterkant van de kiel staat , eventueel hangt er een stevenroer aan ( B ) . 
+Bakboord : de linkerzijde van het schip wanneer men het gezicht naar de voorsteven richt ( O ) . 
+Boord : huidplank van een houten schip , in ruimere zin de gehele zijde van een schip ( O ) . 
+Breeuwen : waterdicht maken van naden tussen planken . 
+Buikdenning : houten vloer die op de bovenkant van de leggers ligt om een glad oppervlak te verkrijgen voor het stuwen van vracht en deze vrij te houden van lekwater dat zich tussen de leggers kan bevinden ( O ) . 
+Dek : vloer ( dak ) dat de holte van een schip van boven afsluit ( O ) . 
+Dekbalk : dwarsbalk ter ondersteuning van het dek ( O ) . 
+Dendrochronologie : wetenschap die zich met jaarringen van bomen bezig houdt . 
+Bomen maken gedurende hun leven , onder invloed van klimaatsfactoren , een voor die periode specifiek patroon van dikke en dunne jaarringen . 
+Door die patronen onderling te vergelijken kan de veldatum van een boom worden bepaald . 
+Deutel : vierkante houten plug die in het uiteinde van een houten pen wordt geslagen om deze beter vast te zetten ( O ) . 
+( Huid ) gang : een reeks van in elkaars verlengde liggende ( huid ) planken die deel uitmaken van de huid van het schip ( O ) . 
+Gladboordig ( ook karveel ) : constructie van de scheepshuid , waarbij de langskanten van de planken tegen elkaar aansluiten ( O ) . 
+Huid : de buitenbekleding van een schip ( O ) . 
+Inhouten : verzamelterm voor de stukken hout die het geraamte van het schip vormen en zorgen voor het dwarsverband van het schip en het verband tussen de planken onderling ( O ) . 
+Kielbalk : zware langsscheepse balk die midscheeps de onderzijde van het schip vormt en de basis uitmaakt voor het opbouwen van de stevens en het vlak ( O ) . 
+Op doorsnede hoger dan breed . 
+Kielplank : zware langsscheepse plank die midscheeps de onderzijde van het schip vormt en de basis uitmaakt voor het opbouwen van de stevens en het vlak ( O ) . 
+Op doorsnede breder dan hoog . 
+Kim : overgang tussen vlak en zijde ( O ) . 
+Las : verbinding tussen twee houten verbanddelen die in de lengterichting aan elkaar worden bevestigd zonder dat de dikte of breedte ervan worden gewijzigd ( B ) . 
+Bij ( laat ) middeleeuwse vaartuigen wijzigt de dikte soms wel ( O ) . 
+Legger : recht stuk hout , gebruikt voor het verband tussen de delen van het vlak en de kiel ( O ) . 
+Liplas : las waarbij de beide aan elkaar te verbinden delen van een opstaande rand ( =lip ) zijn voorzien ( O ) . 
+Mastspoor : verdikking en/of verbreding van het zaathout , waarin de mast steunt ( O ) . 
+Moet : indruksel ( O ) . 
+Multibeam echoloding ( MBE ) , akoestisch onderzoek waarmee de topografie van de waterbodem ‘ vlakdekkend ’ in kaart wordt gebracht . 
+Onderwaterschip : het gedeelte van een schip dat zich tijdens het varen onder de waterlijn bevindt . 
+Oplanger : inhout dat in het verlengde ligt van een legger of wrang ( meestal tegen de zijde van een schip ) . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 30 Pleistocene zanden , pakket van matig grove , dikwijls grindhoudende kalkrijke zanden afgezet in de Eemien periode ( 130.000 – 110.000 jaar geleden ) en dekzanden uit de Weichselien periode ( 110.000 – 13.000 jaar geleden . 
+Realtime videocamera , een videosysteem dat het mogelijk maakt om video-opnamen direct aan de oppervlakte te bekijken . 
+Het videosignaal wordt door middel van een kabel naar de oppervlakte gestuurd . 
+Romp : de gehele scheepsconstructie met uitzondering van roer , zwaarden , masten , tuigage en andere losse delen ( O ) . 
+RTK DGPS : Real Time Kinematic Differential Global Positioning System ; geavanceerd systeem voor plaatsbepaling dat werkt met satellieten in combinatie met een vaste steunzender in de buurt van het werkgebied . 
+Heeft nauwkeurigheden van enkele cms in de X , Y en Z richting Side scan sonar ( SSS ) , akoestisch onderzoek waarbij de waterbodem wordt onderzocht op objecten gelegen op de bodem . 
+Sonarcontact , object op of in de waterbodem waargenomen met akoestische apparatuur . 
+Sonarvis , sleeplichaam dat zowel het geluidssignaal uitzendt als weer opvangt , nodig voor het verrichten van het akoestische bodemonderzoek . 
+Spanten : zie inhouten Spudpaal , lange vaak puntvormige stalen buis die gebruikt wordt om een vaartuig op een bepaalde positie te fixeren . 
+Stroomribbels : Asymmetrisch golfpatroon van het bodemboppervlak veroorzaakt door langsstromend water . 
+De steile zijde van de ribbels liggen altijd aan de stroomafwaartse kant . 
+Subbottom-profiler ( SBP ) , akoestisch onderzoek waarbij de waterbodem wordt onderzocht op objecten gelegen in de bodem . 
+Dit akoestisch onderzoek wordt ook gebruikt voor het in kaart brengen van de verschillende bodemlagen tot maximaal een diepte van 10 m. Spinthout : buitenste nog niet verhoutte gedeelte van een boom , waardoor saptransport plaats vindt . 
+Aangezien dit deel van de boom vaak wordt verwijderd bij verwerking van hout , moet om de veldatum van een boom te bepalen , het missende aantal spinthoutringen worden geschat . 
+Sponning : gleuf of groeve ( O ) . 
+Stuurboord : de rechterkant van het schip wanneer men het gezicht naar de voorsteven richt ( O ) . 
+Tilling : het enigszins oplopen van een vlak . 
+Vlak : het min of meer vlakke gedeelte van de romp van een schip . 
+Voorsteven : balk , recht of gekromd die voor op de kiel staat . 
+Wankant : deel van een boom dat zich vlak onder de schors bevindt ; jongst gevormde ring van een boom . 
+Weger : plank of balk die aan de binnenkant van het schip tegen de spanten is bevestigd ( O ) . 
+Wegeringsplank : plank van de wegering of buikdenning . 
+Wrang : legger in het scherpe gedeelte van een schip . 
+Zaathout : zware balk over de inhouten boven de kiel van een schip ; versterking van het langsscheepse verband ( O ) . 
+Zandstrook : eerste gang naast de kiel . 
+Zijde : opstaande gedeelte van de huid van een schip . 
+ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 31 Bijlage 2 . 
+Overzicht wraklocatie ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 32 Bijlage 3 . 
+Schaaltekening van de los aangetroffen huidplank ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 33 Bijlage 4 . 
+Schaaltekening van de los aangetroffen dekbalkknie ( zone F ) ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 34 Bijlage 5 : duiktijden Datum Duiker Duiknr Tij In Uit Duiktijd Duiktijd 09-08-10 P. Leensen 1 HW 11:33 12:26 0:53 09-08-10 W. Waldus 2 HW 12:39 13:14 0:35 09-08-10 T. Tournier 3 LW 16:57 17:54 0:57 09-08-10 K. v. Campenhout 4 LW 18:04 18:57 0:53 10-08-10 P. Leensen 5 HW 12:06 12:54 0:48 10-08-10 W. Waldus 6 HW 13:10 13:46 0:36 11-08-10 K. v. Campenhout 7 LW 06:47 08:02 1:15 11-08-10 W. Waldus 8 LW 08:07 08:20 0:13 11-08-10 W. Waldus 9 HW 12:37 13:32 0:55 11-08-10 T. Tournier 10 HW 13:45 14:14 0:29 12-08-10 K. v. Campenhout 11 LW 07:34 08:33 0:59 12-08-10 S. de Kruijf 12 LW 08:42 09:12 0:30 12-08-10 W. Waldus 13 HW 13:27 14:13 0:46 12-08-10 T. Tournier 14 HW 14:30 14:59 0:29 13-08-10 T. Tournier 15 LW 08:24 09:35 1:11 13-08-10 S. de Kruijf 16 HW 13:33 14:27 0:54 13-08-10 K. v. Campenhout 17 HW 14:30 15:15 0:45 13-08-10 T. Tournier 18 HW 15:25 15:32 0:07 Totaal 13:15 ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 35 CD bijlage met digitale bestanden en duikvideo ’ s -PvE -Dagrapporten -Rapportage digitaal -Duikfilms ADC ArcheoProjecten Rapport 2538 Wrak Eemshaven D1 , waarderend onderzoek 

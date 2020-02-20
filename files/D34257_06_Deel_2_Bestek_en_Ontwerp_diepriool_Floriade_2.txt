@@ -1,0 +1,485 @@
+© 2007 Gemeente Venlo , Past2Present-ArcheoLogic en ArchAeO . 
+Niets uit deze uitgave mag worden verveelvoudigd en/of openbaar gemaakt door middel van druk , fotokopie of op welke andere wijze ook , daaronder mede begrepen gehele of gedeeltelijke bewerking van het werk , zonder voorafgaande schriftelijke toestemming van gemeente Venlo . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo . 
+i.o.v . 
+Gemeente Venlo Past2PresentArcheoLogic Versie Datum Contactpersoon Projectnr 313.5 Rapportnr . 
+413 2.0 30 mei 2007 F.E . 
+Rijpma Past2Present-ArcheoLogic Pelmolenlaan 12-14 3447 GW Woerden Telefoon + 31 ( 0 ) 348 – 437788 Fax + 31 ( 0 ) 348 – 437789 e-mail info @ archeologic.nl Actie Versie 0.1 Actor Datum L. Janssen , 16-05- 2007 J. de Jong , F. Rijpma Controle kwaliteit 0.2 F. Kortlang 16-05-2007 F. Rijpma 16-05-2007 P. Jacobs 30-05-2007 F.P . 
+Kortlang 25-05-2007 F. Rijpma 29-05-2007 P. Jacobs 30-05-2007 M. Dolmans 30-05-2007 F. Rijpma 30-05-2007 Paraaf senior archeoloog 1.0 Opmerkingen OG ( inzake operationalisering ) 1.1 Opmerkingen BO ( mail ) 1.2 Akkoord OG ( inzake operationalisering ) Akkoord BO 2.0 Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 2 Inhoud 1 Inleiding ______________________________________________ 4 1.1 Administratieve gegevens ______________________________________ 4 1.2 Beschrijving Plangebied ________________________________________ 5 1.3 Leeswijzer___________________________________________________ 5 2 Onderzoeksgegevens_____________________________________ 6 2.1 Bronmateriaal________________________________________________ 6 2.2 Beknopt overzicht onderzoeksresultaten ___________________________ 6 2.3 onderzoeksrichtingen __________________________________________ 7 3 Onderzoeksvragen _______________________________________ 8 3.1 onderzoeksvragen ____________________________________________ 8 3.1.1 Algemene onderzoeksvragen_______________________________ 8 3.1.2 Late Bronstijd tot ( Vroege ) IJzertijd : graven , grafmonumenten ____ en grafheuvels __________________________________________ 8 3.1.3 Late bronstijd , IJzertijd en Volle Middeleeuwen : ________________ Nederzettingslocaties en sporen van landgebruik _____________ 9 4 Operationalisering ______________________________________ 10 4.1 Strategie ___________________________________________________ 10 4.2 Extensief opgraven___________________________________________ 11 4.3 Opgraving van tracé en werkstrook______________________________ 11 4.4 Algemene onderzoeksstrategie _________________________________ 12 4.5 Afsluiting van het veldwerk ____________________________________ 13 5 Condities _____________________________________________ 14 6 Rapportage ___________________________________________ 15 6.1 Algemeen __________________________________________________ 15 6.2 Inhoud ____________________________________________________ 15 6.3 Goedkeuring en tijdspad ______________________________________ 15 7 Referenties ___________________________________________ 17 8 Taakomschrijving ______________________________________ 18 Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 3 1 1.1 Inleiding ADMINISTRATIEVE GEGEVENS Datum Opdrachtgever Gemeente Venlo , Dhr . 
+J. Linssen , Postbus 3434 , 5902 RK Venlo . 
+Bevoegde overheid Gemeente Venlo , Dhr . 
+M.R.T.M . 
+Dolmans Postbus 3434 , 5902 RK Venlo . 
+Tel : 077-3596988 Gemeente Venlo Plaats Venlo-deelgebied 7 Toponiem De Zaar , Zaarderkampen , St. Janskapel , St. Jan , Annahoeve Coördinaten tracé NW : X = 205.212 Y = 380.077 ZO : X = 206.619 Y = 379.117 Kaartblad 52G Opsteller ( s ) drs . F.E . 
+Rijpma / drs . F.P . 
+Kortlang Contactpersoon Past2Present-ArcheoLogic : Drs . F. E. Rijpma 06-18648866 Periode Laat Paleolithicum – Nieuwe tijd Geomorfologie Met dekzand opgevulde dalvormige laagte ; Dekzandrug 3K14 en 3L5 , dekzandvlakte , Geologie Twente formatie Lithologie oud dekzand II en jong dekzand Maaiveld hoogte 22.50-25.50+ m NAP Bodem/grondwatertrap Hoge podzol- en vlakvaaggronden / lage , natte podzolgronden , gt V-VI , Oppervlak plangebied Deelgebied 7 : 1.119.806 m2 ( ca . 
+112 ha ) Lengte diepriool : 1.820 m Goedkeuring Bevoegde Overheid Datum : 30-05-2007 Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 4 1.2 BESCHRIJVING PLANGEBIED De gemeente Venlo bereidt momenteel plannen voor ten behoeve van de inrichting van het gebied dat bekend staat als Trade Port Noord . 
+Het plangebied met een totale omvang van ruim 700 hectare krijgt diverse functies , waaronder een bedrijventerrein , een bedrijvenpark , een natuurpark , een golfbaan en een agrarische zone . 
+In de oosthoek van het plangebied wordt de tijdelijke tuinbouwexpositie Floriade van 2012 aangelegd . 
+De gemeente Venlo heeft de archeologie als omgevingsfactor in kaart laten brengen en laat het meewegen in de plan ontwikkeling . 
+De gemeente Venlo heeft een afweging gemaakt met betrekking tot behoudenswaardigheid van archeologie en cultuurhistorie . 
+Op basis hiervan worden waar noodzakelijk maatregelen getroffen . 
+Op het Floriadeterrein zal een transportriool worden aangelegd . 
+Met betrekking tot de aanleg dienen in verschillende tracédelen enkele maatregelen genomen te worden , te weten archeologisch toezicht , bouwbegeleiding en opgraving . 
+De tracédelen zijn genummerd van 1 t/m 11 , beginnend bij 1 in het oosten ( zie afbeelding 1 ) . 
+Voor de tracédelen 1 t/m 3 en 11 zijn geen maatregelen van toepassing . 
+Dit bestek heeft vandaar alleen betrekking op de tracédelen 4 t/m 10 ( zie bijlage 1 ) . 
+Geomorfologisch wordt het gebied vooral gekenmerkt door de met dekzand opgevulde Pleistocene depressie , waarschijnlijk een laat Pleistoceen beekdal . 
+De zuidwestelijke helft van deelgebied 7 bevindt zich in en op de flanken van deze depressie . 
+De Mierbeek geeft vanaf het zuiden de richting aan die de depressie in westelijke richting volgt . 
+De laagste delen van het gebied bevinden zich zuidelijk bij de Zaarderkampen . 
+De hoogte bedraagt hier ongeveer 22.50 m + NAP . 
+Bodemkundig bestaat het terrein uit lager gelegen natte podzolgronden . 
+Het perceel maakt deel uit van een gebied dat in de loop van de Middeleeuwen en de Nieuwe tijd is ontgonnen . 
+Op de bodem heeft zich een akkerdek ( eerdgrond ) gevormd . 
+1.3 LEESWIJZER Dit document omvat het ontwerp en de geprojecteerde werkomschrijving . 
+De tekst van hoofdstuk 1 t/m 4 is die van het goedgekeurde PvE ( m.u.v . 
+deze paragraaf ) . 
+Het dient dan ook door de uitvoerder verstaan te worden als PvE in de zin van de Kwaliteitsnorm Nederlandse Archeologie ( KNA ) . 
+Hoofdstuk 8 is de geprojecteerde werkomschrijving . 
+Hierin wordt uiteengezet uit welke werkzaamheden de maatregelen ten aanzien van het diepriool in Floriade bestaan . 
+Bijlage : Kaart tracédelen archeologisch onderzoek Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 5 2 2.1 Onderzoeksgegevens BRONMATERIAAL Voor dit bestek & ontwerp waren de volgende rapporten over het plangebied beschikbaar ( zie literatuur ) : • RAAP 897 ( Van Dijk , 2003 ) ; • RAAP 1050 ( Van Dijk & J.A.M . 
+Roymans 2004 ) ; • RAAP 1177 ( Van Dijk , 2005 ) . 
+• Bestek en ontwerp TPN Proefsleuven , deelgebied 7 , Terrein B t/m I , Gemeente Venlo ( Kortlang & Rijpma , 2006 ) • ADC Rapport 851 , proefsleuvenonderzoek Deelgebied 7 terrein B t/m I 2.2 BEKNOPT OVERZICHT ONDERZOEKSRESULTATEN Deelgebied 7 . 
+Archeologie en cultuurhistorie In het huidige cultuurlandschap , dat zijn basis heeft in de ( Late ) Middeleeuwen , zijn nog allerlei cultuurhistorische elementen terug te vinden met een grote tijdsdiepte . 
+Zichtbare elementen zijn in grote lijnen de akkercomplexen die ontstaan zijn uit de ontginningen van St. Jan op Santfort en Zaarderkampen , de plaats waar vroeger de St. Janskapel en de St. Janshoeve stonden , de fraaie middeleeuwse houtwal die de akkers van St. Jan op Santfort scheidde van woeste gronden , een opmerkelijk goed geconserveerde veedrift en veekraal en in de bossen gelegen , enkele tientallen grafheuvels uit de Late Bronstijd en de IJzertijd . 
+Onzichtbare elementen betreffen de door ADC ArcheoProjecten tijdens het proefsleuvenonderzoek aangetroffen vindplaatsen . 
+Twee vindplaatsen dateren uit de Late Bronstijd tot ( Vroege ) IJzertijd en hangen waarschijnlijk met elkaar samen . 
+Op terrein F en in het naastgelegen bos ligt een urnenveld , dat deels is opgegraven in 1940 . 
+Het proefsleuvenonderzoek heeft echter aangetoond , dat ook in het opgegraven deel nog steeds graven en grafstructuren te vinden zijn . 
+Zo ’ n 250 m verder naar het zuidoosten ( terrein D ) ligt een nederzettingslocatie uit dezelfde periode . 
+De twee andere vindplaatsen betreffen een nederzettingslocatie of huisplaats uit de Volle Middeleeuwen op terrein D en een gebied met sporen van landgebruik in de vorm van greppels en een omheining rondom het bosje van de St. Janskapel ( terrein B en C ) . 
+De huisplaats betreft mogelijk een van de vroegste fasen van de ontginningsboerderij op Sint Jan . 
+De greppels Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 6 en omheining behoren waarschijnlijk bij de akkers die vanuit de ontginningsboerderij zijn ontgonnen . 
+2.3 ONDERZOEKSRICHTINGEN Late Bronstijd en IJzertijd Nederzettingssporen Op terrein D ( II ) kunnen sporen en vondsten verwacht worden van over het landschap verspreide boerderij-erven in de vorm van gebouwplattegronden van huizen en bijgebouwen ( o.a . spiekers ) , palenrijen , kelderkuilen , silo ’ s , greppelsystemen en ( met name in de aanwezige depressies ) waterputten of waterkuilen . 
+De te verwachten vondstcategorieën bestaan uit : aardewerk , verbrande leem , natuur- en vuursteen , ( ijzer ) slakken , gecalcineerd bot , houtskool en verkoolde zaden en vruchten en in waterkuilen en waterputten mogelijk zelfs onverkoolde ecologische resten en ( constructie ) hout . 
+Urnenveld ( terrein F ( I ) ) en aangrenzend bosperceel Verwacht kunnen worden : sporen van graven en grafmonumenten uit de Late Bronstijd en/of IJzertijd . 
+Resten van grafmonumenten en ( inhumatie ) graven uit het Laat-Neolithicum tot en met de Midden-Bronstijd kunnen niet uitgesloten worden . 
+Volle- en Late Middeleeuwen ( ca 1000 – 1500 ) ( de omgeving van de St. Janskapel en terrein D ( II ) ) In de omgeving van de latere steenbouw-versie van de ontginningshoeve St-Jan en de St. Janskapel , kunnen ( paal ) sporen en funderingsresten van houten boerderijen en bijgebouwen , waterputten , sloten , erfgrenzen en oude wegen worden verwacht . 
+Mogelijk hebben in het gebied zelfs meerdere boerderijen gelijktijdig bestaan . 
+Op terrein D ( II ) zijn met name sporen van boerderij-erven te verwachten uit de Volle Middeleeuwen . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 7 3 3.1 Onderzoeksvragen ONDERZOEKSVRAGEN Het onderzoek in het tracé van het diepriool loopt vooruit op definitieve opgravingen van met name de terreinen D ( II ) en F ( I ) . 
+De bedoeling is dat de resultaten van het onderhavige onderzoek op zinvolle wijze geïntegreerd kunnen worden in de definitieve opgravingen . 
+Het onderzoek dient derhalve vooral gericht te zijn op het zorgvuldig onderzoeken , documenteren en beschrijven van de aan te treffen archeologische resten . 
+Daarnaast kan het onderzoek in het kader van de aanleg van het diepriool onderzoeksvragen oproepen die meegenomen kunnen worden bij deze opgravingen . 
+3.1.1 ALGEMENE ONDERZOEKSVRAGEN 1 . 
+Wat is de aard , omvang en verspreiding van deze archeologische sporen en/of sporenclusters ? 
+2 . 
+Wat is de datering van de archeologische vondsten en tot welke vondsttypen of vondstcategorieën behoren zij ? 
+3. wat is de ruimtelijke spreiding van de archeologische resten zowel horizontaal als verticaal/stratigrafisch ? 
+4 . 
+Wat voor een type sites en off site patronen kunnen worden onderscheiden en hoe laten deze zich ruimtelijk begrenzen ? 
+5 . 
+Wat is de geologische/bodemkundige opbouw van het onderzoeksgebied ? 
+6 . 
+In welke mate hebben het oudtijdse en recente ( agrarische ) gebruik van het gebied invloed gehad op de conserveringstoestand van de verschillende sites ? 
+7 . 
+Welke materiaalcategorieën zijn aanwezig , wat is de vondstdichtheid per site en hoe is de conserveringstoestand van de diverse vondstcategorieën ? 
+8. welke structuren zijn op de vindplaats aanwezig ( graven en grafmonumenten , huizen , bijgebouwen , greppels , waterputten , wegen ) ? 
+3.1.2 LATE BRONSTIJD TOT ( VROEGE ) IJZERTIJD : GRAVEN , GRAFMONUMENTEN EN GRAFHEUVELS 1 . 
+Welke perioden zijn vertegenwoordigd ? 
+2 . 
+Welke typen grafmonumenten en grafstructuren zijn aangetroffen ? 
+3 . 
+Wat is de aard en het type van de begraving ( inhumatie , crematie in urn , crematiebol , verspreide resten in kuil etc . ) ? 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 8 4 . 
+5 . 
+6 . 
+7 . 
+8 . 
+9 . 
+10 . 
+3.1.3 Wat is de landschappelijke context van graven en grafmonumenten ? 
+Welke personen ( geslacht en leeftijd ) zijn daar begraven ? 
+Wat voor grafgiften hebben de overledenen meegekregen ? 
+Welke personen hebben groenkleuringen op de verbrande resten ? 
+bevatten de crematieresten dierlijk botmateriaal , zo ja welke soorten en welke onderdelen ? 
+Wat zijn de verschillende vormen van lijkbehandeling ? 
+Zijn er aanwijzingen voor een meer monumentale bovengrondse structuren of zijn er aanwijzingen dat deze zijn verdwenen ? 
+LATE BRONSTIJD , IJZERTIJD EN VOLLE MIDDELEEUWEN : NEDERZETTINGSLOCATIES EN SPOREN VAN LANDGEBRUIK 1. welke aanwijzingen zijn er voor verbouwingen van eventuele gebouwen ? 
+2 . 
+Welke delen binnen de plattegrond zijn aan te wijzen die voor specifieke activiteiten in gebruik zijn geweest , zoals aanwijsbare woon- en staldelen ? 
+3. maken gebouwen deel uit van een grotere nederzetting of een erf ? 
+4. wat is de datering van de structuren op basis van vondsten , de typologie van de structuren en/of dendrochronologische data van hout uit waterputten ? 
+5 . 
+Welke aanwijzingen zijn er voor wegen ( karrensporen , parallelle greppels , lege zones ) ? 
+6 . 
+Welke activiteitenzones zijn verder te onderscheiden ? 
+7 . 
+Welke cultuurgewassen en wilde planten zijn aangetroffen in de geanalyseerde zadenmonsters . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 9 4 4.1 Operationalisering STRATEGIE Tabel 1 : Strategie per tracé . 
+Tracédeel 1 , 5 en 10 Te verwachten resten geen Eisen Archeologie geen Eisen verwerkt in Civiel bestek • geen 2 , 3 en 4 Sporen van landschapsgebruik en bewoning uit de Volle en Late Middeleeuwen Extensief opgraven • 6 Nederzettingssporen uit de IJzertijd en Volle Middeleeuwen Opgraving van tracé en werkstrook • 7 Graven en grafmonumenten uit de Opgraving van tracé en werkstrook Late Bronstijd en/of IJzertijd ; wallen uit de Volle of Late Middeleeuwen en ( minder waarschijnlijk ) nederzettingssporen IJzertijd of Middeleeuwen • • 8 Graven en grafmonumenten uit de Opgraving van tracé Late Bronstijd en/of IJzertijd ; wallen uit de Volle of Late Middeleeuwen en ( minder waarschijnlijk ) nederzettingssporen IJzertijd of Middeleeuwen • • 9 Graven en grafmonumenten uit de Opgraving van tracé en Late Bronstijd en/of IJzertijd ; werkstrook • Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO Fasering ontgraving : eerst bouwvoor/wegcunet weggraven tot ongeroerde grond , dan met gladde bak leesbaar vlak aanleggen op bovenkant ongeroerde grond . 
+Na controle en documentatie door archeoloog kan verder gegraven worden . 
+Uitvoering pas na opgraving . 
+Volledige werkstrook dient te worden opgegraven . 
+Machines blijven binnen werkstrook . 
+Uitvoering pas na opgraving Werkterrein inkaderen zodat veekraal en grafheuvelrestant niet beschadigd raken . 
+Eventueel breedte op te graven strook tracé aanpassen aan breedte werkstrook . 
+Uitvoering pas na opgraving Werkterrein inkaderen zodat veekraal en grafheuvelrestant niet beschadigd raken . 
+Eventueel breedte op te graven strook tracé aanpassen aan breedte werkstrook . 
+Uitvoering pas na opgraving . 
+Volledige werkstrook dient te worden opgegraven . 
+Machines blijven binnen werkstrook . 
+10 4.2 EXTENSIEF OPGRAVEN In tracé 2 , 3 en 4 zal een extensieve opgraving plaatsvinden om de archeologische resten te documenteren en veilig te stellen . 
+De werkzaamheden staan hierbij onder archeologische regie , maar kunnen wel doorgang vinden . 
+Tijdens de aanleg van de bouwputten door de civiele aannemer ten behoeve van de aanleg van het diepriool dient onder archeologische begeleiding een archeologisch “ leesbaar ” vlak te worden aangelegd . 
+Aanwezige resten worden gedocumenteerd , gefotografeerd , ingemeten , ingetekend en bemonsterd . 
+De lengte van de extensieve opgraving is de lengte van de tracés 2,3 en 4 . 
+De breedte hangt af van de hoeveelheid te verstoren bodem ter plaatse . 
+De exacte lengtes van de putten zijn weergegeven in tabel 2 . 
+4.3 OPGRAVING VAN TRACÉ EN WERKSTROOK In tracé 6 , 7 , 8 en 9 is de bouw volgend aan de archeologie . 
+Dit betekent dat conform de onderstaande onderzoeksstrategie , er eerst door de archeoloog een vlak aangelegd moet worden en de opgraving moet plaatsvinden voordat er überhaupt met de bouw begonnen kan worden . 
+Na de aanleg van het vlak ter hoogte van het begin van de ongeroerde grond worden de aanwezige sporen gedocumenteerd , gefotografeerd , ingemeten , ingetekend , bemonsterd en opgegraven ( zie onder ) . 
+Na de opgravingen dienen de putten weer opgevuld te worden . 
+In de verschillende tracés moeten verschillende strategieën gevolgd worden : In tracé 6,7 en 9 zal het riooltracé en werkstrook worden opgegraven . 
+De opgravingsputten hebben een breedte bestaande uit de breedte van het riooltracé plus de werkstrook . 
+In tracés 6 en 9 is dit in totaal 15m , namelijk 5m ten zuiden van de werkas en 10m ten noorden van de werkas . 
+De werkas is de middenlijn van het riooltracé . 
+In tracé 7 heeft de opgravingsput een breedte van 10m , namelijk 1,5m ten zuiden van de werkas en 8,5m ten noorden van de werkas . 
+Dit is de breedte van het tracé inclusief de werkstrook . 
+De put wordt zodanig aangelegd door de archeologische aannemer dat de archeologisch visuele zaken ( de grafheuvels en de wallen ) niet beschadigd raken . 
+Indien er zich toch resten van grafheuvels of wallen bevinden binnen het tracé , dan dienen deze te worden opgegraven zoals boven is beschreven . 
+In tracé 8 zal alleen het riooltracé worden opgegraven . 
+De opgravingsput heeft een breedte van 3m , namelijk de breedte van het diepriooltracé en een zo minimaal mogelijke werkstrook . 
+De put wordt zodanig aangelegd door de archeologische aannemer dat de archeologisch visuele zaken ( de grafheuvels en de wallen ) niet beschadigd raken . 
+Indien er zich toch resten van grafheuvels of wallen bevinden binnen het 3 m brede tracé , dan dienen deze te worden opgegraven . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 11 Tabel 2 : afmetingen van de opgravingsputten binnen de verschillenden tracés . 
+tracé nr 2 3 4 6 7 8 9 4.4 breedte zuid van werkas n.v.t . 
+n.v.t . 
+n.v.t . 
+5m 1,5 m 1,5 m 5m breedte noord van werkas n.v.t . 
+n.v.t . 
+n.v.t . 
+10 m 8,5 m 1,5 m 10 m totaal breedte opgravingsput n.v.t . 
+n.v.t . 
+n.v.t . 
+15 m 10 m 3m 15 m lengte opgravingsput 50 m 50 m 40m 130 m 60 m 70 m 260 m ALGEMENE ONDERZOEKSSTRATEGIE 1 . 
+Gebouwstructuren dienen zoveel als mogelijk vrij in een werkput/sleuf te liggen , alvorens deze nader worden onderzocht ; 2 . 
+Op plaatsen waar gebouwen of andere structuren slechts ten dele binnen het riooltracé vallen , dient de werkput uitgebreid te worden totdat de structuur volledig is vrijgelegd ; 3 . 
+De akkerlaag wordt verwijderd tot ca 10-20 cm boven het beoogde opgravingsvlak . 
+De bouwvoor wordt gescheiden gehouden van de overige grond en als laatste teruggestort ; 4 . 
+Het ‘ tussenvlak ’ wordt belopen met een metaaldetector en afgezocht op aanlegvondsten . 
+Hierbij dient tevens aandacht te worden geschonken aan vuursteenartefacten van soms klein formaat ; 5 . 
+Na inspectie van het tussenvlak en het verzamelen van vondsten wordt laagsgewijs verder verdiept tot op het niveau waarop sporen duidelijk leesbaar zijn . 
+Tijdens het verdiepen staat een ervaren veldmedewerker/veldtechnicus bij de kraan om het afschaven van de vlakken te controleren en vondsten te verzamelen ; 6 . 
+In het bosperceel dient speciale aandacht te worden geschonken aan ondiepe sporen van graven , grafmonumenten , greppels en wallen en zelfs ( lage ) heuvellichamen van grafheuvels . 
+Sporen kunnen zich direct onder de a-horizont bevinden . 
+7 . 
+In principe wordt één vlak op spoorniveau getekend en beschreven . 
+Het archeologisch leesbare vlak wordt waar nodig geschaafd , gefotografeerd , ingekrast , beschreven en getekend op schaal 1:50 . 
+NAP-waarden worden gemeten in raaien van 3 meter met intervallen van 5 meter ; 8 . 
+Van alle sporen worden afzonderlijke NAP-waarden gemeten ; 9 . 
+Tijdens het veldwerk worden detailfoto ’ s en overzichtsfoto ’ s genomen van de werkzaamheden ter documentatie en voor publicatiedoeleinden . 
+Bovendien dient van iedere werkput een aantal representatieve overzichtsfoto ’ s te worden gemaakt van het opgravingsvlak ; 10 . 
+Alle antropogene sporen , voor zover niet recent , worden gecoupeerd , eventueel gefotografeerd , getekend , beschreven en afgewerkt ; 11 . 
+Vlak , tussenvlak én stort worden consequent afgezocht met een metaaldetector ; 12 . 
+Stortvondsten worden per werkput verzameld en geregistreerd ; 13 . 
+Spoorvondsten worden per spoor per laag verzameld ; 14 . 
+Aanleg- en vlakvondsten ( geen metaal of vuursteen ) worden bij geringe hoeveelheden verzameld per werkput . 
+Indien duidelijke concentraties vondsten worden aangetroffen , dan per concentratie of in vakken van 5 bij 5 meter ; Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 12 15 . 
+Metaalvondsten en vuursteenvondsten worden vanaf het tussenvlak ( laatste 20 à 30 cm boven het spoorniveau ) tijdens het laagsgewijs verdiepen individueel ingemeten ( X , Y , Zwaarden ) en verzameld . 
+Vanaf het maaiveld tot aan het tussenvlak kunnen deze vondstcategorieën per werkput worden verzameld ; 16 . 
+Waar mogelijk en relevant voor de onderzoeksvragen , worden monsters genomen voor 14C of dendrochronologische dateringen . 
+Monsters worden verpakt en geadministreerd ( KNA OS11 ) , maar pas na evaluatie en selectie ingestuurd ter verdere verwerking ; 17 . 
+Monsters gaan vergezeld van een beoordeling conform de minimumeisen van KNA OS12 ; 18 . 
+Ecologische monsters worden genomen uit dateerbare , ecologisch veelbelovende sporen ( veel houtskool , goede conservering in natte omstandigheden ) . 
+19 . 
+Bij het aantreffen van archeologische resten die , gezien de initiële verwachting , niet verwacht werden , wordt de opdrachtgever zo spoedig mogelijk op de hoogte gesteld ; 20 . 
+Metaalvondsten en vondsten van organisch materiaal dienen , voorzover behoudenswaardig , geconserveerd te worden . 
+De behoudenswaardigheid wordt in het evaluatieverslag gemotiveerd en in overleg met de directievoerder en toezichthouder vastgesteld . 
+Bijzondere metalen voorwerpen worden zonodig ( in overleg met de directievoerder en na goedkeuring van de opdrachtgever ) gerestaureerd . 
+Van onherkenbare voorwerpen ( roestklompen ) worden ter vaststelling van de behoudenswaardigheid röntgenopnamen gemaakt ; 21 . 
+Na afloop van het veldwerk vindt overleg met de directie over het gewenste detailniveau van de uitwerking en rapportage ; 22 . 
+In alle gevallen waarin dit programma van eisen niet voorziet vindt overleg plaats met de directievoerder en de toezichthouder . 
+4.5 AFSLUITING VAN HET VELDWERK De conceptrapportage wordt 30 werkdagen na dit directievoerend overleg geleverd . 
+Het concept wordt ( in één versie ) binnen 10 werkdagen van commentaar voorzien door ( of namens ) de opdrachtgever , de directie en de bevoegde overheid . 
+Het tweede concept dient 10 werkdagen na het ontvangen van commentaar te worden geleverd . 
+De doorlooptijd van het veldwerk bedraagt , na gunning , naar schatting circa 30 werkdagen , dit is uitgezonderd uitwerking . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 13 5 Condities 1 . 
+Voor het beschreven werk zijn naar beste weten van de opdrachtgever geen vergunningen verplicht , behalve het werken onder een opgravingvergunning ; 2 . 
+Binnen twee weken na de opdrachtverlening stelt de opdrachtnemer een draaiboek ( specificatie KNA-VS01 ) op dat ter goedkeuring aan de directie wordt geleverd . 
+In afwijking op VS01 geldt dat het draaiboek geen onderdelen bevat die in dit PvE voldoende besproken zijn : PvE en draaiboek vullen elkaar aan ; 3 . 
+De opdrachtgever maakt afspraken met de eigenaren en gebruikers van de gronden over het betreden , het overpad , de werkzaamheden en de eventuele vergoedingen ; 4 . 
+Opdrachtgever levert een digitale kaart van het plangebied in RD coördinaten ; 5 . 
+De gangbare veiligheidseisen bij een project van deze aard worden in acht genomen . 
+De medewerkers in de buurt van werkende machines dragen ten minste een helm en veiligheidsvest en alle medewerkers dragen veiligheidsschoenen ; 6 . 
+De opdrachtnemer zorgt ervoor dat de volgende documenten tijdens het veldwerk op de werklocatie aanwezig zijn : ( 1 ) het draaiboek ; ( 2 ) dit Programma van Eisen ; ( 3 ) de KLIC gegevens ; en ( 4 ) het formulier ex art . 
+41 . 
+Op verzoek worden de documenten getoond aan de Rijksinspectie voor de Archeologie of een andere bevoegde instantie ; 7 . 
+De archeologische aannemer is gecertificeerd door het College voor de Archeologische Kwaliteit ( CvAK ) of is een bedrijf dat tot de bedoelde werkzaamheden onder de vigerende wet- en regelgeving is toegelaten . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 14 6 6.1 Rapportage ALGEMEEN 1 . 
+Het in dit PvE beschreven onderzoek wordt in één rapport beschreven ; 2 . 
+In het colofon worden vermeld : de opdrachtgever , de bevoegde overheid en de directie ; 3 . 
+De rapportage is conform de kwaliteitseisen van de KNA ( versie 3.1 ) . 
+Rapportage van eventuele graven geschiedt volgens ROB-specificatie 4.4.10.3 ‘ Menselijke resten ’ . 
+6.2 De • • • • • • INHOUD rapportage bevat minimaal de volgende paragrafen : Paragraaf met de vraagstelling en de doelstelling van het archeologisch onderzoek ; Paragraaf met de gebruikte methoden en technieken ; Paragraaf met bespreking van de aangetroffen sporen en structuren en hun datering ; Paragraaf met bespreking van de aangetroffen vondsten ; Paragraaf met bespreking van de landschappelijke ontwikkeling ( lithogenese , lithologie , bodemkunde ) ; Paragraaf met antwoorden en conclusies ten aanzien van de vraagstelling , en een terugkoppeling met eerder uitgevoerd onderzoek , waaronder in ieder geval het gehele plangebied ; De rapportage bevat minimaal de volgende figuren : • Overzichtskaart ( met landelijke coördinaten ) waarop de locaties van de tracédelen zijn aangegeven ; • Alle sporenkaart waarop de sporen en de geïnterpreteerde structuren staan aangegeven ; • Een selectie van vlaktekeningen voor zover nodig om de tekst te verduidelijken ; • Een selectie van de vervaardigde profieltekeningen voor zover nodig om de tekst te verduidelijken ; • Legenda ’ s bij alle kaarten en tekeningen waarin de gebruikte symbolen ( punt , lijn , vlak en tekst ) zijn verklaard . 
+6.3 • GOEDKEURING EN TIJDSPAD Van het rapport verschijnen twee conceptversies en vervolgens een definitieve versie ( beide analoog en in Word format ) . 
+De conceptrapportage wordt zes weken na directievoerend overleg geleverd . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 15 • • • • De conceptversies zijn volledig ( dus tekst en figuren ) en worden digitaal ( bewerkbaar format ) en in drievoud geleverd aan de directie ; De concepten worden binnen 10 werkdagen van commentaar voorzien door ( of namens ) de opdrachtgever , de directie en de bevoegde overheid ; Het tweede concept dient ter controle of de commentaren juist zijn verwerkt en tot een coherent product hebben geleid . 
+Het tweede concept dient 10 werkdagen na het ontvangen van commentaar te worden geleverd . 
+De opdrachtgever stuurt exemplaren door naar de bevoegde overheid . 
+Hierna zorgt de opdrachtnemer , na toestemming van de opdrachtgever , zelf voor de exemplaren die bestemd zijn voor eigen gebruik en voor de verplichte deponering bij de RACM en het provinciaal depot . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 16 7 Referenties • Dijk , X.C.C . 
+van , 2003 . 
+Plangebied Venlo Trade port Noord ; archeologische verwachtingskaart t.b.v . 
+planvorming en planuitvoering . 
+RAAP-rapport 897 , RAAP Archeologische Adviesbureau , Amsterdam • Dijk , X.C.C . 
+van & J.A.M . 
+Roymans 2004 . 
+Plangebied Venlo Trade port Noord ; fase I. RAAP-rapport 1050 , RAAP Archeologische Adviesbureau , Amsterdam • Dijk , X.C.C . 
+van , 2006 . 
+Plangebied Trade port Noord ; fase II , een inventariserend archeologisch onderzoek . 
+RAAP-rapport 1177 , RAAP Archeologische Adviesbureau , Amsterdam • Kortlang , F.P. , 2006 . 
+Venlo Trade Port Noord . 
+Beschrijving en waardering van archeologische en cultuurhistorische waarden in het plangebied ( interne notitie ) . 
+• Kortlang & Rijpma , 2006 : Bestek en ontwerp TPN Proefsleuven , deelgebied 7 , Terrein B t/m I , Gemeente Venlo • Prangsma , N.M . 
+& M.M . 
+Bruineberg , 2007 : Venlo Trade Port Noord , deelgebied 7 terrein B t/m I . 
+Een inventariserend Veldonderzoek in de vorm van proefsleuven , Amersfoort , ( ADC Rapport 851 ) Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 17 8 Taakomschrijving De nummers in de linkerkolom corresponderen met de nummers zoals genoemd in de inschrijfstaat ( deel 3 ) ; De aangegeven bestekspostnummers zijn inclusief de nummers van lagere niveaus ( 1010 behelst dus ook 101010 , 101020 en 101030 ) . 
+De specificatie ‘ Venlo ’ is een verbeterde versie van de AHR specificaties en digitaal opvraagbaar bij Past2Present-ArcheoLogic in Woerden . 
+Waar naar de KNA wordt verwezen , betreft het de vigerende versie 3.1 . 
+1 Veldwerk 10 Voorbereiden veldwerk 1010 Voorbereiding archeologisch veldwerk : algemeen Omschrijving De werkzaamheden ter voorbereiding van het archeologisch grondwerk en het onderzoek alsmede het gereedmaken en inrichten van het onderzoeksterrein en de toegangsroute , zodanig dat het onderzoek zonder problemen kan worden uitgevoerd , alsmede de aanvoer van benodigd materiaal en materieel . 
+Tevens is in deze post de demobilisatie van het terrein inbegrepen . 
+Specificatie Als uitgangspunt gelden de Administratieve Bepalingen en Algemene Voorwaarden behorende bij dit bestek , de ROB-specificatie 4.2 “ Veldwerk ” en KNA specificatie VS01 . 
+In aanvulling daarop of in afwijking daarvan geldt : De opdrachtnemer maakt een draaiboek voor alle fasen van het onderzoek . 
+Het draaiboek bestaat uit een lijst met functionarissen met hun taken en verantwoordelijkheden en de besteksposten waarop zij uren schrijven , een planning van de werkzaamheden ( met zowel de vroegste starts als de laatste starts ) , een veiligheidsplan ( elementen : route dichtstbijzijnde hulpdienst , EHBOdiploma , in het veld ten minste twee personen ) , een Artikel 41-melding , KLIC gegevens en verplichte verzekeringen . 
+Het putten- en profielenplan wordt in dit geval in overleg met opdrachtgever en toezichthouder opgesteld . 
+Strategie/beslissingen Voor aanvang van het veldwerk is er een start up overleg met de directievoerder . 
+De opdrachtnemer levert een concept draaiboek voor aanvang van de veldwerkzaamheden . 
+Producten overleg met de opdrachtgever ( project start up ) ; een concept draaiboek bij aanvang van de werkzaamheden ; Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 18 een goedgekeurd draaiboek één week na start van het veldwerk ; KLIC melding ; Artikel-41 formulier ingevuld . 
+1020 Voorbereiding : landmeting Omschrijving De opdrachtnemer zorgt ervoor dat voorafgaand aan het veldwerk de punten van het hoofdmeetsysteem worden uitgezet . 
+De coördinaten van de hoofdmeetpunten worden ingemeten in het RD-stelsel en de hoogte wordt bepaald ten opzichte van NAP . 
+De metingen zijn op de centimeter nauwkeurig . 
+De opdrachtnemer zorgt voor de fysieke bescherming van de hoofdmeetpunten gedurende het veldwerk . 
+Specificatie Als uitgangspunt geldt de ROB-specificatie 4.2.1.1.1 “ Hoofdmeetsysteem en afgeleid meetsysteem ” en de KNA-specificatie OS01 . 
+In aanvulling daarop of in afwijking daarvan geldt : De hoofdmeetpunten worden aangegeven door ijzeren meetbuizen ( of meetspijkers bij verhard oppervlak ) die tot maaiveldhoogte in de bodem zijn geslagen . 
+De positie van de meetbuizen wordt verklikt door middel van genummerde paaltjes . 
+Als verklikken niet kan ( bijvoorbeeld door hoog gewas of openbaar terrein ) , dan wordt een aanmeetschets vervaardigd . 
+De opdrachtnemer levert aan de opdrachtgever de coördinaten van de vaste punten . 
+Strategie/beslissingen Het hoofdmeetsysteem wordt pas uitgezet , nadat de voorbereidende werkzaamheden op het onderzoeksterrein zijn afgerond en voordat het terrein wordt ingericht ten behoeve van het onderzoek ( plaatsen van keten , containers , installaties ) . 
+Voorafgaand aan de opgraving controleert de opdrachtnemer het hoofdmeetsysteem . 
+Om te voorkomen dat meetpunten in het ongerede raken , worden de hoofdmeetpunten door de opdrachtnemer fysiek beschermd , ook tegen vee , en opzichtig gemarkeerd . 
+De opdrachtnemer is ook verantwoordelijk voor het in goede stand houden van de bescherming ervan . 
+Producten hoofdmeetsysteem in het veld volgens ontwerp aanmeetschets van de uitgezette punten ( indien nodig ) . 
+digitaal bestand van de uitgezette x , y en z coördinaten , en een hard copy . 
+digitaal bestand van de hoogtemetingen in x , y en z coördinaten 1030 Mobilisatie en demobilisatie : inrichten , instandhouden en ontruimen en opleveren werkterrein Omschrijving Het inrichten van een operationeel onderzoeksterrein , het tijdens het onderzoek instandhouden daarvan en het na afloop terugbrengen van het terrein in de oorspronkelijke staat ( indien van toepassing ) en het afvoeren van alle voorzieningen die ten behoeve van het archeologische werk nodig waren . 
+Specificatie Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 19 De inrichting van het terrein voldoet aan de veiligheidseisen . 
+De opdrachtnemer zorgt voor het terugbrengen van het terrein in de oorspronkelijke staat . 
+Alle door de opdrachtnemer aangebrachte voorzieningen worden opgeruimd en afgevoerd , en eventueel opgeslagen afval wordt verwijderd . 
+Strategie/beslissingen Het terrein dient direct na de ontruiming van het werkterrein te worden opgeleverd na een inspectie en goedkeuring door de directie , opdrachtnemer en eigenaar/gebruiker . 
+Producten aan- en afvoer van de benodigde materialen voor sanitair , behuizing en opslag van graaf- en vondstverwerkingsmateriaal ; een ingericht onderzoeksterrein voorzien van het benodigde materiaal en materieel ; ontruimd en schoon opgeleverd onderzoeksterrein . 
+11 Uitvoeren Veldwerk 1100 Grondwerk en documentatie : grondwerk en documentatie 110010 Grondwerk en documentatie : vlakken , velddocumentatie en primaire vondstverwerking Omschrijving Alle handelingen die nodig zijn om leesbare vlakken , profielen en dwarsdoorsneden van grondsporen te maken , om lagen en grondsporen uit te graven en te bemonsteren , om vondsten en monsters binnen hun context te verzamelen , om grond af te voeren naar de zeefinstallatie . 
+Het machinaal aanleggen van sporenvlakken , het tijdelijk opslaan van de afgegraven grond en het dichtstorten van de afgewerkte onderzoeksputten . 
+Specificatie Als uitgangspunt gelden de ROB-specificaties 4.2 “ Veldwerk ” . 
+Specifiek voor de monstername gelden de ROB-specificaties 4.2.1.3.2 “ Vondsten en monsters ” , 4.4.9 “ Archeobotanie ” en 4.4.10 “ Archeozoölogie ” , de KNA-specificatie OS03 . 
+In aanvulling daarop of in afwijking daarvan geldt : De bouwvoor wordt gescheiden opgeslagen en bij het dichtstorten als afdekkende laag aangebracht . 
+De locaties van de monsters worden aangegeven op de vlak- en coupe-/profieltekeningen . 
+De geselecteerde monsters die gezeefd moeten worden mogen niet langer dan een nacht “ in de week ” gezet worden . 
+Er mag niet met water onder hoge druk gezeefd worden . 
+Bij de uitvoering van kansrijke objecten worden monsters genomen t.b.v . 
+14C of dendrochronologische dateringen . 
+Vlak én stort worden afgezocht met een metaaldetector . 
+Strategie/beslissingen Het veldwerk is opgedeeld in fasen , zoals besproken in § 4.1 t/m 4.3 . 
+Gerekend wordt met één vlak op sporenniveau . 
+Na afloop wordt een revisiekaart geleverd . 
+Hierop staan de locaties aangegeven waar dieper dan 1 meter onder vlak verdiept is , en waar deze verdieping een gebied groter dan 2 x 2 meter beslaat . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 20 Vondsten worden verzameld zoals beschreven in 4.4 , punt 1 t/m 15 . 
+Per sleuf worden sporen gecoupeerd , in profiel getekend , beschreven en zonodig gefotografeerd en afgewerkt . 
+Greppels worden minstens één maal gecoupeerd , getekend en beschreven . 
+Vondsten die tijdens het schavenderwijs machinaal aanleggen van het leesbare vlak worden gedaan , dienen in vakken van 5 x 5 meter in de onderzoeksput te worden verzameld . 
+Bijzondere vondstconcentraties en metaalvondsten worden altijd apart ingemeten . 
+Producten aangelegde en geregistreerde opgravingsputten ; dichtgestorte opgravingsputten , waarbij de stort op de juiste volgorde is teruggestort ; revisiekaart . 
+110010 Grondwerk en documentatie : vlakken , velddocumentatie en primaire vondstverwerking Omschrijving De algemene velddocumentatie bestaat uit de registratie en documentatie van de waarnemingen in het veld . 
+Specificatie Als uitgangspunt gelden de ROB-specificatie 4.2 “ Veldwerk ” en de KNA-specificaties . 
+In afwijking daarvan of in aanvulling daarop geldt : De dagrapporten geven inzicht in de dagelijkse werkzaamheden van het onderzoek . 
+De weekrapporten geven een samenvatting van de wekelijkse werkzaamheden van het onderzoek . 
+Veldtekeningen behoeven niet volledig gekleurd te worden , dat dient echter wel te geschieden als een kleurcode alleen niet voldoet . 
+De tekst op de veldtekeningen wordt omgezet in inkt . 
+Vlaktekeningen dienen geïnkt te worden . 
+Indien daardoor informatie niet meer zichtbaar is dient dat apart gedocumenteerd te worden . 
+Coupetekeningen worden gescand en dienen daarom overzichtelijk op een schone veldtekening te worden geplaatst . 
+Digitale producten worden aangeleverd op CD-ROM met de bijbehorende meta-informatie . 
+Strategie/beslissingen Het bestek/de offerte voorziet in de adequate begeleiding van de grondwerkzaamheden , de noodzakelijke registratie en documentatie van vondsten , monsters , sporen en profielen . 
+Als aanvulling op de noodzakelijke technische veldfotografie ( o.a . het fotograferen van profielen en coupes ) worden enkele foto ’ s voorafgaand aan het onderzoek ( onderzoeksterrein ) en van het onderzoek en onderzoeksgebied gemaakt . 
+Alle opnames ( met uitzondering van eventuele bijzondere vondsten of sporen ) worden door een lid van de veldploeg gemaakt m.b.v . 
+een digitale camera . 
+Producten De velddocumentatie wordt samengevoegd in een onderzoeksmap en omvat de volgende producten en invoer in tabelstructuur volgens de Venlo-specificaties : Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 21 digitale dagrapporten inclusief de dagstaten ( personele bezetting ) en een hard copy ; digitale weekrapporten en een hard copy ; digitale lijst van de veldtekeningen en een hard copy ; digitale dozenlijst en een hard copy ; digitaal bestand van de spoor- en laagbeschrijvingen en een hard copy ; digitale foto ’ s en een hard copy ; digitale fotolijst en een hard copy . 
+Daarnaast bevat de velddocumentatie de volgende analoge producten : analoge veldtekeningen . 
+110010 Documentatie : primaire vondstverwerking , Omschrijving De primaire vondstverwerking bestaat uit het wassen van vondsten , en het scheiden en administreren van de vondsten per vondstnummer in verschillende materiaalcategorieën . 
+Specificatie Als uitgangspunt gelden de ROB-specificatie 4.2 “ Veldwerk ” en de KNA-specificatie OS09 en de Venlo-specificaties . 
+Digitale producten worden aangeleverd op CD-ROM met de bijbehorende meta-informatie . 
+Strategie/beslissingen Het bestek/de offerte voorziet in de primaire vondstverwerking , inclusief de primaire verwerking van de grondmonsters/zeefresiduen . 
+De vondsten ( inclusief die uit de geselecteerde grondmonsters ) worden uitgesplitst naar materiaalgroep , gewassen , geteld en gewogen . 
+Klein ecologisch materiaal ( ook houtskool ) wordt alleen gewogen . 
+De verschillende materiaalgroepen worden overhandigd aan de betreffende specialisten . 
+Producten Aan de onderzoeksmap dient te worden toegevoegd : digitaal bestand van vondsten en monsters en een hard copy en invoer in tabelstructuur volgens Venlo specificaties ; Tevens dient het volgende product te worden aangeleverd : gewassen/gesorteerde en uitgesplitste vondsten , archiefklaar . 
+110020 Uitvoeren veldwerk : technische eindrapportage Omschrijving Deze bestekregel omvat het maken van een tussenverslag na afloop van het veldwerk maar voor de start van de uitwerking . 
+Specificatie Als uitgangspunt geldt KNA-specificatie OS12 , OS17 en OS18 . 
+Strategie/beslissingen Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 22 Het technisch rapport wordt 5 werkdagen na beëindiging van het veldwerk geleverd . 
+Het verslag bestaat uit lijsten per categorie waarop de aantallen en hoeveelheden documentatie en cultureel materiaal vermeld zijn . 
+Ook wordt beschreven of bij de uitwerking aanvullingen of beperkingen van het PvE/ontwerp en bestek noodzakelijk zijn . 
+Op basis van dit verslag wordt de strategie t.a.v . 
+de uitwerking nader bepaald en ingevuld . 
+Producten technisch eindverslag , digitaal en als hard copy . 
+2 Uitwerken , rapporteren , conserveren materiaal 20 & 21 Specialismen 200020 Tekenwerk : objecttekeningen specialismen 201020 202020 203020 204020 205020 206020 207020 208020 2110 2120 Omschrijving Het tekenen van objecten en grondsporen/structuren . 
+Specificatie Als uitgangspunt gelden de ROB-specificatie 7.1 en ( voor vondsten ) de specificatie Tekeningen diverse vondstcategorieën ( op te vragen bij de opdrachtgever ) . 
+In afwijking hiervan en in aanvulling hierop geldt : Bij het inkten en arceren van de tekeningen dient rekening gehouden te worden met de schaal waarop de tekeningen worden gepubliceerd . 
+De eerder genoemde specificaties omschrijven o.a . in welk formaat digitale producten ter archivering dienen te worden aangeleverd en gelden als minimumeisen . 
+Digitale producten die ( uitdrukkelijk ) voor controle , bewerking , analyse , presentatie of illustratie worden aangeleverd dienen een formaat te hebben dat de genoemde doelen het beste dient , hetgeen wordt vastgelegd in overleg tussen contractbegeleider en opdrachtnemer . 
+Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy . 
+Strategie/beslissingen De opdrachtgever beslist na overleg met de opdrachtnemer hoeveel en welke objecten worden getekend . 
+De tekeningen worden opgenomen in de betreffende deelrapporten . 
+Producten geïnkte objecttekeningen , klaar voor publicatie , inclusief scans van de tekeningen en een hard copy . 
+Aan de opgravingsmap wordt toegevoegd : Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 23 een tabel van de getekende voorwerpen . 
+201010 Uitwerking en rapportage metaal en slakken : determinatie en beschrijving 202010 Omschrijving De determinatie en typologische indeling van metalen voorwerpen en de beschrijving ervan metaalslakken en sintels . 
+Specificatie Als uitgangspunt gelden de KNA-specificaties OS11 , OS12 en OS13 . 
+De eerder genoemde specificaties omschrijven in welk formaat digitale producten ter archivering dienen te worden aangeleverd en gelden als minimumeisen . 
+Digitale producten die ( uitdrukkelijk ) voor controle , bewerking , analyse , presentatie of illustratie worden aangeleverd dienen een formaat te hebben dat de genoemde doelen het beste dient , hetgeen wordt vastgelegd in overleg tussen opdrachtgever en opdrachtnemer . 
+Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie , en een hard-copy . 
+Strategie/beslissingen De opdrachtgever beslist na overleg en op voorstel van de opdrachtnemer welke metalen voorwerpen getekend en gefotografeerd worden . 
+Producten tabel met beschrijvingen van metalen voorwerpen , digitaal en als hard copy en invoer in tabelstructuur volgens Venlo- specificaties ; tabel met beschrijvingen van munten , digitaal en als hard copy en invoer in tabelstructuur volgens Venlo-specificaties ; tabel met beschrijvingen van metaalslakken , digitaal en als hard copy en invoer in tabelstructuur volgens Venlo-specificaties ; foto ’ s ; digitaal verslag en een hard copy . 
+203010 Uitwerking en rapportage aardewerk : analyse keramiek/bouwmateriaal Omschrijving Het beschrijven van het aardewerk , bestaande uit potscherven , spinklosjes , weefgewichten , huttenleem e.d. , op het tweede niveau behelst het tellen , wegen en dateren in ABR-perioden van fragmenten . 
+Specificatie Als uitgangspunt geldt de KNA-specificatie OS11 , OS12 en OS13 en de Venlo specificaties . 
+In afwijking daarvan of in aanvulling daarop geldt : Het gedraaide en handgemaakte aardewerk wordt nader ingedeeld op bakselsoort , maakwijze , type en versiering . 
+Typologisch te determineren ( rand ) fragmenten worden benoemd en voorzien van een ABR-datering ; Fragmenten van spinklosjes , weefgewichten e.d . worden apart beschreven en verpakt ; Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 24 Fragmenten verbrande klei worden geteld en gewogen ; het aantal zeker als huttenleem te determineren fragmenten wordt per vondstnummer vermeld . 
+Stukken die informatie opleveren over wandconstructies dienen per stuk nader te worden beschreven ; Fragmenten bouwmateriaal worden geteld , gewogen , op categorie ingedeeld en gedateerd ; Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy . 
+Strategie/beslissingen De Venlo-specificaties bieden de mogelijkheid om een scherf tot het maximale niveau te omschrijven . 
+Dit schrijft de specificatie echter niet voor . 
+De specificatie is zo breed mogelijk gehouden om opdrachtnemer de mogelijkheid te bieden in te voeren wat zij nodig achten . 
+Producten digitaal verslag en een hard copy ; digitaal/hard copy tabel van aardewerkbeschrijvingen en invoer in tabelstructuur volgens Venlo-specificaties ; digitaal/hard copy tabel van verbrande leem/ huttenleem en invoer in tabelstructuur volgens Venlo-specificaties ; digitaal/hard copy tabel van ( overige ) bouwmaterialen en invoer in tabelstructuur volgens Venlo- specificaties ; foto ’ s ; verpakte , depotklare vondsten . 
+2040 Uitwerking en rapportage vuursteen en natuursteen : standaardbeschrijving 2050 Omschrijving De uitwerking is een basale registratie van de technologie en morfologie van de vuurstenen en natuurstenen objecten . 
+Specificatie Als uitgangspunt gelden de KNA-specificaties OS11 , OS12 en OS13 en de VenloSpecificaties . 
+In aanvulling daarop of in afwijking daarvan geldt : De uitwerking behelst het vaststellen en het noteren van het type , de uitgangsvorm , de grondstof , de aard en het percentage van natuurlijk oppervlak , de afmetingen en het gewicht , de mate van compleetheid , de aanwezigheid en kenmerken van verbranding , bewerkings- of gebruikssporen en secundaire oppervlakteverschijnselen . 
+Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy . 
+Strategie/beslissingen Alle artefacten worden typologisch beschreven en eventueel gedateerd . 
+De opdrachtgever beslist na overleg met de opdrachtnemer hoeveel en welke artefacten worden getekend . 
+Producten digitaal verslag inclusief figuren , afbeeldingen en tabellen en een hard copy Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 25 tabel van natuursteen- en vuursteenbeschrijvingen en invoer in tabelstructuur volgens Venlo- specificaties ; foto ’ s ; verpakte , depotklare vondsten . 
+2060 Uitwerking en rapportage glas : determinatie en uitwerking glas Omschrijving Determinatie en beschrijving van glas . 
+Specificatie Als uitgangspunt geldt de KNa- specificatie OS14 . 
+In afwijking daarvan of in aanvulling daarop geldt : Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard copy . 
+Strategie/beslissingen De glasspecialist selecteert de te tekenen en te fotograferen voorwerpen en houdt deze apart . 
+Producten tabel van glasbeschrijvingen , digitaal en een hard copy en invoer in tabelstructuur volgens Venlo- specificaties ; foto ’ s ; verslag , inclusief figuren , afbeeldingen en tabellen , digitaal en als hard copy . 
+2070 Wetenschappelijk uitwerken : archeozoölogie Omschrijving Het onderzoek van archeozoölogische resten , bestaande uit het opstellen van vraagstelling met toetsbare hypotheses , de monsteranalyse en –determinatie , alsmede de verslaglegging . 
+Specificatie Het kwaliteitsbepalende archeozoölogische onderzoek geschiedt volgens de ROBspecificatie 1.6.4 “ Archeozoölogisch onderzoek van een AAO ” en de KNA-specificaties OS09 , OS11 en OS12 . 
+Digitale producten worden aangeleverd op CD-ROM met bijbehorende meta-informatie . 
+Strategie/beslissingen Het onderzoek omvat al het aangetroffen archeozoölogische materiaal , alsmede een selectie uit daarvoor in aanmerking komende grondmonsters . 
+Producten foto ’ s ; onderzoeksvoorstel met vraagstelling en falsificeerbare hypotheses in digitale vorm en in hard copy ; digitaal bestand van de determinaties en een hard copy en invoer in tabelstructuur volgens Venlo- specificaties ; digitaal verslag en een hard copy . 
+2080 Zeven ecologische monsters / waarderen botanische monsters : archeobotanie en hout als ecofact Omschrijving Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 26 Het zeven van monsters voor ecologisch onderzoek op de archeologische basis . 
+Het selecteren van de zeefresiduen die in aanmerking komen voor pollen- of macrorestenanalyse , het opstellen van vraagstelling met toetsbare hypotheses en de daadwerkelijke analyse van die monsters en het verslag daarover . 
+Specificatie Als uitgangspunt gelden de ROB-specificaties 4.4.9 “ Archeobotanie ” en 4.4.10 “ Archeozoölogie ” en de KNA-specificatie OS03 . 
+In aanvulling daarop of in afwijking daarvan geldt : De ten behoeve van het ecologisch onderzoek uitgekozen monsters worden gezeefd over een maaswijdte van 4 , 2 , 1 , ½ en ¼ mm . Op het betreffende vondstkaartje staat de verlangde fijnste maaswijdte vermeld . 
+Voor het archeobotanisch onderzoek zijn alle residuen van belang . 
+Voor het archeozoölogisch onderzoek is alleen het residu van belang dat achterblijft op de zeef met als fijnste maaswijdte 2 mm . 
+Er dient gezeefd te worden met leidingwater zonder hoge druk ; Het vondstmateriaal van de 4 en 2 mm fracties wordt gesplitst naar materiaalcategorie . 
+De verschillende materiaalcategorieën worden vervolgens aan de betreffende specialisten/analisten ter beschikking gesteld . 
+De zeefresiduen botanie ( met inbegrip van het restant van de 4 en 2 mm zeef ) worden nat opgeborgen en voorzien van een vondstkaartje met opgave van maaswijdte overhandigd aan de botanisch analist . 
+Het kwaliteitsbepalende archeobotanische onderzoek geschiedt volgens de KNAspecificaties OS09 , OS11 en OS12 . 
+In afwijking daarvan of in aanvulling daarop geldt : Zoals in paragraaf is aangegeven worden alleen kansrijke sporen zoals waterputten , waterkuilen of andere diepe sporen waarin archeobotanische resten aanwezig kunnen zijn bemonsterd . 
+De archeobotanicus determineert tevens indrukken van zaden en granen in aardewerk , aan te leveren door de aardewerkspecialist . 
+Strategie/beslissingen De directievoerder beslist na overleg met de opdrachtnemer hoeveel en welke monsters gezeefd en gewaardeerd worden . 
+Niet-botanische vondsten worden , voor zover zinvol , verwerkt in de primaire vondstverwerking . 
+De directievoerder beslist na overleg met de opdrachtnemer welke gewaardeerde monsters geanalyseerd worden . 
+Producten gezeefde monsters met vondstkaartjes waarop ook de betreffende maaswijdte is genoteerd . 
+• digitaal bestand van de gewaardeerde monsters en een hard copy en invoer in tabelstructuur volgens Venlo-specificaties ; digitaal verslag en een hard copy . 
+2110 Fysische geografie : veldonderzoek , uitwerking en rapportage Omschrijving Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 27 Het fysisch geografisch veldonderzoek bestaat uit ( 1 ) het documenteren van een dwarsprofiel en ( 2 ) het opnemen van profielkolommen iedere 50 m in de lengterichting van de tracédelen . 
+Het veldonderzoek verschaft inzicht in de bodemkundige , lithologische en lithogenetische opbouw van de vindplaat ( sen ) en hun omgeving . 
+Specificatie Als uitgangspunt geldt de Archeologische Standaard Boorbeschrijvingsmethode van de SIKB en de ROB-specificatie 4.2.8 “ Veldwerk : fysisch-geografisch veldonderzoek ” . 
+Voor wat betreft de laatste specificatie is schaalniveau C ( het opgravingsterrein ) van toepassing . 
+Tevens zijn de ROB-specificaties 4.4.11 en 4.5.1.11 van toepassing . 
+In de beschrijving komen lithologische , bodemkundige en archeologische aspecten aan de orde , conform de “ Randvoorwaarden ” . 
+De profielkolommen moeten goed koppelbaar zijn aan de vlakken ( gebruik van zelfde laagnummers voor identieke lagen in profielkolommen en vlakken ) . 
+Als uitgangspunt voor de rapportage geldt ROB-specificatie 4.4.11 ” Uitwerking : fysische geografie ” . 
+In aanvulling daarop of in afwijking daarvan geldt : Digitale producten die ( uitdrukkelijk ) voor controle , bewerking , analyse , presentatie of illustratie worden aangeleverd dienen een formaat te hebben dat de genoemde doelen het beste dient , hetgeen wordt vastgelegd in overleg tussen contractbegeleider en opdrachtnemer . 
+Digitale producten worden aangeleverd op CD-ROM met bijbehorende meta-informatie Strategie/beslissingen Het bestek gaat uit van één profiel iedere 50m in de lengte richting van het tracé . 
+Het resulterend profiel dient minimaal de bodemopbouw ( bodemkundig , lithologisch en lithogenetisch ) vanaf het maaiveld weer te geven . 
+In elk profiel dient een profielkolom van 1 m breed te worden getekend , gefotografeerd en beschreven . 
+Onder deze besteksregel valt ook de technische uitwerking van de veldgegevens . 
+De technische uitwerking bestaat uit de administratieve verwerking van de veldgegevens : invoeren van profielopnamen , aangeven van profielpunten op de veldtekeningen . 
+De fysisch geograaf zorgt ervoor dat de beschrijvingen van de profielen onderling overeenkomen . 
+Producten profieltekeningen , digitaal en als hard copy ; profielbeschrijvingen , digitaal en als hard copy ; paleogeografische reconstructiekaart ; concept deelrapport fysische geografie , inclusief tabellen , figuren , tekeningen en foto ’ s met onderschrift digitaal en als hard copy ; een goedgekeurd en definitief deelrapport fysische geografie , digitaal en als hard copy . 
+2120 PM Fysische antropologie : uitwerking en rapportage , determinatie inhumaties en crematies Omschrijving Het onderzoek van menselijke skeletresten . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 28 Specificatie Als uitgangspunt geldt de ROB-specificatie 4.4.10.3 “ Menselijke resten ” en CvAK Handleiding hoofdstuk 9 “ Menselijk skeletmateriaal ” . 
+Voor de te gebruiken terminologie zie Maat 1998 , ROB Rapportage Archeologische Monumentenzorg 67 . 
+De structuur en de referentielijst voor een databestand voor crematies wordt in overleg met de opdrachtgever bepaald . 
+In aanvulling daarop of in afwijking daarvan geldt : Crematieresten worden alleen met de hand gezeefd . 
+Indien het botmateriaal van de inhumatiegraven in slechte staat verkeert , wordt het in overleg met de opdrachtgever geconserveerd met PVA . 
+De geselecteerde stukken voor 14C ouderdomsbepaling worden niet behandeld . 
+Leeftijdsbepaling volwassenen : Naast de complexe methode wordt indien niet alle componenten aanwezig zijn , de symphyse ook beoordeeld volgens de methoden van Todd en Suchey & Brooks . 
+Indien mogelijk wordt ook de 4e rib en het auricularisoppervlak beoordeeld . 
+Osteometrie : Maten t.b.v de craniële index worden genomen . 
+Pathologie : Pathologische verschijnselen worden beschreven nl . 
+botstuk , locatie op het botstuk , verandering van vorm van het botstuk , de omvang en de aard ( botvorming , botverlies , beide ) van de pathologische verandering . 
+Indien mogelijk wordt een diagnose gegeven ( met literatuurverwijzingen ) . 
+Daarbij worden de ziekteverschijnselen ingedeeld in categorieën ; trauma , deficiëntieziekten , erfelijke aandoeningen , infectieziekten , tumoren , gebitspathologie ( bij hypoplasiën wordt per element , het type , het aantal en de afstand tot de wortel vermeld ) etc . 
+De belangrijkste epigenetische kenmerken worden genoteerd , sutura metopica , sutuurbotjes etc . 
+Strategie/beslissingen Crematies en inhumaties worden uitsluitend door een ervaren fysisch antropoloog geanalyseerd . 
+De fysisch antropoloog wordt in overleg met de opdrachtgever gekozen . 
+De bevindingen worden geïntegreerd in het rapportdeel Sporen en Structuren . 
+Producten digitaal bestand van de determinaties en invoer in tabelstructuur volgens de Venlo- specificaties ; foto ’ s ; verpakt en depotklaar materiaal ; beknopt verslag , inclusief eventuele tabellen , figuren en afbeeldingen , digitaal en als hard copy . 
+2170 Chronologisch onderzoek 217010 Dendrochronologisch onderzoek Omschrijving Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 29 Het verkrijgen van een absolute datering van een vindplaats of periode ( n ) van gebruik van een vindplaats op basis dendrochronologische ouderdomsbepalingen . 
+Specificatie Als uitgangspunt gelden ROB-specificaties 4.2.7.2 “ Dendrochronologische monsters ” voor de monsterbehandeling ; 4.4.12 “ Jaarringonderzoek ” voor de uitwerking en 4.5.1.12 “ Deelrapportage jaarringonderzoek ” voor de verslaglegging . 
+In afwijking daarvan of in aanvulling daarop geldt : Materiaal dient bij voorkeur afkomstig te zijn uit contexten waarvan de datering ook langs andere wegen kan worden ingeschat . 
+De projectleider is verantwoordelijk voor de integratie van de dateringen in het Standaardrapport , en ziet er op toe dat de dateringsgegevens worden verwerkt in de opgravingsdatabase . 
+Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy Strategie/beslissingen De directievoerder beslist op voorstel van de opdrachtnemer welke contexten en objecten voor dendrochronologische datering in aanmerking komen . 
+De uiteindelijke verrekening vindt plaats op basis van de factuur van het laboratorium . 
+Producten Dendrochronologische dateringen . 
+2170 Chronologisch onderzoek 14 217020 C-ouderdomsbepalingen Omschrijving Het verkrijgen van een absolute datering van een vindplaats of periode ( n ) van gebruik van een vindplaats op basis van 14C-ouderdomsbepalingen . 
+Specificatie Als uitgangspunt gelden ROB-specificaties 4.4.13 en 4.5.1.13 en de CVAK-Leidraad 14 C-Datering , in : Veldhandleiding Archeologie . 
+Archeologie Leidraad 1 . 
+Zoetermeer 2002 . 
+In afwijking daarvan of in aanvulling daarop geldt : Materiaal dient bij voorkeur afkomstig te zijn uit contexten waarvan de datering ook langs andere wegen kan worden ingeschat . 
+De projectleider is verantwoordelijk voor de integratie van de dateringen in het Standaardrapport , en ziet er op toe dat de dateringsgegevens worden verwerkt in de opgravingsdatabase . 
+Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy Strategie/beslissingen De directie beslist op voorstel van de opdrachtnemer welke contexten en objecten voor 14C-ouderdomsdatering in aanmerking komen . 
+Op basis van de vondstomstandigheden en het monstervolume wordt per geval en in overleg met de directie bepaald of een conventionele of een AMS-datering noodzakelijk is . 
+De AMSmethode heeft de voorkeur en het geoffreerde bedrag dient dan ook de kosten van deze methode te begroten . 
+De uiteindelijke verrekening vindt plaats op basis van de factuur van het laboratorium . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 30 Producten 14 C -dateringen , inclusief calibratie en opgave van de calibratiewijze . 
+3 Rapportage 31 Wetenschappelijke redactie en productie 310010 Technisch uitwerken : maken van digitale tekeningen en database Omschrijving De algemene technische uitwerking omvat het maken van gedigitaliseerde veldtekeningen ( vlak- en coupe-/profieltekeningen ) en het digitale gegevensbeheer inclusief het oplossen van problemen betreffende de dataverwerking . 
+Specificatie Als uitgangspunten gelden de ROB-specificatie 4.2 “ Veldwerk ” en 6.0 “ Archivering ” , de ROB Procedure voor Registratie en Beheer Veldwerkgegevens ( 1996 ) . 
+Hetgeen digitaal zal worden ingediend , moet worden aangeleverd volgens de ‘ Venlo Specificaties ’ ( digitale registratie , structurering en koppeling onderling en aan de digitale tekeningen , op te vragen bij de opdrachtgever ) van opgravingsgegevens . 
+Over de mate van detail en de onderlinge koppeling van de tabellen dient van tevoren met de opdrachtgever overleg te worden gevoerd . 
+Als nadere uitleg voor de correcte topologie kan daarbij de ‘ Specificatie aanlevering digitaal kaartmateriaal ’ ( op te vragen bij de opdrachtgever ) . 
+De in de Venlo-specificaties opgenomen specificatie voor analoge veldtekeningen is bindend . 
+Databases worden geleverd in DBF formaat . 
+Tevens wordt geleverd een digitale tekening ( in een nader met opdrachtgever af te spreken vector-formaat ) in RD coördinaten waarop de gegraven sleuven met de ontgravingdiepte staan aangegeven . 
+Deze dient als revisietekening voor de geplande civiele werken . 
+Deze en andere digitale tekeningen ( van putten , sporen , e.d . ) worden geleverd in dxf of dwg format . 
+Ondersteunende figuren kunnen als PDF file geleverd worden . 
+Tekstbestanden worden geleverd in word format . 
+Strategie/beslissingen Vlaktekeningen worden gevectoriseerd , evenals profieltekeningen als zij bestaan uit geheel getekende werkputprofielen of uit gecorreleerde kolomopnamen . 
+Coupetekeningen en losse profielkolomopnamen worden gescand . 
+Digitale producten worden aangeleverd op CD-ROM met bijbehorende meta-informatie . 
+Producten digitale gegevens volgens de Venlo-specificaties gevectoriseerde vlaktekeningen en een hard copy ; gescande coupe- en profieltekeningen en een hard copy ; Deze producten worden toegevoegd aan de opgravingsmap . 
+310020 Uitwerking en rapportage sporen en structuren : uitwerking archeologische sporen Omschrijving Het analyseren van de samenhang tussen antropogene grondsporen in combinatie met de verschillende vondsten daaruit , teneinde structuren , fasen en perioden op een vindplaats te definiëren . 
+Specificatie Als uitgangspunt geldt de KNA-specificatie OS13 . 
+In aanvulling daarop geldt : Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 31 Digitale gegevens worden aangeleverd op CD-ROM , voorzien van meta-informatie en een hard-copy Strategie/beslissingen Het bestek gaat uit van ca 6660 m² aan te leggen vlak in de tracédelen 6 t/m 9 . 
+In de tracédelen 2 t/m 4 is de oppervlakte aan te leggen vlak afhankelijk van de breedte van de te verstoren bodem , de lengte van tracédelen 2 t/m 4 bedraagt 140 m. Producten Rapport met analyse van de sporen en structuren per periode , inclusief overzichtstekeningen van sporen en structuren per periode , digitaal en als hard copy . 
+310030 Synthese en presentatie : wetenschappelijke redactie en concept rapport ( 1e en 2e 320020 concept ) Omschrijving Rapportage van de resultaten van het onderzoek , omvattende de deelrapporten van de specialisten en een wetenschappelijke synthese ( onderzoek wordt beschreven in één rapport ) . 
+Specificatie De inhoudelijke redacteur ( projectleider ) voert regelmatig overleg met de auteurs van de deelrapporten . 
+Strategie/beslissingen Het geredigeerde 1e concept-standaardrapport ( = deelrapporten+ synthese ) wordt uitgebracht in een oplage van 5 stuks en wordt 6 weken na levering van het technisch rapport geleverd aan de opdrachtgever . 
+De opdrachtnemer dient de door de verschillende specialisten/analisten aangeleverde verslagen te integreren tot één samenhangend rapport . 
+Het verslag is compleet ( eventueel met uitzondering van de 14 C-dateringen ) . 
+Het 2e concept verschijnt 2 weken na aanlevering van commentaar en dat wordt door de opdrachtgever tevens ter beoordeling naar de bevoegde overheid gestuurd voor beoordeling en commentaar . 
+Producten Concept rapporten 1 en 2 , voorzien van colofon ( opdrachtgever , bevoegde gezag , directie ) , tabellen , figuren , tekeningen en/of foto ’ s , digitaal ( als wordfile en pdf-file ) en als hard copy . 
+320030 Presentatie : definitief rapport Omschrijving Het maken en drukken van een definitief standaardrapport ( onderzoek wordt beschreven in één rapport ) . 
+Specificatie Als uitgangspunt geldt de KNA specificatie VS06/VS07 Strategie/beslissingen Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 32 Het door de directievoerder beoordeelde en becommentarieerde concept rapport wordt door de opdrachtnemer omgevormd tot een definitief rapport , naar genoegen van de directievoerder . 
+Het definitief rapport wordt 3 weken na ontvangst van commentaar door de opdrachtgever geleverd . 
+Het rapport wordt uitgebracht in een oplage van 15 stuks . 
+Opdrachtnemer levert , na instemming van de opdrachtgever , verplicht een deponeringsexemplaar van het rapport aan de RACM en de provincie Limburg en het depot van de provincie Limburg . 
+Een ontvangstbevestiging hiervan wordt aan opdrachtgever geleverd . 
+Producten Gedrukt definitief standaardrapport , voorzien van colofon ( opdrachtgever , bevoegde gezag , directie ) , tabellen , figuren , tekeningen en/of foto ’ s , digitaal ( als wordfile en pdf-file ) en als hard copy . 
+33 Archivering en deponering 330010 Archivering en deponering : deponering vondsten , documentatie en gegevens bij depot Omschrijving Het aanvoeren en deponeren van de archiveringsklare vondsten , opgravingsdocumentatie en opgravingsgegevens bij het archeologisch depot van de provincie Limburg . 
+Specificatie Vondsten worden geconserveerd aangeboden aan het depot . 
+Bij de conservering en deponering van vondsten gelden de KNA-specificaties DS 01 t/m 04 , OS 17a , 18 en de specificaties welke het depot van de provincie Limburg hanteert . 
+Conservering van metalen geschiedt volgens de ROB-specificatie 4.3.3 ( metaal ) . 
+Bij conservering wordt de beginsituatie zo goed mogelijk vastgelegd . 
+Ook tijdens het conserveringsproces dienen materiaaltechnische aspecten die aan het licht komen zo goed mogelijk te worden gedocumenteerd . 
+Bij conservering moet een maximale reversibiliteit worden nagestreefd . 
+Een lijst met daarop alle geconserveerde en te restaureren vondsten wordt bijgeleverd . 
+Een lijst met te presenteren vondsten wordt bijgeleverd . 
+Strategie/beslissingen Na goedkeuring van het definitief rapport wordt in samenspraak tussen het archeologisch depot van de provincie Limburg en de opdrachtnemer een datum vastgesteld waarop de vondsten e.d . worden aangeleverd . 
+Producten protocol van overdracht van de gedeponeerde vondsten , opgravingsdocumentatie en opgravingsgegevens , in archiveringsklare staat . 
+330020 Archis-invoer : Archis-invoer Omschrijving Het invoeren van alle benodigde opgravingsgegevens in het dataverwerkingsprogramma Archis . 
+Specificatie Als uitgangspunt geldt KNA-specificatie RS09 . 
+Strategie/beslissingen Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 33 De opdrachtnemer dient zorg te dragen voor de Archis-invoer voordat de vondsten en de bijbehorende gegevens en documentatie ter archivering worden overgedragen aan het depot van de provincie Limburg . 
+Deel 2 : Bestek en ontwerp Floriade , maatregelen diepriool , Gemeente Venlo Gemeente Venlo/ Past2Present-ArcheoLogic / ArchAeO 34 

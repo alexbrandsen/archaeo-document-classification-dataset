@@ -1,0 +1,902 @@
+RAAP-RAPPORT 2093 Plangebied De Centrale As Gemeenten Dantumadeel en Tytsjerksteradiel Archeologisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes dr. G. Aalbersberg RAAP Archeologisch Adviesbureau BV , 2010 Colofon Opdrachtgever : Projectbureau De Centrale As Titel : Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel ; archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Status : eindversie Datum : 27 april 2010 Auteur : dr. G. Aalbersberg Projectcode : FRCA6 Bestandsnaam : RR2093_FRCA6.indd Projectleider : dr. G. Aalbersberg Projectmedewerkers : drs . 
+J.L . van Beek , D. van den Berg , J. Hielkema , T.M . 
+Perger & E.J.M . 
+van der Zwet ARCHIS-vondstmeldingsnummer : 414004 & 414005 ARCHIS-waarnemingsnummer : nog niet verleend ARCHIS-onderzoeksmeldingsnummer : 39940 Bewaarplaats documentatie : RAAP Noord-Nederland Autorisatie : drs . J. van Beek Bevoegd gezag : dr. G.J . 
+de Langen ( Provincie Fryslân ) ISSN : 0925-6229 RAAP Archeologisch Adviesbureau B.V. Leeuwenveldseweg 5b telefoon : 0294-491 500 1382 LV Weesp telefax : 0294-491 519 Postbus 5069 E-mail : raap @ raap.nl 1380 GB Weesp © RAAP Archeologisch Adviesbureau B.V. , 2010 RAAP Archeologisch Adviesbureau B.V. aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit het gebruik van de resultaten van dit onderzoek of de toepassing van de adviezen . 
+RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Samenvatting In opdracht van Projectbureau De Centrale As heeft RAAP Archeologisch Adviesbureau in maart 2010 archeologisch vooronderzoek uitgevoerd in verband met de aanleg van ‘ De Centrale As ’ . 
+Het Provinciaal Inpassingsplan ( PIP ) Centrale As betreft de aanleg van een grotendeels nieuwe weg tussen Dokkum en Nijega en nieuwe verbindingswegen , fietspaden , kruispunten , tunnels en waterwegen . 
+Daarnaast bestaat het plan om enkele gebieden die grenzen aan ‘ De Centrale As ’ in te richten als natuurgebied . 
+Bij de realisatie van deze plannen zullen bodemingrepen plaats vin den waarbij mogelijk archeologische vindplaatsen worden verstoord . 
+Het hier gerapporteerde onderzoek vormt een aanvulling op eerder door De Steekproef uitge voerd onderzoek ( Exaltus & De Neef , 2008 ) . 
+Doel van het onderzoek op de locaties 217 en 218 was het vaststellen of de bodemopbouw in het plangebied zodanig intact is dat archeologische vervolgonderzoek zinvol is en of er aanwijzingen zijn voor ( grotere ) archeologische nederzet tingen . 
+Het onderzoek van de 9 potentiële pingoruïnes had tot doel deze locaties te waarderen en , voor zover het inderdaad om pingo ruïnes gaat , de omvang ervan vast te stellen ten behoeve van het PIP . 
+Het onderzoeksgebied bestaat uit twee nieuwe tracédelen ( deelgebieden 217 en 218 ) en 9 potentiële pingoruïnes ( deelgebieden 2 , 5 , 9 , 10 , 24 , 205 , 206 , 207 en 216 ) . 
+Elk deelgebied zal in dit rapport afzonderlijk worden behandeld . 
+De bodemopbouw in deelgebied 217 bestaat over het algemeen uit een bouwvoor/verstoorde laag op dekzand op keileem . 
+Slecht op enkele plaatsen is nog een dunne veenlaag aanwezig tussen de bouwvoor/verstoorde laag en het dekzand . 
+Meestal is de top van het dekzand verstoord . 
+In 8 boringen is in de top van het dekzand een intacte of incomplete podzolbodem aangetroffen . 
+In een van deze boringen is een fragment verbrand vuursteen aangetroffen . 
+Dit is een aanwijzing dat zich hier mogelijk een vuursteenvindplaats bevindt . 
+In het westelijke deel van dit deelgebied is onder een laag ( dek ) zand organisch materiaal aangetroffen . 
+Op het AHN is op deze locatie een depressie te zien . 
+Het gaat niet om een pingoruïne , maar waarschijnlijk om een opgevulde ( minerale ) palsa . 
+Omdat de organische vulling zeer dun en de top van de vulling verstoord is , is de kans zeer klein dat de paleo-ecologische informatie uit de voor de archeologie interessante periode nog in de vulling aanwezig is . 
+De depressie en de vulling daarin worden daarom niet behoudenswaardig geacht . 
+De bodemopbouw in deelgebied 218 bestaat uit een bouwvoor/verstoorde laag op dekzand en keileem . 
+Plaatselijk bevindt zich nog een dunne laag veen tussen de bouwvoor/verstoorde laag en het dekzand . 
+In de top van het dekzand is op 2 plaatsen een intacte of incomplete podzolbodem aangetroffen . 
+Hierin zijn geen archeologische indicatoren aangetroffen . 
+In dit deelgebied zijn geen aanwijzingen voor archeologische vindplaatsen aangetroffen . 
+5 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Op 2 van de 9 potentiële pingoruïnes is geen veldonderzoek uitgevoerd . 
+In het geval van deelgebied 9 is in overleg met het bevoegd gezag besloten dat deze pingoruïne voldoende onderzocht is . 
+Voor deelgebied 216 is geen betredingstoestemming verleend . 
+Uit eerder booronderzoek blijkt dat het om een pingoruïne gaat . 
+Op de overige 7 potentiële pingoruïnes is wel veldonderzoek uitgevoerd . 
+Deelgebied 205 is weliswaar zichtbaar als een depressie , maar uit het booronderzoek blijk dat het niet om een pingoruïne of een andere , met organisch materiaal gevulde depressie gaat . 
+Deelgebied 206 betreft een maximaal 2,4 m diepe , met veen en detritus-gyttja gevulde depressie . 
+Op grond van de omvang en de diepte van de depressie alsmede de lithologie van de vulling is geconcludeerd dat het niet om een pingoruïne gaat , maar om een opgevulde ( minerale ) palsa . 
+Omdat de organische vulling relatief dun is en de top ervan tot circa 1,25 m -Mv verstoord is , is de kans zeer klein dat de paleo-ecologische informatie uit de voor de archeologie interessante periode nog in de vulling aanwezig is . 
+De depressie en de vulling daarin worden daarom niet behoudenswaardig geacht . 
+De depressies in de overige onderzochte locaties ( deelgebieden 2 , 5 , 10 , 24 en 207 ) zijn op grond van hun omvang en de lithologie van de vulling geïnterpreteerd als pingoruïnes . 
+In de directe na bijheid van de pingoruïne in deelgebied 2 zijn op het maaiveld vuurstenen artefacten aangetroffen . 
+Dit is een aanwijzing voor de aanwezigheid van een vuursteenvindplaats ter plaatse . 
+Voor de vuursteenvindplaats in deelgebied 217 wordt waarderend booronderzoek met megaboringen geadviseerd om de aard en omvang van de vindplaats vast te stellen . 
+Voor de rest van het deelgebied , inclusief de daarin aangetroffen ( minerale ) palsa , is geen archeologisch vervolg onderzoek noodzakelijk . 
+Voor deelgebied 218 is geen archeologisch vervolgonderzoek noodzakelijk . 
+Voor de pingoruïnes in de deelgebieden 2 , 5 , 10 , 24 en 207 wordt geadviseerd deze te vrijwaren van bodemingrepen en alle andere typen ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van deze pingoruïnes bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecolo gische informatie veilig te stellen . 
+Voor de pingoruïne in deelgebied 9 staat vast dat deze niet behouden kan worden . 
+Hiervoor wordt wel geadviseerd de vulling van de pingoruïne te bemonsteren ten behoeve van paleo-ecologische analyses en dateringen . 
+Voor de pingoruïne in deelgebied 216 wordt geadviseerd de pingoruïne middels een waarderend booronderzoek , gericht op het bepalen van de omvang , kwaliteit en de mate van verstoring van de organische vulling , nader te laten onderzoeken . 
+Voor de in de nabijheid van deelgebied 2 aangetroffen vuursteenvindplaats wordt geadviseerd de werkzaamheden archeologisch te begeleiden . 
+Voor de deelgebieden 206 ( het restant van een minerale palsa ) en 205 ( geen met organisch materiaal gevulde depressie ) is geen vervolgonderzoek noodzakelijk . 
+6 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Inhoud Samenvatting 1 Inleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 5 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 9 1.1 Kader en doelstelling ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 9 1.2 Administratieve gegevens ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 9 1.3 Onderzoeksopzet en richtlijnen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 11 2 Veldonderzoek ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13 2.1 Methoden ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13 2.2 Resultaten ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 13 3 Pingo ’ s en palsa ’ s ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 59 4 Conclusies en aanbevelingen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 63 4.1 Conclusies ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 63 4.2 Aanbevelingen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 64 Literatuur ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . Lijst van afkortingen 65 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 65 Verklarende woordenlijst ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 66 Overzicht van figuren , tabellen en bijlagen 7 ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 68 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes             ) UFDZRU73DSULO               Figuur 1 . 
+Ligging van de deelgebieden . 
+Inzet : ligging in Nederland . 
+8 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes 1 Inleiding 1.1 Kader en doelstelling In opdracht van Projectbureau De Centrale As heeft RAAP Archeologisch Adviesbureau in maart 2010 archeologisch vooronderzoek uitgevoerd in verband met de aanleg van ‘ De Centrale As ’ . 
+Het Provinciaal Inpassingsplan ( PIP ) Centrale As betreft de aanleg van een grotendeels nieuwe weg tussen Dokkum en Nijega en nieuwe verbindingswegen , fietspaden , kruispunten , tunnels en waterwegen . 
+Daarnaast bestaat het plan om enkele gebieden die grenzen aan ‘ De Centrale As ’ in te richten als natuurgebied . 
+Bij de realisatie van deze plannen zullen bodemingrepen plaats vinden waarbij mogelijk archeologische vindplaatsen worden verstoord . 
+Het hier gerapporteerde onderzoek vormt een aanvulling op eerder door De Steekproef uitge voerd onderzoek ( Exaltus & De Neef , 2008 ) . 
+Deze aanvulling was nodig wegens een tracéwijziging na uitvoering van het desbetreffende onderzoek . 
+Doel van het onderzoek op de locaties 217 en 218 was het vaststellen of de bodemopbouw in het plangebied dusdanig zodanig intact is dat archeologisch vervolgonderzoek zinvol is en of er aanwijzingen zijn voor ( grotere ) archeologische nederzettingen . 
+Het onderzoek van de 9 potentiële pingoruïnes had tot doel deze locaties te waarderen en , voor zover het inderdaad om pingoruïnes gaat , de omvang ervan vast te stellen ten behoeve van het PIP . 
+Op basis van de onderzoeksresultaten is een advies geformuleerd met betrekking tot eventueel archeologisch vervolgonderzoek . 
+1.2 Administratieve gegevens Het onderzoeksgebied ( figuur 1 ) bestaat uit 2 nieuwe tracédelen ( deelgebieden 217 en 218 ) en 9 potentiële pingoruïnes ( deelgebieden 2 , 5 , 9 , 10 , 24 , 205 , 206 , 207 en 216 ) . 
+Elk deelgebied zal in dit rapport afzonderlijk worden behandeld . 
+De onderzoeksvragen voor de tracédelen en de potentiële pingoruïnes staan hieronder opgesomd . 
+Onderzoeksvragen deelgebieden 218 en 218 : 1 . 
+Ligt het pleistocene dekzand aan het maaiveld ? 
+Zo nee : hoe dik is de afdekking ? 
+2 . 
+Is er bodemvorming ( podzolering ) opgetreden ? 
+3 . 
+Is de bodem nog intact , d.w.z . 
+is de E- en/of ( de top van ) de B-horizont nog aanwezig ? 
+4 . 
+In hoeverre is er sprake van archeologische indicatoren ? 
+5 . 
+Is er sprake van een vindplaats ? 
+6 . 
+Wat is de begrenzing van de vindplaats ? 
+7 . 
+Wat is de waarde van de vindplaats ? 
+9 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Geologische perioden Tijdvak Chronozone Archeologische perioden Datering Datering Tijdperk Nieuwste tijd ( =Nieuwe tijd C ) Laat Subatlanticum Nieuwe tijd B - 1650 A - 1500 Laat - 1150 na Chr . Vol Merovingisch laat Laat Romeinse tijd Holoceen Karolingisch Merovingisch vroeg Vroeg Subatlanticum Midden Vroeg -0 Laat IJzertijd - 450 voor Chr . Midden Vroeg Laat Bronstijd Subboreaal Midden Vroeg Laat Neolithicum - 3700 ( Nieuwe Steentijd ) Laat Glaciaal Preboreaal Late Dryas Allerød Vroege Dryas Bølling Laat Midden Denekamp Vroeg Weichselien Pleniglaciaal Vroegste Dryas Mesolithicum - 8700 ( Midden Steentijd ) Midden Vroeg - 9700 - 900 - 725 - 525 - 450 - 270 - 70 na Chr . - 15 voor Chr . - 250 - 500 - 800 - 1100 - 1800 - 2000 - 2850 - 4200 - 4900/5300 - 6450 - 8640 - 9700 - 11.050 - 11.500 Laat - 12.000 - 12.500 Jong B - 12.500 - 13.500 - 30.500 - 16.000 Jong A - 35.000 Hengelo - 60.000 Moershoofd Paleolithicum - 71.000 Vroeg Glaciaal Laat - 7300 Prehistorie Boreaal Pleistoceen Midden Vroeg Atlanticum - 1250 - 1050 Ottoons Vroeg Middeleeuwen - 1795 ( Oude Steentijd ) Odderade Midden Brørup - 114.000 Eemien Saalien II Oostermeer Saalien I Belvedère/Holsteinien Glaciaal x Holsteinien - 126.000 - 236.000 - 241.000 - 250.000 - 322.000 - 336.000 Oud - 384.000 - 416.000 Elsterien 463.000 tabel1_standaard_GeoBioArcheo_RAAP_2010 Tabel 1 . 
+Geologische en archeologische tijdschaal . 
+10 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Onderzoeksvragen potentiële pingoruïnes : 8 . 
+Is het onderzochte object een pingoruïne of een andere ronde depressie ( dobbe of uit blazingsbekken ) ? 
+9 . 
+Wat zijn de precieze omvang en diepte van de pingoruïne ? 
+10 . 
+Wat is de positie van de pingoruïne ten opzichte van NAP ? 
+11 . 
+Met welk materiaal is de pingoruïne gevuld en wat is de dikte van de afzonderlijke lagen ? 
+12 . 
+Wat zijn de conservering en kwaliteit van de vulling ? 
+13 . 
+Is er sprake van een beschermende afdeklaag ? 
+Zo ja : wat zijn de aard en veronderstelde ouderdom daarvan ? 
+14 . 
+Is er nog ( een gedeelte van ) een ringwal aanwezig ? 
+Is hierin een podzolbodem ontwikkeld ? 
+15 . 
+Zijn er aanwijzingen voor aanwezigheid van archeologische ( vuursteen ) vindplaatsen en , zo ja , wat zijn daarvan de aard en datering ? 
+16 . 
+Heeft de mens ingegrepen in de oorspronkelijke opbouw van de pingoruïne ? 
+Is de pingo ruïne gedeeltelijk uitgegraven ? 
+Wat zijn de aard en de oorsprong van eventueel aanwezige antropogene lagen en sporen ? 
+1.3 Onderzoeksopzet en richtlijnen Het onderzoek is uitgevoerd volgens de normen van de archeologische beroepsgroep ( zie artikel 24 van het Besluit archeologische monumentenzorg ) . 
+De Kwaliteitsnorm Nederlandse Archeo lo gie ( KNA , versie 3.1 ) , beheerd door de Stichting Infrastructuur Kwaliteitsborging Bodembeheer ( SIKB ; www.sikb.nl ) , geldt in de praktijk als richtsnoer . 
+RAAP beschikt over een opgravingsvergunning , verleend door de Minister van Onderwijs , Cultuur en Wetenschap . 
+Zie tabel 1 voor de dateringen van de in dit rapport genoemde archeologische perioden . 
+Achter in dit rapport is een lijst met gebruikte afkortingen opgenomen en worden enkele vaktermen beschreven ( zie de verklarende woordenlijst ) . 
+11 RAAP-RAPPORT 2093 ! 
+ ''  ! 
+ !   Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes           )                   ) $     (   . 
+ , )    . 
+- - )  (  ' (   )    )  ) ' ( ,  ( OHJHQGD     ERULQJHQ   PHWLQWDFWHSRG ] RO ( KRUL ] RQWDDQZH ] LJ * ) PHWLQFRPSOHWHSRG ] RO DOOHHQ % KRUL ] RQWDDQZH ] LJ  + ) ] RQGHUSRG ] RO PHWYHHQRUJDQLVFKPDWHULDDO    PHWKRXWVNRRO   PHWYXXUVWHHQ $ PHJDERULQJ + )         GH6WHHNSURHI  ERRUQXPPHU  ERRUQXPPHUGH6WHHNSURHI   * )  ( , ) ' (  )  RYHULJ EHJUHQ ] LQJYXXUVWHHQYLQGSODDWV EHJUHQ ] LQJPLQHUDOHSDOVD       P  ) UFDZRU73DSULO       WUDFp    JUHQVRQGHU ] RHNVJHELHG   , )     Figuur 2 . 
+Resultaten booronderzoek deelgebied 217 , geprojecteerd op het AHN . 
+12 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes 2 Veldonderzoek 2.1 Methoden Booronderzoek - totaal aantal boringen : 191 - minimaal geboorde diepte : 0,7 m -Mv - maximaal geboorde diepte : 6,35 m -Mv - boorbeschrijvingen : lithologisch conform NEN 5104 ( Nederlands Normalisatie-instituut , 1989 ) - X-/Y-coördinaten boringen gemeten met : meetlinten - Z-coördinaten boringen : afgeleid van het AHN 2.2 Resultaten Deelgebied 217 Deelgebied : deelgebied 217 ligt ten oosten van De Valom , ten oosten van de Hoofdweg ( N 356 ) en ten noorden van de Bovenweg . 
+Plaats : De Valom Gemeente : Dantumadeel Deelgebied in gebruik als : weiland Oppervlakte deelgebied : 10,7 ha Centrumcoördinaten : 196.879/585.652 Boorstrategie volgens PvA : 3 boringen per ha , bij intacte podzolbodems verdichten naar 12 boringen/ha met megaboringen . 
+Boorstrategie : conform PvA Totaal aantal boringen : 53 Boringen : 577 t/m 629 ( figuur 2 ) Minimaal geboorde diepte : 0,5 m -Mv Maximaal geboorde diepte : 3,0 m -Mv Beschrijving laagopeenvolging ( lithologisch ) en interpretatie ( lithogenetisch ) : de laagop een volging in deelgebied 217 bestaat overwegend uit een bouwvoor/verstoorde laag ( bruingrijs , zwak siltig , matig humeus , matig fijn zand , soms met zand- en/of veenbrokken ) met een dikte tussen 0,2 en 0,5 m. Plaatselijk , bijvoorbeeld rond de boringen 596 t/m 599 en in de boringen 602 , 603 en 604 , is de bodem dieper verstoord . 
+Onder de bouwvoor/verstoorde laag bevindt zich in 6 boringen een dunne laag veen ( donker grijsbruin of zwartbruin , zwak zandig , veraard veen ; boringen 585 , 597 , 608 , 609 , 620 en 624 ) . 
+Onder de veenlaag en waar deze ontbreekt direct onder de bouwvoor/verstoorde laag , ligt dekzand ( zwak tot matig siltig , zeer fijn en matig fijn zand , soms licht grindig ) . 
+In 6 boringen is in de top van het dekzand een intacte podzolbodem ( Ah- en/of E-horizont nog aanwezig ) aan getroffen ( boringen 605 , 617 , 621 , 623 , 624 en 625 ) . 
+In het geval van boring 621 is er , gezien de geringe 13 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes dikte van de horizonten , sprake van een micropodzol . 
+In twee boringen zijn incom plete podzolprofielen ( B-horizont nog aanwezig ) aangetroffen ( boringen 617 en 628 ) . 
+In de boringen 585 en 591 is een pakket organisch materiaal en zand met detrituslagen aangetroffen ( zie figuur 13 ) . 
+Het organische materiaal ligt onder een laag zand die lithologisch identiek is aan dekzand . 
+In boring 585 bestaat dit pakket organisch materiaal uit een 0,04 m dik laagje detritus op een tenminste 0,9 m dikke laag zand met detrituslaagjes . 
+In boring 591 bestaat het pakket uit een circa 0,4 m dikke laag zand met plantenrestjes en detrituslaagjes op een laagje mosveen van 0,08 m dik . 
+In dit geval gaat het niet om veenmos , maar om andere mossoorten zoals Scorpidium of Drepanocladus , die onder zeer natte omstandigheden of onder water groeien . 
+Hieronder bevindt zich een 0,02 m dik laagje detritus en 0,35 m zwak zandige , zeer fijne detritus-gyttja . 
+Mogelijk is hier sprake van een pingoruïne . 
+Deze locatie wordt hieronder verder beschreven . 
+Onder het dekzand is in 19 boringen verspreid over het deelgebied keileem aangetroffen ( lichtgroengrijze , sterk zandige en licht grindige leem ) . 
+Verstoring : de bodemopbouw in deelgebied 217 is over het algemeen niet dieper verstoord dan 0,2 tot 0,5 m -Mv . 
+In boring 591 is de bodem tot circa 1,2 m -Mv verstoord . 
+Waarschijnlijk is hier een dieper deel van de met zand en organisch materiaal gevulde depressie gedempt . 
+Ook in de boringen 602 , 603 en 604 zijn diepe verstoringen aangetroffen . 
+De aard hiervan is niet duidelijk . 
+Archeologische indicatoren : op de locatie van de boringen met een incomplete of intacte pod zolprofielen zijn megaboringen gezet . 
+Het met de megaboor opgeboorde dekzand is nat gezeefd over een zeef met een maaswijdte van 2 mm . 
+In boring 621 is hierbij een fragment verbrand vuursteen aangetroffen . 
+Hoewel het fragment geen artefact is ( d.w.z . 
+geen afslag of werktuig ) , is het wel een aanwijzing dat zich hier mogelijk een vuursteenvindplaats bevindt ( zie verder onder ‘ Waardering vuursteenvindplaats ’ ) . 
+Waardering vuursteenvindplaats : - centrumcoördinaten : 196.930/585.756 ( boring 621 ) - ARCHIS-vondstmeldingsnummer : 414004 - omvang en diepteligging : de omvang van de vindplaats is op grond van het booronderzoek nog niet nauwkeurig vast te stellen . 
+Omdat in de omringende boringen geen archeologische indicatoren zijn aangetroffen , mag worden aangenomen dat de vindplaats een maximale door snede van circa 35 m heeft ( figuur 2 : rode contour ) . 
+Het verbrande vuursteen is gevonden in het dekzand . 
+De top van het dekzand ligt in deze boring direct onder de bouwvoor op circa 0,35 m -Mv ( 0,67 m -NAP ) . 
+- vondstmateriaal : een fragment verbrande vuursteen - datering : er zijn geen typologisch dateerbare artefacten gevonden . 
+Een preciezere datering dan Steentijd is daarom nog niet mogelijk . 
+- waarde : de waarde van deze vindplaats is op grond van het tot nu toe uitgevoerde onderzoek niet vast te stellen . 
+Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 217 is geen pingoruïne . 
+Het is wel een met organisch mate riaal gevulde depressie die ontstaan is door het afsmelten van een ( ondergrondse ) ijslens . 
+Gezien de diepte en omvang van de depressie is waarschijnlijk sprake van een ( minerale ) palsa ( zie hoofdstuk 3 ) . 
+14 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 3 . 
+Deelgebied 217 , boorraai A-A ’ . 
+15 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes $         OHJHQGD ERULQJHQ PHWLQWDFWHSRG ] RO ( KRUL ] RQWDDQZH ] LJ PHWLQFRPSOHWHSRG ] RO DOOHHQ % KRUL ] RQWDDQZH ] LJ  ] RQGHUSRG ] RO ERV PHWYHHQRUJDQLVFKPDWHULDDO   PHWKRXWVNRRO PHJDERULQJ GH6WHHNSURHI  ERRUQXPPHU  ERRUQXPPHUGH6WHHNSURHI RYHULJ  WUDFp JUHQVGHHOJHELHG    5RQGZHJ ERV    % RY HQ ZHJ ERV   P ) UFDZRU73DSULO               Figuur 4 . 
+Resultaten booronderzoek deelgebied 218 , geprojecteerd op het AHN . 
+16 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes - omvang en diepteligging : op het AHN heeft de depressie een doorsnede van circa 125 m in noordzuid richting en circa 100 m in oost-west richting ( figuur 2 ) . 
+Op grond van de boringen heeft de depressie echter een maximale doorsnede van circa 70 m in noord-zuid richting . 
+Omdat geen sprake is van een echte pingoruïne is de doorsnede in oost-west richting niet met boringen vastgesteld . 
+Het diepst aangetroffen punt van de depressie ligt op 2,4 m -Mv ( 2,83 m -NAP ) . 
+- vulling ( figuur 3 ) : in de boringen 585 en 591 is , onder een laag zand die lithologisch identiek is aan het dekzand , een pakket organisch materiaal en zand met detrituslagen aangetroffen . 
+In boring 585 bestaat dit pakket uit een 0,04 m dik laagje detritus op een tenminste 0,9 m dikke laag zand met detrituslaagjes . 
+In boring 591 bestaat het pakket uit een circa 0,4 m dikke laag zand met plantenrestjes en detrituslaagjes op een laagje mosveen van 0,08 m dik . 
+Hieronder bevindt zich een 0,02 m dik laagje detritus en 0,35 m zwak zandige , zeer fijne detritus-gyttja . 
+De organische vulling is goed geconserveerd , maar de dikte ervan is relatief gering ( vergelijk bijvoorbeeld met locatie 24 of 206 ) . 
+De potentie voor lange paleo-ecologische records is daar om beduidend minder . 
+Als geheel heeft de vulling van de depressie daarom een middelmatige kwaliteit . 
+Omdat de vulling minder dik is , is onzeker of de voor de archeologie interessante periode in de organische vulling is geregistreerd . 
+- afdekking : de organische vulling is afgedekt met ( dek ) zand en een laag opgebrachte grond . 
+- archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+- verstoringen : in het centrale deel van de depressie is tot 1,2 m grond opgebracht om de depressie te dempen . 
+Een sloot doorsnijdt de depressie in noord-zuid richting . 
+Conclusies : de bodemopbouw in deelgebied 217 bestaat over het algemeen uit een bouwvoor/verstoorde laag op dekzand . 
+Plaatselijk bevindt zich nog een dunne laag veen tussen de bouwvoor/ verstoorde laag en het dekzand . 
+Onder het dekzand ligt keileem . 
+In het centrale deel van het deelgebied is in meerdere boringen een podzolbodem in de top van het dekzand waargenomen . 
+In één boring is een stukje verbrand vuursteen aangetroffen . 
+Dit is een aanwijzing dat zich hier mogelijk een vuursteenvindplaats bevindt . 
+De aard , om vang en diepteligging van deze vindplaats zijn nog niet vastgesteld . 
+In het westelijke deel van het plangebied bevindt zich een depressie die op grond van de boorgegevens is geïnterpreteerd als het restant van een ( minerale ) palsa . 
+De vulling hiervan bestaat uit een dunne laag organisch materiaal ( fijne detritus-gyttja en mosveen ) . 
+De orga nische vulling is afgedekt met ( dek ) zand . 
+Omdat de organische vulling erg dun is en de top ervan in het centrale deel van de depressie tot circa 1,2 m -Mv verstoord is , is de kans zeer klein dat de paleo-ecologische informatie uit de voor de archeologie interessante periode nog in de vulling aanwezig is . 
+De depressie en de vulling daarin worden daarom niet behoudens waardig geacht . 
+Aanbevelingen : er wordt geadviseerd de mogelijke vuursteenvindplaats middels een waarderend onderzoek te laten onderzoeken om de aard en omvang van de vindplaats vast te stellen . 
+Dit waarderend onderzoek moet bestaan uit een booronderzoek met megaboringen in een grid met boorintervallen van maximaal 5 x5 m. De depressie in dit deelgebied is geen pingoruïne en hoeft dus niet als zodanig in het PIP te worden opgenomen . 
+Archeologisch vervolgonderzoek is hier niet noodzakelijk . 
+In de overige delen van het deelgebied kunnen de voorgenomen bodemingrepen vanuit archeologisch oogpunt zonder bezwaar worden uitgevoerd . 
+17 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Deelgebied 218 Deelgebied : deelgebied 218 ligt ten westen van De Valom en ten zuiden van Broeksterwoude , tussen de Goddeloze Singel en de Hoofdweg ( N 356 ) . 
+Plaats : De Valom Gemeente : Dantumadeel Deelgebied in gebruik als : weiland Lengte deelgebied : 640 m Centrumcoördinaten : 196.228/585.473 Boorstrategie volgens PvA : boringen op een raai met 25 m boorinterval Boorstrategie : conform PvA Totaal aantal boringen : 25 gutsboringen en 2 megaboringen op de locatie van boringen 3 en 24 Boringen : 552 t/m 576 ( figuur 4 ) Minimaal geboorde diepte : 0,8 m -Mv Maximaal geboorde diepte : 2,0 m -Mv Beschrijving laagopeenvolging ( lithologisch ) en interpretatie ( lithogenetisch ) : de top van de laagopeenvolging in deelgebied 218 bestaat uit een bouwvoor/verstoorde laag ( bruingrijs of donkerbruingrijs , matig siltig , matig tot sterk humeus , zeer fijn zand en donker grijsbruin , zwak tot sterk zandig , veraard veen , vaak met zand- en/of veenbrokken ) met een dikte tussen 0,2 en 0,4 m. Ter hoogte van de boringen 561 , 562 en 563 is de bodem tot circa 0,95 m -Mv ver stoord ; ter hoogte van boringen 566 , 567 en 568 is de bodem tot circa 0,7 m -Mv ver stoord . 
+Onder de bouwvoor/verstoorde laag bevindt zich in 8 boringen ( figuur 4 ) een dunne laag veen ( zwartbruin tot bruin , mineraalarm tot zwak zandig bosveen en amorf veen ) . 
+Onder de veenlaag en waar deze ontbreekt direct onder de bouwvoor/verstoorde laag , bevindt zich dek zand ( zwak tot matig siltig , zeer fijn en matig fijn zand ) . 
+De top van het dekzand ligt tussen 0,2 en 0,95 m -Mv . 
+In de top van het dekzand is vrijwel overal bodemvorming opgetreden . 
+In de meeste gevallen gaat het daarbij niet om podzolvorming , maar om inspoeling van humus en ijzer onder invloed van ( op de keileem ) stagnerend grondwater . 
+In de boringen 554 en 575 zijn respectievelijk een incompleet podzolprofiel ( goed ontwikkelde Bs-horizont ) en een intact podzolprofiel ( met een deel van de Ah- en de gehele E-horizont nog aanwezig ) aangetroffen . 
+Onder het dekzand is in de boringen 567 , 573 , 574 , 575 en 576 keileem aangetroffen ( lichtgroengrijze , sterk zandige en licht grindige leem ) . 
+Verstoring : de bodemopbouw in deelgebied 218 is over het algemeen niet dieper verstoord dan 0,2 tot 0,4 m -Mv . 
+Ter hoogte van de boringen 561 , 562 en 563 is de bodem tot circa 0,95 m -Mv verstoord . 
+Mogelijk betreft dit een gedempte sloot . 
+Ter hoogte van boringen 566 , 567 en 568 is de bodem tot circa 0,7 m -Mv verstoord . 
+Verder loopt er , op grond van de KLIC-gege vens , een aardgastransportleiding door het uiterste oosten van het deelgebied . 
+De bodem rondom deze leiding zal ook ernstig verstoord zijn . 
+Archeologische indicatoren : op de locatie van de boringen met een incompleet of intact podzolprofiel ( resp . 
+boringen 554 en 575 ) is een megaboring gezet . 
+Het met de megaboor opge boorde dekzand is nat gezeefd over een zeef met een maaswijdte van 2 mm . 
+In boring 554 zijn geen archeologische indicatoren aangetroffen . 
+In boring 575 is houtskool aangetroffen in de E-horizont . 
+Dit houtskool is niet verzameld . 
+Waarschijnlijk heeft het houtskool een natuur lijke oorsprong en is het geen aanwijzing voor een vindplaats . 
+18 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Conclusies : de bodemopbouw in deelgebied 218 bestaat over het algemeen uit een bouwvoor/verstoorde laag op dekzand . 
+Plaatselijk bevindt zich nog een dunne laag veen tussen de bouwvoor/verstoorde laag en het dekzand . 
+Onder het dekzand ligt keileem . 
+In het oostelijke deel van het deelgebied is in één boring een podzolbodem in de top van het dekzand waargenomen . 
+Hierin zijn kleine fragmentjes houtskool aangetroffen . 
+Waarschijnlijk heeft het houtskool een natuurlijke oorsprong . 
+Aanwijzingen voor een vindplaats ontbreken . 
+Aanbevelingen : de voorgenomen bodemingrepen in deelgebied 218 kunnen vanuit archeologisch oogpunt zonder bezwaar worden uitgevoerd . 
+Deelgebied 2 Deelgebied : deelgebied 2 bevindt zich aan de zuidwestkant van Burgum , ten zuiden van de Hillamaweg en ten noordoosten van de Wijde Ee . 
+Plaats : Burgum Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : akker , weiland , open water Centrumcoördinaten : 194.635/578.352 Boorstrategie volgens PvA : boringen in 2 kruisende raaien , boorinterval 15 m en 20 m , aanvul lend op de al door de Steekproef gezette boringen . 
+Boorstrategie : aanvullende boringen aan de oost- en westzijde van de depressie en één boring in het centrum van de depressie . 
+Totaal aantal boringen : 6 gutsboringen Boringen : 688 t/m 693 ( figuur 5 ) Minimaal geboorde diepte : 1,0 m -Mv Maximaal geboorde diepte : 5,5 m -Mv Resultaten veldonderzoek : de laagopeenvolging in deelgebied 2 wordt van boven naar onder be schreven ( zie figuren 6 en 7 voor de boorraaien ) . 
+De top van de laagopeenvolging bestaat uit een 0,3 tot 0,8 m dikke bouwvoor/verstoorde laag ( donkergrijsbruin , sterk zandig veen en donkerbruingrijs , matig siltig , matig humeus , matig fijn zand met keileem- en zandbrokken ) . 
+Deze laag is opgebracht om de depressie te dempen . 
+Onder de bouwvoor/verstoorde laag ligt een pakket organisch materiaal met een dikte tussen 0,18 en 4,65 m. In boring 689 bestaat het pakket aan de basis uit een 0,8 m dikke laag sterk zandige gyttja die naar boven toe minder zandig wordt . 
+Hierop ligt een 0,65 m dikke laag fijne detritus-gyttja met enkele dunne zandlaagjes , gevolgd door een 0,5 m dikke laag gyttja . 
+In deze gyttjalaag zijn laagjes en vlekken kalkgyttja waargenomen . 
+Kalkgyttja duidt er op dat er kalkrijk grondwater in de pingoruïne opkwelde . 
+Naar boven toe gaat de gyttja geleidelijk over in een fijne detritus-gyttja en vervolgens in mosveen met laagjes zeggeveen aan de basis . 
+Een microscopische analyse van deze laag mosveen wijst uit dat deze hoofdzakelijk bestaat uit Sphagnum sect . 
+cuspidatum , een soort die groeit in zeer voedselarme , natte milieus . 
+Dit betekent dat de pingoruïne op enig moment vrijwel is dichtgegroeid en alleen nog door regen water werd gevoed . 
+Dit is , in vergelijking met veel andere pingoruïnes waarin tot vrijwel aan het maaiveld open-water afzettingen zijn aangetroffen , een bijzondere situatie . 
+Op het mos veen volgt een 0,4 m dikke gyttjeuze zandlaag , waarmee de locale hydrologische situatie weer meer naar open water lijkt te verschuiven . 
+Ook het voorkomen van een dergelijk dik pakket zand in een pingoruïne is 19 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes         &      %   &             ERRUQXPPHU EHJUHQ ] LQJSLQJRUXwQH ERRUUDDLPHWUDDLOHWWHUV EHJUHQ ] LQJYXXUVWHHQYLQGSODDWV GH6WHHNSURHI WUDFp ERRUQXPPHUGH6WHHNSURHI Figuur 5 . 
+Resultaten booronderzoek deelgebied 2 , geprojecteerd op het AHN . 
+20    IRWRQXPPHU                                PHWYHHQRUJDQLVFKPDWHULDDO    IRWRORFDWLHHQULFKWLQJ   RYHULJ ] RQGHUSRG ] RO % %  OHJHQGD ERULQJHQ   P ) UFDZRU73DSULO       RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 6 . 
+Deelgebied 2 , boorraai B-B ’ . 
+21 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 7 . 
+Deelgebied 2 , boorraai C-C ’ . 
+22 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes opmerkelijk , en wijst op erosie van het landschap rondom de pingoruïne . 
+Op de zandlaag ligt een 1,35 m dikke laag bosveen . 
+Deze laag is licht veraard , wat wijst op iets drogere omstandigheden . 
+Het organische pakket wordt afgesloten door een 0,25 m dikke laag veraard veen . 
+In boring 688 bestaat de vulling van de pingoruïne uit een 1,53 m dikke laag met voornamelijk fijne detritus-gyttja en bosveen . 
+Opvallend in deze boring is het voorkomen van een 0,15 m dikke kleilaag op 1,1 m -Mv . 
+De herkomst en datering van deze kleilaag zijn onbekend , maar over het algemeen zijn dergelijke kleilagen het gevolg van mariene invloeden ( overstromingen ) . 
+In de overige boringen in dit deelgebied , die meer op de flanken van de pingoruïne zijn gezet , is het organische pakket dunner en minder complex van opbouw en bestaat het over het algemeen uit fijne detritus-gyttja . 
+Onder het organische pakket bevindt zich zand . 
+In de boringen 690 , 692 en 693 gaat het daarbij waarschijnlijk om dekzand of restanten van de deklaag van de pingo die na het afsmelten van de ijslens de depressie in zijn gegleden ( matig siltig , zeer fijn zand op zwak siltig , zwak grindig , matig fijn zand ) . 
+In boring 689 gaat het waarschijnlijk om ouder ( Midden Pleistoceen ) zand ( lichtgroengrijs , matig siltig , matig fijn zand ) . 
+Onder het zandpakket in de boringen 690 , 692 en 693 ligt keileem ( lichtgroengrijze , sterk zandige , zwak grindige leem met dikke zandlagen ) . 
+In boring 691 ontbreken het organische pakket en de ( dek ) zandlaag . 
+Hier ligt de bouwvoor/verstoorde laag direct op het keileem . 
+Archeologische indicatoren : in de boringen zijn geen archeologische indicatoren aangetroffen . 
+Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 2 is met zekerheid een pingoruïne . 
+- omvang en diepteligging : de pingoruïne ( zoals gedefinieerd door de organische vulling ) heeft een doorsnede van circa 120 m in oost-west richting en circa 140 m in noord-zuid richting . 
+Dit komt goed overeen met de omvang van de depressie op het AHN . 
+Het diepste aangetroffen punt van de pingoruïne ligt op circa 5,15 m -Mv ( 5,92 m -NAP ) . 
+- vulling : de vulling van de pingoruïne bestaat uit een tot 4,65 m dik pakket gyttja , detritus-gyttja en veen . 
+De vulling is lithologisch veel complexer dan die van veel andere pingoruïnes in de omgeving . 
+De organische vulling is over het algemeen goed bewaard gebleven . 
+Alleen in de veraarde top ervan zal de kwaliteit minder hoog zijn . 
+- afdekking : aan de noordzijde is grond opgebracht om de depressie te dempen . 
+Van natuur lijke afdekkende lagen lijkt geen sprake , hoewel de kleilaag in boring 688 zeker onder invloed van processen buiten de pingoruïne is gevormd . 
+Mogelijk is ook een deel van het bovenste bosveen eerder gerelateerd aan de veenvorming in het ten zuiden van het deelgebied gele gen laagveengebied , maar dat is op grond van het booronderzoek niet vast te stellen . 
+- archeologische vindplaatsen : circa 60 m ten noorden van de boringen 141 en 142 zijn tijdens het booronderzoek vuurstenen artefacten aangetroffen op het maaiveld ( zie ‘ waardering vuursteenvindplaats ’ ) . 
+- verstoringen : de pingoruïne is in ieder geval aan de noordzijde vrijwel geheel gedempt . 
+De pingoruïne wordt doorsneden door sloten en een poel . 
+Waterpeilverlagingen in de sloten zullen leiden tot een verlaging van het grondwaterpeil , met oxidatie ( veraarding ) van de top van de organische vulling als gevolg . 
+23 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Waardering vuursteenvindplaats : - centrumcoördinaten : 194.554/578.395 - ARCHIS-vondstmeldingsnummer : 414005 - omvang en diepteligging : er is geen booronderzoek op deze locatie uitgevoerd . 
+De vondsten zijn afkomstig uit een gebiedje met een straal van circa 15 m rondom de opgegeven centrum coördinaten . 
+Volgens het eerder verrichte booronderzoek ( Exaltus & De Neef , 2008 ) bestaat de bodemopbouw uit een 0,4 tot 0,8 m dikke bouwvoor op dekzand . 
+De vindplaats zal zich waarschijnlijk in de top van het dekzand hebben bevonden . 
+Er zijn echter geen sporen van bodemvorming aangetroffen . 
+Dit lijkt er op te wijzen dat de top van het dekzand en daarmee een eventuele vondstlaag in de bouwvoor is opgenomen . 
+Dieper ingegraven sporen kunnen overigens nog wel aanwezig zijn . 
+- vondstmateriaal : op het maaiveld zijn 5 vuurstenen artefacten gevonden . 
+Het betreft 1 kling , 1 licht verbrande afslag met retouche , 2 verbrande afslagen en 1 verbrand brokje ( waarschijnlijk bewerkingsafval ) . 
+- datering : op grond van de gevonden artefacten lijkt een datering in het Mesolithicum het meest waarschijnlijk . 
+- waarde : op grond van de beschikbare gegevens kan de waarde van de vindplaats nog niet vastgesteld worden . 
+Conclusies : de depressie in deelgebied 2 is een grote , goed bewaard gebleven pingoruïne . 
+Hoewel de pingoruïne niet goed meer te herkennen is in het landschap en er met name aan de noordzijde grond opgebracht is , is de organische vulling nog grotendeels intact . 
+In vergelijking met bijvoorbeeld de pingoruïnes in de deelgebieden 5 en 207 is de opbouw van de vulling van deze pingoruïne opvallend complex . 
+Het voorkomen van kleilagen , veenmos- en wollegrasveen in de vulling is uniek voor de in dit kader onderzochte pingoruïnes en duidt er op dat in de vulling niet alleen lokale , maar ook regionale landschappelijke veranderingen zijn geregistreerd . 
+De verschillen in lithologie en veensoort wijzen op grote variaties in lokale waterstand en aanvoer van grondwater . 
+Aanbevelingen : er wordt geadviseerd de pingoruïne volgens de gele contour op figuur 5 op te nemen op het PIP en te vrijwaren van bodemingrepen en alle andersoortige ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van de pingoruïne bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecologische informatie veilig te stellen . 
+Over de vuursteenvindplaats ten noordwesten van de pingoruïne is op dit moment vrij weinig bekend . 
+Op grond van de bodemopbouw in de enkele boringen die in de buurt ervan gezet zijn , lijkt er geen sprake meer te zijn van een intact vondstniveau . 
+Aanvullend booronderzoek heeft daarom geen zin . 
+Omdat dieper ingegraven sporen nog wel aanwezig kunnen zijn ( maar niet met booronderzoek kunnen worden opgespoord ) , wordt geadviseerd de bodemingrepen in dit tracédeel archeologisch te begeleiden . 
+24 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Deelgebied 5 Deelgebied : deelgebied 5 ligt ten westen van Burgum , ten oosten van de Langelaan en ten zuiden van de Heidelaan . 
+Plaats : Burgum Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : natuurgebied ( grasland , riet , struikgewas en open water ) Centrumcoördinaten : 194.071/579.467 Boorstrategie volgens PvA : boringen in 2 kruisende raaien , boorinterval 15 en 20 m , aanvullend op de al door de Steekproef gezette boringen . 
+Boorstrategie : aanvullende boringen aan de oost- , zuid- en westzijde van de depressie en één boring aan de noordzijde . 
+Totaal aantal boringen : 15 gutsboringen Boringen : 673 t/m 687 ( figuur 8 ) Minimaal geboorde diepte : 1,0 m -Mv Maximaal geboorde diepte : 2,9 m -Mv Resultaten veldonderzoek : de laagopeenvolging in deelgebied 5 wordt van onder naar boven beschreven ( zie figuren 9 en 10 voor de boorraaien ) . 
+In de randzone van de depressie bestaat de top van de laagopeenvolging uit een 0,15 tot 0,5 m dikke bouwvoor/verstoorde laag ( matig siltig , matig tot sterk humeus , zeer fijn of matig fijn zand en sterk zandig veraard veen , vaak met zand- en keileembrokken ) . 
+Hier is grond opgebracht om de depressie te dempen . 
+Onder de bouwvoor/verstoorde laag en in het centrale deel direct aan de oppervlakte , bevindt zich een pakket organisch materiaal . 
+De maximaal aangetroffen dikte van dit pakket is 2,7 m. Het pakket bestaat aan de basis uit een laag gyttjeus zand en zwak tot sterk zandige gyttja . 
+De top van de gyttja-laag is in boring 673 erg compact en lijkt licht veraard . 
+Op de gyttja-laag ligt een vrij homogeen pakket detritus-gyttja . 
+De top van het pakket is plaatselijk veraard . 
+Ook komt aan de top een zeer slappe laag riet- , rietzegge- en zeggeveen voor . 
+De overgang naar het eronder gelegen organische materiaal is zeer scherp . 
+Dit veen lijkt relatief recent te zijn . 
+Onder het pakket organisch materiaal bevindt zich zand ( lichtgroengrijs , zwak tot matig siltig , matig fijn zand . 
+In de boringen 676 , 679 , 683 en 684 is een pakket zand aangetroffen dat op grond van de lithologische kenmerken ( overwegend matig siltig , zeer fijn zand met plantenresten of detritus laagjes ) wordt geïnterpreteerd als afzettingen uit de oeverzone van de pingoruïne . 
+In deze oeverzone is ( dek ) zand van de randen van de pingoruïne verspoeld door golfwerking . 
+Mogelijk is ook zand in de oeverzone gewaaid of gespoeld tijdens regenbuien . 
+De oeverafzettingen komen zowel onder het organische pakket als er in ingeschakeld voor . 
+De laagopeenvolging in de boringen in de randzone van de depressie ( boringen 677 , 681 en 685 ) bestaat uit een 0,4 tot 0,5 m dikke bouwvoor/verstoorde laag ( donkerbruingrijs , matig siltig , sterk humeus zand , vaak met zandbrokken ) op dekzand ( matig siltig , matig humeus , soms licht grindig , zeer fijn tot matig fijn zand ) . 
+Onder het dekzand ligt keileem ( lichtgroen grijze , sterk zandige , licht grindhoudende leem , vaak met dikke zandlagen ) . 
+Archeologische indicatoren : in de boringen zijn geen archeologische indicatoren aangetroffen 25 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes              (     ER V ' H ORDQ +HLGH ER V     ' J EUHQ DDQ DP HQG     (    P             OHJHQGD ERULQJHQ RYHULJ ] RQGHUSRG ] RO IRWRORFDWLHHQULFKWLQJ  PHWYHHQRUJDQLVFKPDWHULDDO  ' ' IRWRQXPPHU ERRUQXPPHU WUDFp ERRUUDDLPHWUDDLOHWWHUV EHJUHQ ] LQJSLQJRUXwQH GH6WHHNSURHI  ERRUQXPPHUGH6WHHNSURHI ) UFDZRU73DSULO Figuur 8 . 
+Resultaten booronderzoek deelgebied 5 , geprojecteerd op het AHN . 
+26 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 9 . 
+Deelgebied 5 , boorraai D-D ’ . 
+27 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 10 . 
+Deelgebied 5 , boorraai E-E ’ . 
+28 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 5 betreft met zekerheid een pingoruïne omvang en diepteligging : op grond van de aanwezigheid van de organische vulling en eventuele oeverafzettingen in de boringen heeft de pingoruïne een doorsnede van circa 170 m in oost-west richting en circa 190 m in noord-zuid richting . 
+Dit komt vrij goed overeen met de omvang van de depressie op het AHN . 
+Op het AHN heeft de depressie met name aan de west kant een nogal onregelmatige vorm als gevolg van het opbrengen van grond . 
+Het diepst aan ge troffen punt van de pingoruïne ligt op circa 2,7 m -Mv ( ca . 
+2,71 m -NAP ) , maar de verwachting is dat de pingoruïne in het centrum nog dieper is . 
+- vulling : de basis van de vulling van de pingoruïne bestaat uit een laag gyttjeus zand en sterk zandige gyttja die naar boven toe snel minder zandig wordt . 
+Deze gyttjalaag is tussen 0,3 en 0,73 m dik . 
+Op de gyttja-laag ligt een pakket detritus-gyttja . 
+De laag detritus-gyttja heeft een dikte tussen circa 0,3 en 1,6 m. Hierbij moet wel opgemerkt worden dat er niet in het midden van de pingoruïne geboord kon worden en dat de hier genoemde diktes dus minimumwaarden zijn . 
+De top van het pakket is meestal veraard . 
+De dikte van het veraarde deel van het pakket detritus-gyttja is tot circa 0,4 m dik . 
+Ook komt aan de top een laag riet- , rietzegge- en zeggeveen voor met een dikte van 0,7 tot 1,05 m. De organische vulling van de pingoruïne is over het algemeen goed bewaard gebleven . 
+Alleen in de veraarde top ervan is de kwaliteit minder hoog . 
+- afdekking : in vrijwel de gehele randzone is de vulling van de pingoruïne afgedekt met een laag opgebrachte grond . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+- ringwal : er zijn geen aanwijzingen voor een ringwal gevonden - archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische ( vuursteen ) vind plaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+- verstoringen : in de gehele randzone van de pingoruïne is grond opgebracht . 
+De poel in het mid den van de depressie staat in open verbinding met de sloten rondom het deelgebied . 
+Waterpeilverlagingen in de sloten zullen dus ook leiden tot een waterstandsverlaging in de pingoruïne , met oxidatie ( veraarding ) van de organische vulling als gevolg . 
+Volgens omwonenden is de poel tot vrij recent gebruikt om afval en dergelijke in te dumpen . 
+Conclusies : de depressie in deelgebied 5 betreft een grote , goed bewaard gebleven pingoruïne . 
+Hoewel de pingoruïne in de randzone gedempt is , is de organische vulling in het centrale deel waarschijnlijk nog grotendeel intact . 
+Aanbevelingen : er wordt geadviseerd de pingoruïne volgens de gele contour op figuur 8 op te nemen op het PIP en te vrijwaren van bodemingrepen en alle andere typen ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van de pingoruïne bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecologische informatie veilig te stellen . 
+29 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes                                         P ) UFDZRU73DSULO             % XUJHUYHHQVWHUYDDUW ] RQGHUSRG ] RO PHWYHHQRUJDQLVFKPDWHULDDO  ERRUQXPPHU RYHULJ WUDFp EHJUHQ ] LQJSLQJRUXwQH DDQEUH ERULQJHQ QJHQG XLNHU OHJHQGD GH6WHHNSURHI  ERRUQXPPHUGH6WHHNSURHI Figuur 11 . 
+Resultaten booronderzoek deelgebied 9 , geprojecteerd op het AHN . 
+30 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Deelgebied 9 De relevante delen van de beschrijving en interpretatie van dit deelgebied zijn overgenomen uit Veenstra & Van den Berg ( 2009 ) . 
+Deelgebied : deelgebied 9 betreft een mogelijke pingoruïne die deels in het tracé van de Centrale As ligt , ten zuidoosten van Hurdegaryp , ten noorden van de Simmerwei en circa 100 m ten westen en 200 m ten noorden van de Burgumerfeansterfeart ( zie Veenstra & Van den Berg , 2009 : kaartbijlage 1 en figuur 2 ) . 
+ARCHIS-onderzoeksmeldingsnummer/CIS-code : 37293 Plaats : Hurdegaryp Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : grasland Oppervlakte deelgebied : 0,43 ha Centrumcoördinaten : 197.745/580.540 Specifieke onderzoeksvragen : dit deelgebied is eerder door De Steekproef ( Exaltus & De Neef , 2008 ) onderzocht ( figuur 11 ) . 
+Volgens dit onderzoek komt in de depressie veen voor tot maximaal 1,6 m -Mv en betreft het waarschijnlijk geen pingoruïne . 
+Wel wordt geadviseerd om bodem-ingrepen te beperken tot de bouwvoor , omdat het wel een met veen gevulde depressie is . 
+Dit veen vormt de neerslag van eeuwen van plantengroei in en rond deze depressie en vormt daardoor een belangrijke paleobotanische informatiebron die het waard is om behouden te blijven . 
+De provincie meldt vervolgens ( conform het PvA ) : op het AHN is echter te zien dat het vermoedelijk niet om een puntlocatie , maar om een deel van een breder fenomeen gaat . 
+Dit vermoeden zal door middel van een aantal boringen buiten het tracé van de Centrale As moeten worden onderzocht . 
+Daarnaast zullen de boringen binnen de locatie moeten worden verdicht door middel van megaboringen , op zoek naar indicatoren . 
+De vraag die op grond van dit aanvullende onderzoek moet worden beantwoord , is of ten aanzien van deze locatie nader onderzoek of maatregelen noodzakelijk zijn . 
+Boorstrategie volgens PvA : 12 gutsboringen en 6 megaboringen Boorstrategie : aangezien tijdens het booronderzoek is gebleken dat er wel degelijk sprake is van een pingoruïne , is in overleg met de provincie afgeweken van de boorstrategie volgens het PvA . 
+Om de aard , omvang en kwaliteit van de pingoruïne beter vast te kunnen stellen , zijn 15 gutsboringen gezet in 2 elkaar kruisende raaien door de depressie met een afstand van in het algemeen 12,5 of 25 m tussen de boringen . 
+Er zijn ook 3 ‘ losse ’ gutsboringen gezet . 
+Er zijn geen megaboringen verricht , aangezien gutsboringen geschikter zijn voor dit type onderzoek . 
+Totaal aantal boringen : 18 gutsboringen Boringen : 476 t/m 493 ( zie figuur 6 ) Minimaal geboorde diepte : 1,5 m -Mv Maximaal geboorde diepte : 3,85 m -Mv Resultaten veldonderzoek : de op de FAMKE ( op basis van de bodemkaart ) aangegeven dobbe tekent zich in het landschap vaag af als een ovaal-ronde depressie in het grasland ; de om vang is circa 140 x 105 m ( globale centrumcoördinaten : 193.750/580.517 ; figuur 11 : gele contour ) . 
+Deze omvang is bepaald op basis van hoogte ver schillen op het AHN . 
+Het hoogteverschil tus sen de directe omgeving en het laagste deel van de depressie is niet meer dan 0,4 m. De depressie is niet watervoerend . 
+31 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes De basis van de laagopeenvolging bestaat in het algemeen uit keileem ( lichtgroengrijze , zwak tot sterk zandige , zwak grindige leem , soms met enkele siltlagen ; zie Veenstra & Van den Berg , 2009 : figuren 3 en 4 ) . 
+Dit is een grond morene . 
+In de boringen 477 , 478 , 489 en 490 bevindt zich onder de keileem , die hier 0,15 tot 0,73 m dik is , lichtgrijs tot lichtgroengrijs zand ( zwak tot matig siltig , matig fijn tot matig grof , soms zwak grindig , soms met keileembrokken ) . 
+Dit zijn waarschijnlijk fluvioglaciale afzettingen die deel uitmaken van het keileempakket . 
+In boring 482 ligt op de keileem een 0,3 m dikke laag keizand ( lichtgroengrijs , matig siltig , zwak grindig , matig grof zand ) . 
+In boring 484 ontbreekt de keileem en is een 0,1 m dikke laag kei zand op fluvioglaciaal zand aangetroffen . 
+In het diepste deel van boring 487 is op 1,4 m -Mv de top van een laag keizand aangetroffen die minstens 0,35 m dik is . 
+Dit keizand is ontstaan als gevolg van de verwe ring van het keileem . 
+Op het keileem en/of keizand komt in de boringen 477 , 478 , 482 , 485 , 486 , 487 , 489 en 490 een 0,2 tot 0,5 m dikke laag zand met een sterk varia bele kleuring en samenstelling voor ( bruin tot lichtgeelgrijs , zeer fijn tot matig grof , zwak tot matig siltig , vaak zwak grindig , soms met enkele siltlagen ) . 
+Het betreft fluvioperiglaciale afzettingen die zijn ontstaan door verspoeling en verwaaiing van glaciale afzettingen . 
+Op de fluvioperiglaciale afzettingen of direct op het keizand/keileem ligt een 0,15 tot 0,9 m dikke laag dekzand ( lichtgeelgrijs tot lichtgeelbruin , soms grijsbruin , zwak tot matig siltig , matig fijn tot matig grof zand , soms met enkele siltlagen ) . 
+Dekzand is ontstaan door laat-glaciale zand verstuivingen . 
+In de boringen 477 en 485 bevindt zich op het dekzand een 0,1 tot 0,22 m dikke laag zwak tot sterk humeus zand ( lichtbruingrijs tot grijsbruin , zwak tot matig siltig , matig fijn ) . 
+Deze laag is ontstaan als gevolg van vernatting van het gebied in het Holoceen . 
+De laagopeenvolging wordt afgesloten door een 0,2 tot 0,53 m dikke bouwvoor/verstoorde toplaag ( bruingrijs tot donkerbruingrijs zwak tot matig siltig , matig tot sterk hu meus , matig fijn zand ) . 
+In de boringen 476 , 479 , 480 , 481 , 484 , 488 , 491 , 492 en 493 , die in het centrale deel van de depressie zijn gezet , is geen keileem of keizand aangetroffen . 
+Hier bestaat de basis van de laagopeenvolging uit een laag meestal lichtgroengrijs ( soms lichtgrijs tot lichtbruingrijs ) zand ( matig siltig , matig fijn , soms matig grof , soms zwak grindig , met soms een spoor plantenresten of humusvlekken ) . 
+Dit zijn waarschijnlijk fluvioperiglaciale afzettingen die ontstaan zijn tijdens en na de vorming van een ijslens in het Weichselien . 
+In deze depressie bevindt zich een laag organisch materiaal waarvan de basis meestal bestaat uit een 0,1 tot 0,35 m dikke laag doorwortelde detritus-gyttja ( groengrijs tot grijsbruin , zwak tot sterk zandig ) . 
+Detritus-gyttja is een open-watersediment . 
+In boring 479 is de detritus-gyttja aangetroffen tot maximaal 3,12 m -Mv ( 3,72 m -NAP ) . 
+Hierop ligt meestal een 0,13 tot 0,9 m dikke laag detritus-veen ( lichtbruin tot bruin , mineraalarm tot zwak zandig veen , soms met veel dunne zandlagen ) . 
+Op het detritus-veen is een 0,35 tot 0,8 m dikke laag zand ingestoven ( grijsgeel tot lichtbruingeel , zwak siltig , soms matig siltig matig fijn tot matig grof , soms humeus stuifzand , soms met enkele silt- , humus- of veenlagen ) . 
+In de boringen 490 en 493 ontbreekt de laag detritus-veen en ligt het stuifzand direct op de detritus-gyttja . 
+In boring 492 bevindt zich tussen de detritus-gyttja en het stuifzand een 0,05 m dik laagje sterk zandig , niet nader gedefinieerd veen . 
+In de boringen 476 , 479 , 480 , 484 , 488 en 491 is op het stuifzand een 0,1 tot 0,9 m dikke laag veen ( bruin tot zwartbruin , mineraalarm tot zwak zandig , soms sterk zandig bosveen , rietveen , amorf of veraard veen of detritus ) aangetroffen . 
+In de boringen 483 , 486 en 487 , die langs de rand van de depressie zijn gezet , ontbreekt het stuifzand en ligt deze veenlaag ( 0,15 tot 0,3 m 32 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes dik ) direct op een laag dekzand . 
+In boring 483 is deze veenlaag geheel verstoord en in boring 480 alleen de bovenste 0,45 m. In de boringen 476 en 488 is de bovenste 0,25 tot 0,3 m van deze veenlaag opgenomen in de bouwvoor ( grijsbruin tot donkerbruingrijs , zwak zandig veen ) . 
+In de boringen 479 , 481 , 482 en 489 t/m 493 is onder een 0,2 tot 0,4 m dikke bouwvoor ( bruingrijs , zwak tot matig siltig , matig humeus , matig fijn zand , soms met keileembrokken ) een 0,23 tot 0,65 m dikke , verstoorde laag ( bruingrijs , zwak tot matig siltig , matig humeus , matig fijn zand , vaak met keileembrokken ) aangetroffen . 
+Het betreft grond die in het verleden is gebruikt om de depressie te dempen . 
+Ter hoogte van de boringen 489 en 490 is de bodem tot circa 0,65 m -Mv verstoord . 
+Hier kwam in het verleden vrijwel zeker ook een laag organisch materiaal voor . 
+Archeologische indicatoren : in de boringen en aan de oppervlakte zijn geen archeologische indicatoren aangetroffen . 
+Waardering pingoruïne : ( … ) Op basis van de boringen blijkt de depressie een volledig verlan de/ gedempte pingoruïne te zijn . 
+De min of meer ronde depressie is opgevuld met organisch materiaal , ingestoven zand en humeus zand . 
+De basis van het opvullingspakket bestaat uit detritusgyttja . 
+In boring 479 heeft het pakket een maxi male dikte van 2,28 m en bevindt zich tot op 3,12 m -Mv ( 3,72 m -NAP ) . 
+In deze boring bestaat de bovenste 0,84 m uit gedempte grond en een bouwvoor . 
+Het pakket heeft een omvang van circa 115 x 90 m. De omvang van de depressie op basis van het AHN ( 140 x 105 m ) wordt echter gezien als de feitelijke om vang van de pingoruïne ( figuur 6 : gele contour ) . 
+De laag keileem en/of keizand zoals die voor komt ter hoogte van de rand van de depressie en de directe omgeving , is in de depressie zelf onderbroken . 
+Al deze kenmerken duiden op een pingoruïne . 
+Een ringwal , die in het algemeen rond de depressie van een pingoruïne voor komt , is op de onderzochte locatie niet herkend . 
+Deze is waarschijnlijk door recente ingrepen verdwenen . 
+De volledige breedte van het tracé loopt door de westelijke helft van de pingoruïne . 
+De organische vulling heeft op basis van de aard , dikte en zandigheid van de organische lagen , de ingestoven zandlaag en de demping een matige paleobotanische waarde . 
+Het is onduidelijk of de voor de archeologie relevante periodes ( Laat Paleolithicum , Mesolithicum , Neolithicum en Vroege Brons tijd ) zijn geregistreerd in de nog aanwezige , organische vulling . 
+De kans op het voorkomen van een archeologische vindplaats uit de Steentijd langs een pingoruïne is niet groot . 
+Nederzettingen uit het Laat Paleolithicum en Mesolithicum langs pingo ruïnes zullen in het algemeen klein zijn geweest en daarmee met prospectief archeologisch onderzoek moeilijk op te sporen . 
+Archeologisch onderzoek rond pingoruïnes heeft tot nu toe ook meestal geen archeologische vindplaatsen opgeleverd . 
+Een nederzetting uit het Neolithi cum wordt rond deze pingoruïne niet verwacht aangezien in de nabijheid voor akkerbouw geschiktere , hogere dekzandgronden voorkomen . 
+De pingoruïne heeft daarmee een lage , kwan titatieve , archeologische verwachting en wordt archeologisch niet behoudenswaardig geacht . 
+Conclusies : de onderzochte dobbe is een volledig verlande/gedempte pingoruïne ( omvang 140 x 105 m ) die zich als depressie vaag in het landschap aftekent . 
+De volledige breedte van het tracé loopt door de westelijke helft van de pingoruïne . 
+De min of meer ronde depressie is gevuld met een pakket organisch materiaal , ingestoven zand en humeus zand dat een maximaal waargenomen dikte heeft van 2,28 m. De basis van dit pakket bestaat uit detritus-gyttja . 
+Het diepste waargenomen punt van de vulling bevindt zich op 3,12 m -Mv ( 3,72 m -NAP ) . 
+De pingoruïne heeft een matige paleobotanische waarde en een lage , kwantitatieve , archeologische verwachting . 
+Tijdens het onderzoek zijn 33 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes          *   ) )   *    P ) UFDZRU73DSULO       OHJHQGD ERULQJHQ RYHULJ JXWVERULQJ IRWRORFDWLHHQULFKWLQJ  PHWYHHQRUJDQLVFKPDWHULDDO  * * IRWRQXPPHU ERRUQXPPHU WUDFp ERRUUDDLPHWUDDLOHWWHUV EHJUHQ ] LQJSLQJRUXwQH HQGXLN ERRUQXPPHUGH6WHHNSURHI HU GH6WHHNSURHI  Figuur 12 . 
+Resultaten booronderzoek deelgebied 10 , geprojecteerd op het AHN . 
+34     RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes ook geen aan wijzingen voor archeologische vind plaatsen aangetroffen . 
+De pingoruïne wordt archeologisch niet behoudenswaardig geacht . 
+Aanbevelingen : als de plannen ongewijzigd worden uitgevoerd , zal de westelijke helft van de pingo ruïne vrijwel volledig worden vernietigd . 
+Daarna zal als gevolg van ontwatering ( bermsloten ) mogelijk ook de organische vulling in de oostelijke helft ( deels ) verdwijnen als gevolg van oxidatie . 
+Op basis van de matige paleobotanische waarde wordt daarom aanbevolen om , vóórdat de bodemingrepen plaatsvinden , enkele paleobotanische monsters te laten nemen voor eventueel toekomstig onderzoek . 
+Indien tijdens de bodemingrepen archeologische vondsten worden gedaan , dient dit direct te worden gemeld bij de provinciaal archeoloog . 
+Deelgebied 10 Deelgebied : deelgebied 10 ligt ten oosten van Hurdegaryp , ten noordwesten van Burgum en circa 300 m ten zuiden van de Rijksstraatweg ( N 355 ) . 
+Plaats : Hurdegaryp Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : akker , weiland , ruige begroeiing ( riet , struikgewas ) Centrumcoördinaten : 193.797/581.097 Boorstrategie volgens PvA : boringen in 2 kruisende raaien , boorinterval 15 m en 20 m , aanvul lend op de al door de Steekproef gezette boringen . 
+Boorstrategie : 6 boringen in de noordelijke helft en 3 boringen in de zuidelijke helft van de pingoruïne . 
+Totaal aantal boringen : 9 gutsboringen Boringen : 651 t/m 659 ( figuur 12 ) Minimaal geboorde diepte : 1,35 m -Mv Maximaal geboorde diepte : 4,75 m -Mv Resultaten veldonderzoek : de laagopeenvolging in deelgebied 10 wordt van boven naar onder beschreven ( zie figuren 13 en 14 voor de boorraaien ) . 
+In de boringen in de zuidelijke helft en de randzone van de noordelijke helft van de depressie ( boringen 654 t/m 659 ) bestaat de top van de laagopeenvolging uit een bouwvoor/verstoorde laag ( donkerbruingrijs , zwak tot matig siltig , matig humeus , matig fijn zand , vaak met zand- en veenbrokken ) . 
+In de zuidelijke helft heeft de bouwvoor/verstoorde laag een dikte tussen 0,4 en 0,6 m ; in de noordelijke helft varieert de dikte tussen 0,6 m en 1,5 m. Met uitzondering van het centrale deel van de depressie is overal grond opgebracht om de depressie te dempen . 
+Onder de bouwvoor/verstoorde laag en in het centrale deel van de depressie ( boringen 651 , 652 en 653 ) direct aan het maaiveld , ligt een pakket organisch materiaal . 
+De maximaal aangetroffen dikte van dit pakket is 3,9 m. Het pakket bestaat aan de basis uit een laag gyttjeus zand en sterk zandige gyttja . 
+In boring 656 is in deze laag ook een dun laagje kalkgyttja gevonden . 
+Dit wijst op de invloed van opkwellend , kalkrijk grondwater . 
+De top van deze laag is vaak sterk gecompacteerd en lijkt licht veraard . 
+Dit wijst er op zijn dat de vulling hier ( tijdelijk ) is drooggevallen . 
+Op de gyttja-laag ligt een laag fijne detritus-gyttja die is afgezet in open water . 
+Aan de basis hiervan bevindt zich vaak een laag mosveen . 
+Net als in de depressies in de deelgebieden 217 en 206 gaat het niet om veenmosveen ( Sphagnum spp . 
+) , maar waarschijnlijk om aquatische mossoorten die op zeer ondiep water wijzen . 
+Verder komen in de fijne detritus-gyttja plaatselijk dunne zandlaagjes voor . 
+Naar 35 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 13 . 
+Deelgebied 10 , boorraai F-F ’ . 
+36 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes boven toe gaat de detritus-gyttja over in rietveen , zeggeveen en bosveen . 
+Dit duidt op verlanding van de depressie . 
+De top is soms veraard . 
+In de boringen 651 , 652 en 653 bestaat de top van het pakket organisch materiaal uit een 0,7 tot 0,8 m dikke laag zeer slap rietveen . 
+De overgang naar het hieronder gelegen orga nisch materiaal is zeer scherp . 
+Dit rietveen lijkt relatief recent te zijn . 
+Mogelijk is hier een veen winningsput geweest , die nu dicht aan het groeien is . 
+Onder het pakket organisch materiaal ligt zand . 
+In het centrale deel is dit lichtgrijs tot lichtgroen grijs , matig siltig , soms licht grindig , ma tig fijn en zeer fijn zand . 
+Dit zand bestaat uit de restanten van de deklaag van de pingo , die na het afsmelten van de ijslens in de depressie zijn gegleden en ouder ( Midden Pleistoceen ) zand . 
+Buiten de met organisch materiaal gevulde depressie ( boringen 655 , 658 en 659 ) bestaat de laagopeenvolging uit een bouwvoor/verstoorde laag op dekzand ( zwak siltig , soms zwak humeus of zwak grindig , matig fijn zand ) . 
+In het dekzand is geen bodemvorming waargenomen . 
+Onder het dekzand ligt keileem ( licht groengrijze , sterk zandige , zwak grindige leem ) . 
+Archeologische indicatoren : in de boringen zijn geen archeologische indicatoren aangetroffen Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 10 is met zekerheid een pingoruïne . 
+- omvang en diepteligging : op grond van de aanwezigheid van de organische vulling en eventuele oeverafzettingen in de boringen heeft de pingoruïne een doorsnede van circa 95 m. Het diepst aangetroffen punt van de pingoruïne ligt op 4,52 m -Mv ( 4,99 m -NAP ) . 
+- vulling : de vulling van de pingoruïne bestaat uit een maximaal 3,9 m dik organisch materiaal . 
+Het pakket bestaat aan de basis uit een 0,21 tot 0,84 m dikke laag gyttjeus zand en sterk zandige gyttja , plaatselijk met kalkgyttja . 
+De top van deze laag is vaak sterk gecompacteerd en lijkt licht veraard . 
+Op de gyttja-laag ligt een tot 3,7 m dikke laag fijne detritus-gyttja die is afgezet in open water . 
+Aan de basis hiervan bevindt zich vaak een laag mosveen . 
+Verder komen in de fijne detritus-gyttja plaatselijk dunne zandlaagjes voor . 
+Naar boven toe gaat de detritus-gyttja over in rietveen , zeggeveen en bosveen . 
+De top is soms veraard . 
+In de boringen 651 , 652 en 653 bestaat de top van het pakket organisch materiaal uit een 0,7 tot 0,8 m dikke laag zeer slap rietveen . 
+- afdekking : met uitzondering van het centrale deel ( rond de boringen 651 , 652 en 653 ) is overal grond opgebracht om de depressie te dempen . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+- ringwal : er zijn geen aanwijzingen voor een ringwal aangetroffen - archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+- verstoringen : met uitzondering van het centrale deel ( rond de boringen 651 , 652 en 653 ) is overal grond opgebracht om de depressie te dempen . 
+Het perceel waarin de zuidelijke helft van de pingoruïne ligt , lijkt ook te zijn geëgaliseerd . 
+Een brede sloot doorsnijdt de pingoruïne . 
+Een laag slap rietveen aan de top van de organische vulling lijkt er op te wijzen dat er ooit veen is gewonnen . 
+Conclusies : de depressie in deelgebied 10 is een goed bewaarde pingoruïne . 
+In vrijwel het hele deelgebied , met uitzondering van het centrale deel , is de depressie gedempt . 
+In het centrale deel zijn aanwijzingen voor veenwinning gevonden . 
+Ondanks deze verstoringen is de organische vulling van de pingoruïne nog grotendeels intact . 
+De verschillen in lithologie in de organische vulling wijzen er op dat er door de tijd heen aanzienlijke fluctuaties in waterpeil in de pingoruïne zijn opgetreden . 
+37 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 14 . 
+Deelgebied 10 , boorraai G-G ’ . 
+38 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Aanbevelingen : er wordt geadviseerd de pingoruïne volgens de gele contour op figuur 12 op te nemen op het PIP en te vrijwaren van bodemingrepen en alle andersoortige ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van de pingoruïne bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecologische informatie veilig te stellen . 
+Deelgebied 24 Deelgebied : deelgebied 24 ligt ten zuiden van Veenwouden , ten oosten van de Woudweg Plaats : Veenwouden Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : weiland Centrumcoördinaten : 195.175/582.488 Boorstrategie volgens PvA : boringen in 2 kruisende raaien , boorinterval 15 m en 20 m , aanvul lend op de al door de Steekproef gezette boringen . 
+Boorstrategie : 7 boringen in een oost-west georiënteerde raai en 2 boringen als aanvulling op de door de Steekproef gezette noord-zuid georiënteerde raai alsmede 7 boringen in de noordwesthoek van het deelgebied om de daar aangetroffen intacte podzolbodems te karteren . 
+Totaal aantal boringen : 12 gutsboringen en 4 megaboringen Boringen : 641 t/m 649 en 694 t/m 700 ( figuur 15 ) Minimaal geboorde diepte : 1,25 m -Mv Maximaal geboorde diepte : 6,25 m -Mv Resultaten veldonderzoek : de laagopeenvolging in deelgebied 24 wordt van boven naar onder beschreven ( zie figuren 16 en 17 voor de boorraaien ) . 
+In het hele deelgebied begint de laagopeenvolging met een 0,4 tot 1,6 m dikke bouwvoor/verstoorde laag ( donkerbruingrijs , zwak tot matig siltig , zwak tot sterk humeus , matig fijn zand , vaak met zand- en keileembrokken ) . 
+In het centrale deel van het deelgebied gaat het om grond die is opgebracht om de depressie te dempen . 
+Onder de bouwvoor/verstoorde laag bevindt zich een pakket organisch materiaal . 
+In het centrum van de depressie ( boring 643 ) is dit pakket 4,43 m dik . 
+Het pakket bestaat aan de basis uit een laag gyttjeus zand en zandige gyttja van circa 0,6 m dik . 
+Op de gyttja-laag ligt een laag fijne detritusgyttja . 
+Deze laag is overwegend mineraalarm , maar plaatselijk komen zwak zandige lagen of dunne zandlaagjes voor . 
+Dit zandige niveau is in het hele oost-west profiel te vervolgen en waarschijnlijk het gevolg van ingewaaid of ingespoeld zand . 
+In het centrale deel van de depressie is de laag detritus-gyttja meer dan 3,5 m dik en wordt op de flanken van de depressie dunner . 
+Onder het pakket organisch materiaal bevindt zich zand ( lichtgrijs of lichtgroengrijs , matig siltig , matig fijn zand ) . 
+Dit zand bestaat uit de restanten van de deklaag van de pingo die na het afsmelten van de ijslens in de depressie zijn gegleden en ouder ( Midden Pleistoceen ) zand . 
+In de randzone van de depressie is in de boringen 645 en 647 een pakket zand aangetroffen dat op grond van de lithologische kenmerken ( matig siltig , matig fijn zand met plantenresten of detrituslaagjes en meestal een wat gelaagd uiterlijk ) wordt geïnterpreteerd als afzettingen uit de oeverzone van de pingoruïne . 
+In deze oeverzone is ( dek ) zand van de randen van de pingoruïne verspoeld door golfwerking . 
+Mogelijk is er ook zand deze oeverzone in gewaaid of gespoeld . 
+In boring 645 zijn de oeverafzettingen ingeschakeld in de organische vulling . 
+In boring 647 liggen ze direct onder de bouwvoor/verstoorde laag . 
+Onder de oeverafzettingen in deze boring bevindt zich een dunne zandlaag en keileem . 
+39 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes              - +   +    P       -        OHJHQGD ERULQJHQ RYHULJ JXWVERULQJ IRWRORFDWLHHQULFKWLQJ  PHJDERULQJ  IRWRQXPPHU PHWYHHQRUJDQLVFKPDWHULDDO WUDFp ERRUQXPPHU EHJUHQ ] LQJSLQJRUXwQH PHWLQWDFWHSRG ] RO ( KRUL ] RQWDDQZH ] LJ PHWLQFRPSOHWHSRG ] RO DOOHHQ % KRUL ] RQWDDQZH ] LJ GH6WHHNSURHI  - - ERRUQXPPHUGH6WHHNSURHI ERRUUDDLPHWUDDLOHWWHUV ) UFDZRU73DSULO Figuur 15 . 
+Resultaten booronderzoek deelgebied 24 , geprojecteerd op het AHN . 
+40 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 16 . 
+Deelgebied 24 , boorraai H-H ’ . 
+41 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 17 . 
+Deelgebied 24 , boorraai J-J ’ . 
+42 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes In de boringen buiten de depressie ( boringen 646 , 648 en 649 ) bestaat de laagopeenvolging uit een bouwvoor/verstoorde laag op dekzand ( zwak tot matig siltig , soms zwak humeus , matig fijn en zeer fijn zand ) . 
+In het dekzand is geen podzolbodem aangetroffen . 
+Aan de noordkant van de depressie zijn in de boringen van de Steekproef ( Exaltus & De Neef , 2008 ; boringen 24/6 , 24/7 , 24/8 en 24/10 ) wel podzolbodems of resten daarvan aangetroffen . 
+Rondom deze boringen zijn 7 guts- en megaboringen gezet . 
+In 4 van deze boringen was sprake van een incompleet pod zolprofiel ( B-horizont nog aanwezig ) . 
+In de boringen met podzolbodem zijn geen archeolo gi sche indicatoren aangetroffen . 
+Onder het dekzand ligt keileem ( lichtgroengrijze , sterk zandige , zwak grindige leem ) . 
+Archeologische indicatoren : op de locatie van de boringen met een incompleet of intact podzolprofiel zijn megaboringen gezet . 
+Het met de megaboor opgeboorde dekzand is nat gezeefd over een zeef met een maaswijdte van 2 mm . 
+In deze boringen zijn geen archeologische indicatoren aangetroffen . 
+Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 24 is met zekerheid een pingoruïne - omvang en diepteligging : op grond van de aanwezigheid van de organische vulling en eventuele oeverafzettingen in de boringen heeft de pingoruïne een doorsnede van circa 160 m in noord-zuid richting en circa 110 m in oost-west richting . 
+Deze omvang komt goed overeen met de omvang van de depressie zoals die op het AHN te zien is . 
+Het diepste aangetroffen punt van de pingoruïne ligt op 6,03 m -Mv ( 6,30 m -NAP ) . 
+- vulling : de vulling van de pingoruïne bestaat uit een tot 4,43 m dik pakket organisch materiaal . 
+Aan de basis ervan ligt een laag gyttjeus zand en zandige gyttja van circa 0,6 m dik . 
+Op de gyttja-laag ligt een laag fijne detritus-gyttja . 
+Deze laag is overwegend mineraalarm , maar plaatselijk komen zwak zandige lagen of dunne zandlaagjes voor . 
+In het centrale deel van de depressie is de laag detritus-gyttja meer dan 3,5 m dik , en wordt op de flanken van de de pres sie dunner . 
+De organische vulling van de pingoruïne is goed bewaard gebleven , hoewel plaatselijk de top van de oorspronkelijke vulling verdwenen of verstoord kan zijn als gevolg van het opbrengen van grond . 
+- afdekking : in de gehele depressie is een 0,5 tot 1,6 m dikke laag grond opgebracht om de depressie te dempen . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+- ringwal : er zijn geen aanwijzingen voor een ringwal aangetroffen . 
+- archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+- verstoringen : in de gehele depressie is een 0,5 tot 1,6 m dikke laag grond opgebracht om de depressie te dempen . 
+Een brede sloot doorsnijdt de pingoruïne aan de oostkant . 
+Conclusies : de depressie in deelgebied 24 is een grote , goed bewaarde pingoruïne . 
+Hoewel de depressie gedempt is , is de organische vulling goed bewaard gebleven . 
+Er zijn geen aanwijzingen voor een ringwal of voor archeologische vindplaatsen in de directe nabijheid van de pingoruïne aangetroffen . 
+Aanbevelingen : er wordt geadviseerd de pingoruïne volgens de gele contour op figuur 15 op te nemen op het PIP en te vrijwaren van bodemingrepen en alle andersoortige ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van de pingoruïne bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecologische informatie veilig te stellen . 
+43 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes               ZHJ 5LMNVVWUDDW      ZHJ 5LMNVVWUDDW    P   ) UFDZRU73DSULO      OHJHQGD ERULQJHQ RYHULJ ] RQGHUSRG ] RO WUDFp PHWKRXWVNRRO  ERRUQXPPHU GH6WHHNSURHI *  ERRUQXPPHUGH6WHHNSURHI Figuur 18 . 
+Resultaten booronderzoek deelgebied 205 , geprojecteerd op het AHN . 
+44    RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Deelgebied 205 Deelgebied : deelgebied 205 ligt tussen Hurdegaryp en Quatrebras , direct ten zuiden van de Rijksstraatweg ( N 355 ) . 
+Plaats : Hurdegaryp Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : akker Centrumcoördinaten : 193.864/581.383 Boorstrategie volgens PvA : één boring om vast te stellen of het om een pingoruïne gaat en , zo ja , overgaan op waarderend onderzoek ( 10-20 boringen in 2 elkaar kruisende raaien ) . 
+Boorstrategie : één boring in het centrum van de depressie Totaal aantal boringen : 1 gutsboring Boringen : 650 ( figuur 18 ) Geboorde diepte : 2,3 m -Mv Resultaten veldonderzoek : de laagopeenvolging in boring 650 bestaat van boven naar onder uit een 0,2 m dikke bouwvoor ( donkergrijsbruin , matig siltig , sterk humeus , matig fijn zand ) op een verstoorde laag ( geelgrijs , matig siltig , zwak humeus , matig fijn zand met zand- en veenbrokken ) van 1,44 m dik . 
+Hieronder bevindt zich een 0,2 m dikke laag zand ( lichtbruingeel of bruingeel , matig siltig , zwak humeus , zeer fijn zand ) op keileem ( lichtgroengrijze , sterk zandige , licht grindhoudende leem met enkele humusvlekken in de top ) . 
+Deze laagopeenvolging bevestigd hetgeen werd geconcludeerd op basis van tijdens eerder onderzoek gezette borin gen ( Exaltus & De Neef , 2008 ) . 
+Archeologische indicatoren : er zijn geen archeologische indicatoren in de boring aangetroffen . 
+Conclusies : de depressie in deelgebied 205 is geen pingoruïne , maar lijkt te zijn veroorzaakt door een depressie in de keileemtopografie . 
+Aanbevelingen : de depressie in dit deelgebied is geen pingoruïne en hoeft dus niet als zodanig in het PIP te worden opgenomen . 
+De voorgenomen ingrepen kunnen vanuit archeologisch oogpunt zonder bezwaar worden uitgevoerd . 
+Deelgebied 206 Deelgebied : deelgebied 206 ligt ten zuiden van Veenwoudsterwal , ten westen van de Woudweg Plaats : Veenwouden Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : grasland Centrumcoördinaten : 194.600/582.344 Boorstrategie volgens PvA : één boring om vast te stellen of het om een pingoruïne gaat en , zo ja , overgaan op waarderend onderzoek ( 10-20 boringen in 2 elkaar kruisende raaien ) . 
+Boorstrategie : 11 boringen in 2 elkaar kruisende raaien , boorinterval 15 m en 20 m ; 6 guts borin gen en 8 megaboringen om de locatie met intacte podzolbodems te karteren . 
+Totaal aantal boringen : 17 gutsboringen en 8 megaboringen Boringen : 630 t/m 640 en 701 t/m 714 ( figuur 19 ) Minimaal geboorde diepte : 1,15 m -Mv Maximaal geboorde diepte : 3,0 m -Mv 45 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes                     6WHNUHH 'H 'H6WUH   N 6PHOSDHG 6PHOSDHG   D D              /  D   D   D D E  E . 
+ FF G G . 
+      /    P ) UFDZRU73DSULO          OHJHQGD ERULQJHQ RYHULJ JXWVERULQJ IRWRORFDWLHHQULFKWLQJ  PHJDERULQJ  WUDFp PHWYHHQRUJDQLVFKPDWHULDDO EHJUHQ ] LQJPLQHUDOHSDOVD ERRUQXPPHU ERRUUDDLPHWUDDLOHWWHUV   . 
+. 
+IRWRQXPPHU PHWLQWDFWHSRG ] RO GH6WHHNSURHI  ERRUQXPPHUGH6WHHNSURHI Figuur 19 . 
+Resultaten booronderzoek deelgebied 206 , geprojecteerd op het AHN . 
+46 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 20 . 
+Deelgebied 206 , boorraai K-K ’ . 
+47 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 21 . 
+Deelgebied 206 , boorraai L-L ’ . 
+48 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Resultaten veldonderzoek : de laagopeenvolging in deelgebied 206 wordt van boven naar onder beschreven ( zie figuren 20 en 21 voor de boorraaien ) . 
+In de boringen 630 , 631 , 632 , 634 , 636 , 638 en 640 bestaat de laagopeenvolging uit een 0,5 tot 1,14 m dikke bouwvoor/verstoorde laag ( donkerbruingrijs , zwak siltig , sterk humeus , zeer fijn zand , vaak met zand- en keileembrokken ) op een pakket organisch materiaal met een dikte tus sen 0,2 m en 1,75 m. Het pakket bestaat overwegend uit fijne detritus-gyttja met een inscha keling van mosveen . 
+Overigens gaat het daarbij niet om veenmos , maar om andere mossoorten zoals Scorpidium of Drepanocladus , die onder zeer natte omstandigheden of onder water groeien . 
+De basis van het pakket is vaak zwak tot sterk zandig . 
+In de boringen 631 en 640 bestaat de basis van dit pakket uit een dunne zandlaag met plantenresten . 
+In de boringen 630 en 640 is de top van de organische vulling tot respectievelijk 1,35 en 1,25 m -Mv verstoord . 
+Onder het pakket organisch materiaal bevindt zich zand ( meestal lichtgeelgrijs , matig siltig , soms licht grindhoudend , matig fijn zand ) . 
+In boring 634 is deze zandlaag geïnterpreteerd als dekzand . 
+Onder de zandlaag is in de boringen 632 , 634 en 638 keileem ( lichtgroengrijze , sterk zandige , licht grindige leem ) aangetroffen . 
+In de boringen op de rand van de depressie ( boringen 633 , 635 , 637 en 639 ) bestaat de laagopeenvolging uit een bouwvoor/verstoorde laag ( donkerbruingrijs , zwak tot matig siltig , sterk humeus , zeer fijn zand ) op dekzand ( overwegend zwak siltig , matig fijn zand ) . 
+In boring 635 is in het dekzand een intacte podzolbodem ( E- en Bh-horizont aanwezig ) aangetroffen . 
+Rondom deze boring zijn 14 guts- en megaboringen gezet . 
+In 6 van deze boringen is een intacte podzolbodem aangetroffen . 
+Onder het dekzand bevindt zich keileem . 
+Archeologische indicatoren : op de locatie van de boringen met een incompleet of intact podzolprofiel zijn megaboringen gezet . 
+Het met de megaboor opgeboorde dekzand is nat gezeefd over een zeef met een maaswijdte van 2 mm . 
+In de boringen zijn geen archeologische indicatoren aangetroffen . 
+Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 206 is geen pingoruïne . 
+Het is wel een met organisch mate riaal gevulde depressie die ontstaan is door het afsmelten van een ( ondergrondse ) ijslens . 
+Gezien afmetingen van de depressie is waarschijnlijk sprake van een ( minerale ) palsa ( zie hoofdstuk 3 ) . 
+- omvang en diepteligging : op grond van de aanwezigheid van de organische vulling en eventuele oeverafzettingen in de boringen heeft de depressie een doorsnede van circa 65 m. Het diepst aangetroffen punt van de depressie ligt op 2,4 m -Mv ( 2,39 m -NAP ) . 
+- vulling : de vulling van de depressie bestaat uit een 0,2 tot 1,75 m dik pakket detritus-gyttja en mosveen . 
+De basis van dit pakket is vaak sterk zandig of zelfs als zand met plantenrestjes ont wikkeld . 
+De organische vulling van de depressie is over het algemeen goed bewaard gebleven . 
+In het centrale deel van de depressie is de top van het organische materiaal tot circa 1,3 m -Mv verstoord . 
+- afdekking : de depressie is gedempt met een 0,35 tot 1,14 m dik pakket zand . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+- ringwal : er zijn geen aanwijzingen voor een ringwal aangetroffen . 
+- archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+49 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes       /DQJ     Q HODD 1     0 0     1 /DQJ Q HODD   ) MLOGVLFKW   P ) UFDZRU73DSULO        OHJHQGD ERULQJHQ RYHULJ PHWYHHQRUJDQLVFKPDWHULDDO IRWRORFDWLHHQULFKWLQJ  JXWVERULQJ  1 1 IRWRQXPPHU ERRUQXPPHU WUDFp ERRUUDDLPHWUDDLOHWWHUV EHJUHQ ] LQJSLQJRUXwQH Figuur 22 . 
+Resultaten booronderzoek deelgebied 207 , geprojecteerd op het AHN . 
+50    RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes - verstoringen : de depressie is gedempt met een 0,35 tot 1,14 m dik pakket zand en keileem . 
+In de boringen 630 en 640 is de top van de organische vulling verstoord tot respectievelijk 1,35 en 1,25 m -Mv . 
+Door het deelgebied heeft iets ten noorden van boorraai K-K ’ vroeger een sloot gelopen . 
+Deze sloot is nu niet meer aanwezig . 
+Conclusies : de depressie in deelgebied 206 is geen pingoruïne . 
+Het is wel een met organisch materiaal gevulde depressie die ontstaan is door het afsmelten van een ( ondergrondse ) ijslens . 
+Gezien de afmetingen van de depressie is waarschijnlijk sprake van een ( minerale ) palsa . 
+Omdat de organische vulling relatief dun is en de top ervan juist in het diepste deel van depressie tot circa 1,25 m -Mv verstoord is , is de kans zeer klein dat de paleo-ecologische informatie uit voor de archeologie interessante periode nog in de vulling aanwezig is . 
+De depressie en de vulling daarin worden daarom niet behoudenswaardig geacht . 
+Aanbevelingen : de depressie in dit deelgebied is geen pingoruïne en hoeft dus niet als zodanig in het PIP te worden opgenomen . 
+De voorgenomen ingrepen kunnen vanuit archeologisch oogpunt zonder bezwaar worden uitgevoerd . 
+Deelgebied 207 Deelgebied : deelgebied 207 ligt ten westen van Burgum , direct ten oosten van de Langelaan Plaats : Burgum Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : natuurgebied ( grasland , riet , struikgewas , open water ) Centrumcoördinaten : 193.609/579.531 Boorstrategie volgens PvA : één boring om vast te stellen of het om een pingoruïne gaat en , zo ja , overgaan op waarderend onderzoek ( 10-20 boringen in 2 elkaar kruisende raaien ) . 
+Boorstrategie : boringen in een kruisraai , boorintervallen 15 m en 20 m Totaal aantal boringen : 13 gutsboringen Boringen : 660 t/m 672 ( figuur 22 ) Minimaal geboorde diepte : 1,3 m -Mv Maximaal geboorde diepte : 3,9 m -Mv Resultaten veldonderzoek : de laagopeenvolging in deelgebied 207 wordt van boven naar onder beschreven ( zie figuren 23 en 24 voor de boorraaien ) . 
+In de boringen in het centrale deel van de depressie bestaat de top van de laagopeenvolging uit een 0,15 tot 0,6 m dikke bouwvoor/ ver stoorde laag ( donkergrijsbruin , zwak tot sterk zandig veraard veen en matig siltig , matig tot sterk humeus , matig fijn zand ) . 
+Aan de westzijde van de depressie is de bouwvoor/ver stoorde laag 0,6 tot 1,0 m dik . 
+Hier is grond opgebracht om de depressie te dempen . 
+Onder de bouwvoor/verstoorde laag bevindt zich een pakket organisch materiaal . 
+De maximaal aangetroffen dikte van dit pakket is 2,46 m ( boring 666 ) . 
+Het pakket bestaat aan de basis uit een laag gyttjeus zand en sterk zandige gyttja die naar boven toe snel minder zandig wordt . 
+Deze gyttjalaag is tussen 0,4 en 0,62 m dik . 
+Op de gyttja-laag ligt een vrij homogeen pakket detritusgyttja . 
+Op de grens tussen de laag gyttja en de laag detritus-gyttja is in een aantal boringen een dun laagje grof zand en fijn grind waargenomen . 
+Plaatselijk komen laagjes riet veen , zeggeveen en bosveen voor . 
+De top van het pakket is vaak veraard . 
+Onder het pakket organisch materiaal bevindt zich zand ( licht groengrijs , zwak tot matig siltig , matig fijn zand . 
+51 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes In de boringen 661 , 667 , 668 en 671 een pakket zand aangetroffen dat op grond van de lithologische kenmerken ( matig siltig , matig fijn zand met plantenresten of detrituslaagjes ) wordt geïnterpreteerd als afzettingen uit de oeverzone van de pingoruïne . 
+In deze oeverzone is ( dek ) zand van de randen van de pingoruïne verspoeld door golfwerking . 
+Mogelijk is er ook zand deze oeverzone ingewaaid . 
+Deze oeverafzettingen komen zowel onder het organische pakket ( boring 661 ) als er in ingeschakeld voor ( boring 667 ) . 
+Hieruit blijkt dat er vrij grote schommelingen in de waterstand in de pingoruïne zijn voorgekomen . 
+De laagopeenvolging in de boringen in de randzone van de depressie ( boringen 662 , 664 , 669 en 672 ) bestaat uit een 0,3 tot 0,4 m dikke bouwvoor/verstoorde laag ( donkerbruingrijs , matig siltig , sterk humeus , matig fijn zand en sterk zandig veraard veen ) op een 0,6 tot 1,15 m dik pakket zand ( overwegend zwak tot matig siltig , zwak of matig humeus , zeer fijn en matig fijn zand ) . 
+De basis van het pakket is meestal lichtgroengrijs en grindhoudend . 
+Delen van dit pakket zijn zonder meer geïnterpreteerd als dekzand , maar met name de lagen zeer fijn zand zouden ook bij de oeverzone van de pingoruïne kunnen horen . 
+Omdat het onderscheid vaak niet met zekerheid te maken is , is er voor gekozen ze als één pakket te beschouwen . 
+Onder het zandpakket bevindt zich keileem ( groengrijze , sterk zandige , licht grindhoudende leem ) . 
+Archeologische indicatoren : in de boringen zijn geen archeologische indicatoren aangetroffen Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 207 is met zekerheid een pingoruïne - omvang en diepteligging : op grond van de aanwezigheid van de organische vulling en eventuele oeverafzettingen in de boringen heeft de pingoruïne een doorsnede van circa 130 m breed in oost-west richting en circa 135 m in noord-zuid richting . 
+Op basis van het AHN en de vegetatie is de depressie circa 150 x 160 m groot . 
+Het diepste aangetroffen punt van de pingo ruïne ligt op circa 3,75 m -Mv ( 3,97 m -NAP ) , maar de verwachting is dat de pingoruïne in het centrum nog dieper is . 
+- vulling : de basis van de vulling van de pingoruïne bestaat uit een laag gyttjeus zand en sterk zandige gyttja die naar boven toe snel minder zandig wordt . 
+Deze gyttjalaag is tussen 0,4 en 0,62 m dik . 
+Op de gyttja-laag ligt een pakket detritus-gyttja . 
+De laag detritus-gyttja heeft een dikte tussen circa 0,7 en 2,16 m. Hierbij moet wel opgemerkt worden dat er niet in het midden van de pingoruïne geboord kon worden en dat de hier genoemde diktes dus minimumwaarden zijn . 
+In dit pakket komen plaatselijk laagjes rietveen , zeggeveen en bosveen voor . 
+De top van het pakket is meestal veraard . 
+De dikte van het veraarde deel van het pakket detritus-gyttja varieert tussen 0,45 m en 0,7 m. De organische vulling van de pingoruïne is over het algemeen goed bewaard gebleven . 
+Alleen in de veraarde top ervan is de kwaliteit minder hoog . 
+- afdekking : aan de westzijde is de vulling van de pingoruïne afgedekt met een 0,6 tot 1,0 m dikke bouwvoor/verstoorde laag . 
+Hier is zand opgebracht om de depressie te dempen . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+- ringwal : er zijn geen aanwijzingen voor een ringwal aangetroffen - archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen rondom de pingoruïne aangetroffen . 
+- verstoringen : aan de westzijde is de pingoruïne gedempt en opgehoogd met een 0,6 tot 1,0 m dikke bouwvoor/verstoorde laag . 
+Ook in de andere boringen zijn aanwijzingen aangetroffen voor 52 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 23 . 
+Deelgebied 207 , boorraai M-M ’ . 
+53 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 24 . 
+Deelgebied 207 , boorraai N-N ’ . 
+54 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes het feit dat er zand opgebracht is . 
+De poel in het midden van de depressie staat in open verbinding met de sloten rondom het deelgebied . 
+Waterpeilverlagingen in de sloten zullen dus ook leiden tot een waterstandsverlaging in de pingoruïne , met oxidatie ( veraarding ) van de organische vulling als gevolg . 
+Volgens omwonenden is de poel tot vrij recent gebruikt om afval en dergelijke ( tot autowrakken aan toe ) in te dumpen . 
+Conclusies : deelgebied 207 betreft een grote , goed bewaard gebleven pingoruïne . 
+Hoewel de pingoruïne aan de westzijde gedempt is en er ook elders in het deelgebied aanwijzingen gevonden zijn dat er zand is opgebracht , is de organische vulling waarschijnlijk nog groten deels intact . 
+Aanbevelingen : er wordt geadviseerd de pingoruïne volgens de gele contour op figuur 22 op te nemen op het PIP en te vrijwaren van bodemingrepen en alle andersoortige ingrepen die kunnen leiden tot aantasting van de organische vulling van de pingoruïne . 
+Als dit niet mogelijk is , moet de vulling van de pingoruïne bemonsterd en paleobotanisch onderzocht worden om de daarin geregistreerde paleo-ecologische informatie veilig te stellen . 
+Deelgebied 216 Deelgebied : deelgebied 216 ( figuur 25 ) ligt tussen Hurdegaryp en Quatrebras , direct ten zuiden van de Rijksstraatweg ( N 355 ) . 
+Plaats : Quatrebras Gemeente : Tytsjerksteradiel Deelgebied in gebruik als : weiland Centrumcoördinaten : 194.437/581.500 Boorstrategie volgens PvA : één boring om vast te stellen of het om een pingoruïne gaat en , zo ja , overgaan op waarderend onderzoek ( 10-20 boringen in 2 elkaar kruisende raaien ) . 
+Resultaten veldonderzoek : voor dit deelgebied is geen betredingstoestemming verleend en er is derhalve geen veldonderzoek uitgevoerd . 
+Op verzoek van de provincie Fryslân is een beperkt bureauonderzoek uitgevoerd om de omvang van de potentiële pingoruïne zo nauwkeurig mogelijk vast te stellen . 
+Daarbij is , behalve van historische kaarten en luchtfoto ’ s , ook gebruik gemaakt van gegevens die bij eerder veldonderzoek over deze locatie zijn verzameld ( Asmussen , 1999 ) . 
+Resultaten bureauonderzoek : de depressie is op historische kaarten niet aangegeven . 
+Ook op luchtfoto ’ s is de depressie niet te onderscheiden op grond van bijvoorbeeld verschillen in de vegetatie . 
+Op het AHN is te zien dat het momenteel nog om een relatief ondiepe depressie gaat . 
+Uit het eerder uitgevoerde booronderzoek ( Asmussen , 1999 ) blijkt dat het om een pingoruïne gaat . 
+De noordelijke begrenzing van de pingoruïne ligt waarschijnlijk onder de Rijksstraatweg . 
+De depressie heeft een organische vulling ( veen en gyttja ) van tenminste 2,4 m en mogelijk 4,0 m dik ( figuur 26 ) . 
+Waardering potentiële pingoruïne : - aard : de depressie in deelgebied 216 is met zekerheid een pingoruïne - omvang en diepteligging : de omvang van de pingoruïne is bepaald aan de hand van de be schik bare boorgegevens en het AHN . 
+De diameter wordt geschat op circa 90 m. - vulling : de vulling van de pingoruïne bestaat uit een circa 0,35 m dikke laag gyttja gevolgd door een tenminste 2,4 m dikke laag ( amorf ) veen . 
+In het centrale deel van de pingoruïne is circa 2,5 m grond opgebracht , maar mogelijk is de veenlaag hier 4 m dik geweest . 
+- afdekking : in het centrale deel van de depressie is circa 0,6 tot 2,4 m grond opgebracht . 
+Van natuurlijke afdekkende lagen is geen sprake . 
+55 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes       QEUHQJ HQ GDP      D            ZHJ 5LMNVVWUDDW 2         ERV     2      P           ) UFDZRU73DSULO   OHJHQGD ERULQJ $ VPXVVHQ  2  ERRUQXPPHU $ VPXVVHQ 2 ERRUUDDLPHWUDDLOHWWHUV WUDFp EHJUHQ ] LQJSLQJRUXwQH Figuur 25 . 
+Resultaten booronderzoek deelgebied 216 , geprojecteerd op het AHN . 
+56  RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes - ringwal : over het al dan niet aanwezig zijn van een ringwal kan op grond van de beschikbare gegevens geen uitspraak gedaan worden . 
+- archeologische vindplaatsen : er zijn geen aanwijzingen voor archeologische vindplaatsen in de directe omgeving van de pingoruïne aangetroffen . 
+- verstoringen : de depressie is gedempt met een tot 2,5 m dikke laag opgebrachte grond . 
+Verder wordt de pingoruïne doorsneden door sloten . 
+De noordelijke begrenzing van de pingoruïne ligt waarschijnlijk onder de Rijksstraatweg . 
+Conclusies : deelgebied 216 betreft een pingoruïne . 
+De exacte omvang van de pingoruïne is op basis van dit onderzoek niet vast te stellen . 
+Uit eerder onderzoek is gebleken dat de top van de organische vulling niet meer intact is . 
+Aanbevelingen : er wordt geadviseerd de pingoruïne middels een waarderend booronderzoek nader te laten onderzoeken en te waarderen . 
+Het booronderzoek moet bestaan uit guts boringen in 2 elkaar kruisende raaien en is met name gericht op het bepalen van de omvang , kwaliteit en de mate van verstoring van de organische vulling van de pingoruïne . 
+Uit het onderzoek moet verder blijken of de organische vulling nader paleobotanisch onderzocht moet worden . 
+57 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Figuur 26 . 
+Deelgebied 216 , boorraai O-O ’ . 
+58 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes 3 Pingo ’ s en palsa ’ s Het ideaalbeeld van het ontstaan van pingo ’ s en pingoruïnes is bekend ( zie figuur 27 voor een schematisch overzicht ) . 
+Een pingo is een heuvel die ontstaat wanneer zich in de permafrost een ijskern vormt . 
+In Nederland gebeurde dit vooral tijdens het Pleniglaciaal , de periode met de koudste omstandigheden tijdens het Weichselien . 
+De ijskern bevindt zich in eerst instantie ondergronds en is afgedekt door een laag ( deels ) bevroren bodemmateriaal . 
+De ijskern groeit door de aanvoer van onder druk staand grondwater ( figuur 27A : hydrostatische druk ) en doordat de ijskern zelf water aantrekt ( hygroscopisch effect ) . 
+Als gevolg van het groeien van de ijskern neemt ook de omvang van de heuvel erboven toe ( figuur 27B ) . 
+Wanneer de heuvel te steil wordt , scheurt de top open . 
+Het ijs komt bloot te liggen en smelt ( figuur 27C ) . 
+De grond op de zijkanten glijdt af en vormt de pingowal . 
+Als al het ijs is afgesmolten , blijft een diepe depressie ( de pingoruïne ) over , omringd door een wal . 
+In de depressie vormt zich een meer waarin gyttja en detritus worden afgezet ( figuur 27D ) . 
+Uiteindelijk verlandt de depressie en kan er veen gaan groeien . 
+Het hierboven geschetste ideaalbeeld wordt ( uiteraard ) zelden in het veld aangetroffen . 
+Met name de pingowal ontbreekt vaak . 
+Daarvoor is een aantal oorzaken te noemen : - De omvang van de pingowal ( en dan vooral de dikte ervan ) is afhankelijk van de diepte waarop de ijskern zich vormt en dus van de dikte van de deklaag . 
+De diepte waarop de ijslens zich kan vormen , is dan weer afhankelijk van de lithologie van de ondergrond en de diepte van de permafrost . 
+In Fryslân bestaat de ondergrond vooral uit fijnzandige afzettingen ( fluvioglaciale afzettingen behorend tot de Formatie van Peelo en mogelijk ook Formatie van Drente ) en keileem ( Formatie van Drente ) . 
+Ook de keileem is vaak sterk zandig en bevat veel zandlagen ( door het gletsjerijs in de grondmorene opgenomen eolische en fluvioglaciale afzettingen ) . 
+Dit zijn potentieel watervoerende lagen waarin ijslenzen kunnen ontstaan . 
+Het lijkt er dus op dat de ijslenzen vrij ondiep kunnen ontstaan , waardoor er weinig sediment beschikbaar is voor de vorming van een pingowal . 
+- Het sediment waaruit de pingowal bestaat , lijkt vaak sterk op het materiaal waar de pingowal op komt te liggen omdat de deklaag daar ook deel van uitmaakte . 
+Omdat de keileemlagen relatief dun zijn en deklaag verder vooral uit zandige sedimenten bestaan , zal de pingowal ook overwegend uit zand met een kleine bijmening van leem bestaan . 
+In het veld is dit vaak niet goed te zien ( omdat deze afzettingen zich nu onder het grondwaterspiegel bevinden en daarom lastig op te boren zijn ) . 
+- Na de vorming van de pingowal is deze gevoelig voor erosie : de pingowallen zullen vooral uit ( fijn ) zand hebben bestaan . 
+Omdat de pingo ’ s al in het Pleniglaciaal beginnen af te smelten , kan het sediment niet door vegetatie vastgehouden worden en zal het door smeltwater mak ke lijk de depressie in getransporteerd worden . 
+Hiervoor zijn in de boringen die in het kader van onderhavig onderzoek gezet zijn ook duidelijke aanwijzingen gevonden . 
+De basis van de pingovulling bestaat in veel gevallen uit een gelaagd pakket fijn zand , waarin soms detritus laagjes voorkomen . 
+Ook de hierboven liggende gyttja-lagen zijn vaak nog sterk zandig , waar uit blijkt dat de verspoeling van de pingowal ( en de randen van de depressie ) ook dan nog doorgaat . 
+De zandige basis is lithologisch nauwelijks te onderscheiden van de oudere , fijn zandige fluvioglaciale afzettingen waaruit de dek- 59 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes laag bestaan heeft . 
+Alleen het voorkomen van detrituslaagjes maakt onderscheid mogelijk . 
+Het is dus niet terecht om deze lagen zonder meer tot de Formatie van Peelo te rekenen . 
+- In de deelgebieden 2 en 207 zijn aanwijzingen gevonden dat niet de hele deklaag afgegleden is . 
+In de boringen 688 en 661 ( zie resp . 
+figuren 14 en 24 ) is keileem aangetroffen onder de vulling van de pingoruïne . 
+Dit wijst erop dat aan de randen , waar de ijslens het dunst was , de deklaag niet is afgegleden , maar plastische gedeformeerd is en als het ware als geheel de depressie ingezakt is . 
+- Het is verder goed mogelijk dat de gehanteerde boorintervallen te groot zijn om een even tuele pingowal op te sporen . 
+- Tenslotte is het goed denkbaar dat ( delen van ) de pingowal gebruikt zijn om de depressie te dempen . 
+A grondwater B C pingowal pingowal pingoruïne D permanent bevroren bodem ( permafrost ) opdooilaag gestuwde en afgegleden lagen Figuur 27 . 
+Ontstaan van een pingoruïne . 
+60 ijskern meerafzettingen en veen water RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Uit de hierboven besproken criteria blijkt wel dat er veel depressies in het landschap zijn die een aantal , maar niet alle karakteristieken delen met ‘ echte ’ pingoruïnes . 
+Veel depressies zijn weliswaar kleiner dan de ‘ echte ’ pingoruïnes , maar lijken qua lithologische opbouw van de vulling en de omgeving toch dermate veel op een pingoruïne ( maar voldoen vaak niet aan de omvangs- en dieptecriteria ) dat ze hoogstwaarschijnlijk wel zijn ontstaan als gevolg van het afsmelten van ondergrondse ijslenzen . 
+Er mag van uit worden gegaan dat het meestal om kleinere ijskernen ging . 
+Waarschijnlijk bleven deze ijskernen relatief klein omdat de actieve aanvoer van grondwater afnam , wegviel of geheel ontbrak . 
+Andere factoren die een rol spelen , zijn het moment van ontstaan van de ijslens ( als dat relatief laat in het Pleniglaciaal is , dan is er onvoldoende tijd om te groeien voordat de klimaatsverbetering tot het afsmelten van de permafrost leidt ) en mogelijk ook de diepte waarop de lens zich vormt . 
+Deze kleinere , aan permafrost gerelateerde vormen worden in de vakliteratuur meestal palsa ’ s genoemd , waarbij het ontbreken van aanvoer van grondwater meestal als onderscheidend criterium wordt gehanteerd ( zie http : //en.wikipedia.org/wiki/Palsa ) . 
+Echte palsa ’ s ( in de strikte zin van het woord ) ontstaan in ( hoog ) veengebieden . 
+Voorbeelden van depressies die als palsa-restanten zijn geïnterpreteerd komen bijvoorbeeld in de Haute Fagne in België voor . 
+Hoewel minder vaak beschreven , kunnen palsa ’ s ook ontstaan in een klastische ondergrond . 
+Hiervoor wordt meestal de term ‘ minerale palsa ’ gehanteerd ; in dit rapport wordt deze conventie gevolgd . 
+Het feit dat de keileem in het onderzochte deel van Fryslân vrij zandig is en zandlagen bevat en dat de daar onder gelegen fluvioglaciale afzettingen zandig en gelaagd zijn , zal ook bijdragen aan het ont staan van minerale palsa ’ s . 
+Juist de zandige lagen kunnen meer grondwater bevatten dan de leemniveaus daartussen . 
+Bij bevriezing ontstaan dan meerdere ijslenzen in de ondergrond . 
+De ijslenzen in ( minerale ) palsa ’ s zijn relatief klein , dus zal het ijs nooit aan het oppervlak zijn gekomen zoals bij pingo ’ s het geval is . 
+Ook is er vaak geen sprake van een enkele , goed gedefinieerde ijskern , maar van meerdere dunnere ijslagen in de ondergrond ( figuur 28B ) . 
+De deklaag vormt dus geen wal , maar zakt terug in de depressie ( figuur 28C ) en maakt de depressie ondie per . 
+Ook het formaat van de ijslens leidt al tot ondiepere depressies . 
+Verder is de positie van de palsa ten opzichte van het grondwater niet alleen tijdens de vorming , maar ook daarna anders dan die van pingoruïnes . 
+Een en ander leidt tot ondieper water en snellere verlanding van de depressie . 
+Deelgebied 206 en de depressie in deelgebied 217 zijn hier goede voorbeelden van . 
+In de vulling van deze depressies ontbreekt gyttja en komt op erg ondiep water wijzend mosveen voor . 
+Dergelijke depressies kunnen ook sneller dichtstuiven . 
+Voor dit onderzoek is het onderscheid tussen pingoruïnes en andere , eventueel aan permafrost gerelateerde depressies gemaakt op grond van de volgende criteria : - de opbouw van de organische vulling , waarbij depressies met een opeenvolging van gyttjeus zand - gyttja - detritus-gyttja - veen als ‘ echte ’ pingoruïnes zijn geïnterpreteerd ; - diepte en helling van de depressie ( al moet hier wel gezegd worden dat de lithologie van de vulling mede afhankelijk is van waterdiepte , dus ook van de diepte van de depressie ) . 
+Steile en diepe depressies zijn als ‘ echte ’ pingoruïnes geïnterpreteerd . 
+61 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes A B C D permanent bevroren bodem ( permafrost ) opdooilaag gedeformeerde lagen Figuur 28 . 
+Ontstaan en afsmelten van een ( minerale ) palsa . 
+62 ijskern meerafzettingen en veen water RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes 4 Conclusies en aanbevelingen 4.1 Conclusies De bodemopbouw in deelgebied 217 bestaat over het algemeen uit een bouwvoor/verstoorde laag op dekzand op keileem . 
+Slecht op enkele plaatsen is nog een dunne veenlaag aanwezig tussen de bouwvoor/verstoorde laag en het dekzand . 
+Meestal is de top van het dekzand verstoord . 
+In 8 boringen is in de top van het dekzand een intacte of incomplete podzolbodem aangetroffen . 
+In één van deze boringen is een fragment verbrand vuursteen aangetroffen . 
+Dit is een aanwijzing dat zich hier mogelijk een vuursteenvindplaats bevindt . 
+In het westelijke deel van dit deelgebied is onder een laag ( dek ) zand organisch materiaal aangetroffen . 
+Op het AHN is op deze locatie een depres sie te zien . 
+Het gaat niet om een pingoruïne. , maar waarschijnlijk om een opgevulde ( minerale ) palsa . 
+Omdat de kans zeer klein is dat de voor de archeologie interessante periode in de orga nische vulling is geregistreerd , wordt de depressie en de vulling daarin niet behoudenswaardig geacht . 
+De bodemopbouw in deelgebied 218 bestaat uit een bouwvoor/verstoorde laag op dekzand en keileem . 
+Plaatselijk bevindt zich nog een dunne laag veen tussen de bouwvoor/verstoorde laag en het dekzand . 
+In de top van het dekzand is op 2 plaatsen een intacte of incomplete podzol bodem aangetroffen . 
+Hierin zijn geen archeologische indicatoren aangetroffen . 
+In dit deelgebied zijn geen aanwijzingen voor archeologische vindplaatsen aangetroffen . 
+Op 2 van de 9 potentiële pingoruïnes is geen veldonderzoek uitgevoerd . 
+In het geval van deelgebied 9 is in overleg met het bevoegd gezag besloten dat deze pingoruïne voldoende onderzocht is . 
+Voor deelgebied 216 is geen betredingstoestemming verleend . 
+Uit eerder booronderzoek blijkt dat het hier om een pingoruïne gaat . 
+Op de overige 7 potentiële pingoruïnes is wel veldonderzoek uitgevoerd . 
+Deelgebied 205 is weliswaar zichtbaar als een depressie , maar uit het booronderzoek blijk dat het niet om een pingo ruïne of een andere , met organisch materiaal gevulde depressie gaat . 
+Deelgebied 206 betreft een maximaal 2,4 m diepe , met veen en detritus-gyttja gevulde depressie . 
+Op grond van de omvang en de diepte van de depressie en de lithologie van de vulling is geconcludeerd dat het niet om een pingoruïne gaat , maar om een opgevulde ( minerale ) palsa . 
+Omdat de kans zeer klein is dat de voor de archeologie interessante periode de organische vulling is geregistreerd , wordt de depressie en de vulling daarin niet behoudenswaardig geacht . 
+De depressies in de overige onderzochte locaties ( deelgebieden 2 , 5 , 10 , 24 en 207 ) zijn op grond van hun omvang en de lithologie van de vulling geïnterpreteerd als pingoruïnes . 
+In de directe nabijheid van de pingoruïne in deelgebied 2 zijn op het maaiveld vuurstenen artefacten aangetroffen . 
+Dit is een aanwijzing voor de aanwezigheid van een vuursteenvindplaats ter plaatse . 
+63 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes 4.2 Aanbevelingen De aanbevelingen voor eventueel archeologisch vervolgonderzoek zijn per deelgebied samengevat in tabel 2. deelgebied vindplaats/deel advies vuursteenvindplaats waarderend booronderzoek met megaboringen op een grid van maximaal 5 x 5 m ( minerale ) palsa geen vervolgonderzoek overige delen geen vervolgonderzoek geheel geen vervolgonderzoek pingoruïne behouden en , wanneer dit niet mogelijk is , de vulling van de pingo ruïne bemonsteren , paleo-ecologisch analyseren en dateren vuursteenvindplaats archeologische begeleiding van de werkzaamheden 5 pingoruïne behouden en , wanneer dit niet mogelijk is , de vulling van de pingo ruïne bemonsteren , paleo-ecologisch analyseren en dateren 9 pingoruïne de vulling van de pingoruïne bemonsteren ten behoeve van paleo-ecologische analyses en dateringen 10 pingoruïne behouden en , wanneer dit niet mogelijk is , de vulling van de pingo ruïne bemonsteren , paleo-ecologisch analyseren en dateren 24 pingoruïne behouden en , wanneer dit niet mogelijk is , de vulling van de pingo ruïne bemonsteren , paleo-ecologisch analyseren en dateren 205 geheel geen vervolgonderzoek 206 ( minerale ) palsa geen vervolgonderzoek 207 pingoruïne behouden en , wanneer dit niet mogelijk is , de vulling van de pingo ruïne bemonsteren , paleo-ecologisch analyseren en dateren 216 pingoruïne waarderend booronderzoek met gutsboringen in 2 kruisende raaien om de omvang , kwaliteit en mate van verstoring van de vulling te bepalen 217 218 2 Tabel 2 . 
+Overzicht van de adviezen per deelgebied . 
+64 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Literatuur Asmussen , P.S.G. , 1999 . 
+Provincie Fryslân , project “ Archeologie van het Houtwallen- en Elzensingelgebied Fryslân ’ fase2 ( mei 1997 - mei 1988 ) . 
+RAAP-rapport 405 . 
+Stichting RAAP , Amsterdam . 
+Exaltus , R. & W. de Neef , 2008 . 
+De Centrale As : Noord en Midden , Tracé tussen Burgum en Dokkum ( Fr . ) ; Een Inventariserend Archeologisch Veldonderzoek . 
+Steekproefrapport 2007-07/06 . 
+De Steekproef , Zuidhorn . 
+Nederlands Normalisatie-instituut , 1989 . 
+Nederlandse Norm NEN 5104 , Classificatie van onverharde grondmonsters . 
+Nederlands Normalisatie-instituut , Delft . 
+Veenstra , H.W . 
+& D. van den Berg , 2009 . 
+Archeologisch vooronderzoek Centrale As , gemeenten Dantumadiel , Dongeradeel , Smallingerland en Tytsjerksteradiel : een inventariserend veldonderzoek ( aanvullend booronderzoek ) . 
+RAAP-rapport 2028 . 
+RAAP Archeologisch Adviesbureau , Weesp . 
+Lijst van afkortingen AHN Actueel Hoogtebestand Nederland ARCHIS ARCHeologisch Informatie Systeem FAMKE Friese Archeologische Monumenten Kaart Extra KNA Kwaliteitsnorm Nederlandse Archeologie -Mv beneden maaiveld NAP Normaal Amsterdams Peil PIP Provinciaal InpassingsPlan PvA Plan van Aanpak PvE Programma van Eisen SIKB Stichting Infrastructuur Kwaliteitsborging Bodembeheer 65 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Verklarende woordenlijst amorf Vormloos . 
+artefact Alle door de mens gemaakte of gebruik te voorwerpen . 
+dekzand Fijnzandige afzettingen die onder periglaciale omstandigheden voorna me lijk door windwer king ontstaan zijn ; de dekzanden van het Weich se lien vormen in grote delen van Nederland een ‘ dek ’ ( Saal ien : Forma tie van Eindhoven ; Weichse lien : Formatie van Twente ) . 
+Detritus-gyttja Fijn organisch bezinksel in stilstaand , relatief diep water ( meren ) . 
+dobbe Al of niet kunstmatige depressie in gebruik als bijv . 
+veedrink plaats in buitendijks land of als reservoir voor bluswater . 
+eolisch Door de wind gevormd , afgezet . 
+fluvioglaciaal Door smeltwater ( afkomstig van glet sjers ) afgezet . 
+fluvioperiglaciaal Door stromend water onder periglaciale omstandighe den afgezet . 
+grondmorene Het door het landijs aangevoerde en na afsmelten achtergebleven mengsel van leem , zand en stenen . 
+De afzetting wordt vaak aangeduid als keileem . 
+gyttja Zeer fijn organisch bezinksel en chemische neerslag ( waaronder kalk ) , afgezet in stilstaand , diep water . 
+Holoceen Jongste geologisch tijdvak ( vanaf de laatste IJstijd : ca . 
+9700 jaar voor Chr . tot heden ) . 
+keileem Grondsoort bestaande uit een mengsel van leem , zand , grind en stenen ( in het spraakge bruik gekoppeld aan het begrip grondmo rene ) . 
+Laat Glaciaal Laatste fase van het Weichselien ( 13.000-10.000 voor het heden ) die zich kenmerkt door een afwisseling van warme Interstadialen ( Bølling en Aller ød ) en koudere Interglacialen ( Vroege en Late Dryas ) . 
+leem Grondsoort die wordt gekenmerkt door een hoog siltgehalte ( bodemdeel tjes tussen 0,002 en 0,05 mm ) . 
+oxidatie Reactie met zuurstof ( roesten/corrosie bij metalen ; ‘ verbranding ’ bij veen ) . 
+66 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes palsa , ( minerale ) palsa Kleine heuvels en andere landvormen die ontstaan door de vorming van kleine ijslenzen in de bodem in permafrostgebieden ( zie hoofdstuk 3 ) . 
+permafrost Permanent bevroren bodem . 
+pingo Heuvel , ontstaan door de vorming van een ijslens in de grond tijdens de ijstijd ( zie hoofdstuk 3 ) . 
+pingo-ruïne De door afsmelting van een pingo ontstane depressie waar omheen soms een wal voorkomt die is ontstaan door afglijding van de pingo ’ huid ’ . 
+Pleistoceen Geologisch tijdperk dat ca . 
+2,3 miljoen jaar geleden begon . 
+Gedurende deze periode waren ersterke klimaatswisselingen van gematigd warm tot zeer koud ( de IJstijden ) . 
+Na de laatste IJstijd begint het Holoceen ( ca . 
+8800 voor Chr . ) . 
+Pleniglaciaal Koudste periode van de laatste ijstijd , het Weichselien , ca . 
+20.000 -13.000 jaar geleden . 
+podzol Bodem met een uitspoelingslaag ( E-horizont ) en een inspoelingslaag ( B-horizont ) . 
+Het proces van het uitlogen van de E-horizont en de vorming van een B-horizont door inspoeling van amorfe humus en ijzer wordt podzolering genoemd . 
+silt Gronddeeltjes ter grootte van 2 tot 50 μm . 
+Steentijd Archeologische periode die zich kenmerkt door het gebruik van stenen werktuigen . 
+Weichselien Geologische periode ( laatste ijstijd , waarin het landijs Nederland niet bereikte ) , ca . 
+120.00010.000 jaar geleden . 
+67 RAAP-RAPPORT 2093 Plangebied De Centrale As , gemeenten Dantumadeel en Tytsjerksteradiel Archeo logisch vooronderzoek in de deelgebieden 217 en 218 alsmede 9 potentiële pingoruïnes Overzicht van figuren , tabellen en bijlagen Figuur 1 . 
+Ligging van de deelgebieden . 
+Inzet : ligging in Nederland . 
+Figuur 2 . 
+Resultaten booronderzoek deelgebied 217 , geprojecteerd op het AHN . 
+Figuur 3 . 
+Deelgebied 217 , boorraai A-A ’ . 
+Figuur 4 . 
+Resultaten booronderzoek deelgebied 218 , geprojecteerd op het AHN . 
+Figuur 5 . 
+Resultaten booronderzoek deelgebied 2 , geprojecteerd op het AHN . 
+Figuur 6 . 
+Deelgebied 2 , boorraai B-B ’ . 
+Figuur 7 . 
+Deelgebied 2 , boorraai C-C ’ . 
+Figuur 8 . 
+Resultaten booronderzoek deelgebied 5 , geprojecteerd op het AHN . 
+Figuur 9 . 
+Deelgebied 5 , boorraai D-D ’ . 
+Figuur 10 . 
+Deelgebied 5 , boorraai E-E ’ . 
+Figuur 11 . 
+Resultaten booronderzoek deelgebied 9 , geprojecteerd op het AHN . 
+Figuur 12 . 
+Resultaten booronderzoek deelgebied 10 , geprojecteerd op het AHN . 
+Figuur 13 . 
+Deelgebied 10 , boorraai F-F ’ . 
+Figuur 14 . 
+Deelgebied 10 , boorraai G-G ’ . 
+Figuur 15 . 
+Resultaten booronderzoek deelgebied 24 , geprojecteerd op het AHN . 
+Figuur 16 . 
+Deelgebied 24 , boorraai H-H ’ . 
+Figuur 17 . 
+Deelgebied 24 , boorraai J-J ’ . 
+Figuur 18 . 
+Resultaten booronderzoek deelgebied 205 , geprojecteerd op het AHN . 
+Figuur 19 . 
+Resultaten booronderzoek deelgebied 206 , geprojecteerd op het AHN . 
+Figuur 20 . 
+Deelgebied 206 , boorraai K-K ’ . 
+Figuur 21 . 
+Deelgebied 206 , boorraai L-L ’ . 
+Figuur 22 . 
+Resultaten booronderzoek deelgebied 207 , geprojecteerd op het AHN . 
+Figuur 23 . 
+Deelgebied 207 , boorraai M-M ’ . 
+Figuur 24 . 
+Deelgebied 207 , boorraai N-N ’ . 
+Figuur 25 . 
+Resultaten booronderzoek deelgebied 216 , geprojecteerd op het AHN . 
+Figuur 26 . 
+Deelgebied 216 , boorraai O-O ’ . 
+Figuur 27 . 
+Ontstaan van een pingoruïne . 
+Figuur 28 . 
+Ontstaan en afsmelten van een ( minerale ) palsa . 
+Tabel 1 . 
+Geologische en archeologische tijdschaal . 
+Tabel 2 . 
+Overzicht van de adviezen per deelgebied . 
+Bijlage 1 . 
+CD-ROM met boorbeschrijvingen en digitale foto ’ s van de ( potentiële ) pingoruïnes . 
+68 

@@ -1,0 +1,513 @@
+ARCHEOLOGISCHE RAPPORTEN ALMERE 66 BASISRAPPORTAGE BUREAUONDERZOEK Plangebied 3P4 en 3R3 Sieradenbuurt ( Almere Buiten ) Colofon Status : definitief Datum : maart 2010 Auteur : drs . J.F . van Voorst Autorisatie : drs . W.J.H . 
+Hogestijn ARCHISwaarnemingsnummer : niet van toepassing ISSN : 157441168 Gemeente Almere Dienst Maatschappelijke Ontwikkeling Bureau Archeologie Postbus 200 1300 AE Almere www.almere.nl Bestandsnaam : Q : \DMO\VT\Algemeen\Archeologie\Plangebieden\Gebiedscode 3\30343P4 en 3R3 Sieradenbuurt\6Rapportage \intern\Fase 0\ BO en PvE3P4 en 3R3 Sieradenbuurt vs 3.doc Samenvatting………………………………………………………………………… ... ... ... ... ... ... . 1 . 
+Administratieve gegevens plangebied…………………………………………………… . 
+2 . 
+Onderzoekskader……………………………………………………………………… ... .. 2.1 Afbakening plan4 en onderzoeksgebied…………………………………… 2.2 Huidige en toekomstige situatie van het plangebied…………………….. 2.3 Doelstelling………………………………………………………………… . 
+3 . 
+Beleidskader……………………………………………………………………………… . 
+3.1 Beleidskader………………………………………………………………… . 
+3.2 Risico ’ s……………………………………………………………………… . 
+4 . 
+Bureauonderzoek : inventarisatie archeologische gegevens………………………… ... 4.1 Inleiding…………………………………………………………………….. 4.2 De ( pre4 ) historische situatie en mogelijke verstoringen………………… 4.3 Bekende archeologische waarden en onderzoeksmeldingen…………… . 
+4.4 Archeologische verwachting…………………………………………… ... .. 4.5 Gegevens uit overig onderzoek………………………………………… ... .. 4.6 Gespecificeerd verwachtingsmodel……………………………………….. 4.7 Samenvatting en conclusie bureauonderzoek en advies vervolgonderzoek…………………………………………………………… Geraadpleegde literatuur………………………………………………………………… ... ... ... ... .. 
+Overzicht van figuren en tabellen………………………………………………………………….. 3 5 6 6 7 12 13 13 15 16 16 16 16 19 21 22 23 Bijlage 1 : Kaarten ligging kabels en leidingen afzonderlijk……………………………… . 
+25 25 25 26 Bijlage 2 : Programma van eisen vooronderzoek fase 1 en 2……………………………… 29 Programma van eisen ( PvE ) voor archeologisch vooronderzoek……………………………….. Doelstelling………………………………………………………………………………… Onderzoeksmethodiek…………………………………………………………………… ... ... ... ... .. Verkennend onderzoek ( fase 1 ) ………………………………………………………….. Karterend onderzoek ( fase 2 ) …………………………………………………………… . 
+Produkten………………………………………………………………………………… ... ... ... ... .. Basisrapportage…………………………………………………………………………… . 
+Kaarten met onderzoeksresultaten……………………………………………………… . 
+Boorbeschrijvingen in Excel……………………………………………………………… Residuen boormonsters………………………………………………………………….. Deponering vondstmateriaal en ARCHIS4meldingen…………………………………… ... ... ... . Personeel……………………………………………………………………………………………… Organisatie…………………………………………………………………………………………… Beoordelingscriteria offerte………………………………………………………………………… . 
+29 30 32 32 24 24 24 25 25 36 36 37 37 37 Bijlage 3 : Standaardkleuren Archeologische Indicatoren…………………………… ... ... . 39 2 Samenvatting In het plangebied 3P4 en 3R3 Sieradenbuurt ( Almere Buiten ) vindt onderzoek plaats naar de voorgenomen uitvoering van het inrichtingsplan Sieradenbuurt . 
+De voorgenomen werkzaamheden betreffen : de aanleg van voet4 en fietspaden , waterpartijen , bos en plaatsen van inrichtingselementen , zoals picknicktafels en speeltoestellen . 
+Ook wordt bos gerooid . 
+Het oppervlak van het plangebied is circa 34 ha . 
+groot . 
+In het plangebied komen vijf selectiegebieden voor , met een oppervlakte van ca . 
+4,5 ha . 
+In alle vijf vinden ingrepen plaats die invloed op eventuele archeologische resten kunnen hebben , namelijk aanleg van bosvakken met essen , aanleg van fietspaden ( 3 meter breed ) van beton en asfalt , het graven van een sloot met een diepte van 1,80 meter met een duiker , kappen van bos ten behoeve van de aanleg van voetpaden en de aanleg van een halfverhard voetpad van 242,5 meter breed . 
+Het te verharden gedeelte binnen de selectiegebieden bedraagt meer dan 470 m2 . 
+In drie selectiegebieden zal hiertoe bos gekapt worden . 
+Ten slotte wordt in twee selectiegebieden betreffen zoombeplanting aangelegd . 
+Ook deze werkzaamheid kan invloed op eventueel aanwezige archeologische waarden hebben . 
+Het doel van het bureauonderzoek is een gespecificeerd archeologisch verwachtingsmodel voor het plangebied op te stellen door bekende en te verwachten archeologische waarden en andere voor het onderzoek relevante gegevens te inventariseren . 
+Aan de hand hiervan wordt bepaald of en wat voor soort archeologisch vervolgonderzoek noodzakelijk is . 
+Hiertoe is de Archeologische Beleidskaart Almere ( ABA ) d.d . 
+0840742009 ( ook wel Selectiekaart ) geraadpleegd . 
+Uit de ABA blijkt dat circa 10415 % van het inrichtingsplan binnen een Selectiegebied is gelegen . 
+Op basis van het voorliggende bureauonderzoek kan worden gesteld dat in het hele plangebied prehistorische nederzettingsresten aanwezig kunnen zijn op plaatsen waar de top van het dekzand intact is en in de Oude Getijdenafzettingen ( oeverwallen ) . 
+Gezien de hoogteligging van het dekzand van 9 tot 12 of meer meter min NAP , de hoogteligging van de Oude Getijdenafzettingen van 5 tot 8 meter min NAP en de relatieve zeespiegelstijging zullen eventueel aanwezige archeologische resten een leeftijd hebben van circa circa 8.10046.300 voor Chr . ( archeologische resten in het dekzand ) en 5.70043.800 v. Chr . ( archeologische resten in/op de Oude Getijdenafzettingen ) . 
+Dit betekent dat zij zullen dateren uit de Midden4 Steentijd ( Mesolithicum / circa 8.800 – 5.300 voor Chr . ) ( dekzand ) en Jonge Steentijd ( Neolithicum / circa 5.30042.000 v. Chr ) . 
+Dergelijke vindplaatsen zijn eveneens te verwachten in bodemlagen die verband houden met de Bølling en Allerød interstadialen , zoals veen ( sterk samengedrukt ) en de ‘ Laag van Usselo ’ . 
+Ook in het Jong Dekzand 1 ( Vroege Dryas stadiaal ) en Jong Dekzand 2 ( Late Dryas stadiaal ) kunnen dergelijke vindplaatsen worden verwacht . 
+De vigerende wettelijke en beleidsmatige kaders in ogenschouw nemende en overwegende dat : • In het plangebied geen bodemverstoringen hebben plaatsgevonden en het bodemarchief in het plangebied intact is ; • In het plangebied zeker drie niveaus aanwezig zijn , waarin prehistorische resten bewaard kunnen zijn gebleven , namelijk : 1. de Oude Getijdenafzettingen ; 2. de top van het dekzand ; 3. hieronder gelegen lagen ( Bølling / Allerød / Kreftenheye formatie ) • De voorgenomen ingrepen de eventueel aanwezige archeologische resten kunnen beschadigen , onbereikbaar maken en/of kunnen vernietigen ; • Er nog geen effectieve mogelijkheden voorhanden zijn om naar scheepsresten en scheepsladingen te zoeken ; • In de vigerende bestemmingsplannen 3R Sieradenbuurt en 3M Oostvaardersbuurt geen voorschriften inzake archeologische monumentenzorg zijn opgenomen ; • De raad van Almere op 18 juni 2009 het nieuwe archeologiebeleid heeft vastgesteld ; 3 • • • Onder het nieuwe beleid alleen nog onderzoek verricht hoeft te worden voor bodemingrepen in Selectiegebieden ; Het plangebied voor circa 10415 % in een Selectiegebied is gelegen ; De ingreep niet valt onder het vrijstellingsbeleid ; Wordt geadviseerd : Archeologisch vooronderzoek uit te voeren in alle vijf Selectiegebiedjes waar rooien van bos , aanleg van een fietspad ( beton/ asfalt ) of voetpad ( halfverharding ) , graven van een sloot , nieuw aanplanten van bosvakken met essen en aanleg van zoombeplanting zal plaatsvinden . 
+Dit kan bestaan uit meerdere fasen , te weten : • Fase 1 : een landschappelijke verkenning teneinde toereikend inzicht te krijgen in de opbouw , het reliëf en de gaafheid van het pleistocene dekzand , Oude Getijdenafzettingen en hieronder gelegen lagen ; • Fase 2 : een kartering teneinde aanwijzingen op te sporen voor steentijdvindplaatsen in de archeologisch relevant geachte lagen ; • Fase 3 : een waarderend onderzoek teneinde aanvullende gegevens te verzamelen voor het vaststellen van de begrenzing , de diepteligging , de aard en de fysieke waarde ( gaafheid en conservering ) van de in eerdere fasen herkende archeologische steentijdvindplaatsen ; • Fase 4 : een aanvullend onderzoek om te kunnen bepalen op welke wijze met herkende archeologische resten omgegaan dient te worden teneinde deze veilig te stellen ; Uit inventariserend vooronderzoek ( fase 1 ) zal blijken of vervolgonderzoek ( fasen 2 en 3 ) noodzakelijk is . 
+Indien dit het geval is , wordt het onderzoeksgebied waar vervolgonderzoek plaats zal vinden nader gedefinieerd door Bureau Archeologie , op basis van de resultaten van het booronderzoek van de voorafgaande fase ; Het onderzoek wordt uitgevoerd conform het bijgevoegde Programma van Eisen ( PvE ) , alvorens enige bodemverstoring plaatsvindt ; Het terrein dient door de opdrachtgever toegankelijk te worden gemaakt om het mechanisch booronderzoek conform het gemeentelijke Programma van Eisen te kunnen uitvoeren . 
+Gelet op het feit dat het plangebied voor een groot deel met bomen is beplant , al dan niet in regelmatige rijen , is er een kans dat het terrein in verband hiermee moeilijk toegankelijk is voor mechanisch booronderzoek zonder schade aan te brengen aan de bomen . 
+Het is ook denkbaar dat de wortels van de bomen eventueel aanwezige archeologische waarden reeds hebben verstoord . 
+Of er schade is , en zo ja , hoeveel is op dit moment niet bekend . 
+Dit hangt af van de diepteligging , aard en omvang van de eventuele vindplaats , de diepte en aard van de worteling ( wat afhankelijk is van de boomsoort , de leeftijd van de bomen en de hoogte van de grondwaterspiegel ) . 
+Gewezen wordt op het feit dat het booronderzoek uitgevoerd moet worden conform het gemeentelijke Programma van Eisen waarbij mechanisch booronderzoek in principe noodzakelijk is . 
+Ook het aanhouden van het voorgeschreven boorgrid is van essentieel belang . 
+Eventuele onvermijdbare afwijkingen van het PvE worden te allen tijde vooraf aan de gemeente Almere , dienst Maatschappelijke Ontwikkeling/Bureau Archeologie voorgelegd en schriftelijk overeengekomen . 
+Niet aantoonbaar overeengekomen afwijkingen in producten worden niet geaccepteerd voordat deze door , of op kosten van , de opdrachtnemer gecorrigeerd zijn . 
+4 1 . 
+Administratieve gegevens plangebied Uitvoeringsperiode Opdrachtgever Onderzoekskader Uitvoerder Bevoegd gezag Naam deskundige namens bevoegd gezag Gemeente Plaats Gebiedscode / Toponiem Oppervlakte plangebied Coördinaten Beheer en plaats documentatie Landelijk registratienummer ( CIS ) Kadastrale gegevens ( Brongegevens : Kadaster , Directie Oost / Zwolle ) Beheerder/eigenaar van de grond en/of contactpersoon ISSN 2010 Gemeente Almere , Dienst Stedelijke Ontwikkeling / Projectmanagementbureau Inrichtingsplan Sieradenbuurt Bureau Archeologie , Dienst Maatschappelijke Ontwikkeling Gemeente Almere drs . W.J.H . 
+Hogestijn , stadsarcheoloog Almere Almere Buiten 3P4 en 3R3 Circa 34 ha , waarvan ca . 
+4,5 ha . 
+binnen een selectiegebied • N : 148.939/491.627 • W : 149.259/491.757 • O : 150.107/491.333 • Z : 149.406/490.909 Bureau Archeologie , Dienst Maatschappelijke Ontwikkeling ? 
+Gemeente Almere : AMR04 F 1293 AMR04 R 00001 AMR04 R 00003 AMR04 R 00005 AMR04 R 00015 AMR04 R 00018 AMR04 R 00019 AMR04 R 00020 AMR04 R 00021 AMR04 R 00022 AMR04 R 00025 AMR04 R 02034 Staatsbosbeheer : AMR04 F 1293 AMR04 R 00001 AMR04 R 00003 AMR04 R 00005 AMR04 R 00036 Gemeente Almere , Staatsbosbeheer 157441168 5 2 . 
+Onderzoekskader 2.1 Afbakening plan % en onderzoeksgebied Het Inrichtingsplan Sieradenbuurt behelst het parkgebied dat rondom de Sieradenbuurt is gelegen . 
+Er zal bos gekapt worden ten behoeve van aanleg van voet4 en fietspaden . 
+Er wordt nieuw bos ( essen ) aangepland . 
+Langs sommige wegen komt nieuw aan te leggen zoombeplanting met een breedte van 10415 meter . 
+Er worden twee nieuwe waterkommen gegraven . 
+Hierlangs zullen water4 en moerasplanten aangepland worden . 
+Er zal een ( nog nader uit te werken ) doolhof aangelegd worden . 
+Er zal een nieuwe duiker aangelegd worden . 
+Er komt een nieuw aan te leggen voetpad in halfverharding ( Grauecke ) met een breedte van 242,50 meter.. 
+Er wordt een nieuw fietspad met een breedte van 3,00 meter ( asfalt ) aangelegd . 
+Er worden nieuwe bomen ( prunus avium ) aangepland . 
+Er worden twee picknicktafels met speeltoestel geplaatst . 
+Ten slotte wordt een noodschool geplaatst . 
+Het plangebied waar het inrichtingsplan Sieradenbuurt is voorzien is gelegen in Almere Buiten , deelgebieden 3P4 en 3R3 . 
+Het oppervlak van het plangebied is circa 340.000 m2 ( 34 ha . ) 
+groot . 
+De hierbinnen gelegen selectiegebieden beslaan circa 44.470 m2 ( 4,5 ha . ) . 
+Figuur 1 : Ligging plangebied 3P4/3R3 Sieradenbuurt . 
+6 Figuur 2 : Ligging plangebied 3P4/3R3 Sieradenbuurt op detailniveau . 
+2.2 Huidige en toekomstige situatie van het plangebied Het huidige park bestaat uit bos en grasvelden die door fiets4 en voetpaden en waterpartijen doorsneden worden . 
+Het inrichtingsplan Sieradenbuurt behelst zoals gezegd onder meer aanleg van voet4 en fietspaden , rooien en planten van bos en bomen , graven van waterpartijen , etc . 
+etc . 
+Zie figuur 3 . 
+7 Figuur 3 : Het inrichtingsplan Sieradenbuurt . 
+Echter : niet al de genoemde ingrepen vinden plaats in onderzoeksplichtige gebieden ( Selectiegebieden ) . 
+Zo wordt de noodschool buiten een Selectiegebied gebouwd . 
+In het plangebied komen vijf selectiegebieden voor . 
+Per selectiegebied worden de volgende werkzaamheden uitgevoerd ( zie figuur 4 ) : Selectiegebied 1 : 4nieuw aan te planten bosvakken ( essen ) ; 4nieuw aan te leggen fietspad , breedte 3 meter ( beton ) ; 4graven van een sloot met een diepte van 1,80 meter gerekend vanaf maaiveld ; 4aanleg zoombeplanting met een breedte van 10415 meter . 
+Selectiegebied 2 : 4nieuw aan te planten bosvakken ( essen ) ; 4nieuw aan te leggen fietspad , breedte 3 meter ( asfalt ; 4aanleg zoombeplanting met een breedte van 10415 meter . 
+Selectiegebied 3 : 4kappen bos i.v.m . 
+aanleg voetpad ; 4nieuw aan te leggen voetpad , halfverharding , breedte 242,5 meter . 
+Selectiegebied 4 : 4kappen bos i.v.m . 
+aanleg voetpad ; 4nieuw aan te leggen voetpad , halfverharding , breedte 242,5 meter . 
+8 Selectiegebied 5 : 4kappen bos i.v.m . 
+aanleg voetpad ; 4nieuw aan te leggen voetpad , halfverharding , breedte 242,5 meter . 
+4aanleg zoombeplanting met een breedte van 10415 meter . 
+In alle vijf van de genoemde Selectiegebieden vinden ingrepen plaats die invloed op eventuele archeologische resten kunnen hebben . 
+Ook de aanleg van zoombeplanting kan van invloed zijn op de kwaliteit van de archeologische resten ( bijv . 
+steentijd4resten in de Oude Getijdenafzettingen of scheepswrakken ) : In de zoombeplanting worden inheemse struikvormende beplantingen ingeplant met enkele boomvormende soorten . 
+De kruidenvegetatie wordt niet ingeplant . 
+Deze vegetatie ontstaat op natuurlijke wijze . 
+De diepte van beworteling hangt mede af van de hoogte van het grondwaterpeil . 
+Uitgegaan kan worden dat de beplanting niet dieper wortelt dan 1,00 meter . 
+Voordat het plantsoen wordt ingeplant wordt de grond bewerkt . 
+Afhankelijk van de situatie worden de volgende bewerkingen uitgevoerd : 4 Lostrekken van de grond met een `` woelpoot '' . 
+Deze bewerking is ca . 
+1,00 meter . 
+diep ; 4 Spitten van de grond . 
+Deze bewerking is circa 0,40 meter diep ; 4 Frezen van de grond . 
+Deze bewerking is circa 0,30 meter diep . 
+Het te verharden gedeelte binnen de selectiegebieden bedraagt meer dan 470 m2 . 
+In de selectiegebieden 3 , 4 en 5 zal ten behoeve van de aanleg van een voetpad bos gekapt worden . 
+De genoemde bodemingrepen , zoals aanbrengen van niet4waterdoorlatende afdekkingen en kappen van bos kunnen eventueel aanwezige archeologische waarden in het plangebied verstoren . 
+Bovendien worden eventueel aanwezige archeologische waarden , als gevolg van de aanleg van het fietspad onbereikbaar voor onderzoek en cultuurbeleving . 
+Ten slotte kan de aanplant van bosvakken met essen gevolgen voor archeologische resten hebben . 
+Essen hebben een zeer groot vlak4diep wortelsysteem . 
+Van de voorgenomen aanleg van halfverharde voetpaden is vooralsnog onvoldoende bekend om die goed te kunnen beoordelen . 
+Voor de veiligheid moet aangenomen worden dat zij eveneens schade aan archeologische resten kunnen toebrengen . 
+Door de halfverharding aan een vergunningplicht te binden , kan deze eventueel onder bepaalde voorwaarden later toegestaan worden . 
+9 Figuur 4 : Uitsneden Selectiegebieden uit het inrichtingsplan Sieradenbuurt . 
+In het plangebied komen kabels en leidingen voor ten behoeve van elektra , gas , telecom , VRI en waterleiding.Zie figuur 5 . 
+In bijlage 1 zijn afzonderlijke kaarten met betrekking tot de ligging van kabels en leidingen ( elektra , gas , telecom , waterleiding , stadsverwarming , VRI en glasvezel ) opgenomen . 
+10 Figuur 5 : Kabels en leidingen . 
+Figuur 6 : Huidige situatie plangebied 3P4/3R3 Sieradenbuurt ( Almere Buiten ) op een luchtfoto uit 2010 . 
+11 2.3 Doelstelling Onderhavig archeologisch onderzoek is , conform landelijk , provinciaal en gemeentelijk beleid ( zie paragraaf 3 ) , nodig in verband met de beoogde toekomstige inrichting die eventueel aanwezige archeologische waarden in het plangebied zou kunnen verstoren . 
+Het doel van het bureauonderzoek is een gespecificeerd archeologisch verwachtingsmodel voor het plangebied op te stellen door bekende en te verwachten archeologische waarden en andere voor het onderzoek relevante gegevens te inventariseren . 
+Aan de hand hiervan wordt bepaald of en wat voor soort archeologisch vervolgonderzoek noodzakelijk is . 
+12 3 . 
+Beleidskader 3.1 Beleidskader De hoofdlijnen van het archeologiebeleid van de gemeente Almere zijn beschreven in De schatkamer van Almere . 
+Beleidsnota Archeologische Monumentenzorg Gemeente Almere 2001 2005 ( vastgesteld in september 2001 ) . 
+Op 18 juni 2009 heeft de raad de uitgangspunten van de Nota Archeologische Monumentenzorg 2009 vastgesteld alsmede de Archeologieverordening en de Toelichting hierop . 
+Al eerder stelden B & W de Archeologische Beleidskaart Almere ( versie 8 juli 2009 ) vast . 
+De Archeologieverordening is op 12 juli 2009 in werking getreden . 
+Het beleid uit de Nota Archeologische Monumentenzorg 2009 is eveneens vanaf 12 juli 2009 van kracht . 
+Nota Archeologische Monumentenzorg 2009 De Nota Archeologische Monumentenzorg 2009 is het vervolg op de nota De Schatkamer van Almere . 
+Beleidsnota Archeologische Monumentenzorg Gemeente Almere 200142005 ( vastgesteld in 2001 ) . 
+De Nota Archeologische Monumentenzorg 2009 bestaat uit twee delen : deel 1 over het Selectiebeleid archeologie 200842012 en deel 2 over het Programma Publiekbereik Archeologie . 
+Samenvattend is de strekking van de nota dat in de periode 200942012 het selectiebeleid zich zal richten op minder archeologische vindplaatsen dan vroeger selecteren voor behoud en het verrichten van minder onderzoek , maar wel van betere kwaliteit . 
+Tot nu toe werd ca . 
+45 % van een groot plangebied onderzocht ; deze proportie zal vergroot worden , dan wel het onderzoek worden geïntensiveerd om in de afgelopen jaren ontstane tekorten aan behoudenswaardige vindplaatsen in te lopen . 
+De onderzoeksplicht geldt alleen indien aan drie condities is voldaan : 1 . 
+Het plangebied waarin de voorgenomen bodemingreep zal plaatsvinden heeft een oppervlakte van 100 m2 of groter en 2. het plangebied betreft een terrein dat niet eerder bebouwd / overbouwd is geweest met bijvoorbeeld een weg of huizen en 3. het moet gaan om een bodemingreep dieper dan 50 cm . 
+Archeologische Beleidskaart Almere Bij de nota hoort de Archeologische Beleidskaart Almere 2009 . 
+De inzet van beschikbare middelen ten behoeve van onderzoek zal gerichter geschieden door te focussen op gebieden waarin zich representatief te achten prehistorische landschappelijke zones bevinden . 
+Door deze stringentere selectie wordt in een kleiner oppervlak van de gemeente archeologisch vooronderzoek verplicht dan in de afgelopen jaren het geval is geweest . 
+Projecten buiten de geselecteerde gebieden zijn wat archeologie betreft vergunningsvrij , behalve scheepswrakken . 
+Binnenkort zal een pilot met betrekking tot het opsporen van scheepswrakken op het land worden plaatsvinden . 
+Dit zal gefinancierd worden met gelden uit het Cultuurconvenant . 
+Dit zal dan leiden tot een wijziging van het beleid . 
+De Selectiegebieden staan aangegeven op de Archeologische Beleidskaart Almere . 
+Voor het plangebied 3P4/3R3 Sieradenbuurt zijn deze aangegeven in figuur 7 . 
+In het plangebied zijn geen behoudenswaardige archeologische vindplaatsen bekend . 
+Westelijk en noordelijk van het plangebied Sieradenbuurt is reeds archeologisch onderzoek uitgevoerd , maar daarbij zijn geen behoudenswaardige archeologische vindplaatsen aangetroffen . 
+Het plangebied zelf is nog nooit onderzocht . 
+In het plangebied bevinden zich drie grotere en twee kleine onderzoeks4 en vergunningplichtige gebieden ( selectiegebieden ) . 
+13 Figuur 7 : Archeologische Beleidskaart Almere d.d . 
+08072009 . 
+Bestemmingsplannen Het plangebied is gelegen in de werkingssfeer van de bestemmingsplannen “ 3R Sieradenbuurt ” en “ 3M Oostvaardersbuurt ” . 
+In de planvoorschriften van deze bestemmingsplannen is geen aanlegvergunningenstelsel opgenomen in het kader van de archeologische monumentenzorg . 
+Archeologieverordening In de Archeologieverordening is vastgelegd hoe het college omgaat met archeologisch waardevolle terreinen en voor welke terreinen een onderzoeksverplichting dan wel een vrijstelling hiervan geldt . 
+Archeologisch waardevolle terreinen zijn gebieden waarbinnen behoudenswaardige archeologische vindplaatsen vastgesteld zijn . 
+De onderzoeksverplichting geldt voor gebieden waarbinnen behoudenswaardige archeologische waarden verwacht worden . 
+Deze gebieden worden zgn . 
+Selectiegebieden genoemd . 
+Beide typen terreinen zijn aangeduid op de digitaal te raadplegen Selectiekaart ( in Almere in Kaart ) . 
+Binnen de genoemde gebieden zijn met enkele uitzonderingen , alle werkzaamheden / projecten archeologievergunningplichtig . 
+De vergunning kan ( al dan niet tijdelijk en/of onder voorwaarden ) worden verleend . 
+De vergunning moet geweigerd worden indien het project/ de werkzaamheden de archeologische waarden aantast of risico ’ s daarop kan opleveren . 
+Het beleid heeft tot doel aangetroffen Steentijdvindplaatsen en scheepswrakken van voldoende kwaliteit te behouden in situ . 
+In de Archeologieverordening is dwingend opgenomen dat de waardevolle terreinen en selectiegebieden ( als vermeld op de Archeologische Beleidskaart Almere ) integraal in alle toekomstige ruimtelijke plannen en juridisch4planologische kaders moet worden 14 overgenomen , met een met de verordening overeenkomende bescherming . 
+Tevens is in de Archeologie4verordening opgenomen dat behoudenswaardige vindplaatsen altijd zullen worden behouden . 
+In de Beleidsnota Archeologische Monumentenzorg is bovendien vastgelegd dat behoudenswaardige vindplaatsen herkenbaar en beleefbaar ingericht moeten worden . 
+3.2 . 
+Risico ’ s De wijze waarop het planproces tot nu toe is doorlopen is in strijd met het door het college van burgemeester en wethouders en de gemeenteraad van Almere vastgestelde beleid . 
+In het huidige beleid dient , alvorens een terrein wordt vrijgegeven voor ( planvorming m.b.t . ) 
+eventuele bebouwing of grondwerkzaamheden , archeologisch ( voor ) onderzoek te zijn uitgevoerd . 
+Het huidige proces is echter andersom verlopen : er is een terrein geselecteerd waar werkzaamheden uitgevoerd gaan worden en pas daarna is archeologie in beeld gekomen . 
+Het is zeer wel denkbaar dat archeologisch waardevolle vondsten zullen moeten leiden tot al dan niet grote planaanpassingen teneinde behoud in situ van de archeologische vindplaats mogelijk te maken . 
+Hieraan zijn aanzienlijke juridische en financiële risico ’ s verbonden . 
+Het is namelijk denkbaar dat een gewijzigd plan voor de verbreding van de weg niet meer voldoet aan de eisen die hieraan gesteld worden door de ( verkeerskundigen van de ) Dienst Stedelijke Ontwikkeling / Projectmanagementbureau . 
+Indien het dan maatschappelijk wenselijk wordt geacht de wegverbreding in ongewijzigde vorm toch doorgang te laten vinden , is een opgraving onontkoombaar . 
+Hieraan kunnen ( grote ) financiële consequenties verbonden zijn . 
+In de afgelopen tien jaar is vastgesteld dat een en ander kan leiden tot planvertraging en schadeclaims . 
+De verantwoordelijkheid hiervoor ligt bij de projectaansturing ( te weten : de Dienst Stedelijke Ontwikkeling / Projectmanagementbureau van de gemeente Almere ) . 
+15 4 . 
+Bureauonderzoek : inventarisatie archeologische gegevens 4.1 Inleiding In het kader van de ruimtelijke planvorming is een archeologisch bureauonderzoek uitgevoerd , om bekende en te verwachten archeologische waarden en andere voor het onderzoek relevante gegevens te inventariseren en vervolgstappen te bepalen . 
+Dit onderzoek is uitgevoerd door de gemeente Almere in juni 2009 conform de Kwaliteitsnorm Nederlandse Archeologie ( KNA ) versie 3.1 . 
+Bij het bureauonderzoek is het eerder gedefinieerde onderzoeksgebied betrokken ( zie paragraaf 2.1 ) . 
+De resultaten van het bureauonderzoek staan hieronder beschreven . 
+4.2 De ( pre % ) historische situatie en mogelijke verstoringen Het archeologisch erfgoed van de gemeente Almere omvat steentijdvindplaatsen en scheepswrakken uit de Late4Middeleeuwen en de Nieuwe Tijd . 
+In de Steentijd werd het grondgebied van Almere , evenals de rest van de provincie Flevoland , door groepen jagers4 verzamelaars geëxploiteerd . 
+De resten hiervan , bijvoorbeeld in de vorm van kampementen en grafvelden , bevinden zich onder andere in de top van het dekzand . 
+Dergelijke archeologische waarden , kunnen zich ook ondieper in de Oude Zeeklei Afzettingen bevinden . 
+De scheepswrakken liggen in de jongere afzettingen boven het dekzand ( namelijk in de Almere4afzettingen en Zuiderzee4afzettingen ) en liggen dus dichter onder het maaiveld . 
+Met de inpoldering in de vorige eeuw is het gebied van Almere weer drooggevallen ( 1968 ) . 
+De Buitenring is in circa 1975 aangelegd . 
+Vanaf circa 1990 is de Oostvaardersbuurt gebouwd . 
+Omstreeks 1995 is een groot deel van het plangebied met bos ingepland , dat nu Oostrandpark is geworden . 
+Vanaf 2004/5 is de Sieradenbuurt gebouwd . 
+4.3 Bekende archeologische waarden en onderzoeksmeldingen Voor de bureau4inventarisatie van bekende archeologische waarden en onderzoeksmeldingen wordt normaliter het ARCHeologisch InformatieSysteem ( ARCHIS ) geraadpleegd . 
+ARCHIS omvat onder andere de Archeologische MonumentenKaart ( AMK ) van Flevoland en de Indicatieve Kaart van Archeologische Waarden ( IKAW ) , i.e . 
+de archeologische verwachtingenkaart . 
+Naast informatie over archeologische terreinen en archeologische verwachtingen , omvat ARCHIS ook informatie over archeologische vondstmeldingen , archeologische waarnemingen , archeologische onderzoeksmeldingen en archeologische onderzoeken . 
+Het totaal biedt inzicht in de archeologische status van het plangebied en het onderzoeksgebied . 
+Vondstmeldingen en waarnemingen In het ARCHeologisch InformatieSysteem ( ARCHIS ) van de Rijksdienst voor Archeologie , Cultuurlandschap en Monumenten ( RACM ) te Amersfoort staan in de directe omgeving van het plangebied een tweetal terreinen geregistreerd waar waarnemingen gedaan zijn ( ARCHIS4 waarnemingsnummers 48.768 en 49.367 ) . 
+Er staan geen vondstmeldingen geregistreerd . 
+Waarneming 48.768 bevat de gegevens van het voormalige AMK4terrein nummer 12258 ( 26A4A05 ) ; waarneming 49.367 bevat de gegevens van het voormalige monument met nummer 12340 , CMA4code 26A4A13 . 
+Het betreffen terreinen met sporen en mogelijke sporen van bewoning uit het Laat4Paleolithicum 4 Mesolithicum . 
+Het betreft pleistocene opduikingen waarvan sommige delen tot op 547 m beneden maaiveld reiken . 
+Het is onbekend in hoeverre de podzolbodems in het pleistocene zand nog intact zijn . 
+Op basis van onderzoeksresultaten van soortgelijke locaties kunnen bewoningsresten worden verwacht . 
+De datering is gebaseerd op de te verwachte hoogteligging van de opduiking . 
+Het is onbekend wat zich nog in de bodem bevindt en wat de gaafheid en conservering van de resten en grondsporen zijn . 
+16 Op 26 juli 2004 en 11 oktober 2004 zijn deze meldingen afgevoerd van de AMK4kaart . 
+Deze monumenten stonden geregistreerd als 'terrein van archeologische betekenis ' ( AB4terrein ) . 
+De archeologische waardering ervan was uitsluitend gebaseerd op een archeologische verwachting ( voorkomen dekzandkop e.d . ) en niet op daadwerkelijk aangetroffen archeologische indicatoren en/of vondsten . 
+Verder heeft op dit terrein nooit veldwerk plaatsgevonden en was het dus niet gewaardeerd . 
+Derhalve is dit terrein ( in overleg met de provincie Flevoland ) in het kader van de update AMK 2004 afgevoerd . 
+De informatie van deze afgevoerde terreinen ( zowel de tekst als de begrenzing ) zijn digitaal ondergebracht bij de waarnemingsnummers 48.768 en 49.367 . 
+Onderzoeken en onderzoeksmeldingen In ARCHIS staan in de directe omgeving van het onderzoeksgebied twee onderzoeksmeldingen ( 27.150 en 8339 ) geregistreerd . 
+Onder onderzoeksmeldingen 27.150 staat een Bureauonderzoek geregistreerd ( A. Kerkhoven , 2008 ) met het toponiem 3M/3P De Groene Loper . 
+Het Bureauonderzoek is uitgevoerd in het kader van het voornemen waterpartijen aan te leggen . 
+De conclusie van het bureauonderzoek luidde dat zowel Steentijdvindplaatsen als scheepswrakken verwacht konden worden . 
+Het rapport beval verder onderzoek in de vorm van Inventariserend Veldonderzoek ( IVO ) aan . 
+Het ADC heeft vervolgens een IVO uitgevoerd in juni/juli en oktober 2008 . 
+Dit onderzoek is inmiddels afgerond ; er zijn geen archeologische indicatoren aangetroffen . 
+Het terrein is daarom gedeselecteerd voor behoud . 
+Onder onderzoeksmelding 8339 staat een booronderzoek van RAAP in de Oostvaarderplassen in 2004 gemeld . 
+Het betreft twee mechanische boringen . 
+Er zijn geen archeologische indicatoren aangetroffen . 
+Het terrein is daarom gedeselecteerd voor behoud . 
+Zie ook figuur 8 . 
+17 Figuur 8 : Uitsnede plangebied in ARCHIS2 . 
+AMK 2006 In het kader van het schrijven van de voorliggende rapportage is de Archeologische Monumenten Kaart ( AMK ) 2006 geraadpleegd ( via www.kich.nl ) . 
+Hierop staan binnen het plangebied ‘ 3P4/3R3 Sieradenbuurt ’ geen terreinen met een archeologische status weergegeven . 
+Zie figuur 9 . 
+18 Figuur 9 : De Archeologische Monumenten Kaart ( AMK ) en het plangebied . 
+4.4 Archeologische verwachting IKAW De IKAW ( Indicatieve Kaart Archeologische Waarden ) is een archeologische verwachtingenkaart die op basis van kenmerken van de ondergrond , zoals bodemtype , bodemopbouw en bodemreliëf , een uitspraak doet over de te verwachten dichtheid aan archeologische waarden . 
+Op de IKAW heeft het plangebied deels een hoge en deels een lage archeologische verwachting voor wat betreft steentijdvindplaatsen . 
+Zie figuur 10 . 
+De trefkans met betrekking tot scheepswrakken is onbekend . 
+Scheepswrakken kunnen immers in het gehele voormalige Zuiderzeegebied aangetroffen worden ( en worden ook in het gehele gebied aangetroffen ) . 
+19 Figuur 10 : De Indicatieve Kaart Archeologische Waarden ( IKAW , versie 3 d.d . 
+112008 ) en het plangebied . 
+Uit onderzoek elders in Almere is gebleken dat de ‘ voorspellende waarde ’ van de IKAW beperkt is . 
+De IKAW is namelijk grotendeels gebaseerd op de digitale boorgegevens van de voormalige Rijksdienst IJsselmeerPolders ( RIJP ) . 
+Van de boringen die de RIJP heeft gezet is slechts circa 1 boring per 5 hectare tot in de top van het dekzand gezet ( i.e . 
+van de matig diepe boringen ) . 
+Hierdoor zijn grotere dekzandkoppen en dekzandruggen in de RIJP4boringen relatief oververtegenwoordigd . 
+De vroegere bewoners van Almere bewoonden echter niet uitsluitend de grote zandkoppen , maar ook veel kleinere kopjes in verder vrij vlakke dekzandvlakten . 
+Dergelijke kleine kopjes zijn niet op de IKAW aangegeven . 
+Indien de IKAW gebruikt zou worden als een selectie4instrument , dan heeft dat al te snel tot resultaat dat uiteindelijk een niet4representatieve populatie van archeologische vindplaatsen ontdekt zal worden . 
+Dat strookt niet met het vigerende , en het nieuwe archeologische selectiebeleid van de gemeente ( zie boven ) . 
+Verder is gebleken dat het gehele landschap benut werd door de steentijdbewoners . 
+Zo komen we in de lage trefkans zones meer vindplaatsen tegen dan in de zones met een hoge trefkans . 
+RIJPkaart diepteliggging van de top van het pleistocene dekzand In Almere In Kaart ( AIK ) is met hoogtelijnen het oppervlak van de top van het pleistocene dekzand ( Formatie van Twente , Laagpakket van Wierden ) ten opzichte van het NAP weergegeven ( figuur 11 ) . 
+Deze hoogtelijnenkaart is gebaseerd op de digitale boorgegevens van de voormalige Rijksdienst IJsselmeerPolders ( RIJP ) , aangevuld met sonderinggegevens . 
+Voor het plangebied zijn gegevens met betrekking tot de diepteligging en het reliëf van het dekzand voorhanden . 
+In het plangebied ligt het grootste deel van het dekzand op circa 9 tot 12 meter min NAP . 
+De kaart is onvoldoende gedetailleerd voor betrouwbare informatie op lokaal niveau over de diepteligging en het reliëf van het dekzand . 
+Dit hangt samen met de geringe dichtheid aan boringen en sonderingen waarop de kaart is gebaseerd . 
+20 Figuur 11 : Reliëfkaart van de top van het dekzand in en rond het plangebied 3P4 en 3R 3 Sieradenbuurt ( Almere Buiten ) . 
+4.5 Gegevens uit overig onderzoek Uit onderzoek dat sinds 2000 in Almere is uitgevoerd , is vast komen te staan dat de uitgangspunten op basis waarvan de IKAW is opgesteld voor de Almeerse archeologische situatie nauwelijks relevant kunnen worden genoemd . 
+In gebieden die volgens de IKAW een lage verwachting hebben , blijkt na booronderzoek een groter aantal archeologische waarden aanwezig dan in gebieden waarvoor een hoge verwachting is aangegeven . 
+Door het vele onderzoek in Almere is gebleken dat de prehistorische bewoners van Almere het gehele prehistorische dekzandlandschap gebruikt hebben . 
+Uit onderzoek is ook duidelijk dat er in het stroomgebied van de Eem en haar zijarmen uit klei opgebouwde oeverwallen aanwezig zijn . 
+Op goed ontwikkelde oeverwallen in het juist ten noorden van het Eemstroomgebied gelegen stroomgebied van de IJssel en Overijsselsche Vecht , zijn nederzettingen van de Swifterbantcultuur bekend . 
+Daarom kunnen ook in het Eemstroomgebied op oeverwallen in het plangebied resten van vroegere bewoning aanwezig zijn . 
+Zie figuur 12 . 
+21 Figuur 12 : De ligging van de Eemdelta ten opzichte van het plangebied 3G/3H/3V Buitenhoutsedreef . 
+Het voorkomen van dergelijke oeverwallen is in dit deel van Flevoland ruimtelijk gezien zeer beperkt . 
+Vanwege hun hoogteligging ( ruim boven de top van het dekzand ) zijn deze afzettingen veel vaker dan het dekzand ten prooi gevallen aan erosie , zowel van ( pre4 ) historische datum als zeer recente datum . 
+Het gaat dus om een zeldzaam fenomeen waarvan bovendien het bestaan slechts moeizaam valt aan te tonen . 
+In het plangebied komen geen Oude Getijde Afzettingen , dus ook geen oeverwallen voor . 
+4.6 Gespecificeerd verwachtingsmodel Op basis van het voorliggende bureauonderzoek kan worden gesteld dat in het hele plangebied prehistorische nederzettingsresten aanwezig kunnen zijn op plaatsen waar de top van het dekzand intact is en in de Oude Getijdenafzettingen ( oeverwallen ) . 
+Gezien de hoogteligging van het dekzand van 9 tot 12 of meer meter min NAP , de hoogteligging van de Oude Getijdenafzettingen van 5 tot 8 meter min NAP en de relatieve zeespiegelstijging zullen eventueel aanwezige archeologische resten een leeftijd hebben van circa circa 8.10046.300 voor Chr . ( archeologische resten in het dekzand ) en 5.70043.800 v. Chr . ( archeologische resten in/op de Oude Getijdenafzettingen ) . 
+Dit betekent dat zij zullen dateren uit de Midden4 Steentijd ( Mesolithicum / circa 8.800 – 5.300 voor Chr . ) ( dekzand ) en Jonge Steentijd ( Neolithicum / circa 5.30042.000 v. Chr ) . 
+Dergelijke vindplaatsen zijn eveneens te verwachten in bodemlagen die verband houden met de Bølling en Allerød interstadialen , zoals veen ( sterk 22 samengedrukt ) en de ‘ Laag van Usselo ’ . 
+Ook in het Jong Dekzand 1 ( Vroege Dryas stadiaal ) en Jong Dekzand 2 ( Late Dryas stadiaal ) kunnen dergelijke vindplaatsen worden verwacht . 
+Daarnaast kunnen in het plangebied in de jongere afzettingen , zoals detritus , Sloef4/Almere4 en Zuiderzeeafzettingen scheepswrakken , scheepsonderdelen en scheepsladingen of delen hiervan verwacht worden . 
+Voor wat betreft complextypen , kan op het dekzand sprake zijn van zowel langdurig bewoonde nederzettingen als kampementen die kortstondig zijn gebruikt voor specifieke doeleinden , zoals jacht en visserij . 
+Het laatste lijkt op basis van de opgravingen aan de Hoge Vaart in 199141994 en in Vogelhorst ( De Bult ) veelvuldig het geval te zijn binnen Almere . 
+Dergelijke kampementen zijn vaak klein van omvang en daardoor lastig op te sporen . 
+In voornoemde gevallen gaat het om conglomeraties van kortstondig gebruikte kampementen op hogere dekzandruggen . 
+Hierdoor is de kans groter dat ze tijdens archeologisch karterend onderzoek worden teruggevonden . 
+Ook visweersystemen en rituele deposities in natte landschappelijke zones zoals voormalige rivieren , kreken en moerassen zijn zonder zeer intensief onderzoek en dus hoge kosten niet of nauwelijks traceerbaar . 
+De gemeente Almere beperkt zich daarom tot het opsporen en waarderen van archeologische waarden vanaf een doorsnede van 20 meter . 
+Vindplaatsen uit de Steentijd zullen bij het Inventariserend Veld Onderzoek ( IVO ) herkend kunnen worden door de aanwezigheid van vooral ( bewerkt ) vuursteen en 4bewerkingsafval , aardewerkscherven , andere steensoorten ( bijv . 
+graniet , zandsteen , kwartsitische zandsteen ) , fragmenten van verkoolde hazelnootdoppen , ( verbrand ) ( vis4 ) bot , opvallende hoeveelheden houtskool en oker . 
+Aan de flanken van vindplaatsen kunnen in holocene afzettingen , met name veen en detritus , archeologische resten aanwezig zijn . 
+Naast de hierboven genoemde indicatoren kunnen dunne zandlaagjes eventueel met houtskool duiden op inwaaiing ten gevolge van betreding van de hoger gelegen zandoppervlakken . 
+4.7 Samenvatting en conclusie bureauonderzoek en advies vervolgonderzoek De vigerende wettelijke en beleidsmatige kaders in ogenschouw nemende en overwegende dat : • In het plangebied geen bodemverstoringen hebben plaatsgevonden en het bodemarchief in te plangebied intact is ; • In het plangebied zeker drie niveaus aanwezig zijn , waarin prehistorische resten bewaard kunnen zijn gebleven , namelijk : 1. de Oude Getijdenafzettingen ; 2. de top van het dekzand ; 3. hieronder gelegen lagen ( Bølling / Allerød / Kreftenheye formatie ) • De voorgenomen ingrepen de eventueel aanwezige archeologische resten kunnen beschadigen , onbereikbaar maken en/of kunnen vernietigen ; • Er nog geen effectieve mogelijkheden voorhanden zijn om naar scheepsresten en scheepsladingen te zoeken ; • De raad van Almere op 18 juni 2009 het nieuwe archeologiebeleid heeft vastgesteld ; • Onder het nieuwe beleid alleen nog onderzoek verricht hoeft te worden voor bodemingrepen in Selectiegebieden ; • Het plangebied voor circa 10415 % in een Selectiegebied is gelegen ; • De ingreep niet valt onder het vrijstellingsbeleid ; Wordt geadviseerd : Archeologisch vooronderzoek uit te voeren in alle vijf Selectiegebiedjes waar rooien van bos , aanleg van een fietspad ( beton/ asfalt ) of voetpad ( halfverharding ) , graven van een sloot , nieuw aanplanten van bosvakken met essen en aanleg van zoombeplanting zal plaatsvinden . 
+Dit kan bestaan uit meerdere fasen , te weten : • Fase 1 : een landschappelijke verkenning teneinde toereikend inzicht te krijgen in de opbouw , het reliëf en de gaafheid van het pleistocene dekzand , Oude Getijdenafzettingen en hieronder gelegen lagen ; 23 Fase 2 : een kartering teneinde aanwijzingen op te sporen voor steentijdvindplaatsen in de archeologisch relevant geachte lagen ; • Fase 3 : een waarderend onderzoek teneinde aanvullende gegevens te verzamelen voor het vaststellen van de begrenzing , de diepteligging , de aard en de fysieke waarde ( gaafheid en conservering ) van de in eerdere fasen herkende archeologische steentijdvindplaatsen ; • Fase 4 : een aanvullend onderzoek om te kunnen bepalen op welke wijze met herkende archeologische resten omgegaan dient te worden teneinde deze veilig te stellen ; Uit inventariserend vooronderzoek ( fase 1 ) zal blijken of vervolgonderzoek ( fasen 2 en 3 ) noodzakelijk is . 
+Indien dit het geval is , wordt het onderzoeksgebied waar vervolgonderzoek plaats zal vinden nader gedefinieerd door Bureau Archeologie , op basis van de resultaten van het booronderzoek van de voorafgaande fase ; Het onderzoek wordt uitgevoerd conform het bijgevoegde Programma van Eisen ( PvE ) , alvorens enige bodemverstoring plaatsvindt ; Het terrein dient door de opdrachtgever toegankelijk te worden gemaakt om het mechanisch booronderzoek conform het gemeentelijke Programma van Eisen te kunnen uitvoeren . 
+Gelet op het feit dat het plangebied voor een groot deel met bomen is beplant , al dan niet in regelmatige rijen , is er een kans dat het terrein in verband hiermee moeilijk toegankelijk is voor mechanisch booronderzoek zonder schade aan te brengen aan de bomen . 
+Het is ook denkbaar dat de wortels van de bomen eventueel aanwezige archeologische waarden reeds hebben verstoord . 
+Of er schade is , en zo ja , hoeveel is op dit moment niet bekend . 
+Dit hangt af van de diepteligging , aard en omvang van de eventuele vindplaats , de diepte en aard van de worteling ( wat afhankelijk is van de boomsoort , de leeftijd van de bomen en de hoogte van de grondwaterspiegel ) . 
+Gewezen wordt op het feit dat het booronderzoek uitgevoerd moet worden conform het gemeentelijke Programma van Eisen waarbij mechanisch booronderzoek in principe noodzakelijk is . 
+Ook het aanhouden van het voorgeschreven boorgrid is van essentieel belang . 
+Eventuele onvermijdbare afwijkingen van het PvE worden te allen tijde vooraf aan de gemeente Almere , dienst Maatschappelijke Ontwikkeling/Bureau Archeologie voorgelegd en schriftelijk overeengekomen . 
+Niet aantoonbaar overeengekomen afwijkingen in producten worden niet geaccepteerd voordat deze door , of op kosten van , de opdrachtnemer gecorrigeerd zijn . 
+• 24 Geraadpleegde literatuur Zee , R.M . 
+van der . 
+( ADC ArcheoProjecten ) , 2008 . 
+De Groene Loper te AlmereBuiten ( gemeente Almere ) . 
+Rapport 1575 . 
+Een Inventariserend Veldonderzoek in de vorm van een verkennend booronderzoek . 
+Amersfoort , 2008 . 
+Gemeente Almere , november 2001 . 
+Beleidsnota voor de Archeologische Monumentenzorg 2001 2005 ; De Schatkamer van Almere . 
+Almere , 2001 . 
+Gemeente Almere , Bureau Archeologie . 
+Nota Archeologische Monumentenzorg 2009 . 
+Almere , 2009 . 
+Gotjé , W . 
+De Holocene laagveenontwikkeling in de randzone van de Nederlandse kustvlakte ( Noordoostpolder ) . 
+Academisch proefschrift . 
+Amsterdam , 1993 . 
+Huisman , drs . 
+J.J. , drs . H.C.J . 
+Visscher . 
+Archeologische rapporten Almere 10 . 
+Basisrapportage vooronderzoek . 
+Waardestelling , selectieadvies , tekst bestemmingsplan . 
+Plangebied 3Z8 NBC Oostvaardersplassen . 
+Almere , 2005 . 
+Menke , U. ; E. van de Laar & G. Lenselink ( red ) . 
+De Geologie en Bodem van Zuidelijk Flevoland . 
+Flevobericht nr . 415 . 
+Uitgave van Ministerie van Verkeer en Waterstaat , Directie IJsselmeergebied , Lelystad , 1998 . 
+Provincie Flevoland , vastgesteld 7 juli 2005 . 
+Raakvlakken Cultuurbeleid Provincie Flevoland 20052008 . 
+Lelystad , 2005 . 
+Rijksdienst voor de Monumentenzorg en Rijksdienst voor het Oudheidkundig Bodemonderzoek . 
+Missie , visie en strategie . 
+Rijksdienst voor archeologie , cultuurlandschap en monumenten . 
+Amersfoort , 2005 . 
+Overzicht van figuren en tabellen Figuur 1 : Ligging plangebied 3P4 en 3R3 Sieradenbuurt . 
+Figuur 2 : Ligging plangebied 3P4 en 3R3 Sieradenbuurt op detailniveau . 
+Figuur 3 : Inrichtingsplan Sieradenbuurt Figuur 4 : Uitsneden Selectiegebieden uit het inrichtingsplan Sieradenbuurt . 
+Figuur 5 : Kabels en leidingen . 
+Figuur 6 : Huidige situatie plangebied ( Almere Buiten ) op een luchtfoto uit 2008 . 
+Figuur 7 : Archeologische Beleidskaart Almere d.d . 
+08072009 . 
+Figuur 8 : Uitsnede plangebied in ARCHIS2 . 
+Figuur 9 : De Archeologische Monumenten Kaart ( AMK ) en het plangebied . 
+Figuur 10 : De Indicatieve Kaart Archeologische Waarden en het plangebied . 
+Figuur 11 : Reliëfkaart van de top van het dekzand in en rond het plangebied 3P4 en 3R3 Sieradenbuurt ( Almere Buiten ) . 
+Figuur 12 : De ligging van de Eemdelta ten opzichte van het plangebied 3P4 en 3R3 Sieradenbuurt . 
+25 Bijlage 1 : Kaarten ligging kabels en leidingen afzonderlijk . 
+26 27 28 Bijlage 2 : Programma van eisen vooronderzoek fase 1 en 2 Dienst Maatschappelijke Ontwikkeling Bureau archeologie Programma van Eisen ( PvE ) voor archeologisch vooronderzoek Opgesteld door : drs . J.F . van Voorst FIAT drs . W.J.H . 
+Hogestijn Datum : 15 maart 2010 Geldigheidsduur : 12 maanden na vaststelling PvE Bijlage bij offerteaanvraag archeologisch inventariserend onderzoek Bijlage : Kaart plan % en onderzoeksgebied Plangebied : 3P4 en 3R3 Sieradenbuurt ( Almere Buiten ) Deelgebied ( en ) : Omvang te onderzoeken gebied in ha : Ten behoeve van* : X Het gaat om onderzoeksfase* : X X circa 34 ha. , waarvan circa 4,5 ha . 
+in een selectiegebied Bestemmingsplan Tijdelijke ontheffing ex artikel 3.22 Wro Ontheffing ex artikel 3.23 Wro Gemeentelijk projectbesluit ex artikel 3.10 Wro Provinciaal projectbesluit / inpassingsplan ex artikel 3.27 Wro Rijksprojectbesluit / inpassingsplan ex artikel 3.28 Wro anders , namelijk : Inrichtingsplan waarvoor een Archeologievergunning nodig is . 
+Verkennend onderzoek ( fase 1 ) Karterend onderzoek ( fase 2 ) 29 Doelstelling De gemeente streeft naar het behoud van een representatief deel van haar behoudenswaardige archeologisch erfgoed in situ door middel van planinpassing , waar nodig aangevuld met andere maatregelen . 
+Om dit te kunnen realiseren laat de gemeente in geval van ruimtelijke ontwikkelingen tijdig archeologische waarden in kaart brengen . 
+Het gaat met name om in principe behoudenswaardige archeologische vindplaatsen van ( inter4 ) nationaal belang , te weten steentijdvindplaatsen en scheepswrakken uit historische tijden . 
+In Almere zijn de steentijdvindplaatsen te verwachten op en in het pleistocene oppervlak waarvan de top in het algemeen op een diepte van minimaal 2 meter ten opzichte van het maaiveld ligt ( meer in het bijzonder : de Oude Getijdenafzettingen , de top van het dekzand en hieronder gelegen lagen ( Bølling / Allerød / Kreftenheye formatie ) ) . 
+Zie voor nadere bodemkundige , paleogeografische , 4morfologische en fysisch geografische informatie , het bureauonderzoek . 
+In het bureauonderzoek is ondermeer het onderstaande gesteld : De vigerende wettelijke en beleidsmatige kaders in ogenschouw nemende en overwegende dat : • In het plangebied geen bodemverstoringen hebben plaatsgevonden en het bodemarchief in te plangebied intact is ; • In het plangebied zeker drie niveaus aanwezig zijn , waarin prehistorische resten bewaard kunnen zijn gebleven , namelijk : 1. de Oude Getijdenafzettingen ; 4. de top van het dekzand ; 5. hieronder gelegen lagen ( Bølling / Allerød / Kreftenheye formatie ) 30 • • • • • • De voorgenomen ingrepen de eventueel aanwezige archeologische resten kunnen beschadigen , onbereikbaar maken en/of kunnen vernietigen ; Er nog geen effectieve mogelijkheden voorhanden zijn om naar scheepsresten en scheepsladingen te zoeken ; De raad van Almere op 18 juni 2009 het nieuwe archeologiebeleid heeft vastgesteld ; Onder het nieuwe beleid alleen nog onderzoek verricht hoeft te worden voor bodemingrepen in Selectiegebieden ; Het plangebied voor circa 10415 % in een Selectiegebied is gelegen ; De ingreep niet valt onder het vrijstellingsbeleid ; Wordt geadviseerd : Archeologisch vooronderzoek uit te voeren in alle vijf Selectiegebiedjes waar rooien van bos , aanleg van een fietspad ( beton/ asfalt ) of voetpad ( halfverharding ) , graven van een sloot , nieuw aanplanten van bosvakken met essen en aanleg van zoombeplanting zal plaatsvinden . 
+Dit kan bestaan uit meerdere fasen , te weten : • Fase 1 : een landschappelijke verkenning teneinde toereikend inzicht te krijgen in de opbouw , het reliëf en de gaafheid van het pleistocene dekzand , Oude Getijdenafzettingen en hieronder gelegen lagen ; • Fase 2 : een kartering teneinde aanwijzingen op te sporen voor steentijdvindplaatsen in de archeologisch relevant geachte lagen ; • Fase 3 : een waarderend onderzoek teneinde aanvullende gegevens te verzamelen voor het vaststellen van de begrenzing , de diepteligging , de aard en de fysieke waarde ( gaafheid en conservering ) van de in eerdere fasen herkende archeologische steentijdvindplaatsen ; • Fase 4 : een aanvullend onderzoek om te kunnen bepalen op welke wijze met herkende archeologische resten omgegaan dient te worden teneinde deze veilig te stellen ; Uit inventariserend vooronderzoek ( fase 1 ) zal blijken of vervolgonderzoek ( fasen 2 en 3 ) noodzakelijk is . 
+Indien dit het geval is , wordt het onderzoeksgebied waar vervolgonderzoek plaats zal vinden nader gedefinieerd door Bureau Archeologie , op basis van de resultaten van het booronderzoek van de voorafgaande fase ; Het onderzoek wordt uitgevoerd conform het bijgevoegde Programma van Eisen ( PvE ) , alvorens enige bodemverstoring plaatsvindt ; Het terrein dient door de opdrachtgever toegankelijk te worden gemaakt om het mechanisch booronderzoek conform het gemeentelijke Programma van Eisen te kunnen uitvoeren . 
+Gelet op het feit dat het plangebied voor een groot deel met bomen is beplant , al dan niet in regelmatige rijen , is er een kans dat het terrein in verband hiermee moeilijk toegankelijk is voor mechanisch booronderzoek zonder schade aan te brengen aan de bomen . 
+Het is ook denkbaar dat de wortels van de bomen eventueel aanwezige archeologische waarden reeds hebben verstoord . 
+Of er schade is , en zo ja , hoeveel is op dit moment niet bekend . 
+Dit hangt af van de diepteligging , aard en omvang van de eventuele vindplaats , de diepte en aard van de worteling ( wat afhankelijk is van de boomsoort , de leeftijd van de bomen en de hoogte van de grondwaterspiegel ) . 
+Gewezen wordt op het feit dat het booronderzoek uitgevoerd moet worden conform het gemeentelijke Programma van Eisen waarbij mechanisch booronderzoek in principe noodzakelijk is . 
+Ook het aanhouden van het voorgeschreven boorgrid is van essentieel belang . 
+Eventuele onvermijdbare afwijkingen van het PvE worden te allen tijde vooraf aan de gemeente Almere , dienst Maatschappelijke Ontwikkeling/Bureau Archeologie voorgelegd en schriftelijk overeengekomen . 
+Niet aantoonbaar overeengekomen afwijkingen in producten worden niet geaccepteerd voordat deze door , of op kosten van , de opdrachtnemer gecorrigeerd zijn . 
+Archeologisch relevante lagen kunnen in het dekzand ( Formatie van Twente , Laagpakket van Wierden ) verwacht worden op een diepte van ca . 
+9412 of meer meter min NAP , en in de Oude Getijden Afzettingen ( i.e . 
+Oude Zeeklei Afzettingen / Formatie van Naaldwijk , Laagpakket van Walcheren ) op een diepte vanaf circa 548 meter min NAP ( dikte ca . 
+243 meter ) . 
+31 Onderzoeksmethodiek Het archeologisch onderzoek dient aan te sluiten aan de KNA ( 3.1 : processen VS01 , VS03 , VS05 , VS06 , DS01 , DS02 , DS03 , DS05 ) . 
+Per onderzoeksfase zijn de eisen concreet : Verkennend onderzoek ( fase 1 ) Het verkennend onderzoek heeft drie doelen : 1 . 
+Inzicht te krijgen in de opbouw , het reliëf en de gaafheid van de top van het pleistocene oppervlak ; 2 . 
+Inzicht te krijgen in de stratigrafie van het dekzand en de archeologische potentie daarvan ; 3 . 
+Inzicht te krijgen in de diepteligging , dikte en mate van rijping van de Oude Getijden Afzettingen . 
+Zie figuur 4 van het Bureauonderzoek . 
+Het verkennend onderzoek dient in de Selectiegebieden 1 , 2 en 5 te worden uitgevoerd in een gelijkzijdig boorgrid van 40 x 34,6 meter ( zijden driehoek van 40 meter ) met behulp van het Aqualocksysteem . 
+Dit resulteert in een boordichtheid van circa 6 boringen per hectare . 
+Het verkennend onderzoek in de Selectiegebieden 3 en 4 dient te worden uitgevoerd in een boorraai met een onderlinge afstand tussen de boorpunten van 40 meter . 
+De boringen worden gezet met een Aqualockbuis met een diameter van 7 cm . 
+Voor een uitgebreide onderbouwing van het onderzoek wordt verwezen naar het Bureauonderzoek en het vigerend beleid van de gemeente . 
+in een gelijkzijdig driehoeksgrid van 40 x 34,6 meter ( zijden driehoek van 40 meter ) met behulp van het Aqualocksysteem . 
+Dit resulteert in een boordichtheid van circa 6 boringen per hectare . 
+Van elke boring wordt de diepteligging van de top van het dekzand en de Oude Getijden Afzettingen ten opzichte van het maaiveld en NAP bepaald . 
+Van iedere boring wordt het hele bodemtraject vanaf het maaiveld tot in de C_horizont van het dekzand beschreven . 
+In dit kader wordt onder andere per boring de aard van het sediment boven het pleistocene dekzand , de grens tussen het dekzand en het afdekkend sediment , evenals de bodem in het dekzand beschreven . 
+Aanvullend op het bovenstaande wordt de mate van rijping van de Oude Getijden Afzettingen beschreven , o.a . via het bepalen van het kalkgehalte . 
+De top van het dekzand ( minimaal bovenste 30 cm ) en eventueel ook archeologisch mogelijke relevante bodemhorizonten van het dekzand en/of ontkalkte trajecten in de Oude Getijden Afzettingen wordt worden bemonsterd en gespoeld met kraanwater over een zeef met een maaswijdte van 1 mm2 . 
+Het residue wordt genummerd en onder binoculair ( minimaal maximale vergroting 60 x ) met opvallend licht bekeken op archeologische indicatoren . 
+Deze indicatoren worden gescheiden bij het residu bewaard . 
+Er moet rekening gehouden worden met een mogelijke boordiepte dieper dan 8 meter onder het maaiveld . 
+De boringen dienen tot een diepte van tenminste 2 meter onder de top van het dekzand te worden gezet . 
+Van iedere boring wordt de diepteligging van de top van het dekzand en de Oude Getijden Afzettingen ten opzichte van het maaiveld en NAP bepaald . 
+Van iedere boring wordt het hele bodemtraject vanaf het maaiveld tot 2 m onder de top van het dekzand beschreven . 
+In dit kader wordt onder andere per boring de aard van het sediment boven het pleistocene dekzand ( inclusief de Oude Getijden Afzettingen en eventuele bodems 32 en/of ontkalkte zones die hierin voor kunnen komen ) , de aard van de grens tussen het dekzand en het afdekkende sediment ( erosief of geleidelijk ) , evenals de lithologie en lithogenese van het dekzand beschreven ( inclusief paleosolen , aard van het dekzand , d.w.z . 
+Oud Dekzand en Jong Dekzand 1 / 2 ) . 
+Het meest cruciale onderdeel van de boorbeschrijving is de textuur , bijvoorbeeld zand , humeuze klei , silt ( conform NEN 5102 : Kz3 , Zk2 etc . ) . 
+Echter , dit is slechts de eerste stap op weg naar een gedegen milieu4interpretatie en daarmee naar een betrouwbare archeologische verwachting of waardering . 
+Het waarnemen en beschrijven van sedimentkarakteristieken anders dan de textuur is onmisbaar voor deze milieu4 interpretatie . 
+Immers , alleen het ‘ predicaat ’ zand zegt niet veel over het milieu . 
+Cruciaal en onmisbaar zijn ( 1 ) de mediaanklasse ( 2 ) de sortering en ( 3 ) de afronding . 
+Andere karakteristieken zijn belangrijk , maar niet altijd op een betrouwbare wijze waar te nemen . 
+Denk aan sedimentaire structuren zoals laminaties , cross4bedding , adhesie ribbels . 
+Ad 1 Mediaanklasse De beschrijving van de mediaanklasse gebeurt kwantitatief in µm ( ‘ 210 – 300 µm ’ ) en kwalitatief in tekst ( ‘ matig grof zand ’ ) conform NEN 5102 . 
+Om in het veld de mediaanklassen te kunnen onderscheiden dienen de zandmonsters drooggewreven te worden en vervolgens met behulp van een zandlineaal te worden geclassificeerd . 
+Ad 2 Sortering De beschrijving van de sortering van zand ( en grind ) geschiedt kwalitatief in vijf klassen : 1 . 
+Zeer goed 2 . 
+Goed 3 . 
+Matig 4 . 
+Slecht 5 . 
+Zeer slecht Het betreft een lokale of regionale indeling toepasbaar voor het Almeerse grondgebied en haar afzettingsmilieus . 
+Immers , zeer slecht gesorteerde sedimenten ( morenes , keileem ) komen in het gebied niet voor evenmin als zeer goed gesorteerde zandige sedimenten zoals strandafzettingen . 
+Ergo , absoluut gezien komen twee van de vijf sorteringsklassen niet voor . 
+Om binnen het Almeerse zandlandschap toch te kunnen differentiëren naar milieu , zullen dus binnen de absolute bandbreedte van de sorteringsgraad de genoemde vijf klassen moeten worden onderscheiden . 
+Ad 3 . 
+Afronding De beschrijving van de afronding van zand ( en grind ) geschiedt kwalitatief in vijf klassen : 1 . 
+Zeer goed 2 . 
+Goed 3 . 
+Matig 4 . 
+Slecht 5 . 
+Zeer slecht Het betreft hier eveneens een lokale of regionale indeling toepasbaar voor het Almeerse grondgebied en haar afzettingsmilieus . 
+Met de vier belangrijkste sedimentkarakteristieken van het aangetroffen zand ( textuur , mediaanklasse , sortering en afronding ) wordt maximaal informatief rendement gehaald uit de boringen . 
+De karakteristieken zijn handmatig in het veld eenvoudig vast te stellen . 
+Opdrachtnemer is vervolgens in staat om , mede op basis van het ruimtelijk patroon , lees het voorkomen van de onderscheiden afzettingen , te komen tot een zo betrouwbaar mogelijke proces4 en milieu4interpretatie en uiteindelijk ontstaanswijze . 
+33 In de verslaglegging dient de opeenvolging sediment > proces > milieu > landschap > archeologische verwachting helder verwoord te worden . 
+Let wel , wanneer verschillende veldtechnici worden ingezet is het zaak om regelmatig te ‘ ijken ’ . 
+Het dekzand wordt vanaf de top tot minimaal 30 cm hieronder bemonsterd , en in het dekzand eventueel andere archeologische potentiële / relevante horizonten . 
+Ook eventueel in de Oude Getijden Afzettingen aanwezige donker verkleurde zone ( 4s ) of ontkalkt ( e ) traject ( en ) worden bemonsterd . 
+De monsters worden gespoeld met kraanwater over een zeef met een maaswijdte van 1 mm2 . 
+Het resterende traject van het dekzand in de boorkern wordt voor elke afzonderlijke stratigrafische c.q . lithogenetische eenheid bemonsterd waarbij elke eenheid apart gezeefd wordt over een maaswijdte van 1 mm2 . 
+Alle residuen worden genummerd en onder binoculair ( minimaal maximale vergroting 60 x ) met opvallend licht bekeken op archeologische indicatoren . 
+Deze indicatoren worden gescheiden bij het residu bewaard . 
+Aanvullend op het bovenstaande wordt de mate van rijping van de Oude Getijden Afzettingen beschreven , o.a . via het bepalen van het kalkgehalte . 
+Karterend onderzoek ( fase 2 ) Het karterend onderzoek doelt op het opsporen van aanwijzingen voor archeologische steentijdvindplaatsen op en in de relevante onderscheiden lagen . 
+Het karterend onderzoek zal in overleg met de opdrachtgever in nader aangegeven gebieden binnen het in de verkennende fase onderzochte oppervlak worden uitgevoerd . 
+Uitgangspunt is kartering van alle delen waar het Pleistoceen op basis van verkennend onderzoek niet geërodeerd is . 
+Tevens dienen eventueel aanwezige donker verkleurde en/of ontkalkte zones in de Oude Getijden Afzettingen te worden opgespoord . 
+Zie figuur 4 van het Bureauonderzoek . 
+De boringen in de Selectiegebieden 1 , 2 en 5 worden gezet met behulp van een Avegaar ( diameter circa 15 cm ) in een gelijkzijdig driehoeksgrid van 20 x 17,3 meter ( zijden driehoek van 20 meter ) . 
+De boringen in de Selectiegebieden 3 en 4 worden gezet met behulp van een Avegaar ( diameter 15 cm . 
+in een boorraai met een onderlinge afstand tussen de boorpunten van 20 meter . 
+In alle Selectiegebieden wordt hierbij tevens direct naast de in fase 1 geplaatste Aqualockboringen geboord . 
+De boringen worden gezet tot 2 meter onder de top van het dekzand . 
+Dit resulteert in een boordichtheid van gemiddeld circa 30 boringen per hectare ( als er met een driehoekgrid wordt geboord ) . 
+Van elke boring wordt de diepteligging van de top van het dekzand ten opzichte van het maaiveld en NAP bepaald . 
+Per boring wordt de top van het dekzand ( minimaal bovenste 50 cm ) en – indien aanwezig – van het gerijpte traject van Oude Getijden Afzettingen bemonsterd gespoeld met kraanwater over een zeef met een maaswijdte van 1 mm2 . 
+Het residu wordt genummerd en onder binoculair ( minimaal maximale vergroting 60 x ) met opvallend licht bekeken op archeologische indicatoren . 
+Deze indicatoren worden gescheiden bij het residu bewaard . 
+Voor beide fasen geldt tevens het volgende : • De x4 en y4 coördinaten van de boorpunten dienen vastgelegd te worden in het RD4net , waarbij de maximale toegestane afwijking 0,05 meter is ; • Z4waarde van de top van het dekzand moeten worden vastgelegd ten opzicht van het maaiveld en NAP , waarbij de maximale toegestane afwijking 0,05 meter is ; • Aangegeven moet worden hoe de vereiste kwaliteit ( met name : de accuratesse van de x , y en Z4waarde ) gerealiseerd gaat worden . 
+De Z4waarde met name vanwege de in de praktijk vastgestelde problematiek met betrekking tot de nauwkeurighied van de metingen van de Z4waarde bij Aqualock4 en Avegaarboringen . 
+• De boorkern van Aqualockboringen worden beschreven volgens standaard boorbeschrijving van TNO/NITG . 
+34 Producten Basisrapportage Het onderzoek wordt afgerond middels een basisrapportage ( KNA conform , proces VS05 ) waarin een analyse , interpretatie en onderbouwing van de verkregen gegevens . 
+Op basis hiervan wordt een conclusie gegeven in termen van vastgestelde dan wel verwachte archeologische waarden . 
+In de rapportage dient aandacht besteed te worden aan scheepswrakken die in de ondergrond van het onderzoeksgebied verborgen kunnen liggen dan wel al bekend zijn . 
+• De opdrachtnemer geeft geen advies over de te volgen vervolgstrategie . 
+• De opdrachtnemer neemt geen verhandeling over de geologische wordingsgeschiedenis van het onderzoeksgebied of van Almere op in de basisrapportage . 
+Het onderdeel bureauonderzoek is al vanwege de gemeente uitgevoerd en is derhalve geen onderdeel van dit Programma van Eisen . 
+De opdrachtnemer kan desgewenst de digitale versie van het bureauonderzoek bij Bureau Archeologie opvragen . 
+Indien gewenst , kan de opdrachtnemer bij het opstellen van de basisrapportage , uitgaan van het format dat de gemeente daartoe heeft ontwikkeld . 
+De basisrapportage wordt eerst in concept geleverd en na verwerking van eventuele opmerkingen vanwege de opdrachtgever , volgt een definitieve rapportage . 
+De rapportage ontvangen wij ook digitaal ( word ) . 
+Kaarten met de onderzoeksresultaten Na elke onderzoeksfase wordt een kaart geleverd ( digitaal en analoog ) . 
+Er moeten tenminste drie kaarten geleverd worden : 4een kaart met Oude Getijden Afzettingen ; 4een kaart met de top van het dekzand ; 4een kaart met de Bølling / Allerød / Kreftenheye formatie Daarnaast moet een representatief dwarsprofiel geleverd worden indien er in de Oude Getijdenafzettingen of in het Dekzand archeologische relevante sporen aangetroffen worden . 
+De kaart ( bij voorkeur schaal 1:5.000/1:2.500 en 2 exemplaren op A3/A4 formaat ) toont : • Assenstelsel van RD , met RD coördinaten ; • De begrenzing van het plangebied en van de onderzochte delen : het onderzoeksgebied . 
+Een en ander op basis van de door de opdrachtgever aangeleverde informatie ; • De boorpunten met boornummer ; • De aangetroffen archeologische indicatoren , waarbij per indicator een standaardkleur wordt gebruikt zoals aangegeven in bijlage 2 ; • De bodemhorizonten van het dekzand , met name de podzolen ( geldt alleen voor aqualock4 en gutsboringen ) ; • Het reliëf van het dekzand in klassen van 25 cm ; • In een door u te ontwikkelen legenda formulier tenminste de volgende informatie : • Naam en code onderzoeksgebied ; • Fase van het onderzoek ; • De datum ( maand en jaar ) van kaartvervaardiging . 
+35 Boorbeschrijvingen in Excel De boorgegevens worden in een Excel4spreadsheet ( analoog en digitaal ) geleverd , waarbij de kolommenindeling zoals aangegeven in de bijlage worden aangehouden ( in verband met aansluiting op ons Archeologisch Informatiesysteem ) . 
+In het Excel4spreadsheet worden de volgende gegevens opgenomen ” : • Projectcode van het plangebied ( 3P4 en 3R3 ) ; • Boornummer ( geheel positief getal ; unieke nummers en doorlopende nummering ) . 
+Dus ook misboringen worden in het Excel4bestand opgenomen en als misboring gespecificeerd ; • X4 en Y4coördinaten per boring , vastgelegd in RD net , 2 decimalen achter de komma , maximale afwijking 0,05 meter ; • NAP4waarde huidige maaiveld in cm , 2 decimalen achter de komma ; • Z4waarde top dekzand vastgelegd ten opzichte van het huidige maaiveld , 2 decimalen achter de komma ; • Z4waarde top Oude Getijden Afzettingen ten opzichte van het huidige maaiveld , 2 decimalen achter de komma ; • Z4waarde onderkant Oude Getijden Afzettingen ten opzichte van het huidige maaiveld , 2 decimalen achter de komma ; • NAP4waarde top dekzand ; • Boordiepte ; Aangetroffen bodemhorizonten in het dekzand incl . 
+hieronder gelegen lagen ( bijvoorbeeld Bølling / Allerød / Kreftenheye formatie ) • ( geldt voor Aqualock4 en gutsboringen ) ; • Aantal ontkalkte , gerijpte en doorwortelde trajecten per boring in de Oude Getijden Afzettingen ( geldt voor Aqualock4 en gutsboringen ) ; • Z4waarde top en onderkant van ontkalkte , gerijpte en doorwortelde trajecten per boring in de Oude Getijden Afzettingen ( geldt voor Aqualock4 en gutsboringen ) , 2 decimalen achter de komma ; • Afdekkend bodemmateriaal van dekzand en Oude Getijden Afzettingen ( geldt voor Aqualock4 en gutsboringen ) ; • Kenmerken van de overgang naar het dekzand ( geleidelijk ; erosief ; geldt voor Aqualock4 en gutsboringen ) ; • Kenmerken van de overgang naar de Oude Getijden Afzettingen ( geleidelijk ; erosief ; geldt voor Aqualock4 en gutsboringen ) ; • Archeologische indicatoren ; • Overige gegevens onderzoek aan te geven op een door u te ontwikkelen legenda formulier : • Omvang onderzocht gebied in ha ; • CIS nummer ; • Aantal geplaatste boringen ; • Periode van uitvoering onderzoek ; • Status tabellen boorgegevens ( concept ; definitief ) • Fase van het onderzoek ( 1=verkennend ; 2=karterend ; 3=waarderend ; 4=aanvullend ) ; • Indien relevant : motivering delen van het onderzoeksgebied waar geen onderzoek is uitgevoerd ; • Gebruikt type boor en diameter daarvan ; • Uitleg tabelstructuur boorgegevens ; • Betekenis codering gebruikt in de tabel met boorgegevens ; • Opmerkingen , waarin eventuele afwijkingen ten aanzien van de opdracht worden verantwoord . 
+36 Produkten dienen te worden aangeleverd zoals hierboven gespecificeerd . 
+Afwijkingen hiervan dienen vooraf met de gemeente Almere te worden afgestemd en schriftelijk overeengekomen . 
+Niet aantoonbaar overeengekomen afwijkingen in producten worden niet geaccepteerd voordat deze door , of op kosten van , de opdrachtnemer gecorrigeerd zijn . 
+Residuen boormonsters Archeologische indicatoren worden separaat in hetzelfde vondstzakje aangeleverd . 
+Elk zeefresidu wordt afzonderlijk verpakt met vondstkaartje waarop tenminste : • Code plangebied , conform PvE ; • Boornummer ( moet identiek zijn met boornummer op de kaart en in het Excel bestand ) ; • Datum boring ; • Fase onderzoek , zoals gespecificeerd door de gemeente in het PvE . 
+Deponering vondstmateriaal en ARCHIS meldingen De residuen van de boormonsters en bijbehorende documentatie worden , conform de vigerende depoteisen van Flevoland en na afsluiting van het onderzoek ( rapportage ) conform KNA 3.1 proces DS 01 – DS03 en DS05 , klaar gemaakt voor deponering bij het provinciale depot van Flevoland , en in die vorm aan de gemeente Almere toegestuurd . 
+Al voor het onderzoek zal contact met de depotbeheerder worden opgenomen ten einde afstemming te bereiken over onder meer de wijze van aanleveren . 
+De feitelijke deponering doet de gemeente Almere zelf . 
+Resultaten uit het onderzoek worden conform KNA 3.1 aan ARCHIS gemeld . 
+De gemeente ontvangt een schriftelijk bericht van deze melding aan ARCHIS . 
+Personeel Uit uw offerte moet blijken welke deskundigheid u in welke persoon wilt inzetten voor de verschillende werkzaamheden , waarbij aangesloten wordt op de voorwaarden die de KNA ( 3.1 ) hiervoor voorschrijft . 
+Van de in te zetten personen ontvangen wij graag een cv waaruit de vereiste deskundigheid blijkt . 
+Organisatie De concrete invulling van het karterend onderzoek zal op basis van de resultaten van de voorafgaande fase van het onderzoek , in overleg vanwege de gemeente worden bepaald en schriftelijk worden vastgelegd in een zogenaamde specificatie van voorliggend programma van eisen . 
+De uiteindelijke kosten voor het gehele onderzoek zullen worden berekend op basis van het daadwerkelijke aantal geplaatste boringen en de daarover overeen te komen prijsafspraken . 
+Eventuele nieuwe verrekenprijzen zijn eerst van toepassing na voorafgaande en schriftelijke goedkeuring van de opdrachtgever . 
+Eventuele afspraken met betrekking tot meerwerk kunnen uitsluitend schriftelijk en vooraf worden overeengekomen . 
+Facturering dient te geschieden op basis van een gespecificeerde declaratie aan de Gemeente Almere , DSO . 
+De toestemming om de te onderzoeken terreinen te betreden wordt vanwege de gemeente geregeld . 
+Het terrein is geschikt voor het uitvoeren van onderzoek . 
+De toestemming om de te onderzoeken terreinen te betreden wordt vanwege de gemeente 37 geregeld . 
+Bij eventuele gunning ontvangt u van de gemeente schriftelijk nadere informatie over de toegankelijkheid van het onderzoeksgebied . 
+Tijdens het onderzoek onderhoudt u contact via de contactpersoon van de gemeente over de voortgang van het onderzoek . 
+Inhoudelijke afwijkingen van het PvE dienen te allen tijde vooraf met bureau archeologie van de gemeente Almere worden afgestemd en schriftelijk te worden overeengekomen . 
+Niet aantoonbaar overeengekomen afwijkingen van het PvE ook als het gaat om uitvoering , terreingesteldheid , producten , worden niet geaccepteerd voordat deze door , of op kosten van , de opdrachtnemer gecorrigeerd zijn . 
+Indien op enig moment blijkt dat de veronderstellingen en uitgangspunten van uw offerte , onjuist blijken te zijn of dienen te worden bijgesteld , zal u hieromtrent onverwijld schriftelijk mededeling doen aan de opdrachtgever . 
+Beoordelingscriteria offerte Doorslaggevend bij de beoordeling van uw offerte is de prijs – kwaliteit verhouding . 
+Onder kwaliteit verstaan wij volledigheid , helderheid , aansluiting op de KNA ( 3.1 ) en op het PvE , en – in het bijzonder – inzicht in onze problematiek . 
+Daarnaast betrekken wij de periode van uitvoering en van oplevering in de beoordeling van uw offerte . 
+38 Bijlage 3 Standaardkleuren archeologische indicatoren Geel Rood Blauw Paars Groen Grijze ring Bruin Zwarte ring Wit Bot Verbrand Bot Vuursteen , mogelijk antropogeen Vuursteen , antropogeen Aardewerk Houtskool Verbrande hazelnootdoppen Veel houtskool Geen archeologisch materiaal Databasestructuur Excel spreadsheat boorgegevens XY Volgorde Titel kolom 1 Projectcode 2 Boring 3 X4coordinaat 4 Y4coordinaat 5 Top4pleistoceen 6 NAP maaiveld 7 NAP Pleistoceen 8 Einde boring 9 Horizonten 10 Afdekkend materiaal 11 Aard bovengrens 12 HK 13 VST 14 AW 15 Bot 16 Verbrand bot 17 HA 18 NS 19 KS 20 Opmerkingen 21 Textuur 22 Mediaanklasse zand 23 Sortering zand 24 Afronding zand 25 Milieu4 interpretatie/litho4 genese Toelichting bij de in te voeren informatie Projectcode , aan te leveren door opdrachtgever Boornummer X4coordinaat Y4coordinaat Diepteligging t.o.v . 
+maaiveld van de top van het pleistocene dekzand Diepteligging van het maaiveld t.o.v . 
+NAP Diepteligging van het pleistocene dekzand t.o.v . 
+NAP Maximale diepte van de boring Bodemprofiel , indien herkend Sediment waargenomen boven het pleistocene dekzand Overgangstraject van het afdekkend materiaal naar het pleistocene dekzand , 1=1 cm ; 2=2 cm ; enz . 
+9=erosief Houtskool Vuursteen Aardewerk Bot Verbrand bot Verkoolde hazelnootdop Natuursteen Knappersteen Opmerkingen ( inclusief bijvoorbeeld windkanter ; potlid ) Conform NEN 5102 ; b.v. Kz2 Kwantitatief en kwalitatief 1 . 
+Zeer goed ; 2 . 
+Goed ; 3 . 
+Matig ; 4 . 
+Slecht ; 5 . 
+Zeer slecht 1 . 
+Zeer goed ; 2 . 
+Goed ; 3 . 
+Matig ; 4 . 
+Slecht ; 5 . 
+Zeer slecht B.v. meerbodem ; rivierduin ; oever , dekzand 39 Specificatie te gebruiken codering binnen de databasestructuur Top4Pleistoceen ; Nap 4Mv/Pleistoceen ; In centimeters Einde boring Afdekkend materiaal V=veen , K=klei ; Z=zand Aard bovengrens 1 t/m 4 = overgang 1 t/m 4 cm 5 = overgang 5cm of meer 9 = erosief Houtskool 0 = afwezig ; 1 = aanwezig ; 2 = veel ; 3 = extreem veel Vuursteen 0 = afwezig ; 1 = mogelijk antropogeen ; 2 = zeker antropogeen ( microdebitage en afslagen ) Aardewerk 0 = afwezig ; 1 = mogelijk ; 2 = waarschijnlijk ; 3 = zeker Bot ( niet verbrand ) 0 = afwezig ; 1 = visbot ; 2 = overig bot Verbrand bot 0 = afwezig ; 1 = aanwezig Verkoolde Hazelnootdop 0 = afwezig ; 1 = aanwezig Natuursteen GK = gebroken kwarts ; NS = natuursteen ; GR = grind 0 = afwezig ; 1 = aanwezig ; 2 = veel Knappersteen KS0 = knappersteen afwezig ; KS1 = knappersteen aanwezig ; , KS2 = veel knappersteen aanwezig . 
+Opmerking Hier worden o.a . eventuele nadere determinaties van ( vis ) bot , type afslag , aardewerk en zaden vermeld ; 40 

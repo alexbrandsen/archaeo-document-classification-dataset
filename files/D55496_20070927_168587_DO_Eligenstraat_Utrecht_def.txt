@@ -1,0 +1,608 @@
+Archeologische Rapport Oranjewoud 2006/110 Opgraving aan de Eligenstraat 66 te Utrecht projectnr . 
+168587 revisie 00 27 september 2007 Auteur ( s ) H.J.L.C . 
+Koopmanschap J.A.M . 
+Oude Rengerink Opdrachtgever BAM Vastgoed Postbus 50 3980 CB Bunnik datum vrijgave 27 september 2007 beschrijving revisie 00 Concept goedkeuring Koopmanschap vrijgave Oude Rengerink Colofon Titel : Archeologische Rapporten Oranjewoud 2006/110 . 
+Opgraving aan de Eligenstraat 66 te Utrecht Auteur ( s ) : H.J.L.C . 
+Koopmanschap Met een bijdrage van D . 
+La Fèber BA ISSN : 1570-6273 NUR : 682 - Archeologie © Oranjewoud B.V . 
+Postbus 24 8440 AA Heerenveen projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Inhoud Blz . 
+Samenvatting 4 Administratieve gegevens 5 1 Inleiding 6 2 Voorgaand onderzoek 7 3 3.1 3.2 3.3 3.4 3.5 Veldonderzoek Doel en vraagstelling Gravend onderzoek Werkwijze Landschappelijk en bodemkundig kader Synthese 8 8 9 10 11 22 4 4.1 4.2 4.3 4.4 Het vondstmateriaal Aardewerk Bouwkeramiek Dierlijk botmateriaal Metaalvondsten 23 23 24 25 26 5 Waardering 27 6 Conclusie en aanbevelingen 29 7 Literatuur en geraadpleegde bronnen 32 Bijlagen 1 2 3a 3b 4 Archeologische perioden AMZ-cyclus Sporenlijst Vondstenlijst Kwaliteitsaspecten Kaarten Alle-sporenkaart Faseringenkaart blad 3 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Samenvatting In november heeft Ingenieursbureau Oranjewoud een opgraving verricht aan de Korte Eligenstraat 66 te Utrecht . 
+Dit gebeurde in opdracht van BAM Vastgoed en is gelijktijdig uitgevoerd met de sanering van het terrein . 
+BAM Vastgoed is voornemens hier meerdere huizen en een appartementencomplex te realiseren . 
+Het onderzoek volgt op een onderzoek uit 1999-200 , uitgevoerd door de gemeentelijke archeologische en bouwhistorische dienst Utrecht . 
+Dit onderzoek heeft zich gericht op de percelen direct ten oosten van het perceel Korte Eligenstraat 66 . 
+Bij deze opgravingen is vast komen te staan dat het gebied rondom de Eligenstraat reeds in de Romeinse Tijd bewoond werd . 
+Nadat de bewoning in de derde eeuw na Chr . is verdwenen , neemt deze weer een aanvang in ieder geval de twaalfde eeuw . 
+Na de ophoging van het gebied in de veertiende eeuw worden rond 1400 de eerste stenen huizen gebouwd in het plangebied . 
+Vanaf de zeventiende eeuw worden de aanwezige panden omgebouwd tot kamerwoningen , een duidelijk teken van armoede van de bewoners van de straat . 
+Tijdens het gravend onderzoek in 2006 zijn de resten van één stenen gebouw , in meerdere fasen aangetroffen . 
+Het bevestigde het beeld van het opdelen van oudere bebouwing in meerdere en kleine compartimenten . 
+Oudere sporen die met zekerheid voor 1400 zijn te dateren zijn niet aangetroffen . 
+Wel is het ophogingspakket uit het midden van de veertiende eeuw aangetroffen . 
+Een boring die door dit pakket heen is gezet leverde een elfde- mogelijk twaalfde eeuws kogelpotfragment op . 
+Het ophogingspakket is in de opgravingsput niet verder onderzocht omdat dit onder de vooraf vastgestelde diepte van 1,0 m -mv . 
+Deze beperking in diepte komt overeen met de maximale verstoringsdiepte van de nieuwbouw en is als zodanig vastgelegd in het Programma van Eisen . 
+Als gevolg hiervan zijn het pakket en de onderliggende sporen en resten uit de Late Middeleeuwen en mogelijk Romeinse Tijd nog intact aanwezig . 
+De gemeente Utrecht heeft daarmee als één van de weinige steden in Nederland een behoud in situ kunnen toepassen voor het eigen archeologisch erfgoed . 
+1 1 NOAA , hoofdstuk 24 , versie 1.0 blz . 28 blad 4 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Administratieve gegevens OW Projectnummer OM-nummer Provincie Gemeente Plaats Toponiem 168587 19784 Utrecht Utrecht Utrecht Korte Eligenstraat Kaartblad 31H Coördinaten 137059 , 455294 137079 , 455305 137083 , 455255 137105 , 455265 Kadaster Opdrachtgever BAM Vastgoed Uitvoerder Oranjewoud Datum uitvoering november 2006 Projectteam H.J.L.C . 
+Koopmanschap ( KNA-archeoloog ) A. Spoelstra ( archeoloog ) N. van der Feest ( projectmedewerker ) Bevoegd gezag Gemeente Utrecht drs . A. Bakker Beheer documentatie Oranjewoud Heerenveen Vondstdepot uiteindelijk Gemeente Utrecht Afbeelding 1 Locatie plangebied ( Topografische Kaart 1:25.000 ( hier verkleind weergegeven ) , © Topografische Dienst Kadaster , Emmen ) blad 5 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 1 Inleiding In opdracht van BAM Vastgoed heeft Ingenieursbureau Oranjewoud BV in november 2006 een archeologische opgraving uitgevoerd ter plaatse van de ( korte ) Eligenstraat . 
+Deze opgraving vond plaats op het perceel Korte Eligenstraat 66 . 
+Het onderzoek vond plaats in combinatie met de sanering van dit perceel en de omliggende percelen . 
+Het perceel Eligenstraat 66 was hierin een terrein dat in de voorgaande jaren nog niet ( archeologisch ) onderzocht kon worden vanwege uitstel van de sloop van de woning . 
+De opgraving is uitgevoerd onder milieukundige begeleiding door BAM Milieutechniek waardoor er beperkingen aan de uitvoer van het werk zijn gesteld . 
+De oppervlakte van het onderzochte terrein was circa 100m2 . 
+BAM Vastgoed is voornemens om op het perceel Eligenstraat 66 en de aangrenzende percelen woningbouw te realiseren . 
+Het bevoegd gezag voor deze opgraving was de gemeente Utrecht , vertegenwoordigd door mevr . 
+drs . A.M. Bakker van de gemeentelijke archeologische en bouwhistorische dienst Utrecht . 
+De opgraving is uitgevoerd overeenkomstig het Programma van Eissen ( PvE ) dat is opgesteld door J.A.M . 
+Oude Rengerink en dat is goedgekeurd door A.M. Bakker . 
+De veldleiding berustte bij J.A.M . 
+Oude Rengerink en H.J.L.C . 
+Koopmanschap . 
+Veldtechnische werkzaamheden werden verricht door A. Spoelstra , N. van der Feest en P. Teekens . 
+Zowel het bureauonderzoek als het veldonderzoek is uitgevoerd conform de Kwaliteitsnorm Nederlandse Archeologie ( KNA ) , versie 2.2. blad 6 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 2 Voorgaand onderzoek Voorafgaand aan de opgraving is geen bureauonderzoek verricht . 
+In december 1999 en januari 2000 heeft de gemeentelijke archeologische dienst Utrecht een archeologische opgraving uitgevoerd . 
+Het gehele omliggende terrein ( in oostelijke richting naar de singel toe ) werd hierbij onderzocht . 
+De resultaten van dit onderzoek zijn gerapporteerd in Basisrapportage 2 , Eligenstraat . 
+2 Er werden bewoningsresten aangetroffen uit de periode van de Romeinse Tijd , De Middeleeuwen en de Nieuwe Tijd . 
+Gedurende de eerste tot en met de derde eeuw na Chr . bestond de bewoning ter plaatse vermoedelijk uit een pre-romeinse oeverwal van de rivier de Rijn . 
+De bewoningssporen bestonden uit een deel van een huisplattegrond met bijbehorende perceleringsresten . 
+De sporen die te dateren zijn in de Late Middeleeuwen bestaan uit resten van perceleringen , een weg en een gebouwstructuur . 
+Het is niet uit te sluiten dat de eerste bewoning teruggaat tot in de elfde eeuw maar met name voor de periode van de twaalfde eeuw zijn er sterke aanwijzingen . 
+Sinds 1122 ligt het gebied van de Korte Eligenstraat binnen de stedelijke omwalling . 
+In de tweede helft van de veertiende eeuw ( 1350-1400 ) werd het terrein opgehoogd . 
+De eerste stenen huizen werden rond 1400 in dit deel van Utrecht gebouwd . 
+De bewoning vanaf de vijftiende eeuw bestond uit vrijstaande huizen op grote percelen . 
+Dit veranderde aan het begin van de zeventiende eeuw . 
+Er trad een verdichting in de bebouwing waarbij een aantal ( oud- ) middeleeuwse huizen werden gesplist in meedere kamerwoningen . 
+Zowel de Groenstraat als de Eligenstraat werden vrijwel geheel volgebouwd . 
+2 Van der Mark 2001 blad 7 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 3 Veldonderzoek 3.1 Doel en vraagstelling Het doel van het onderzoek ter plaatse van de Eligenstraat 66 is drieledig : 1 . 
+Het verkrijgen van inzicht in de aan- of afwezigheid van archeologische waarden . 
+2 . 
+Het vaststellen van de inhoudelijke en fysieke kwaliteit van de locatie ( dit ten aanzien van aard , ouderdom , omvang , gaafheid en conservering ) 3 . 
+Het documenteren van eventuele archeologische waarden die in de ondergrond van het plangebied aanwezig zijn . 
+Door het bevoegd gezag zijn in totaal 16 vraagstellingen geformuleerd waarop op deze opgravinig een antwoord moet worden gegeven . 
+1 . 
+Bevinden zich binnen het plangebied archeologische resten uit de Middeleeuwen , en zo ja waaruit bestaan deze ? 
+2 . 
+Bevinden zich binnen het plangebied archeologische resten uit de Nieuwe Tijd ? 
+En zo ja , waaruit bestaan deze ? 
+3 . 
+Gezien de te verwachte diepte van de afgraving worden archeologische resten van voor de ophoging in het begin van de veertiende eeuw niet verwacht . 
+Is deze ophoging ook binnen het plangebied aanwezig ( geweest ) ? 
+4 . 
+Hoe dik is de ophogingslaag ? 
+En op welke diepte ten opzichte van NAP bevindt het zich ? 
+5 . 
+Zijn er binnen het plangebied resten en sporen aanwezig uit de vijftiende en zestiende eeuw die deel uitmaakten van de vrijstaande ambachtshuizen op vrije percelen en zo ja , waaruit bestaan deze ? 
+6 . 
+Bevinden zich binnen het plangebied archeologische resten van kamerwoningen uit het begin van de zeventiende eeuw ? 
+7 . 
+Kan er op basis van de onderzoeksresultaten het beeld bevestigd worden dat gedurende de 18de en 19de eeuw de wooneenheden steeds kleiner en slechter werden ? 
+8 . 
+Wat is de aard , datering en conserveringstoestand van de aangetroffen archeologische resten ? 
+9 . 
+Wat is de exacte locatie van de archeologische resten ? 
+10 . 
+Wat is de diepte ( t.o.v . 
+maaiveld ) en de hoogteligging ( t.o.v . 
+NAP ) van de archeologische resten ? 
+11 . 
+Hoe kunnen de aangetroffen archeologische resten worden gewaardeerd ? 
+12 . 
+Welk advies kan op basis van de resultaten van het archeologisch onderzoek worden gegeven voor de omgang met archeologische waarden beneden de opgravingsdiepte van 1m -mv ? 
+13 . 
+Kan op basis van de resultaten iets gezegd worden over de landschappelijke setting ? 
+14 . 
+Kan op basis van de onderzoeksresultaten iets gezegd worden over een bepaalde functie van de aangetroffen sporen en structuren ( bijvoorbeeld of er sprake is van een bepaald ambacht ? ) 
+blad 8 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 15 . 
+Vullen de resultaten van het veldonderzoek het eerder uitgevoerde onderzoek aan de Eligenstraat aan , en zo ja , is hierdoor de Eligenstraat aangevuld ? 
+Wat is de bodemkwaliteit ( gaafheid ) ? 
+Zijn er onder het bereikte vlak nog archeologieverdachte lagen aanwezig die ten tijde van de realisatie van de gewenste herontwikkeling bedreigd worden ? 
+Zo ja wat zijn hiervoor de aanbevelingen op basis van het uitgevoerde onderzoek . 
+16 . 
+3.2 Gravend onderzoek Het onderzoek vond plaats tussen 15 november 2006 en 29 november 2006 . 
+Vanaf maaiveldniveau werd begonnen met het ontgraven van de werkput . 
+Bij afronding van het definitief onderzoek was het oppervlak van werkput 1 tot op 1 m -mv ontgraven en vrij van muurwerken of andere archeologische sporen en restanten . 
+Ter plaats van de decontaminatie-unit ( deco-unit ) kon niet gegraven worden waardoor de contour van de werkput tot tegen deze unit aanligt . 
+Omwille van de stabiliteit van de muren die de achterzijde van de onderzoekslocatie markeerden is op aanwijzingen van de uitvoerder van de sanering een strook van tenminste een halve meter aangehouden . 
+Het bevoegd gezag , in de persoon van mevr . 
+drs . A. M. Bakker , heeft de onderzoekslocatie meerdere malen bezocht om kennis te nemen van de vorderingen . 
+Ook werden deze momenten benut om op basis van de actuele situatie in het veld gezamenlijk keuzes te maken aangaande de uitvoer van het veldwerk indien dit afweek van het PvE . 
+Iedere afwijking of keuze is vastgelegd in het dagrapport van de betreffende dag . 
+Er zijn geen keuzes gemaakt die het veldwerk hebben opgehouden of die tot een significante wijziging in het PvE hebben geleid . 
+Conform het Pve is er vanuit de gemeentelijke dienst Utrecht tot tweemaal toe een bouwhistoricus betrokken geweest om de aangetroffen bouwresten te bespreken . 
+3 3 PvE Eligenstraat 66 , blz . 9 , methoden en technieken blad 9 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 3.3 Werkwijze Het perceel is opgegraven in één werkput . 
+Deze werkput had een oppervlakte van 180,55 m2 gehad en was langgerekt van vorm met een uitstulping aan de linkerzijde . 
+Aan de westzijde kon een deel met een oppervlakte van 14,2 m2 niet worden opgegraven door de vorm van het perceel en de muur die als erfscheiding hier stond . 
+De werkput is groten dan in het PvA is aangegeven . 
+De bovenste laag van de werkput is machinaal aangelegd met een bandenkraan en een schepbak van 1,8 m en 0,4 m breedte . 
+Op het moment dat er funderingen dagzoomden aan het oppervlak is met hand de betreffende fundering vrijgegraven . 
+Er bleef tijdens het machinaal uitgraven van de werkput altijd een buffer grond tegen de fundering aanleggen die later handmatig is verwijdert . 
+Zowel het opgravingsvlak op niveau 1 en 2 , het vlak tijdens de aanleg als de stort werden onderzocht met een metaaldetector . 
+Er is een eerste vlak aangelegd op circa 0,9 m -Mv waarin alle sporen en structuren zichtbaar waren . 
+Nadat alle sporen waren gedocumenteerd zijn voorzichtig de fundamenten afgebroken en is er gekeken op een tweede vlak onder de fundamenten . 
+Er is vastgesteld dat zich daaronder geen andere sporen en structuren lieten herkennen anders dan het vervolg van een beerput ( spoor 43 ) en een kelderpartij ( spoor 61 & 63 en geassocieerde sporen ) . 
+Deze structuren bevonden zich echter beneden de verstoringsdiepte van 1 m -mv en zijn derhalve in situ bewaard gebleven . 
+Het opgraven van deze structuren heeft zich beperkt tot het vrijleggen en documenteren van het gedeelte boven het tweede vlak . 
+Daarna zijn beide structuren handmatig afgetopt . 
+Het opgravingsterrein was enkel vanuit de deco-unit te betreden , dit als gevolg van de saneringsomstandigheden waarbinnen het definitief onderzoek moest worden uitgevoerd . 
+Tabel 1 : afmetingen werkput 1 Werkput Lengte 1 26m westelijke deel 8,5m ( kelder o.a . ) Totaal Breedte 7m 1,5m Minus 14,2m2 - Oppervlakte 167,8 m2 12,75 m2 180,55 m2 Alle sporen zijn gedocumenteerd , beschreven en gefotografeerd . 
+Daar waar mogelijk werd aanvullende informatie verzameld zoals baksteenformaten , baksteenformaten en metselverbanden . 
+Met name bij deze laatste drie moet worden opgemerkt dat van de meeste funderingen te weinig hoogte was bewaard gebleven om hierbij de gangbare 8 tot 10 lagenmaten vast te stellen . 
+Er is voor gekozen om dan de lagenmaat wel te bepalen maar aan te geven hoewel lagen per maat gebruikt konden worden . 
+Op verzoek van het bevoegd gezag zijn na afronding van de documentatie van de funderingen de betreffende sporen machinaal weggegraven onder begeleiding van een KNA-archeoloog . 
+4 4 PvE Eligenstraat 66 , blz . 9 , strategie blad 10 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 2 : het noordelijk deel van werkput 1 met de westwaartse uitstulping tijdens de laatste fase van het veldwerk . 
+3.4 Landschappelijk en bodemkundig kader Voor wat betreft het fysisch-geografisch deel van het onderzoek heeft het onderzoek op de Eligenstraat 66 geen nieuwe gegevens opgeleverd die een aanvulling vormen op het onderzoek uit 1999-2000 . 
+Het globale beeld van de zuidelijke binnenstad van Utrecht 5 is dat van een laat holocene stroomrug en een meer naar het noorden gelegen komgebied . 
+Op deze stroomrug heeft in ieder geval gedurende de Romeinse periode bewoning plaats gevonden . 
+Ook is ter plaatse van de stroomrug een donkergrijs grondbandje aangetroffen dat is aangemerkt als een vegetatiehorizont . 
+Vondstmateriaal uit deze laag van de 19992001 opgraving bleek dateerbaar in de tweede helft van de tweede eeuw ( 150-200 na Chr . ) . 
+Waarnemingen in deze vegetatielaag maken aannemelijk dat de laag een akkerlaag is en dat bewoning van het gebied tenminste door kan lopen tot in de derde eeuw . 
+6 Het lagenpakket uit de Romeinse tijd wordt afgedekt door een pakket lichtgrijze tot beigekleurige klei . 
+Op basis van vondsten uit de bovenlaag van deze laag is deze laag tussen de derde en elfde eeuw tot stand gekomen . 
+In de tweede helft van de 14de eeuw is er in het gebied een ophogingslaag aangebracht . 
+De dikte van dit pakket is globaal 1,2 m en bestaat uit donkergrijze verrommelde klei dat rijk is aan puin en houtskool . 
+Van der Mark plaatst de bouw van de eerste stenen huizen in het gebied van de Eligenstraat na het aanbrengen van het ophogingspakket . 
+7 Hij geeft geen verklaring voor de puinhoudendheid van het ophogingspakket waardoor het gissen blijft naar de origine van dit pakket . 
+Vermoedelijk is de grond die tot ophogingspakket is verwerkt afkomstig uit een ander deel van de omwalde stad waar kort voorafgaand meerdere gebouwen zijn gesloopt . 
+De dikte van meer dan een meter van het pakket en de rijkdom aan puin en 5 6 7 Van Rooijen 1996 naar Van der Mark 2001 , blz . 7 Van der Mark 2001 , blz . 11 Van der Mark 2001 , blz . 11 blad 11 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht houtskool maakt dat het mogelijk vrij eenvoudig is om een herkomst hiervoor aan te geven . 
+Slechts weinig locaties in de binnenstad zijn in staat om in korte tijd voldoende grond te kunnen leveren om een ophogingspakket van de aangetroffen dikte te realiseren . 
+Mogelijk dat dit afkomstig is van de afbraak van oude wallen of delen van de stadsmuur die omwille van een stadsuitbreiding en nieuwe wallen overbodig waren geworden . 
+Dat roept een tweede vraag echter weer op : werd het gebied rond de Eligenstraat doelbewust opgehoogd om bewoning mogelijk te maken of is het ophogen van het terrein nooit geen doel op zich geweest maar eerder de plaats waar men het overtollig afval kon weggooien . 
+Om de de dikte en de diepteligging van het ophogingspakket te kunnen vaststellen zijn er 4 handmatige grondboringen gezet . 
+Voor de locatie van deze boringen wordt verwezen naar tekening 168587-S1 . 
+Het aangetroffen bodemprofiel komt overeen met het profiel dat hierboven is beschreven . 
+Langs de straatzijde is het middeleeuwse ophogingspakket circa 0,8 m dik en aan de achterzijde 1,1 m. Globaal ligt de bovenkant van dit pakket op 2,2 m +NAP . 
+Boven dit ophogingspakket bevindt zich een geroerd pakket van zand , klei en tuinaarde wat het gevolg is van een onafgebroken bewoning van het gebied rond de Eligenstraat vanaf 1500 . 
+Afbeelding 3 : de kadastrale minuut uit 1832 met daarop de Kleine Eligensteeg en in blauw het opgegraven perceel . 
+blad 12 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 4 : dezelfde situatie kort voor de sloop van pand 66 . 
+( bron : Google Earth 2006 ) In werkput 1 zijn in totaal 66 verschillende sporen onderscheiden . 
+8 Hiervan horen 46 spoornummers bij funderingen , zes bij vullingen , vier bij vloeren , één bij een beerput en negen bij overige sporen zoals uitbraaksleuven en beerkuilen . 
+Daarnaast zijn 9 features in het veld aangegeven als recente verstoring . 
+Hieronder enkele betonvloeren aan de achterzijde van het terrein , een betonnen put en een olietank . 
+Het beeld dat de sporen geven is fragmentarisch te noemen . 
+Er kunnen uit de opgravingsplattegrond geen complete huizen worden gereconstrueerd . 
+In belangrijke mate komt dit omdat meerdere muren over elkaar heen liggen . 
+Omdat een aantal van de latere muren zijn opgebouwd uit secundair verwerkt materiaal is het moeilijk om de sporen goed van elkaar te onderscheiden in bouwfases . 
+In totaal zijn op basis van oversnijdingen in het muurwerk vier verschillende bouwfasen onderscheiden . 
+Deze kunnen alleen relatief ten opzichte van elkaar worden gedateerd . 
+Als ijkpunt is de situatie van fase 3 genomen : deze komt overeen met de situatie op de kadastrale minuut uit 1824 . 
+Sporen ouder dan de zestiende eeuw Er is maar een zeer beperkt aantal sporen van voor de zestiende eeuw aangetroffen . 
+Het gaat hierbij om een tweetal beerkuilen : gegraven kuilen zonder duidelijke wanden waarvan de vulling bestaat uit dierlijke of menselijke mest ( spoor 47 en 50 ) . 
+Beide kuilen waren ingegraven in het veertiende eeuwse ophogingspakket en reikte niet tot het tweede aangelegde vlak . 
+Deze zullen kort voor of tijdens het eerste gebruik van het terrein na 1500 zijn gegraven en gaan mogelijk de gemetselde beerput ( 43 ) vooraf . 
+Omdat ze zijn ingegraven in de top van het veertiende eeuwse ophogingspakket zullen beide kuilen na het opbrengen van de ophogingslaag zijn aangelegd 8 Zie hiervoor bijlage 2 , sporenlijst blad 13 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Fase 1 zestiende - mogelijk zeventiende eeuw Als oudste sporen uit deze periode kunnen spoor 43 ( beerput ) en spoor 9 ( muur ) worden benoemd . 
+9 Spoor 43 is een gemetselde beerput met een diameter van circa 1,2 m. De koepel van de beerput was gemetseld met bakstenen met een formaat van 12,5 x 5,5 cm . 
+Het gaat hierbij om de breedte- en hoogtemaat aangezien nagenoeg alle gebruikte sten breukstenen waren en in lengte derhalve niet compleet . 
+Over de beerput loopt spoor 1 , een muur van bakstenen met een wisselend formaat tussen 17,5 x 9 x 4 cm en 22 x 10 x 4 cm . 
+De beerput heeft een diepte van circa 1,45 m onder vlak 1 . 
+Door middel van een handmatige boring is vastgesteld dat tot op de vulling van de beerput bestaat uit puin en afval tot circa 0,15 m boven de bodem van de put . 
+De onderste 15 cm bestaat namelijk uit een kleiige laag waarin geen archeologische resten herkenbaar waren . 
+De bodem van de beerput wordt gevormd door vermoedelijk een bakstenen onderkant . 
+Deze was in ieder geval ondoordringbaar met de boor . 
+Afbeelding 5 : de beerput ( spoor 43 ) nadat de bovenliggende fundamenten zijn verwijderd . 
+9 Met spoor 9 moeten ook spoor 10 en 40 worden geassocieerd . 
+Deze zijn de vleilagen voor dit muurwerk . 
+blad 14 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 6 : het muurfundament van spoor 9 , 10 en 40 . 
+De muur van spoor 9 bestaat uit drie verschillende lagen . 
+Hiervan is spoor 9 het bovenste gedeelte ( formaat 25,5 x 13 x 5,5 ) spoor 10 het gedeelte onder de blauwe lijn ( formaat 25 x 12,5 x 5 ) en spoor 40 tussen de rode en de blauwe lijn ( formaat 25 x 12,5 x 5 ) . 
+Hoewel er drie verschillende fasen in dit muurwerk zijn onderscheiden wordt verondersteld dat het hier gaat om elkaar kort in tijd opvolgende fases van hetzelfde muurwerk ( zie afbeelding 6 ) . 
+Ook het overeenkomende steenformaat van de drie sporen wijst op een gelijktijdige bouw . 
+Vermoedelijk is spoor 10 de oorspronkelijke muur die aan de achterzijde tijdens de bouw reeds is verzakt . 
+Het ontbreken van mortelresten ter plaatse van de pijl ( zie afbeelding 6 ) wijst erop dat de verzakking mogelijk al gebeurde tijdens of kort na de bouw . 
+Fase 2 ( zeventiende – achtiende eeuw ) Uit deze periode dateren tenminste twee funderingen of muren en een straatje . 
+Het gaat hierbij om een fundering die wordt gevormd door spoor 21 , een fundering die gevormd wordt door spoor 1 en 5 , en het straatje ( spoor 12 ) . 
+In dit straatje was een mogelijke plantsoenbak voorzien ( spoor 13 en 14 ) die niet doorliep onder spoor 21 en daarom zal hebben gehoord tot de oorspronkelijke aanleg . 
+Naast het halfronde putje waren een tefrieten maalsteenfragment ( vondstnummer 19 ) en een niet nader gedetermineerd stuk natuursteen ( vondstnummer 18 ) gebruikt om de straat mee aan te leggen ( zie afbeelding 7 ) . 
+Het hergebruik van dergelijke maalstenen komt vaker voor in de binnenstad van Utrecht . 
+Meestal werden ze secundair gebruikt in stoepen en kademuren.10 10 Dubelaar 2007 , blz . 105 blad 15 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 7 : het straatje ( spoor 12 ) met het halfronde plantoensbakje en de beide natuurstenen bij de pijlen . 
+Links de maalsteen en rechts het andere fragment . 
+De eerste muur ( spoor 21 ) is een buitenmuur geweest en heeft gehoord bij een gebouw dat heeft gelegen aan de westzijde van het dwarssteegje op de korte Eligenstraat . 
+Dit deel van het terrein kon niet worden opgegraven omdat hierop de deco-unit en de bouwketen geplaatst waren . 
+De tweede muur ( spoor 1 ) is eveneens een buitenmuur geweest aan de zijde van het steegje en heeft gehoord bij een huis aan de oostzijde van de korte steeg . 
+Wat pleit voor het feit dat de tweede muur een buitenmuur is geweest zijn de staande bakstenen ( spoor 51 ) aan de binnenzijde van spoor 1 ( zie afbeelding 8 ) . 
+Spoor 3 is vermoedelijk de noordelijke begrenzing van het huis geweest omdat hier aan de zuidzijde eveneens staande bakstenen werden aangetroffen , wat duidt op een waterwerende functie . 
+In fase 2 heeft er dus een relatief diep gebouwd huis aan de Korte Eligenstraat gestaan ter hoogte van het onderzoeksterrein . 
+Aan de achterzijde van het terrein is in deze fase een waterput gebouwd ( spoor 57 ) . 
+Het gaat hier om een enigszins ondiepe waterpunt waar helaas geen vondstmateriaal in de vulling ( spoor 58 ) werd aangetroffen . 
+Op basis van de ligging buiten het huis in fase 2 en een ligging in één van de huizen in fase 3 lijkt een plaatsing in de tweede fase de meest waarschijnlijke . 
+Er kon bij deze waterput met de boor geen verharde bodem worden vastgesteld . 
+blad 16 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 1 3 Afbeelding 8 : Aan de bovenzijde de hoek van spoor 1 met spoor 3 . 
+Rechts zijn de staande stenen te zien wat doet vermoeden dat de muur van spoor 3 van oorsprong eveneens een buitenmuur is geweest . 
+Fase 3 ( achttiende – begin negentiende eeuw ) In deze fase wordt het grotere huis opgedeeld in meerdere compartimenten waardoor de situatie ontstaat die op de kadastrale kaart te zien is . 
+Met name aan de zuidzijde van het onderzoeksterrein is duidelijk de onderverdeling in verschillende ruimtes nog te herkennen . 
+Aan de noordzijde van het opgravingsterrein is dit moeilijker te herkennen omdat hier niet alle funderingen bewaard zijn gebleven . 
+Spoor 2 en 3 zijn binnenmuren geweest die haaks op de muur van spoor 1 hebben gestaan . 
+Dit als gevolg van verstoringen uit latere perioden op het achterterrein . 
+Door het plaatsen van de genoemde binnenmuren ontstonden er binnen het huis zogenaamde kamerwoningen . 
+Het huis werd naar de noordzijde ook verlengd met een aanbouw , die gevormd wordt door spoor 5 ( loopt uit in spoor 7 ) , en wordt afgesloten met de dwarsmuur ( spoor 6 ) . 
+De muurrestanten aan de noordzijde van het terrein ( sporen 23 , 30 , 33 , 34 , 35 , 36 en 37 ) zullen ook uit deze fase dateren maar konden niet gereconstrueerd worden tot een gebouwstructuur . 
+Op basis van de kadastrale minuut kan geen duidelijkheid worden verkregen over deze muurresten . 
+Het muurwerk van spoor 45 is vermoedelijk de oostelijke begrenzing geweest van de westelijk gelegen rij huizen ( kavels minuutkaart : 55 , 56 , 57 ) maar dit was slechts op enkele plaatsen nog aanwezig waardoor dit niet met zekerheid kon worden vastgesteld . 
+In deze periode zal ook de stortkoker van de beerput ( spoor 43 ) zijn gebouwd . 
+Deze stortkoker bestond uit een opgemetseld gedeelte ( spoor 25 ) , dat was ingebed in een vloertje ( spoor 39 ) ( zie afbeelding 9 , 10 en 11 ) blad 17 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 1 2 Afbeelding 9 : Eén van de dwarsmuurtjes op spoor 1 : spoor 2 met rechtsboven de beerput . 
+39 25 43 Afbeelding 10 : de beerput uit fase 1 met het vloertjes ( spoor 39 ) en de stortkoker ( spoor 25 ) , beiden uit fase 3. blad 18 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 11 : de beerput ( spoor 43 ) nadat de stortkoker ( spoor 25 ) en de het vloertje ( spoor 39 ) zijn verwijderd . 
+De vulling van de stortkoker ( spoor 26 ) bevatte geen vondstmateriaal waardoor het opgevuld raken van de stortkoker niet gedateerd kan worden . 
+De vulling bestond uit verkit en verbrand materiaal waarin geen duidelijke vormen meer waren te herkennen . 
+De vulling van de stortkoker was nagenoeg niet terecht gekomen in de vulling van de beerput ( spoor 44 ) waardoor het aannemelijk is om te veronderstellen dat de beerput al eerder buiten gebruik was gesteld en was opgevuld met puin . 
+De stortkoker kan dan nog enige tijd hebben dienst gedaan als ( schrob ) putje . 
+Fase 4 ( negentiende – twintigste eeuw ) Uit deze laatste fase dateren de muren die met name aan de straatzijde van de Korte Eligenstraat zich bevinden ( spoor 22 , 41 , 42 en het bovenste gedeelte van spoor 21 ) . 
+Deze muren of funderingen horen bij het huis dat op afbeelding 4 is weergegeven . 
+Het is dit huis dat als laatste is gesloopt voordat het onderzoek eind jaren negentig en het onderzoek in 2006 kon worden uitgevoerd . 
+Van dit huis is alleen de westelijke helft opgegraven , het overige deel lag buiten het bereik van de werkput . 
+De waterkelder Gedurende de laatste fase van de opgraving werd aan de achterzijde van het terrein een vermoedelijke waterkelder opgegraven . 
+Het is deze waterkelder die vermoedelijk de begrenzing heeft gevormd van het dwarssteegje op de Korte Eligenstraat wat misschien wijst op een gebruik van de kelder voor de hele straat of een deel daarvan . 
+Vanwege de beperking dat er slechts tot circa 1,0 m –maaiveld kon worden opgegraven is er van deze kelder geen bodem kunnen worden vastgesteld . 
+Binnen dertig centimeter onder het niveau van – 0,3 m bevond zich in ieder geval in de linkerhoek van de kelderpartij geen verharde bodem . 
+De vulling van de waterkelder bestond uit grond en mortel- en baksteenresten . 
+De kelder lijkt opzettelijk te zijn dichtgeworpen met dit materiaal . 
+blad 19 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht De bouw van de waterkelder moet gezocht worden in fase 2 van de bewoningsgeschiedenis . 
+In een latere fase , mogelijk nog in fase 2 of in fase 3 , heeft men de waterkelder enigszins verbouwd . 
+Hiertoe heeft men de oostzijde van de kelder verwijderd en deze vervangen door een kortere bak die aan de noordzijde voorbij de oorspronkelijke breedte van de kelder kwam . 
+Dit nieuwe gedeelte werd vervolgens met enkele groen geglazuurde plavuizen waterdicht aangesloten op de bestaande kelderpartij . 
+Deze groen geglazuurde tegels zijn over de volledige hoogte van de aansluiting tussen het oude en het nieuwere gedeelte aangebracht . 
+Mogelijk hangt dit samen met de plaatsing van een zogenaamde zwengelpomp boven op de waterkelder . 
+Hoewel dit hypothetisch is , zou het kunnen wijzen op een functie van de korte dwarsstraat : een gezamelijke hemelwatervoorziening voor de bewoners van de Korte Eligenstraat . 
+De achterzijde ( westzijde ) van de waterkelder kon niet volledig onderzocht worden . 
+Deels bleek deze verstoord te zijn door boomwortels en deels verdween deze onder de fundering van een recent trafohuisje . 
+Afbeelding 12 : Gefotografeerd naar het westen spoor 53 , zijnde het gemetselde muurtje van secundair benutte baksten die tegen de kelderpartij is aangeplaatst . 
+blad 20 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 13 : de oostzijde van de kelderpartij . 
+Op de foto is duidelijk de later geconstrueerde bak te zien die middels enkele groengeglazuurde vloertegels waterdicht op de oorspronkelijke helder heeft aangesloten . 
+Dit laatste doet vermoeden dat de kelder op zeker moment als waterkelder heeft gefungeerd . 
+blad 21 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht Afbeelding 14 : Een globaal overzicht van de constructie ter plaatse van de kelder . 
+Op de voorgrond de kleine waterput ( spoor 57 , 58 ) . 
+Voor de kelder staat een blauwgroene muur ( spoor 53 ) die is opgebouwd met bakstenen van een in de zestiende eeuw in Utrecht gangbaar formaat . 
+Het gaat hierbij wel om secundair benut materiaal . 
+In bruin de oorspronkelijke kelderpartij ( spoor 60 , 65 ) met een éénsteens tongewelf ( spoor 54 ) . 
+Daarvoor in lichtgroen is de waterbakconstructie ( spoor 59 , 64 ) die op basis van versnijdingen duidelijk later aan de kopse kant van de kelder is toegevoegd maar waarbij de kelderruimte wel benut bleef . 
+In rood de latere funderingen en vloeren die om de kelder heen zijn gezet ( spoor 13 , 61 , 62 en 63 . 
+In zwart de verstoring van de boom en de fundering van het trafohuisje . 
+3.5 Synthese In totaal is de ontwikkeling van de huizenbouw aan de Eligenstraat op te delen in vier opeenvolgende fasen . 
+Blijkens de twee beerkuilen is het terrein reeds in de veertiende of vijftiende eeuw in gebruik geweest . 
+Er zijn geen gebouwresten aangetroffen die wijzen op een hout of steenbouw in de veertiende of vijftiende eeuw . 
+In de eerste aantoonbare bewoningsfase die na 1500 ligt wordt een stenen beerput gemetseld en een muur gebouwd . 
+Deze muur is georiënteerd op de Korte Eligenstraat en heeft gehoord bij een huis dat niet heel diep naar achteren is gebouwd . 
+In een tweede fase wordt de oude muur met een nieuwe muur naar de noordzijde verlengd ( spoor 21 ) en wordt er tevens naast dit pand een nieuw pand gebouwd . 
+In deze fase komt ook de korte steeg haaks op de Eligenstraat tot stand en tevens lijkt het erop dat de eerste aanleg van de waterkelder uit deze fase dateert . 
+In de derde fase wordt het grotere huis onderverdeeld in twee compartimenten en wordt aan de noordzijde een derde compartiment aangebouwd . 
+De dan ontstane situatie komt overeen met de kavel 55 , 56 en 57 op de kadastrale minuut . 
+In de vierde en laatste fase wordt er een compleet nieuw huis op de onderzoekslocatie gebouwd dat slechts in beperkte mate de oudere funderingen volgt . 
+blad 22 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 4 Het vondstmateriaal 4.1 Aardewerk Er zijn gedurende de opgraving 287 stuks aardewerk geborgen met een gezamenlijk gewicht van 13,6 kilogram . 
+Dit materiaal is te verdelen in drie verschillende fasen van bewoning . 
+De oudste is een niet nader gedetermineerde Romeinse scherf ( vondstnummer 45 ) die werd aangetroffen tijdens de aanleg van vlak 2 . 
+Uit de Volle Middeleeuwen zijn een fragment Pingsdorf aardewerk ( vondstnummer 63 , onder spoor 22 ) en een kogelpotfragment ( vondstnummer 54 ) aangetroffen . 
+De scherf uit de Romeinse Tijd en het Pingsdorf fragment zijn vermoedelijk opspit uit de ondergrond . 
+Bij het uitgraven van bijvoorbeeld de beerput en de waterput zullen dieper liggende lagen geroerd zijn waarbij ouder materiaal vermengd is met grond van jongere herkomst . 
+Het kogelpotfragment dateert uit de periode van de achtste tot en met de dertiende eeuw en werd aangetroffen in boring 1 . 
+Deze scherf is afkomstig uit ophogingspakket dat gedateerd is in de tweede helft van de veertiende eeuw . 
+11 Het overige vondstmateriaal is het gebruikelijke materiaal dat in een stedelijke context met een bewoning vanaf de zestiende eeuw kan worden aangetroffen . 
+Het merendeel van de vondsten bestaat uit roodbakkend aardewerk dat met 193 fragmenten ruim 67 % van het vondstmateriaal inneemt . 
+Grijsbakkend aardewerk is ook aangetroffen maar met een totaal van 5 fragmenten ( 1,7 % ) is dit onvoldoende om op basis daarvan een aanvang van de bewoning voor het begin van de zestiende eeuw te vermoeden . 
+De andere vondstgroepen zijn ook met een beperkt aantal fragmenten vertegenwoordigd : majolica 18 fragmenten ( 6,3 ) , faience 14 fragmenten ( 4,9 % ) , witbakkend aardewerk 10 fragmenten ( 4,2 % ) en industrieel vervaardigd aardewerk 3 ( 1,0 % ) . 
+Daarnaast zijn er 12 fragmenten steengoed aangetroffen hetgeen op 2 fragmenten na laat steengoed uit Westwald betreft ( 4,2 % ) . 
+Fragmenten van kleipijpen zoals steelfragmenten en delen van de ketel ( pijpenkop ) waren er 25 ( 8,7 % ) en vier fragmenten waren niet te determineren als gevolg van fragmentatie of sterke verwering . 
+Alle aardewerkvondsten horen bij een deel van de huisraad van een aantal reguliere huishoudens . 
+Er zijn geen fragmenten die wijzen op een grote rijkdom of fragmenten die op het tegendeel wijzen . 
+Daarbij moet echter wel in aanmerking worden genomen dat er maar een zeer gering oppervlak is opgegraven waarbij de opgravingsdiepte tot net onder de muurfundamenten beperkt was . 
+Opmerkelijk is het hoge aantal fragmenten van bloempotten in het vondstcomplex : van de 193 fragmenten roodbakkend aardewerk waren er zes afkomstig van verschillende soorten bloempotten . 
+De nabijheid van de Hortus en de tuincultuur rond het einde van de zeventiende en begin achttiende eeuw geeft de vermoedelijke oorsprong van deze resten aan . 
+12 11 12 Van der Mark 2001 , blz . 9 Clevis 2006 , blz . 129 blad 23 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 4.2 Bouwkeramiek In totaal zijn er 30 stuks bouwkeramiek aangetroffen met een gezamenlijk gewicht van circa 6,5 kg . 
+Onder bouwkeramiek is hier verstaan : dakpannen , daktegels , vloertegels , wandtegels , baksteen en leisteen . 
+Onder deze 30 stuks worden niet de baksteenmonsters gerekend die zijn genomen ten behoeve van een bouwhistorisch onderzoek . 
+Voor alle bouwkeramiek geldt dat deze uit geroerde lagen afkomstig zijn en niet uit gesloten vondstcontexten . 
+De helft van het bouwkeramiek bestaat uit roodbakkend vloertegels . 
+Het gaat hierbij overwegend om fragmenten van een formaat van 22 x 22 cm of groter . 
+De vijftien vloertegels ( 50 % ) zijn allen afgesleten en vertonen sporen van mortel . 
+Hieruit kan worden afgeleid dat ze met mortel vast hebben op de ondergrond gelegen . 
+Er zijn daarnaast drie fragmenten ( 10 % ) baksteen geborgen uit de vulling tussen spoor 9 en spoor 1 . 
+Deze zijn daar terecht gekomen bij de sloop van fase 3 en voorafgaand aan de bouw van fase 4 . 
+Ook zijn er drie fragmenten ( 10 % ) van roodbakkende dakpannen geborgen . 
+Deze hebben deel uit gemaakt van de dakbedekking van fase 2 en/of fase 3 . 
+Afbeelding 15 : het armpje in terracotta . 
+In totaal werden er zes fragmenten ( 20 % ) van faience wandtegels aangetroffen . 
+Deze wandtegels zullen gebruikt zijn geweest gedurende fase 2 en of 3 . 
+Er zijn twee fragmenten leisteen aangetroffen ( 6,7 % ) . 
+Opmerkelijk is de vondst van een armfragment van een terracotta amor of cupidobeeldje ( zie afbeelding 15 ) . 
+Net als het bloempotaardewerk is het aannemelijk dat het hier gaat om afval afkomstig uit de Hortus en niet van de bewoning aan de Korte Eligenstraat . 
+Een datering van het fragment was niet mogelijk , deze zal beperkt moeten blijven tot een ruime datering in de late zestiende en vroege achttiende eeuw . 
+blad 24 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 4.3 Dierlijk botmateriaal Tijdens de opgraving is een beperkt aantal dierlijke resten aangetroffen . 
+13 In totaal werden er 57 fragmenten geborgen ( circa 1,2 kg ) . 
+Het materiaal is afkomstig uit contexten die in of na de zestiende eeuw dateren , maar een gesloten context ontbreekt . 
+In geen van de onderzoeksvragen is specifieke aandacht gevraagd voor het dierlijke botmateriaal . 
+Daarom wordt hier volstaan met een uitwerking van het materiaal naar diersoort en wordt de datering globaal vastgesteld tussen de 16de en 18de eeuw . 
+Deze methode komt overeen met de strategie die de gemeentelijke archeologische dienst heeft gevolgd bij de opgraving van het belendende terrein 1999-2000 . 
+Tijdens voorgenoemd onderzoek werd alleen het dierlijk botmateriaal uit middeleeuwse en Romeinse vondstcontexten geborgen . 
+14 Alle vondsten van het onderzoek ter plaatse van het pand Eligenstraat 66 dateren uit de nieuwe tijd . 
+Het materiaal is gedetermineerd aan de hand van de vergelijkingscollectie van de Rijks Universiteit Groningen . 
+Al het dierlijk botmateriaal is met de hand verzameld en niet verkregen via het zeven van grondmonsters of vullingen . 
+Gedurende het veldwerk zijn er geen gesloten vondstcontexten aangetroffen die er veelbelovend uitzagen voor een rijke inhoud aan dierlijke resten . 
+Vanzelfsprekend geeft dit een vertekening van het beeld omdat met name de middelgrote en grote zoogdieren hierdoor oververtegenwoordigd zijn . 
+Resten van kleine zoogdieren zoals haas of konijn missen volledig , net als vondstmateriaal van gevogelte en vis . 
+Het aangetroffen spectrum aan diersoorten komt overeen met het spectrum dat in stedelijke contexten uit de nieuwe tijd verwacht mag worden . 
+Het grote aandeel neemt traditiegetrouw het rund ( Bos taurus ) in met 35 fragmenten ( 61,4 % ) . 
+Op de tweede plaats komt het varken ( Sus domesticus ) met 10 fragmenten ( 17,5 % ) met daar als derde categorie het schaap of geit ( Ovis ariës / Capra hircus ) met 6 fragmenten ( 10,5 % ) . 
+Hiermee nemen de consumptiedieren met 89,4 % het grootste aandeel binnen het dierlijk botmateriaal in . 
+Slechts twee botten ( 3,5 % ) afkomstig van hond ( Canis familiaris ) waren afkomstig van zoogdieren anders dan de consumptiedieren . 
+Vier fragmenten waren niet tot een diersoort te herleiden als gevolg van hun fragmentatie en het ontbreken van voldoende herkenbare elementen . 
+Tabel 2 Diersoort Rund ( Bos taurus ) Varken ( Sus domesticus ) Schaap/geit ( Ovis Ariës/Capra hircus ) Hond ( Canis familiaris ) 13 14 Aantal 35 10 6 % 61,4 17,5 10,5 2 3,5 Determinaties gedaan door D. la Feber & dr. W. Prummel ( RuG ) Van der Mark 2001 , blz . 9 blad 25 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 4.4 Metaalvondsten In totaal zijn er 37 fragmenten metaal gevonden ( circa 4,10 kg ) . 
+15Het merendeel van de vondsten bestaan uit ijzeren voorwerpen naast 5 munten en 2 fragmenten van niet nader te duiden fragmenten brons . 
+Over het algemeen is de conservering van het materiaal niet goed , op een enkele munt na ( vondstnummer 24 ) . 
+De ijzeren voorwerpen bestaan overwegend uit spijkers en nagels en enkele niet nader gedetermineerde fragmenten die vermoedelijk een hang- of sluitfunctie hebben gehad . 
+Vondstnummer 64 bevat de fragmenten van vermoedelijk 1 of meerdere messen . 
+Deze zijn afkomstig uit de top van het ophogingspakket , nabij de tweede waterput ( spoor 57 ) . 
+Alle vondsten dateren uit zestiende eeuw of later . 
+De meeste vondsten werden gedaan tussen de muren uit de achttiende eeuw en zijn daar terecht gekomen bij de afbraak van de panden voor de laatste bewoningsfase ( vondstnummers 3,4,9 , 24 , 28 , 30 ) . 
+Ook is er materiaal afkomstig uit de insteek van één van de muren ( spoor 1 en 2 ) . 
+Deze vondsten zullen daar terecht zijn gekomen bij de bouw van dit muurwerk . 
+15 Determinaties gedaan door N.J.W . 
+van der Feest blad 26 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 5 Waardering Zoals gesteld in de benoemingen van de doelen van het onderzoek en als specifieke vraagstelling in het PvE , moet er ook een oordeel worden geformuleerd over het archeologisch belang van een vindplaats . 
+16 Hoewel het om een opgraving gaat en er conform het KNA-protocol geen waardering vereist is , blijft er een deel van de vindplaats ( dieper dan 1,0 m -mv ) behouden . 
+Middels een waardering dient de behoudenswaardigheid te worden onderbouwd . 
+Dit als een advies naar de opdrachtgever en het bevoegd gezag . 
+Als instrument hiervoor gelden een aantal in de KNA geformuleerde criteria . 
+Zoals in het PvE omschreven 17 is de begrenzing van het plangebied hierbij aangehouden van de vindplaats van de Eligenstraat 66 als onderdeel van een grotere vindplaats , zijnde de stedelijke kern binnen de muren van de middeleeuwse stad Utrecht . 
+Tabel 2 : waardering van de ( deel ) vindplaats Eligenstraat 66 te Utrecht Waarden Criteria Scores Ja Nee N.V.T . 
+Beleving Schoonheid X Herinnering X Hoog Midden Laag Fysieke Gaafheid X kwaliteit Conservering X Inhoudelijke Zeldzaamheid X kwaliteit Informatiewaarde X Ensemblewaarde X Representatieviteit X Score 2 3 2 1 1 2 Een waardering is niet volledig in objectieve termen te vatten . 
+Daarom wordt de keuze voor iedere gekozen waarde hierna nog kort toegelicht . 
+De beide belevingscriteria zijn voor deze vindplaats aangemerkt als niet van toepassing omdat er bovengronds niets meer zichtbaar is en zal zijn . 
+Op het punt van fysieke kwaliteit en inhoudelijke kwaliteit zijn wel uitspraken mogelijk . 
+Hierbij is , conform PvE , gewaardeerd vanuit de aanname dat Eligenstraat 66 onderdeel is van de ommuurde kern van de middeleeuwse stad . 
+De gaafheid van de archeologische vindplaats is als middelmatig te omschrijven . 
+Meerdere eeuwen van wonen , bouwen en verbouwen hebben sporen in de archeologische dataset vernietigd , maar maken daar automatisch ook deel vanuit . 
+Vanwege de geplande nieuwbouw zijn alle sporen tot 1,0 m -mv verwijderd waardoor een lage waardering voor de Eligenstraat 66 als vindplaats zou volgen . 
+Omdat onder het tweede vlak van de opgravingsput over de volledige lengte de 14de eeuwse ophogingslaag is aangetroffen voldoet een lage waardering niet en is in elk geval een middelhoge waardering gerechtvaardigd . 
+Afgezien van enkele verstoringen ter plaatse van de kelder en de beerput ziet deze ophogingslaag er nog intact uit . 
+De conservering van het ophogingspakket en eventuele materiele resten die zich hierin bevinden wordt als redelijk beschouwd hoewel dit niet verder onderzocht kon worden . 
+16 17 Zie paragraaf 2.3 en hieronder ook vraagstelling 11 PvE Eligenstraat bladzijde 6 , begrenzing van het plangebied . 
+blad 27 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht De zeldzaamheid is gewaardeerd als middelhoog omdat het enerzijds maar een klein deel is van het geheel van de historische binnenstad van Utrecht . 
+Anderzijds is het na het archeologisch onderzoek op het naastgelegen terrein het laatste stukje van de Eligenstraat waar het bodemarchief voor de periode tot 1500 nog in min of meerdere mate intact is . 
+De informatiewaarde van het perceel is relatief laag gewaardeerd omdat het aansluit op het grotere onderzoek van enkele jaren terug en het onderzoek zich heeft moeten beperken tot de bovenste laag van 1,0 m -mv . 
+Uit beide argumenten volgt ook een lage waardering voor de ensemblewaarde omdat het geen nieuwe gegevens aandraagt aan de conclusies van het onderzoek uit 1999/2001 . 
+Dit laat onverlet dat de representativiteit van de vindplaats zeker als midden gewaardeerd kan worden omdat de vindplaats goed aansluit bij hetgeen er uit historische bron en eerder uitgevoerd archeologisch onderzoek in het algemeen over dit deel van de historische kern van Utrecht bekend was . 
+blad 28 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 6 Conclusie en aanbevelingen 6.1 Algemeen In november 2006 is er door Ingenieursbureau Oranjewoud BV in opdracht van BAM vastgoed Ontwikkeling BV een opgraving uitgevoerd ter plaatse van de Eligenstraat 66 te Utrecht . 
+Dit is uitgevoerd conform een door Oranjewoud opgesteld Programma van Eisen op aangeven van en met goedkeuring van het bevoegd gezag , zijnde de gemeente Utrecht . 
+Het onderzoek heeft plaatsgevonden onder saneringsomstandigheden en tot de verstoringsdiepte van de voorgenomen ingreep . 
+Dit betekent dat het uitgevoerde onderzoek zich heeft beperkt tot 1 meter min maaiveld . 
+De verwachting van de aan te treffen sporen bestond uit funderingen van ( bak ) stenen huizen en de daarbij behorende structuren zoals waterputten en beerkelders . 
+Verwacht werden sporen die samenhingen met een bewoning in het gebied van de Nieuwe en Oude Gracht van de zestiende eeuw tot en met de achttiende eeuw . 
+Op basis van historisch en eerder uitgevoerd archeologisch onderzoek in dit gedeelte van Utrecht werd vermoed de resten aan te treffen van een wijk die in de loop van tijd steeds armoediger en bouwvalliger was geworden . 
+De ontwikkeling van grote wooneenheden naar talloze malen opgedeelde kleinere wooneenheden zou hier een duidelijk voorbeeld van moeten zijn . 
+De locatie was braakliggend , volgend op een sloop in de jaren zestig . 
+Na de goedkeuring van het PvE is door het bevoegd gezag verzocht om de resultaten van het onderzoek in 2006 te koppelen aan de inzichten en vraagstellingen uit de Nationale Onderzoeksagenda Archeologie ( NOA ) . 
+Dit was daarvoor niet mogelijk omdat het betreffende hoofdstuk over de middeleeuwse stad op dat moment nog niet vrijgegeven was . 
+Het koppelen van de resultaten van het onderzoek zoals uitgevoerd door Oranjewoud aan de NOA is beperkt mogelijk . 
+De tijdens het onderzoek gedocumenteerde verdichting van stedelijke bewoning blijkt een algemene trend te zijn die ook in de NOA wordt aangeduid . 
+Anders dan deze globale vaststelling kan momenteel niet worden gedaan omdat het onderzoek zich heeft moeten beperken tot het opgraven van de archeologische resten die aanwezig en zichtbaar waren boven het 14e eeuwse ophogingspakket . 
+Dat de bovenzijde van dit pakket nagenoeg gelijk was aan de ontgravingsdiepte van 1,0 m -mv is een gelukkig toeval geweest . 
+Dit heeft alle archeologische resten die onder dit pakket aanwezig zijn redelijk goed bewaard en geconserveerd en zijn nu nog steeds intact . 
+blad 29 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 6.2 Beantwoording van de vraagstellingen uit het PvE          Bevinden zich binnen het plangebied archeologische resten uit de Middeleeuwen , en zo ja waaruit bestaan deze ? 
+-De sporen uit de middeleeuwen , hier afgegrensd tot 1500 , bestaan uit twee beerkuilen die werden aangetroffen ingegraven in het veertiende eeuwse ophogingspakket . 
+Bevinden zich binnen het plangebied archeologische resten uit de postMiddeleeuwen en Nieuwe Tijd ? 
+En zo ja , waaruit bestaan deze ? 
+-Ja , er bevinden zich sporen uit de genoemde perioden . 
+Deze bestaan uit meerdere fasen van twee huizen , waarbij het meest oostelijk huis in de loop van de tijd wordt opgedeeld in meerder compartimenten , wordt verlengd naar de noordzijde en uiteindelijk gesloopt wordt tbv nieuwbouw in de negentiende of twintigste eeuw . 
+Ook is er een beerput , een waterkelder en een waterput aangetroffen . 
+Gezien de te verwachte diepte van de afgraving worden archeologische resten van voor de ophoging in het begin van de veertiende eeuw niet verwacht . 
+Is deze ophoging ook binnen het plangebied aanwezig ( geweest ) ? 
+-Ja deze ophoging is inderdaad nog aanwezig in het plangebied en vormt de ondergrond van het gebied . 
+Hoe dik is de ophogingslaag ? 
+En op welke diepte ten opzichte van NAP bevindt het zich ? 
+- Langs de straatzijde is het middeleeuwse ophogingspakket circa 0,8 m dik en aan de achterzijde 1,1 m. Globaal ligt de bovenkant van dit pakket op 2,2 m +NAP . 
+Zijn er binnen het plangebied resten en sporen aanwezig uit de vijftiende en zestiende eeuw die deel uitmaakten van de vrijstaande ambachtshuizen op vrije percelen en zo ja , waaruit bestaan deze ? 
+-Nee , er zijn geen sporen of structuren herkend in het ophogingspakket die hierop wijzen . 
+Bevinden zich binnen het plangebied archeologische resten van kamerwoningen uit het begin van de zeventiende eeuw ? 
+Ja , er bevinden zich drie kamerwoningen of compartimenten binnen het plangebied , te weten kavels 55 , 56 en 57 . 
+Kan er op basis van de onderzoeksresultaten het beeld bevestigd worden dat gedurende de 18de en 19de eeuw de wooneenheden steeds kleiner en slechter werden ? 
+-Nee , dat kan niet bevestigd noch ontkend worden . 
+De aangetroffen situatie laat zien dat een groter huis in twee delen werd opgedeeld en dat er een derde compartiment aan werd vastgebouwd . 
+Het enkel secundair benutte bouwmateriaal doet vermoeden dat de wooneenheden voor wat betreft de constructie slecht zijn geweest , drie compartimenten is echter een te klein aantal om hier stellig in te kunnen zijn . 
+Wat is de aard , datering en conserveringstoestand van de aangetroffen archeologische resten ? 
+-zie voorgaande vragen : datering ligt tussen 1500 en 1950 en de conservering van het vondstmateriaal is redelijk te noemen . 
+Daar waar de aangetroffen olietank en betonnen put zijn aangetroffen is de conservering slecht en is alles verstoord . 
+Wat is de exacte locatie van de archeologische resten ? 
+-Zie hiervoor de velddocumentatie en tekeningen . 
+blad 30 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht         Wat is de diepte ( t.o.v . 
+maaiveld ) en de hoogteligging ( t.o.v . 
+NAP ) van de archeologische resten ? 
+-Vanaf 20 cm tot circa 0,75 cm onder maaiveld komen de sporen en fundamenten voor . 
+Gemiddeld ligt de top van de sporen op 2,89 m + NAP en de onderzijde ligt gemiddeld op 2,43+ NAP . 
+Enkele sporen zijn dieper aangelegd zoals de beerput , de waterput en de waterkelder . 
+Hoe kunnen de aangetroffen archeologische resten worden gewaardeerd ? 
+-Deze moeten als middelhoog gewaardeerd worden . 
+Dit geldt overigens enkel nog voor de middeleeuwse en Romeinse sporen aangezien alles van latere periode ( afgezien van achtergebleven onderzijdes van de diepere sporen ) tijdens het onderzoek zijn verwijderd . 
+Welk advies kan op basis van de resultaten van het archeologisch onderzoek worden gegeven voor de omgang met archeologische waarden beneden de opgravingsdiepte van 1m -mv ? 
+-Deze in situ behouden en een eventuele sloop in de toekomst van de nieuwbouw archeologisch te laten begeleiden vanaf maaiveld . 
+Eventuele nieuwbouwplannen zullen dan moeten worden gekoppeld aan voorafgaand archeologisch onderzoek , desgewensd gekoppeld aan een aanlegvergunning . 
+Kan op basis van de resultaten iets gezegd worden over de landschappelijke setting ? 
+-Deze zullen niet afwijken met het beeld uit de opgraving 1999-2000 . 
+Kan op basis van de onderzoeksresultaten iets gezegd worden over een bepaalde functie van de aangetroffen sporen en structuren ( bijvoorbeeld of er sprake is van een bepaald ambacht ? ) 
+-Nee . 
+Vullen de resultaten van het veldonderzoek het eerder uitgevoerde onderzoek aan de Eligenstraat aan , en zo ja , is hierdoor de Eligenstraat aangevuld ? 
+-De voornaamste conclusie is dat het bestaande beeld in grote lijnen wordt bevestigd maar dat de resultaten te beperkt zijn om met enige zekerheid het beeld vast te stellen . 
+Opmerkelijk is het mogelijk aanwezig zijn van een gemeenschappelijke drinkwatervoorziening in de dwarsstraat op de Eligenstraat . 
+Wat is de bodemkwaliteit ( gaafheid ) ? 
+-Deze is intact en is daardoor als hoog te bestempelen . 
+Zijn er onder het bereikte vlak nog archeologieverdachte lagen aanwezig die ten tijde van de realisatie van de gewenste herontwikkeling bedreigd worden ? 
+Zo ja wat zijn hiervoor de aanbevelingen op basis van het uitgevoerde onderzoek . 
+-Ja , er zijn onder het aangelegde onderzoeksvlak archeologieverdachte lagen aanwezig . 
+De boorprofielen van de vier uitgevoerde boringen laten zien dat de ondergrond overeenkomt met de resultaten van het onderzoek uit 1999-2000 . 
+Het gaat hierbij in ieder geval om middeleeuwse en Romeinse bewoningslagen . 
+Het Romeinse akkerlaagje/vegetatiehorizont kon niet in de boring worden herkend maar dat wil niet zeggen dat deze hier definitief uit te sluiten is . 
+Geadviseerd wordt geen dicht palenplan te hanteren , eventueel uit te voeren heipalen uit te voeren als schroefpalen en de grondwaterstand niet negatief te beïnvloeden . 
+blad 31 van 29 projectnr . 
+168587 Archeologische Rapporten Oranjewoud 110 27 september 2007 , revisie 00 Opgraving aan de Eligenstraat 66 te Utrecht 7 Literatuur en geraadpleegde bronnen Berendsen , H.J.A . 
+2004 ( 4e druk ) . 
+De vorming van het land . 
+Inleiding in de geologie en geomorfologie . 
+Assen , Van Gorcum . 
+Clevis , H. 2006 . 
+De gracht als stort voor afval . 
+In Clevis , H . 
+e.a . 
+; Havezate Werkeren . 
+De Heren van Werkeren en hun kasteel . 
+Zwolle . 
+Dubelaar , W. e.a . 
+2007 . 
+Utrecht in steen , historische bouwstenen in de binnenstad . 
+Utrecht . 
+Van der Mark 2001 . 
+Basisrapport Eligenstraat 1999-2000 . 
+Utrecht Es , T. van 2006 . 
+Tuinornamenten Werkeren . 
+In Clevis , H . 
+e.a . 
+; Havezate Werkeren . 
+De Heren van Werkeren en hun kasteel . 
+Zwolle . 
+Kaarten Topografische kaart 1:25000 ( http : //kadata.kadaster.nl ) Minuutplan gemeente ( http : /www.dewoonomgeving.nl ) Internet ARCHIS : www.archis.nl IKAW : www.archis.nl blad 32 van 29 Bijlage 1 : Archeologische perioden Bijlage 1 : Archeologische perioden Als bijlage op de resultaten en verzamelde gegevens wordt hieronder een algemene ontwikkeling van de bewonersgeschiedenis in Nederland geschetst . 
+Gedurende het Paleolithicum ( 300.000-8800 voor Chr . ) hebben moderne mensen ( homo sapiens ) onze streken tijdens de warmere perioden wel bezocht , doch sporen uit deze periode zijn zeldzaam en vaak door latere omstandigheden verstoord . 
+De mensen trokken als jager-verzamelaars rond in kleine groepen en maakten gebruik van tijdelijke kampementen . 
+De verschillende groepen jagerverzamelaars exploiteerden kleine territoria , maar verbleven , afhankelijk van het seizoen , steeds op andere locaties . 
+In het Mesolithicum ( 8800-4900 voor Chr . ) zette aan het begin van het Holoceen een langdurige klimaatsverbetering in . 
+De gemiddelde temperatuur steeg , waardoor geleidelijk een bosvegetatie tot ontwikkeling kwam en de variatie in flora en fauna toenam . 
+Ook in deze periode trokken de mensen als jager-verzamelaars rond . 
+Voorwerpen uit deze periode bestaan voornamelijk uit voor de jacht ontworpen vuurstenen spitsjes . 
+De hierop volgende periode , het Neolithicum ( 5300-2000 voor Chr . ) , wordt gekenmerkt door een overschakeling van jager-verzamelaars naar sedentaire bewoners , met een volledig agrarische levenswijze . 
+Deze omwenteling ging gepaard met een aantal technische en sociale vernieuwingen , zoals huizen , geslepen bijlen en het gebruik van aardewerk . 
+Door de productie van overschot kon de bevolking gaan groeien en die bevolkingsgroei had tot gevolg dat de samenleving steeds complexer werd . 
+Uit het Neolithicum zijn verschillende grafmonumenten bekend , zoals hunebedden en grafheuvels . 
+Het begin van de Bronstijd ( 2000-800 voor Chr . ) valt samen met het eerste gebruik van bronzen voorwerpen , zoals bijlen . 
+Het gebruik van vuursteen was hiermee niet direct afgelopen . 
+Vuursteenmateriaal uit de Bronstijd is meestal niet goed te onderscheiden van dat uit andere perioden . 
+Het aardewerk is over het algemeen zeldzaam . 
+De grafheuveltraditie die tijdens het Neolithicum haar intrede deed werd in eerste instantie voortgezet , maar rond 1200 voor Chr . vervangen door begravingen in urnenvelden . 
+Het gaat hier om ingegraven urnen met crematieresten waar overheen kleine heuveltjes werden opgeworpen , eventueel omgeven door een greppel . 
+In de IJzertijd ( 800-12 voor Chr . ) werden de eerste ijzeren voorwerpen gemaakt . 
+Ten opzichte van de Bronstijd traden er in de aardewerktraditie en in het gebruik van vuursteen geen radicale veranderingen op . 
+De mensen woonden in verspreid liggende hoeven of in nederzettingen van enkele huizen . 
+Op de hogere zandgronden ontstonden uitgebreide omwalde akkercomplexen ( celtic fields ) . 
+In deze periode werden de kleigebieden ook in gebruik genomen door mensen afkomstig van de zandgebieden . 
+Opvallend zijn de verschillen in materiële welstand . 
+Er zijn zogenaamde vorstengraven bekend in Zuid-Nederland , maar de meeste begravingen vonden plaats in urnenvelden . 
+Met de Romeinse tijd ( 12 voor Chr . tot 450 na Chr . ) eindigt de prehistorie en begint de geschreven geschiedenis . 
+In 47 na Chr . werd de Rijn definitief als rijksgrens van het Romeinse Rijk ingesteld . 
+Ter controle van deze zogenaamde limes werden langs de Rijn castella ( militaire forten ) gebouwd . 
+De inheems leefwijze handhaafde zich wel , ook al werd de invloed van de Romeinen steeds duidelijker in soorten aardewerk ( o.a . gedraaid ) en een betere infrastructuur . 
+Onder meer ten gevolge van invallen van Germaanse stammen ontstond er instabiliteit wat uiteindelijk leidde tot het instorten van de grensverdediging langs de Rijn . 
+Over de Middeleeuwen ( 450-1500 na Chr . ) , en met name de Vroege Middeleeuwen ( 450-1000 na Chr . ) , zijn nog veel zaken onbekend . 
+Archeologische overblijfselen zijn betrekkelijk schaars . 
+De politieke macht was na het wegvallen van de Romeinen in handen gekomen van regionale en lokale hoofdlieden . 
+Vanaf de 10 eeuw ontstaat er weer enige stabiliteit en is een toenemende feodalisering zichtbaar . 
+Door bevolkingsgroei en gunstige klimatologische omstandigheden werd in deze periode een begin gemaakt met het ontginnen van bos , heide en veen . 
+Veel van onze huidige steden en dorpen dateren uit deze periode . 
+De hierop volgende periode 1500 – heden wordt aangeduid als Nieuwe Tijd . 
+e Bijlage 2 : AMZ-cyclus Bijlage 2 : AMZ-cyclus Het AMZ-proces Archeologisch onderzoek in Nederland wordt in de meeste gevallen uitgevoerd binnen het kader van de zogenaamde Archeologische Monumentenzorg ( AMZ ) . 
+Het gehele traject van de AMZ omvat een aantal stappen die elkaar kunnen opvolgen , afhankelijk van het resultaat van de voorgaande stappen . 
+In de procedure wordt volgens een trechtermodel gewerkt . 
+Het startpunt ligt eigenlijk al bij het bepalen van de onderzoeksplicht . 
+Op diverse provinciale en landelijke archeologische waardenkaarten kan namelijk worden ingezien of het plangebied ligt in een zone met een archeologische verwachting . 
+Indien dit het geval blijkt te zijn , dan zal er in het kader van de planprocedure onderzoek verricht moeten worden om te bepalen of er archeologische waarden binnen het plangebied aanwezig zijn . 
+Hiermee start de zogenaamde AMZ-cyslus ( zie afb . 
+1 en 2 ) Afb . 
+1 : de AMZ-cyclus De eerste fase : bureauonderzoek Uitgangspunt voor het bureauonderzoek is het vaststellen van een gespecificeerd verwachtingsmodel dat op detailniveau voor het plangebied aangeeft wat er aan archeologische vindplaatsen aanwezig kan zijn . 
+Op basis van dit verwachtingsmodel wordt bepaald of er een veldonderzoek nodig is en wat de juiste methode voor dit veldonderzoek zou moeten zijn om deze mogelijk aanwezige archeologische resten te kunnen aantonen . 
+Afb . 
+2 : proces van de AMZ De tweede fase : inventariserend veldonderzoek ( IVO ) Het inventariserend veldonderzoek kan worden opgesplitst in drie subfases . 
+Fase 1. verkennend onderzoek In sommige gevallen wordt er gestart met een verkennend onderzoek . 
+Een verkennend onderzoek kent een relatief lage onderzoeksintensiteit en word feitelijk uitgevoerd omdat er bij het bureauonderzoek onvoldoende gegevens beschikbaar zijn om dit voldoende te kunnen onderbouwen . 
+Dit is bijvoorbeeld het geval als er te weinig bodemkundige of geologische gegevens zijn om binnen het plangebied de verwachtingswaarden te kunnen onderbouwen of zelfs überhaupt tot een verwachtingswaarde te komen . 
+Met een verkennend onderzoek kan tot in detail de verwachtingswaarde worden aangebracht . 
+Zodoende kan door terugkoppeling een aangescherpt verwachtingsmodel worden gemaakt en kan karterend veldonderzoek in een vervolgfase gerichter en daarmee ook kostenefficiënter worden ingezet . 
+Fase 2. karterend onderzoek In de regel wordt er gestart met een karterend onderzoek . 
+Dit veldonderzoek dient om het verwachtingsmodel uit het bureauonderzoek te toetsen en eventueel aanwezige vindplaatsen op te sporen . 
+Het onderzoek wordt vrijwel altijd vlakdekkend uitgevoerd door middel van boringen en/of oppervlaktekarteringen of proefsleuven . 
+Het resultaat is in de regel een overzichtskaart met de resultaten van het onderzoek . 
+Eventueel aangetoonde vindplaatsen worden daarbij aangegeven . 
+Indien er geen archeologische vindplaatsen worden aangetroffen of wanneer bijvoorbeeld al blijkt dat deze geheel zijn verstoord , dan wel van geen waarde zijn , is dit meestal ook het eindstadium van de AMZcyclus . 
+Als er wel archeologische vindplaatsen worden aangetroffen of het blijkt uit de onderzoeksgegevens dat deze met zeer grote zekerheid kunnen worden verwacht , dan dient er een waardestellend onderzoek te worden uitgevoerd . 
+Meestal is van de vindplaatsen die bij een karterend onderzoek zijn aangetroffen nog slechts in beperkte mate bekend wat de waarde ervan is . 
+Fase 3. waarderend onderzoek Een waarderend onderzoek dient de fysieke kwaliteiten van een eerder aangetoonde of reeds bekende archeologische vindplaats vast te stellen en dient te leiden tot een waardestelling . 
+Voor een waardestelling is het van belang om in elk geval de aard van de vindplaats , de exacte begrenzing in omvang en diepteligging , de datering en de mate van conservering en intactheid te weten . 
+Een waarderend onderzoek kan worden uitgevoerd door middel van boringen of proefsleuven . 
+Wat de beste methode is hangt sterk af van de omstandigheden en de aard van de vindplaats . 
+In de meeste gevallen worden er voor een waardestelling proefsleuven of proefputten gegraven . 
+omdat met deze methode meer en betere informatie over de vindplaats kan worden verkregen dan met aanvullende booronderzoek . 
+Proefsleuven zijn lange sleuven van twee tot vijf meter breed die worden aangelegd in de zones waar in de voorgaande onderzoeksfase aanwijzingen voor vindplaatsen zijn aangetroffen . 
+De derde fase : Selectie en waardering Het eindresultaat van een waardestellend onderzoek is een selectieadvies waarin op basis van de waardestelling van de vindplaats ( en ) wordt aangegeven of een vindplaats behoudenswaardig is . 
+Deze waardestelling geschiedt op basis van verschillende waarderingscriteria . 
+De term behoudenswaardig is sterk gerelateerd aan de essentie van het rijks- en provinciaal beleid ten aanzien van de archeologische monumentenzorg . 
+In eerste instantie gaat dit namelijk uit van het behoud van het bodemarchief in situ ( ter plekke in de bodem ) . 
+Alleen wanneer dit binnen een belangenafweging niet kan zal het stuk waardevol bodemarchief voor het nageslacht bewaard dienen te worden door middel van een opgraving . 
+Dit wordt ook wel behoud ex situ genoemd . 
+Wanneer behoud niet gewenst is vanwege een relatief gering waarde van de vindplaats ( en ) kan nog worden besloten om de bodemingrepen onder archeologische begeleiding te laten uitvoeren . 
+Ook is het natuurlijk nog mogelijk dat er helemaal geen archeologisch onderzoek meer hoeft plaats te vinden en kan het terrein worden 'vrij gegeven ' . 
+Het bevoegd gezag zal op basis van het selectieadvies uiteindelijk aangeven welke maatregelen er dienen te worden genomen . 
+Deze beslissing wordt het selectiebesluit genoemd . 
+Plaats van de AMZ-cyclus in de planvorming Net als met andere omgevingsfactoren waarmee binnen de planvorming rekening gehouden dient te worden , is het ook voor de archeologie van belang om dit in een zo vroeg mogelijk stadium in te steken . 
+Niet alleen is dit voor een aantal onderzoeksfasen vanwege provinciaal of gemeentelijk beleid al een vereiste , het geeft bovendien al vroeg inzicht in eventuele risico 's qua exploitatie en potentiële vertragingen in een project . 
+Indien er een middelhoge of hoge kans op de aanwezigheid van archeologische resten bestaat , zal het bevoegd gezag een inventariserend onderzoek verplicht stellen ten behoeve van de ruimtelijke onderbouwing . 
+Dit onderzoek is gebaseerd op het specifieke verwachtingsmodel uit het bureauonderzoek dat daaraan vooraf dient te gaan . 
+In praktijk worden deze onderzoeken gecombineerd uitgevoerd en in één verslag gerapporteerd . 
+Wanneer eenmaal een planprocedure is voorgenomen zal met het archeologisch onderzoek al kunnen worden begonnen . 
+In principe kan het gehele inventariserend veldonderzoek , inclusief een selectieadvies , voorafgaand aan een planprocedure worden afgerond . 
+Dit heeft als voordeel dat binnen het toekomstige plan de omvang van de archeologische vindplaats ( en ) definitief kan worden afgebakend en er , bij behoud in situ , de bestemming 'archeologische waardevol' kan worden opgenomen . 
+Ook kunnen dan in bijvoorbeeld een aanlegvergunning specifieke voorschriften worden opgenomen om aantasting te voorkomen . 
+In dit kader en deze planfase kan ook een voorschot worden genomen op inrichtingsmaatregelen ( aanpassing van een eventueel al beschikbaar stedenbouwkundig ontwerp of het voorschrijven van bijvoorbeeld een groenzone , speelveld , parkeerplaatsen etc . ) . 
+Indien dit mogelijk is kan ook worden voorgeschreven dat er archeologievriendelijk gebouwd dient te worden door aanpassing van funderingswijze of ander technische maatregelen . 
+Het nadeel van het uitvoeren van een waardestellend veldonderzoek na de een planprocedure is dat daarmee ook de consequenties ervan pas later in beeld komen , wat leidt tot een aantal risico 's . 
+Vaak blijkt dan behoud in situ veel lastiger te zijn en is dit dan alleen met technische maatregelen nog mogelijk . 
+Soms is alleen behoud ex situ door middel van opgravingen de enige nog resterende kostbare optie . 
+Bijlage 3a : Sporenlijst Bijlage 3b : Vondstenlijst Bijlage 4 : Kwaliteitsaspecten van het onderzoek en de toegepaste methoden en strategieën Bijlage 4 : Kwaliteitsaspecten van het onderzoek en de toegepaste methoden en strategieën Certificatie / accreditatie Ingenieursbureau Oranjewoud is gecertificeerd volgens NEN-ISO 9001 . 
+Ons bureau is lid van de Vereniging Kwaliteitsborging Bodemonderzoek ( VKB ) . 
+Voor het uitvoeren van veldwerk bij bodemonderzoek is Ingenieursbureau Oranjewoud gecertificeerd conform de BRL SIKB 2000 ( Beoordelingsrichtlijn voor het SIKBprocescertificaat voor veldwerk bij milieuhygiënisch bodemonderzoek ) . 
+Als het veldwerk conform deze BRL is uitgevoerd , is het rapport voorzien van het volgende logo : De naleving van de kwaliteitseisen en -procedures wordt periodiek getoetst door interne auditors en externe auditors , onder toezicht van de Raad voor Accreditatie . 
+De in het bodemonderzoek benodigde analyses van grond en grondwater laat Oranjewoud verrichten door een STERLAB geaccrediteerd laboratorium . 
+Deze accreditatie garandeert dat bij de analyses consequent de juiste en vastgelegde procedures worden gehanteerd zodat de analyseresultaten een hoge betrouwbaarheid hebben . 
+Normen en richtlijnen De veldwerkzaamheden worden uitgevoerd volgens de VKB-protocollen 2001 t/m 2017 en eventuele aanvullende NPR/NEN-normen . 
+Deze protocollen en richtlijnen zijn opgenomen en uitgewerkt in het ‘ Handboek Veldwerk Bodem ’ van Oranjewoud . 
+Veldwerk- en analyseprogramma in het kader van door Oranjewoud verricht verkennend bodemonderzoek worden , tenzij anders vermeld , gebaseerd op de NEN 5740 'Onderzoeksstrategie bij verkennend bodemonderzoek ' ( NNI , oktober 1999 ) . 
+Veldwerk- en analyseprogramma in het kader van door Oranjewoud verricht oriënterend bodemonderzoek worden , tenzij anders vermeld , gebaseerd op het 'Protocol voor Oriënterend onderzoek ' ( Sdu Uitgeverij , maart 1994 ) . 
+Veldwerk- en analyseprogramma in het kader van door Oranjewoud verricht nader bodemonderzoek worden , tenzij anders vermeld , gebaseerd op het Protocol voor het Nader onderzoek deel 1 ' ( Sdu Uitgeverij , maart 1994 ) of op de 'Richtlijn nader onderzoek deel 1 ' ( Sdu Uitgeverij , september 1995 ) . 
+Veldwerk- en onderzoeksprogramma in het kader van door 'Oranjewoud ' verricht archeologisch onderzoek wordt , tenzij anders vermeld , gebaseerd op de Kwaliteitsnorm Nederlandse Archeologie versie 3.1 ( SIKB , 1 augustus 2006 ) . 
+Oranjewoud is gecertificeerd door het CvAK voor het uitvoeren van alle voorkomende archeologische werkzaamheden . 
+Toepassing grond en asbest Het bodemonderzoek geeft inzicht in de milieuhygiënische kwaliteit van de bodem in het kader van het gebruik en/of de bestemming van de onderzochte locatie . 
+Indien echter grond van de locatie wordt afgevoerd voor toepassing elders , volstaan de resultaten van het verrichte bodemonderzoek niet . 
+Grond is in dat geval een ( secundaire ) bouwstof . 
+Voor toepassing van een bouwstof dient formeel een bouwstoffenonderzoek te worden verricht conform het Bouwstoffenbesluit . 
+In een dergelijk onderzoek wordt ingegaan op het gebruik en/of de bestemming van de grond ( bouwstof ) . 
+Met nadruk wordt vermeld dat onderzoek naar de aanwezigheid van asbest in de bodem geen onderdeel uitmaakt van onderzoek dat door Oranjewoud volgens bovengenoemde normen en richtlijnen wordt uitgevoerd . 
+Als tijdens het veldwerk in de bodem vermoedelijk asbesthoudende materialen worden opgemerkt , dan komt dit in de profielbeschrijvingen en de conclusies naar voren . 
+Overigens wordt opgemerkt dat in de bodem aanwezig puin zeer vaak enig asbest bevat . 
+Specifiek onderzoek naar de aanwezigheid van asbest in de bodem dient volgens de concept NEN 5707 ‘ Inspectie , monsterneming en analyse van asbest in de bodem ’ ( NNI , maart 2000 ) te worden uitgevoerd . 
+Betrouwbaarheid / garanties Bodemonderzoek wordt in zijn algemeenheid uitgevoerd door het steekproefsgewijs bemonsteren van al dan niet verdachte bodemlagen . 
+Hoewel Ingenieursbureau Oranjewoud B.V. de grootste zorgvuldigheid betracht bij het uitvoeren van het bodemonderzoek , is het juist deze steekproefsgewijze benadering die het onmogelijk maakt garanties ten aanzien van de ( verontreinigings ) situatie af te geven op basis van de resultaten van een bodemonderzoek . 
+Oranjewoud aanvaardt derhalve op generlei wijze aansprakelijkheid voor schade welke voortvloeit uit beslissingen genomen op basis van de resultaten van bodemonderzoek . 
+In dit kader kan ook worden opgemerkt dat de voor het historisch onderzoek geraadpleegde bronnen niet altijd zonder fouten en volledig zijn . 
+Voor het verkrijgen van historische informatie is Oranjewoud wel afhankelijk van deze bronnen , waardoor Oranjewoud niet kan instaan voor de juistheid en volledigheid van de verzamelde historische informatie . 
+Kaartenbijlage 

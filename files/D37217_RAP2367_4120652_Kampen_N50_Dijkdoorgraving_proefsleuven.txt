@@ -1,0 +1,558 @@
+Door de dijk tussen brug en balgstuw rapport 2367 Door de dijk tussen brug en balgstuw Een Inventariserend Veldonderzoek in de vorm van proefsleuven te Ramspol , gemeente Kampen J.A.A . 
+de Ridder Colofon ADC Rapport 2367 Door de dijk tussen brug en balgstuw Een Inventariserend Veldonderzoek in de vorm van proefsleuven te Ramspol , gemeente Kampen Auteurs : J.A.A . 
+de Ridder In opdracht van : Infrateam N50 Ramspol in onderaannemerschap van Vestigia BV Archeologie en Cultuurhistorie Directievoering : Vestigia BV Archeologie en Cultuurhistorie Foto ’ s en tekeningen : ADC ArcheoProjecten , tenzij anders vermeld © ADC ArcheoProjecten , Amersfoort , november 2010 Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke wijze dan ook zonder voorafgaande schriftelijke toestemming van de uitgevers . 
+ADC ArcheoProjecten aanvaardt geen aansprakelijkheid voor eventuele schade voortvloeiend uit de toepassing van de adviezen of het gebruik van de resultaten van dit onderzoek . 
+Autorisatie : N.M . 
+Prangsma ISBN 978-978-94-6064-358-3 ADC ArcheoProjecten Postbus 1513 3800 BM Amersfoort Tel 033 299 8181 Fax 033 299 8180 Email info @ archeologie.nl Inhoudsopgave Administratieve gegevens van het onderzoeksgebied Samenvatting 1 Inleiding 1.1 Algemeen 1.2 Vooronderzoek 1.3 Doel van het onderzoek en onderzoeksvragen 1.4 Opzet van het rapport 2 Methoden 3 Resultaten 3.1 Fysisch geografisch onderzoek ( J.M . Brijker ) 3.1.1 Inleiding 3.1.2 Methoden 3.1.3 Achtergrond 3.1.4 Resultaten en interpretatie 3.2 Sporen en structuren 3.3 Vondstmateriaal 3.3.1 Aardewerk 4 Synthese 4.1 Algemeen 4.2 Beantwoording van de onderzoeksvragen 5 Waardering en selectieadvies 5.1 Waardering van de vindplaats 5.2 Selectieadvies Literatuur Lijst van afbeeldingen Lijst van tabellen Verklarende woordenlijst Afkortingen in de database Bijlage I Dwarsprofiel van de dijkdoorsnede Bijlage II Vondstenlijst Bijlage III Monsterlijst Bijlage IV Sporenlijst Bijlage V Vullingenlijst 4 5 7 7 7 8 8 9 11 11 11 11 11 12 14 15 15 16 16 17 18 18 20 21 21 21 22 23 25 26 27 28 30 Administratieve gegevens van het onderzoeksgebied Provincie : Gemeente : Plaats : Toponiem : Kadastrale gegevens : Kaartblad : Coördinaten : Overijssel Kampen Kampen Ramspol Gemeente Kampen , sectie R , nummer 251 – Kampereiland Vastgoed 21A 185.888/ 513.615/ 185.892/ 513.773 Projectverantwoordelijke : Bevoegde overheid : Deskundige namens de bevoegde overheid : ARCHIS-onderzoeksmeldingsnummer ( CIS-code ) : ADC-projectcode : A. de Ridder Gemeente Kampen A. Jager 41457 4120652 Complex en ABR codering : Periode ( n ) : KNA versie : Geomorfologische context : NAP hoogte maaiveld : Maximale diepte onderzoek : Uitvoering van het veldwerk : Beheer en plaats documentatie : Dijk ( IDIJ ) Nieuwe tijd ( NT ) 3.2 Oeverwal/geulafzettingen Tussen 0,2 m en 0,5 m + NAP ca 1 m - mv 16 juni 2010 - 18 juni 2010 Provinciaal depot van de provincie Overijssel 5 Samenvatting Als onderaannemer van Vestigia BV Archeologie & Cultuurhistorie , in opdracht van Infrateam N50 Ramspol , heeft ADC ArcheoProjecten een Inventariserend VeldOnderzoek in de vorm van proefsleuven ( IVO-P ) uitgevoerd , in het kader van verbreding van de N50 . 
+Dit onderzoek heeft in juni 2010 plaatsgevonden . 
+Voorafgaand aan het IVO-P heeft vooronderzoek plaatsgevonden . 
+Daarbij is uitgewezen , dat binnen de grenzen van het plangebied , archeologische waarden aanwezig zijn in de vorm van een dijklichaam . 
+Deze dreigen door de voorgenomen bouw van een brug , ten behoeve van de verbetering van de N50 , verloren te gaan . 
+Daarom heeft de gemeente Kampen besloten , om deze archeologische waarden te laten onderzoeken door middel van een archeologische Inventariserend VeldOnderzoek in de vorm van proefsleuven . 
+Het veldwerk voor het proefsleuvenonderzoek is uitgevoerd tussen 16 en 18 juni 2010 . 
+Tijdens het veldwerk zijn drie proefsleuven aangelegd . 
+Eén proefsleuf is buitendijks aangelegd en één proefsleuf is binnendijks aangelegd . 
+De derde proefsleuf is door het dijklichaam heen aangelegd , om het profiel van het dijklichaam te documenteren . 
+Het dijklichaam is gedocumenteerd door middel van een profiel . 
+Naast dit dijklichaam werden in de proefsleuven enkel natuurlijke en recente verstoringen en greppels aangetroffen . 
+De vindplaats is op basis van de belevingswaarde , inhoudelijke- en fysieke kwaliteit niet behoudenswaardig bevonden . 
+Daarnaast is het dijklichaam tijdens het huidige onderzoek gedocumenteerd . 
+De resultaten van dit onderzoek sluiten aan op de historische gegevens die bekend zijn over de dijk . 
+Het advies luidt daarom om het plangebied vrij te geven voor verdere ontwikkeling . 
+Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Periode Nieuwe tijd Nieuwe tijd C Nieuwe tijd B Nieuwe tijd A Middeleeuwen : Late Middeleeuwen B / Late Middeleeuwen Late Middeleeuwen A / Volle Middeleeuwen Vroege Middeleeuwen D / Ottoonse periode Vroege Middeleeuwen C / Karolingische tijd Vroege Middeleeuwen B / Merovingische tijd Vroege Middeleeuwen A / Volksverhuizingstijd Romeinse tijd : IJzertijd : Bronstijd : Neolithicum ( Jonge Steentijd ) : Mesolithicum ( Midden-Steentijd ) : Paleolithicum ( Oude Steentijd ) : Tijd in jaren 1500 - heden 1850 - heden 1650 - 1850 na Chr . 1500 - 1650 na Chr . 450 – 1500 na Chr . 1250 - 1500 na Chr . 1050 - 1250 na Chr . 900 - 1050 na Chr . 725 - 900 na Chr . 525 - 725 na Chr . 450 - 525 na Chr . 12 voor Chr . – 450 na Chr . 800 – 12 voor Chr . 2000-800 voor Chr . 5300 – 2000 voor Chr . 8800 – 4900 voor Chr . tot 8800 voor Chr . 
+Bron : Archeologisch Basis Register 1992 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 515000 515000 515000 515000 515000 515000 520000 520000 520000 520000 520000 520000 6 510000 510000 510000 510000 510000 510000 KETELMEEER 0 00 00 0 2000 2000 2000 m m m m 2000 2000 2000 m © ADC ADC 2010 2010 © 180000 180000 180000 180000 180000 180000 185000 185000 185000 185000 185000 185000 190000 190000 190000 190000 190000 190000 195000 195000 195000 195000 195000 195000 Kampen - Dijkdoorsnede Ramspol bron : Geodan Afb . 
+1 . 
+Locatie van het onderzoeksgebied . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 7 1 Inleiding 1.1 Algemeen In opdracht van Infrateam N50 Ramspol heeft ADC ArcheoProjecten een Inventariserend Veldonderzoek ( IVO ) in de vorm van proefsleuven uitgevoerd voor het plangebied Ramspol ( afb . 
+1 ) , in het kader van verbreding van de huidige N50 . 
+Vooronderzoek ( zie §1.2 ) heeft aangetoond , dat op deze locatie een dijk met historische betekenis aanwezig is . 
+Het huidige archeologisch onderzoek valt binnen het project Dijkdoorsnede N50 Ramspol . 
+In het plangebied zal een bruggenhoofd worden gebouwd . 
+Daarbij zal het dijklichaam waarschijnlijk afgegraven moeten worden en het bruggenhoofd door middel van grondverbetering gefundeerd worden . 
+Door de voorgenomen bouwplannen zal deze dijk , met historische waarde verloren gaan . 
+Het plangebied heeft een oppervlakte van ca . 
+2,5 ha en is op het moment van onderzoek in gebruik als binnendijks en buitendijks weiland en een dijklichaam of is onbebouwd . 
+Het gebied ligt in de gemeente Kampen en wordt begrensd door de Balgweg in het zuiden , de N50 in het oosten en de IJssel in het noorden . 
+In het gebied zijn 3 proefsleuven aangelegd met een totale oppervlakte van 385 m2 . 
+Het veldwerk is uitgevoerd tussen 16 en 18 juni 2010 . 
+In die periode zijn de proefsleuven aangelegd en onderzocht conform de KNA 3.2 en het Programma van Eisen ( PvE ) , dat door J. Flamman is opgesteld.1 Dit ontwerp is goedgekeurd door A. Jager van de gemeente Kampen . 
+De vondsten en bijbehorende documentatie die tijdens het IVO-P zijn verzameld , zijn gedeponeerd in Provinciaal Depot van de provincie Overijssel te Deventer . 
+Het veldteam bestond uit de volgende personen : A. de Ridder ( projectverantwoordelijke/veldarcheoloog ) , J. McDonald-Kerpentier ( veldtechnicus ) , R. Geerts ( veldassistent ) en een kraanmachinist van de firma JKW . 
+De bij dit project betrokken fysisch geograaf was J. Brijker . 
+Senior archeoloog was N. Prangsma ( ADC ArcheoProjecten ) . 
+De directievoerder voor dit project is J. Flamman ( Vestigia BV ) . 
+De contactpersoon bij de opdrachtgever is E. van Dusseldorp . 
+Het vondstmateriaal is bestudeerd door S. Ostkamp ( aardewerk ) . 
+Controle en coördinatie van documentatie en vondstverwerking is uitgevoerd door M. Nieuwenhuijsen en J.W . Beestman . 
+1.2 Vooronderzoek In verband met toekomstige ontwikkelingen in het plangebied Ramspol is een eerste archeologische inventarisatie in het onderzoeksgebied uitgevoerd door RAAP , in september 2009.2 Dit onderzoek betrof een deel van het tracé van de nieuw aan te leggen en te verbreden N50 , tussen Ramspol en Ens . 
+Tijdens het bureauonderzoek is vastgesteld dat binnen het plangebied verschillende geo-archeologische ( paleo ) landschappen aanwezig zijn . 
+Dit betreft : pleistoceen dekzand , oeverwallen en veenafzettingen . 
+Op het pleistocene dekzand kunnen vindplaatsen uit het Laat-Paleolithicum tot en met het MiddenNeolithicum aangetroffen worden.3 Voor de hogere delen van het dekzand geldt een middelhoge verwachting . 
+Voor de oeverwallen geldt een hoge verwachting voor vindplaatsen uit het Neolithicum tot en met de Bronstijd . 
+Voor vindplaatsen vanaf de Volle Middeleeuwen geldt een middelhoge verwachting op veenafzettingen . 
+Eventueel kunnen scheepswrakken of resten daarvan aangetroffen worden . 
+Voor deze resten en andere archeologische waarden vanaf de Late Middeleeuwen geldt een lage verwachting , omdat het plangebied toentertijd deel uitmaakte van de Zuiderzee . 
+Tijdens het booronderzoek zijn ( van boven naar beneden ) getijdeafzettingen van het IJsselmeer , de Zuiderzee , het Almere en het Flevomeer aangetroffen . 
+Deze afzettingen liggen op een geërodeerd pakket ( basis ) veen . 
+Hieronder zijn pleistocene dekzandafzettingen aangetroffen . 
+In de boringen zijn overigens geen archeologische indicatoren aangetroffen . 
+De graafwerkzaamheden , ten behoeve van de aanleg/verbreding van de N50 , zullen de bodem niet tot in het pleistocene dekzand verstoren . 
+Eventuele zettingseffecten vormen slechts een zeer geringe bedreiging voor archeologische waarden , die zich in de top van het dekzand bevinden . 
+Hetzelfde geldt voor de aanwezige oeverwallen binnen de grenzen van het plangebied . 
+Daarnaast heeft het 1 2 3 Flamman 2010 , PvE V765 . 
+Coppens & de Boer 1010 . 
+Zie voor periodisering tabel 1 . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 8 booronderzoek geen aanwijzingen opgeleverd voor de eventuele aanwezigheid van een vindplaats en/of sporenniveau op deze afzettingen . 
+Veenafzettingen zijn wel aangetroffen . 
+Deze zijn echter geërodeerd . 
+Hierdoor is de kans op het aantreffen van archeologische waarden vanaf de Volle Middeleeuwen nihil . 
+Scheepswrakken of andere archeologische waarden uit de Late Middeleeuwen en Nieuwe tijd zijn niet aangetroffen . 
+De enige archeologische waarde die verstoord dreigt te worden door het voorgenomen wegtracé , betreft het dijklichaam ten zuiden van het Ramsdiep . 
+Daarom is vervolgonderzoek in de vorm van proefsleuven aanbevolen voor het huidige plangebied . 
+1.3 Doel van het onderzoek en onderzoeksvragen Het IVO in de vorm van proefsleuven heeft tot doel de aard , omvang en kwaliteit ( gaafheid en conservering ) vast te stellen van de vindplaats ( en ) in het plangebied . 
+Om op deze wijze te komen tot een definitief oordeel over de behoudenswaardigheid ervan . 
+Daarnaast moeten gegevens verkregen worden om verder archeologisch onderzoek mogelijk te maken en eventueel adequate maatregelen voor behoud en beheer te kunnen treffen . 
+Specifiek voor Dijkdoorsnede N50 Ramspol had het onderzoek tot doel om eventuele vormen van landaanwas buitendijks vast te stellen , een dijkprofiel te documenteren en eventuele vormen van landgebruik binnendijks vast te stellen . 
+In het PvE zijn verschillende onderzoeksvragen gesteld . 
+Deze worden in dit rapport beantwoord op basis van hetgeen in de proefsleuven is aangetroffen . 
+De volgende onderzoeksvragen zijn in het PvE gesteld : - Wat is de opbouw , kwaliteit en ouderdom van het dijklichaam ? 
+- Wat is de conservering en gaafheid van het dijklichaam ( -ophogingen ) ? 
+- Wat is de fasering van het dijklichaam ( -ophogingen ) ? 
+- Wat is de datering van eventuele archeologische vondsten en tot welke vondsttypen of vondstcategorieën behoren zij ? 
+- Wat is de bodemkundige en geologische context van de aangetroffen archeologische resten ? 
+- Is er sprake van historische beschoeiing langs het Ramsdiep ? 
+- Uit welke periode dateren de eventuele sporen die zich bevinden onder het dijklichaam ? 
+- Welke relatie is er tussen het dijklichaam met de omgeving en historische dorpen en steden in de nabije omgeving ? 
+- Welke activiteiten zijn in het gebied uitgevoerd ? 
+- Wat is de relevantie van het dijklichaam met de onderzoeksagenda ’ s van respectievelijk Nederland , de regio en de gemeente ? 
+1.4 Opzet van het rapport Dit rapport betreft een standaardrapport zoals genoemd in de Kwaliteitsnorm Nederlandse Archeologie ( KNA 3.2 -specificatie VS05 ) . 
+In dit rapport worden de resultaten van het onderzoek gepresenteerd , waarna de eerste conclusies volgen . 
+Dit onderzoek vormt geen eindstation , maar de basis van waaruit verder synthetiserend onderzoek kan plaatsvinden . 
+Bij dit synthetiserend onderzoek kan , indien nodig , altijd worden teruggegrepen op de basisgegevens . 
+Deze gegevens bevinden zich achterin dit rapport . 
+Na de samenvatting en dit inleidende hoofdstuk volgt een omschrijving van de onderzoeksmethoden in hoofdstuk 2 . 
+Vervolgens zullen in hoofdstuk 3 de verschillende deelonderzoeken aan de orde komen . 
+De auteurs staan telkens bij de betreffende hoofdstukken vermeld . 
+In hoofdstuk 4 zal de synthese geformuleerd worden en worden de onderzoeksvragen beantwoord . 
+Tenslotte zal in hoofdstuk 5 de waardering van de vindplaats en het daaruit voortvloeiende selectieadvies behandeld worden . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 9 Methoden Het onderzoek is uitgevoerd conform de KNA 3.2 en het PvE.4 Tijdens het IVO-P zijn drie proefsleuven aangelegd . 
+De ligging van deze proefsleuven was min of meer noordwest-zuidoost georiënteerd . 
+Daarbij is een lange sleuf ten westen van het dijklichaam aangelegd ; een korte sleuf ten oosten van het dijklichaam en een sleuf door het dijklichaam ( afb . 
+2 ) . 
+514000 514000 514000 514000 514000 514000 In het PvE werd een werkwijze voorgesteld waarbij drie proefsleuven aangelegd dienden te worden . 
+De westelijke sleuf diende negentig meter lang en twee meter breed te worden ; de oostelijke sleuf diende 30 meter lang en eveneens twee meter breed te worden . 
+De sleuf door het dijklichaam zou een beoogde breedte van vijf meter en een lengte van vijftig meter dienen te hebben . 
+513800 513800 513800 513800 513800 513800 513900 513900 513900 513900 513900 513900 RAMSDIEP 513700 513700 513700 513700 513700 513700 2 4 3 Balg weg 0 00 00 0 Rijksweg N50 1 513600 513600 513600 513600 513600 513600 2 100 100 100 m m 100 100 100 m m m m © © ADC ADC 2010 2010 185600 185600 185600 185600 185600 185600 185700 185700 185700 185700 185700 185700 185800 185800 185800 185800 185800 185800 185900 185900 185900 185900 185900 185900 186000 186000 186000 186000 186000 186000 186100 186100 186100 186100 186100 186100 Afb . 
+2 . 
+Overzicht van de aangelegde proefsleuven , geprojecteerd op de topografische ondergrond . 
+Ter voorkoming van wateroverlast in de sleuven zou om de vijftien meter een gedeelte van een meter overgeslagen moeten worden , om als damwand te fungeren tegen het wassende water . 
+Tijdens het veldwerk zijn deze drie sleuven gegraven . 
+De westelijke sleuf kon door het water van het Ramsdiep niet over de gehele lengte van 90 m aangelegd worden en is daarom enkel 70 m lang geworden . 
+Er was geen sprake van wassend water , waardoor de sleuf ononderbroken aangelegd kon worden . 
+De sleuf door het dijklichaam wordt in het oosten begrensd door een leiding die in verbinding staat met de balgstuw . 
+In het veld was het praktisch om deze grens als het einde van proefsleuf 2 te beschouwen . 
+Proefsleuf 2 is daardoor slechts 33 m lang geworden . 
+De resterende meters van deze sleuf , 4 Flamman 2010 , PvE V765 . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 10 die conform het PvE nog aangelegd dienden te worden , zijn aangelegd tijdens de aanleg van proefsleuf 3 . 
+Deze sleuf is daarom aangelegd over een breedte van vijf meter . 
+Het oostelijke gedeelte van deze sleuf was echter al vergraven vanwege de aanleg van een tijdelijke dijk . 
+Hierdoor heeft deze sleuf ook niet de gewenste afmetingen behaald . 
+De afmetingen van de oostelijke sleuf bedragen ca . 
+5 bij 20 m. Een deel van de afgegraven grond , ten behoeve van de tijdelijke dijk , is eveneens gedocumenteerd . 
+Dat wil zeggen dat de contouren van de vergravingen , waar deze tot net onder de bouwvoor reiken , zijn ingemeten . 
+Tevens zijn foto`s gemaakt van het vlak dat op deze manier is gedocumenteerd . 
+De vlakken zijn machinaal aangelegd , zonder schaafbak , omdat dit de zichtbaarheid van de sporen niet ten goede zou komen . 
+Tijdens de aanleg van het vlak zijn vondsten in vakken van vijf meter lengte verzameld . 
+Grondsporen zijn direct ingekrast . 
+De vlakken en de stort zijn met behulp van een metaaldetector onderzocht . 
+Vervolgens is het vlak en ieder spoor daarin gefotografeerd en digitaal getekend met behulp van een Robotic Total Station ( RTS ) , waarbij om de vier meter een NAP-hoogte is bepaald . 
+De RTS is opgesteld aan de hand van een aantal geijkte meetpunten , die in RD-coördinaten zijn ingemeten . 
+Een selectie van de aangetroffen grondsporen is met de hand gecoupeerd , waarbij vondsten zijn verzameld . 
+Deze selectie bestond enkel uit greppels , omdat dit antropogene sporen betreft . 
+Deze sporen zijn in het profiel gedocumenteerd en zijn daarom niet afgewerkt . 
+Alle coupes zijn gefotografeerd en getekend op schaal 1:20 . 
+Indien nodig zijn de sporen bemonsterd voor archeobotanisch en archeozoölogisch onderzoek . 
+Om de tien meter is een profielkolom van een meter breedte gedocumenteerd . 
+Alle profielkolommen en profielopnamen zijn gefotografeerd en getekend ( op schaal 1:20 ) en vervolgens beschreven door een fysisch geograaf . 
+In de sleuf door het dijklichaam was het nodig om in meerdere fasen te verdiepen , zodat het profiel van het dijklichaam goed gedocumenteerd kon worden . 
+Tijdens het verdiepen werd het dijkprofiel opgeschaafd . 
+Enkel het diepste vlak is gedocumenteerd , omdat de andere vlakken geen belangrijke informatie opleverden . 
+Na documentatie van het vlak , is langs het dijkprofiel een smalle verdiepte sleuf getrokken . 
+Hierdoor was de opbouw van het dijklichaam tot in de C-horizont waarneembaar . 
+Voordat er foto`s van het gehele profiel konden worden genomen , is de top van het dijklichaam ( bovensta 100 cm ) echter ingestort . 
+Op foto`s die genomen zijn van het gehele dijkprofiel , ontbreekt dus de top van het dijklichaam ( afb . 
+3 ) . 
+Afb . 
+3 . 
+Het ingestorte dijklichaam . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 11 3 Resultaten 3.1 Fysisch geografisch onderzoek ( J.M . Brijker ) 3.1.1 Inleiding In dit hoofdstuk wordt de opbouw en de genese van het plangebied Ramspol te Kampen besproken . 
+Hierbij wordt gebruik gemaakt van literatuurgegevens , informatie verkregen bij het vooronderzoek en het op 17 juni 2010 uitgevoerde veldbezoek . 
+Bij het veldbezoek is de profielopbouw van de putten gedocumenteerd en bestudeerd , teneinde een beeld te verkrijgen van de bodemopbouw , de gaafheid van de bodem en de ( geologische ) opbouw en genese van het plangebied . 
+3.1.2 Methoden Voor het fysisch geografisch onderzoek is gebruik gemaakt van gedocumenteerde profielwanden en kolomopnamen in putwanden . 
+De profielen zijn handmatig opgeschaafd en vervolgens ingekrast en gedocumenteerd . 
+Hierbij zijn zowel lithologische lagen als archeologisch relevante lagen onderscheiden , zoals vegetatiehorizonten , cultuurlagen en eventuele sporen . 
+Alle lagen zijn bemonsterd en beschreven op textuur , kleur , gehalte organische stof en andere lithologische en bodemkundige verschijnselen . 
+De profielen zijn beschreven volgens de Archeologische Standaard Boorbeschrijvingsmethode5 die de lithologische beschrijving conform NEN51046 hanteert . 
+De kolomopnames zijn gedaan in representatieve delen van het profiel . 
+3.1.3 Achtergrond Het plangebied is gelegen op het Kampereiland . 
+Het Kampereiland is de delta waar de rivier de IJssel in de voormalige Zuiderzee uitmondt . 
+Door voortdurende aanvoer van sediment is hier in de loop van de tijd een “ eiland ” van zand ontstaan . 
+De kennis van de ontwikkeling van het IJsseldal is de laatste jaren sterk vergroot.7 ’ 8 Het IJsseldal is van origine een glaciaal dal dat is uitgesleten door de activiteit van het ijs in de voorlaatste ijstijd , het Saalien . 
+Gedurende de laatste ijstijd , het Weichselien , werd er aan de randen en binnen het dal dekzand afgezet . 
+In het Weichselien en het grootste deel van de huidige warme periode , het Holoceen , voerde het IJsseldal alleen water uit de directe omgeving af . 
+In deze periode stroomde er dan ook geen Rijn-water door het IJsseldal . 
+Het water werd verder afgevoerd via het dal van de Vecht . 
+Omstreeks 1400 v.Chr . 
+verlandde de monding van de Vecht bij Bergen en kon het water niet meer uitstromen . 
+Als gevolg hiervan steeg de grondwaterspiegel snel en kwam een groot deel van het dekzandgebied onder water te staan , waarna uitgestrekte veenmoerassen ontstonden . 
+Rond 450 v. Chr . ontstond er een nieuwe opening naar de Noordzee , de Vliestroom , en veraarde een groot deel van het veenmoeras . 
+Dit leidde tot een zeer sterke aanrijking met organische stof van de top van het dekzand . 
+In de loop van de Late IJzertijd herstelde de veengroei zich en raakte het gebied geleidelijk opnieuw bedekt onder een veendek . 
+Bij Zwolle Westenholte , circa 15 kilometer stroomopwaarts van het huidige plangebied , is de basis van deze veenlaag gedateerd op 300 v. Chr . en is een ouderdom van de top van het veen verkregen van AD 885.9 Aan de zeewaartse zijde ( Flevoland ) vormde zich een lagune en ook in het veencomplex vormden zich lokaal meren . 
+Aan de randen van de lagune en de veenmeren vond lokaal afslag plaats . 
+Veenafslag was aanzienlijk vanaf de Romeinse tijd . 
+Als gevolg van deze afslag groeiden de kleinere meren in het mondingsgebied van de Overijsselse Vecht samen tot , uiteindelijk , de Zuiderzee ( afb . 
+4 ) .10 Vanaf de 9e eeuw n. Chr . stroomde er weer Rijnwater door het dal van de IJssel . 
+Dit gebeurde na het doorbreken van de waterscheiding ter hoogte van Zutphen . 
+Met de hernieuwde afvoer van het Rijnwater werd het veen gedraineerd en werd een pakket klei over het veen afgezet.11 ’ 12 In de IJsseldelta werd zand afgezet . 
+De IJsseldelta heeft een complexe geologische opbouw . 
+Binnen dit gebied komen meerdere aanzienlijke zandbanken voor , welke in verschillende perioden weer zijn doorsneden door de geulen in de monding . 
+Het oppervlak aan open water in de Zuiderzee nam tussen 2000 en 200 jaar geleden 5 Bosch 2007 . 
+Nederlands Normalisatie Instituut 1989 . 
+7 Makaske , 2008 . 
+8 Cohen et al. , 2009 . 
+9 Brijker en van Zijverden , 2009 . 
+10 Cohen et al. , 2009 . 
+11 Makaske , 2008 . 
+12 Cohen et al. , 2009 . 
+6 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 12 gestaag toe door golfafslag en inbraken vanuit de Waddenzee tijdens stormen . 
+Het veengebied in de driehoek Urk – Schokland – Kampen raakte vermoedelijk pas rond 1100 na Chr . opgebroken door de Zuiderzee , tijdens herhaaldelijke stormen , die de verbinding met de Waddenzee steeds verder hadden verbreed.13 3.1.4 Resultaten en interpretatie Binnen het plangebied is een redelijk uniforme profielopbouw aangetroffen . 
+Alleen onder het dijklichaam zelf is een licht afwijkende profielopbouw waargenomen . 
+Hieronder wordt als eerste de algemene profielopbouw besproken , waarna specifiek wordt ingegaan op de opbouw onder het dijklichaam . 
+Aan de basis ( $ 6000 ) bevindt zich een pakket van een grijze , uiterst siltige klei . 
+Binnen dit pakket bevinden zich enkele zeer grove zandlagen . 
+Hierboven bevinden zich twee pakketten van lichtgrijs , kalkrijk , schelphoudend zand . 
+Deze pakketten bestaan uit respectievelijk matig fijn ( $ 5000 ) en matig grof ( $ 4000 ) zand . 
+De schelpen binnen het laatste pakket zijn herkend als stroommossels ( Unio spec . ) . 
+Het bovenliggende pakket ( $ 2000 ) bestaat uit een gelaagdheid van zwak siltig zand en sterk siltige klei , kalkrijk . 
+In het westelijke deel van het plangebied is hieronder een pakket ( $ 3000 ) van gelaagd donkergrijs , kalkrijk , matig siltig zand herkend . 
+Deze afzetting wordt richting het oosten steeds kleiiger van aard . 
+De top van het profiel ( $ 1000 ) bestaat uit een sterk humeuze , donkerbruin-grijze , uiterst zandige klei . 
+De profielopbouw is weergegeven in afbeelding 5 . 
+Afb . 
+4 . 
+Locatie van het plangebied binnen de IJsseldelta gedurende de Middeleeuwen ( Cohen et al . 
+2009 ) . 
+13 Cohen et al. , 2009 . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 13 Onder het dijklichaam zelf bevindt zich een matig siltige , grijze kleilaag ( $ 2100 ) boven de zandige afzettingen ( $ 4000 ) . 
+De top van deze laag is blauwgrijs van kleur en licht humeus . 
+Deze laag is de continuering van de meer siltige $ 2000 . 
+$ 1000 $ 1000 $ 1000 $ 2000 $ 2000 $ 2000 $ 4000 $ 4000 $ 4000 $ 5000 $ 5000 $ 5000 $ 5000 $ 5000 $ 5000 $ 6000 $ 6000 $ 6000 Afb . 
+5 . 
+Profielopbouw binnen het plangebied . 
+De zandige en uiterst siltige afzettingen ( $ 6000 - $ 3000 ) aan de basis van het profiel zijn , geïnterpreteerd als beddingafzettingen van de IJssel . 
+Deze afzettingen zijn gevormd vanaf de Middeleeuwen in de monding van IJssel . 
+De aanwezige gelaagdheid en de variatie in korrelgrootte geven aan dat er geen geul op de locatie van het plangebied heeft gelegen , die grofzandige afzettingen ( zand ) heeft afgezet . 
+Later werd er binnen het plangebied sediment afgezet vanuit een nabijgelegen geul . 
+Het betreft hier dan overstromingsafzettingen . 
+Binnen het plangebied is er afwisselend sediment afgezet vanuit een nabijgelegen geul ( gelaagde en fijnkorrelige afzettingen ) en werd er zand afgezet vanuit een geul binnen het plangebied . 
+Deze variatie in afzettingsmilieu is kenmerkend voor een delta . 
+De aangetroffen stroommossels komen voor in groot , stromend zoet water , zoals de rivier de IJssel . 
+De gelaagde afzettingen aan de top van het profiel ( $ 2000 ) zijn kenmerkend voor overstromingsafzettingen . 
+Deze afzettingen zijn gevormd in een uiterwaard die periodiek overstroomde . 
+De grovere afzettingen zijn gevormd bij de overstroming zelf , de fijnere sedimenten konden bezinken in rustiger condities . 
+De overgang van deze laag naar meer kleiig materiaal naar het oosten geeft aan , dat de geul ten westen van het plangebied heeft gelegen . 
+De meest grove afzettingen worden in de directe nabijheid van de geul afgezet en de meer kleiige sedimenten bezinken verder in de kom , onder rustige condities . 
+In de top van de kleiige afzettingen is mogelijk een vegetatiehorizont ontwikkeld ; de licht humeuze , blauw-grijze laag . 
+De vegetatiehorizont geeft aan , dat de kleilaag gedurende een bepaalde periode aan het oppervlak heeft gelegen en er vegetatie kon groeien . 
+De uiterst siltige , gelaagde afzettingen aan de westzijde van het plangebied en de kleiige afzettingen onder het dijklichaam zijn overstromingsafzettingen in de uiterwaard/komgebied van de IJssel . 
+Dit gebied stroomde periodiek over . 
+Tussen de verschillende overstromingen was genoeg tijd om vegetatie te laten groeien in dit gebied . 
+Mogelijk dat deze afzettingen zijn gevormd vanaf de huidige geul van de IJssel . 
+In tegenstelling tot de onderliggende afzettingen wijst dit erop dat de geul van de IJssel grotendeels vastlag . 
+Dit zou betekenen , dat deze afzettingen zijn gevormd na de bedijking van de rivier in dit gebied en een ouderdom hebben van hooguit een paar honderd jaar . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 14 3.2 Sporen en structuren In de westelijke sleuf ( sleuf 1 ) zijn in totaal zes sporen aangetroffen ( afb . 
+6 ) . 
+Deze sporen tekenen zich af op de getijdenafzettingen ( S3000 en 4000 ) , direct onder een zandig gelamineerd overstromingspakket , waarin de bouwvoor ontwikkeld is . 
+In dit overstromingspakket zijn sporen niet of nauwelijks zichtbaar . 
+Daarom is besloten om het vlak onder deze afzettingen aan te leggen . 
+In het westen ligt de bovenkant van het aangelegde sporenvlak op ca . 
+20 cm - NAP ; in het oosten bevindt de bovenkant van het aangelegde sporenvlak zich op ca . 
+45 cm –NAP . 
+Spoor 1 , 3 en 4 betreffen greppels . 
+Spoor 2 en 6 betreffen recente verstoringen . 
+In deze sporen is plastic en betonmortel waargenomen . 
+Spoor 5 betreft een natuurlijke verstoring en is aan de hand van de vieze , vermengde vulling geïnterpreteerd als de restanten van een boomval . 
+Spoor 1 , 3 en 4 betreffen greppels . 
+Diagnostisch materiaal is in deze sporen niet aangetroffen . 
+Spoor 1 is zuidwest-noordoost georiënteerd . 
+Spoor 3 en 4 daarentegen zijn noordwest-zuidoost georiënteerd en lijken haaks op spoor 1 te staan . 
+In de coupe over spoor 3 en 4 is te zien dat spoor 3 wordt oversneden door spoor 4 . 
+Spoor 3 moet daarom eerder gegraven zijn . 
+De greppels hebben alle een donkere humeuze vulling . 
+Deze zijn echter niet bemonsterd , omdat analyse van deze monsters niet bij zou dragen aan beantwoording van de onderzoeksvragen . 
+513750 513750 513750 513750 513750 513750 1 2 513725 513725 513725 513725 513725 513725 5 1.000 2.000 3.001 3 2.000 2 513700 513700 513700 513700 513700 513700 4 2.000 6 2.000 4 1 1 3 3.000 3.000 513675 513675 513675 513675 513675 513675 513650 513650 513650 513650 513650 513650 3.001 2.200 999 0 00 00 0 185825 185825 185825 185825 185825 185825 25 25 25 m m m m 25 25 25 m © ADC ADC 2010 2010 © 185850 185850 185850 185850 185850 185850 185875 185875 185875 185875 185875 185875 185900 185900 185900 185900 185900 185900 185925 185925 185925 185925 185925 185925 185950 185950 185950 185950 185950 185950 185975 185975 185975 185975 185975 185975 Legenda Recente verstoringen Natuurlijke afzettingen Greppels Dijklichaam Natuurlijke verstoringen Afb . 
+6 . 
+Alle sporenkaart . 
+In de sleuf door het dijklichaam ( sleuf 2 ) is het vlak aangelegd op ca . 
+0,5 m – NAP . 
+Hierbij zijn vier sporen aangetroffen . 
+Spoor 1 en 2 betreffen recente verstoringen . 
+Deze lijken verband te houden met spoor 6 van sleuf 1 . 
+Spoor 3 betreft een recente greppel . 
+Deze is gedeeltelijk nog zichtbaar in het veld . 
+Spoor 4 betreft de onderkant van de kleiige kern van het dijklichaam . 
+In het profiel door het dijklichaam ( zie bijlagen ) is ditzelfde pakket waarneembaar . 
+Het betreft een grijs kleiig pakket , waarin in de top een vegetatiehorizont ontwikkeld is . 
+Dit kleilichaam bestaat uit een kleipakket ( S2100 ) dat op dezelfde hoogte in de natuurlijke bodem wordt aangetroffen . 
+Dit kleipakket lijkt vanaf de zijkanten , als door een shovel of graafmachine , bij elkaar geschoven te zijn en lijkt het initiële dijklichaam te vormen . 
+Bovenop dit pakket ligt ophogingszand , vermengd met klei . 
+Hier weer bovenop bevindt zich een laag schoon ophogingszand en een laag lemig zand , waarin in de loop van de jaren een bouwvoor ontwikkeld is ( afb . 
+7 ) . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 15 Afb . 
+7 . 
+Doorsnede door het dijklichaam . 
+In sleuf 3 is het vlak direct onder de bouwvoor aangelegd op ca 55 cm – NAP . 
+De afzettingen die hier direct onder de bouwvoor zichtbaar worden , zijn niet gelamineerd . 
+Daarom kunnen eventueel aanwezige sporen op dit niveau dus al zichtbaar worden . 
+Behalve een recente sleuf voor een leiding ( spoor 999 ) , zijn hier echter geen sporen aangetroffen . 
+3.3 Vondstmateriaal 3.3.1 Aardewerk Drie fragmenten aardewerk zijn aangetroffen . 
+Het betreft een fragment wit melkglas en twee fragmenten industrieel wit aardewerk . 
+Deze zijn te dateren in de periode 1800-1950 ( zie tabel 2 ) . 
+Tabel 2 . 
+Aardewerktabel . 
+Vondstnr 1 Inhoud AWG ABR alg KER ABR spec AWG Aantal 1 Gewicht 2,50 gr 3 AWG KER AWG 2 5,70 gr ADC ArcheoProjecten Rapport 2367 Soort Opmerking e Industrieel Wit , 19 eeuw tot 1950 e Melkglas 19 eeuw tot 1950 Kampen Ramspol 16 Synthese 4.1 Algemeen De verwachtingen die op grond van het vooronderzoek zijn gesteld , kunnen op basis van het huidige onderzoek gedeeltelijk worden bevestigd . 
+Tijdens het vooronderzoek is gesteld , dat binnen de grenzen van het plangebied , naast het dijklichaam , geen archeologische waarden voorkomen . 
+Mogelijk kunnen er echter welsporen van landaanwas aangetroffen worden . 
+Deze ontbreken echter . 
+Waarschijnlijk omdat het eiland Ramspol een van nature ontstaan eiland is . 
+513500 513500 513500 513500 514000 514000 514000 514000 514000 514000 Op de Topgrafische Militaire Kaart ( Bonneblad ) uit 1865 staat Ramspol namelijk al als eiland aangeduid ( afb . 
+8 ) . 
+Op deze kaart is , binnen de grenzen van het huidige plangebied , geen dijklichaam weergegeven . 
+Wel is een krib- of vangdam te zien , die verbonden was met het Buitenraas . 
+De krib was 1523 m lang en dateert waarschijnlijk uit het eerste kwart van de 19e eeuw.14 513000 513000 513000 513000 513000 513000 4 0 00 00 0 250 250 250 m m m m 250 250 250 m © © ADC ADC 2010 2010 185500 185500 185500 185500 185500 185500 186000 186000 186000 186000 186000 186000 186500 186500 186500 186500 186500 186500 187000 187000 187000 187000 187000 187000 Afb . 
+8 . 
+Militaire Topografische Kaart ( bonneblad 1865 ) , geprojecteerd op de huidige topografische ondergrond van een gedeelte van het Kampereiland . 
+De dijk wordt voor het eerst vermeld op bestektekeningen uit 1941/42.15 Op deze bestektekeningen staat het dijkstuk aangegeven dat de Willem-Meyerpolder droog moet houden . 
+Dit bestek is van belang , omdat in het aan te passen profiel van elk dijkvak ook de oorspronkelijk dijkmaten af te lezen zijn , volgens welke de dijkbouw in 1933/34 diende te gebeuren.16 Zo blijkt de dijk omstreeks 1933/34 te zijn aangelegd met een kruinhoogte van 1.50 m + NAP , zoals dat in 1933/34 diende te gebeuren.17 Sommige delen hiervan waren in 1941/42 verzakt tot zelfs 1,02 m + NAP . 
+Gelet op de toenmalige verwachting dat er eens in de tachtig jaar een waterhoogte in het Ganzendiep van 1,90 m + NAP zou kunnen worden bereikt , dienden de kaden te worden verhoogd . 
+14 De Kraker ( in voorbereiding ) . 
+De Kraker in voorbereiding . 
+De Kraker in voorbereiding , blz . 22 . 
+17 Gemeentearchief Kampen , Gemeente Kampen na 1934 , nr . 106 , 25 februari 1942 . 
+15 16 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 17 Het binnen- en buitenbeloop is identiek , namelijk 3 op 1 . 
+De basisbreedte van de dijk is 21 meter , waarbij nog een binnen- en buitenberm bij zijn inbegrepen , elk van 3,70 m. De basisbreedte van de eigenlijke dijk komt daarmee op 13,60 m. Met een hoogte van 2,00 m + NAP en een kruinbreedte van 1,50 m ( afb . 
+9 ) . 
+Deze beschrijving komt in redelijke mate overeen met wat in het veld aangetroffen is . 
+De bovenkant van het huidige dijklichaam bedraagt ca . 
+1,9 m + NAP . 
+De omtrek van de dijk is ingemeten , Deze bedraagt ca . 
+19 m ( exclusief greppels ) in doorsnede . 
+De basisbreedte inclusief greppels is niet vastgesteld , omdat de locatie van de greppel aan de landzijde niet kon worden bepaald vanwege de aanwezigheid van een leiding , die in verbinding staat met de balgstuw . 
+Hierdoor kon dit gedeelte van de sleuf niet aangelegd worden . 
+Het ophogingspakket dat bestaat uit lemig zand en de greppel voor ( en mogelijk achter ) de dijk dateren waarschijnlijk uit 1941/42 . 
+Het ophogingspakket dat waarschijnlijk dateert uit de periode 1933/34 betreft vulling 3 , 4 , 5 en 6 ( zie bijlage I ) . 
+De top van dit pakket bedraagt ca . 
+1,35 m + NAP . 
+Dit valt binnen de marges van 1,5 en 1,02 m + NAP . 
+Toppen van andere ophogingspakketten zijn niet binnen deze marges aangetroffen . 
+Het eerder genoemde initiële dijklichaam betreft mogelijk de restanten van de ramspolkrib , die dateert uit het eerste kwart van de 19e eeuw . 
+De vegetatiehorizont die hierin gevormd is , toont aan dat dit pakket in ieder geval langdurig aan het oppervlakte heeft gelegen . 
+Deze vegetatiehorizont zou dan afkomstig zijn van begroeiing , die tussen het eerste kwart van de 19e eeuw en 1933/34 op de kade groeide . 
+Afb . 
+9 . 
+Gedeelte van de bestektekeningen van de Willem-Meyerpolder inzake dijkaanpassing 1941/42 . 
+De dijkstukken 4 t/m 7 hebben betrekking op de dijk van de Willem Meijerpolder . 
+Nummer 7 sluit aan op de Ramspolkrib , naar Kraker ( in voorbereiding ) . 
+4.2 Beantwoording van de onderzoeksvragen De onderzoeksvragen die in het Programma van Eisen zijn gesteld zullen hier worden beantwoord op basis van de bevindingen van het proefsleuvenonderzoek . 
+1 . 
+Wat is de opbouw , kwaliteit en ouderdom van het dijklichaam ? 
+- Het initiële dijklichaam wordt gevormd door een kleipakket , dat ook in de ondergrond van het plangebied wordt aangetroffen . 
+Dit pakket is 8 m breed en 0,4 m hoog . 
+Daar bovenop worden zandige afzettingen en zandige afzettingen met klei aangetroffen . 
+De top hiervan bevindt zich op ca . 
+1,35 m + NAP . 
+Dit pakket is 9 m breed en 1,2 m hoog ( gemeten vanaf de natuurlijke ondergrond ) . 
+Waarschijnlijk correspondeert dit pakket met de dijkaanleg van 1933/34 . 
+Hier bovenop bevindt zich een pakket lemig zand , vermengd met klei , waarin de bouwvoor ontwikkeld is . 
+De top hiervan bedraagt ca 1,9 m + NAP . 
+De geschatte basisbreedte ( inclusief greppels ) bedraagt ca . 
+21 m. ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 18 2 . 
+Wat is de conservering en gaafheid van het dijklichaam ( -ophogingen ) ? 
+- Het dijklichaam en alle aangesneden ophogingslagen zijn onverstoord en onaangetast . 
+De conservering en gaafheid van het dijklichaam en ophogingen is dus goed te noemen . 
+3 . 
+Wat is de fasering van het dijklichaam ( -ophogingen ) ? 
+- Het initiële dijklichaam is eerder opgeworpen dan de rest van het dijklichaam en heeft lang genoeg aan de oppervlakte gelegen , om een vegetatiehorizont te vormen in de top van het kleipakket , waaruit dit initiële dijklichaam is opgebouwd . 
+Daarnaast zijn meerdere ophoginspakketten op dit kleilichaam aangetroffen , die waarschijnlijk corresponderen met dijkophogingen in 1933/34 en 1941/42 . 
+Het pakket zand en zand vermeng met klei correspondeert waarschijnlijk met de eerste ophoging ; het pakket lemig zand correspondeert waarschijnlijk met de tweede ophoging . 
+4 . 
+Wat is de datering van eventuele archeologische vondsten en tot welke vondsttypen of vondstcategorieën behoren zij ? 
+- Twee fragmenten aardewerk zijn aangetroffen . 
+Het betreft een fragment wit melkglas en een fragment industrieel wit aardewerk . 
+Deze zijn te dateren in de periode 1800-1950 . 
+5 . 
+Wat is de bodemkundige en geologische context van de aangetroffen archeologische resten ? 
+- Het sporenvlak is aangelegd in de top van de getijdeafzettingen van de IJssel en worden afgedekt door een overstromingspakket , waarin de bouwvoor ontwikkeld is . 
+Op dit niveau kunnen eventuele archeologische waarden duidelijk zichtbaar zijn . 
+Naast de bouwvoor is geen duidelijk ontwikkelde bodemontwikkeling waargenomen . 
+6 . 
+Is er sprake van historische beschoeiing langs het Ramsdiep ? 
+- Deze is tijdens het proefsleuvenonderzoek niet aangetroffen . 
+7 . 
+Uit welke periode dateren de eventuele sporen die zich bevinden onder het dijklichaam ? 
+Tijdens het proefsleuvenonderzoek zijn geen sporen onder het dijklichaam aangetroffen . 
+8 . 
+Welke relatie is er tussen het dijklichaam met de omgeving en historische dorpen en steden in de nabije omgeving ? 
+- Het dijklichaam is aangelegd om de door landaanwas ontstane Willem-Meyerpolder droog te leggen . 
+Een groot gedeelte van het Kampereiland is ontstaan door landaanwas , die vanaf de 14e eeuw al wordt geïnitieerd door de stad Kampen en doorgaat tot in de 19e en 20e eeuw.18 9 . 
+Welke activiteiten zijn in het gebied uitgevoerd ? 
+- Na de landaanwas en inpoldering is het gebied als polder in gebruik geweest . 
+Sporen van activiteiten zijn tijdens het proefsleuvenonderzoek niet waargenomen . 
+10 . 
+Wat is de relevantie van het dijklichaam met de onderzoeksagenda ’ s van respectievelijk Nederland , de regio en de gemeente ? 
+- Een punt van de nationale onderzoeksagenda betreft bedijking droogmaking en afwatering van het vroegmoderne en het historische landschap van Holoceen Noord-Nederland.19 Onderzoek naar het dijklichaam kan hieraan een bijdrage leveren . 
+5 Waardering en selectieadvies 5.1 Waardering van de vindplaats De waardestelling , zoals voorgeschreven in de Kwaliteitsnorm Nederlandse Archeologie ( KNA versie 3.2 , specificatie VS06 ) gebeurt op drie niveaus : belevingswaarde , fysieke kwaliteit en inhoudelijke kwaliteit . 
+De belevingswaarde van een vindplaats is gebaseerd op schoonheid en herinneringswaarde . 
+De herinneringswaarde is de ‘ herinnering ’ die het archeologisch monument oproept over het verleden . 
+De schoonheid is de esthetisch-landschappelijk waarde van een archeologisch monument , die in de zichtbaarheid van de vindplaats tot uiting komt . 
+De parameters die daarbij worden gehanteerd , zijn zichtbaarheid vanaf het maaiveld als landschapselement , relatie met omgeving en vorm en structuur . 
+18 19 De Kraker ( in voorbereiding ) . 
+E. Knol et al . 
+2008 . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 19 De fysieke kwaliteit van de vindplaats is gebaseerd op haar conservering en gaafheid . 
+De conservering geeft aan in hoeverre de resten behouden zijn , de gaafheid in hoeverre de vindplaats nog compleet is . 
+De inhoudelijke kwaliteit wordt beoordeeld op zeldzaamheid , informatiewaarde en ensemblewaarde . 
+De zeldzaamheid is de mate waarin een bepaald type monument schaars is ( of is geworden ) voor een periode of in een gebied . 
+De informatiewaarde is de betekenis van een monument als bron van kennis over het verleden . 
+De ensemblewaarde ( of contextwaarde ) is de meerwaarde die aan een monument wordt toegekend , op grond van de mate waarin sprake is van een archeologische context en van een landschappelijke context . 
+De beoordeling is voor zowel gaafheid , conservering , zeldzaamheidwaarde , informatiewaarde als ensemblewaarde identiek qua puntenaantal : drie punten voor hoge , twee punten voor middelhoge en één punt voor lage kwaliteit . 
+Belevingswaarde De belevingswaarde van de vindplaats dient vastgesteld te worden op basis van de schoonheid en herinneringswaarde . 
+Een dijk roept bij veel mensen nog wel enige herinnering aan vroeger op , maar door de context waarin dit dijkstuk ligt , een klein stukje landschap ingeklemd tussen moderne infrastructuur , is de herinneringswaarde gering . 
+Daarom wordt deze middelmatig gewaardeerd . 
+De belevingswaarde van het overige gedeelte van het plangebied wordt laag gewaardeerd , omdat dit niet zichtbaar is in het huidige landschap . 
+Gemiddeld levert dit een score van 2 punten op voor het gehele plangebied . 
+Ten aanzien van de schoonheid geldt dat het dijklichaam zichtbaar is vanaf het maaiveld en een niet weerlegbare relatie heeft met de omgeving , vanwege de beschermende werking van het dijklichaam voor het achterland . 
+Over vorm en structuur valt te twisten , maar een feit is dat dijken karakteristiek zijn voor het Nederlandse landschap . 
+Daarom wordt de schoonheid van het dijklichaam hoog gewaardeerd . 
+De schoonheid van het overige gedeelte van het plangebied en wordt laag gewaardeerd , omdat dit niet zichtbaar is in het huidige landschap . 
+Gemiddeld levert dit een score van 2 punten op voor het gehele plangebied . 
+De totale score voor belevingswaarde bedraagt 4 punten . 
+Dit is een score die middelmatig is , met als advies ‘ niet behoudenswaardig ’ . 
+Fysieke kwaliteit Binnen het plangebied zijn geen sporen van landaanwas aangetroffen . 
+Naast het dijklichaam zijn enkel greppels en natuurlijke verstoringen aangetroffen . 
+De greppels hebben een hoge mate van gaafheid . 
+Daarnaast zijn recente verstoringen aangetroffen , die de sporen echter niet oversnijden . 
+Dit neemt niet weg dat dit elders in het plangebied wel mogelijk is . 
+Hierdoor neemt de ruimtelijke gaafheid van het plangebied af . 
+Daarnaast zijn slechts enkele mobilia aangetroffen . 
+Op grond hiervan wordt de gaafheid van de gehele vindplaats middelmatig gewaardeerd ( 2 punten ) . 
+Het aardewerk dat verzameld is tijdens het aanleggen van de sporenvlakken , is weinig verweerd , doch ernstig gefragmenteerd . 
+Bot en zaden zijn echter niet aangetroffen . 
+De verwachting was echter dat deze redelijk bewaard zouden zijn gebleven , dankzij de conserverende werking van de kleiige afzettingen , alsmede de hoge grondwaterstand . 
+De conservering van sporen en vondsten wordt daarom middelhoog gewaardeerd . 
+Hierbij moet echter worden bedacht dat op regionaal niveau de conserveringsomstandigheden voor het dijklichaam kenmerkend zijn voor dit gebied . 
+De waardering van beide fysieke kwaliteitscriteria is in totaal 4 punten . 
+Dit is een score die middelmatig ( < 5 punten ) is en die haar het predikaat ‘ niet behoudenswaardig ’ oplevert ( tabel 3 ) . 
+Inhoudelijke kwaliteit Een dijklichaam zoals in het plangebied is zowel in deze regio ( Kampereiland ) als voor deze periode niet zeldzaam . 
+Rondom Ramspol zijn dergelijke dijklichamen nog volop aanwezig . 
+De zeldzaamheid wordt daarom laag beoordeeld . 
+Binnen het plangebied bevinden zich geen informatiebronnen over het verleden die behouden dienen te blijven . 
+Historische informatie over de ontwikkeling van het plangebied is namelijk beschikbaar en het veldonderzoek heeft daar concrete gegevens aan toegevoegd . 
+De informatiewaarde van het plangebied wordt daarom laag gewaardeerd . 
+De archeologische context wordt laag gewaardeerd , omdat het huidige onderzoek weinig bijdrage levert aan andere vindplaatsen in de omgeving . 
+Daarnaast wordt de landschappelijke context van het plangebied middelmatig gewaardeerd , vanwege de historisch-geografische gaafheid van het contemporaine landschap . 
+De ensemblewaarde voor de vindplaats is daarmee beperkt te noemen en wordt als middelmatig gewaardeerd ( 2 punten ) . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 20 De totale score voor de inhoudelijke kwaliteit is 4 punten en de waardering van de vindplaats op basis van deze criteria is dan ook laag . 
+Tabel 3 . 
+Scoretabel waardestelling ( naar KNA , versie 3.2 ) . 
+Waarden Criteria Scores Hoog Beleving Fysieke kwaliteit Inhoudelijke kwaliteit 5.2 Schoonheid Herinneringswaarde Gaafheid Conservering Zeldzaamheid Informatiewaarde Ensemblewaarde Representativiteit Midden 2 2 2 2 Laag 1 1 Totale score 4 punten ( ≥ 5 behoudenswaardig ) 4 punten ( ≥ 5 behoudenswaardig ) 4 punten ( ≥ 7 behoudenswaardig ) 2 N.v.t . 
+Selectieadvies Tijdens het huidige onderzoek is het dijkprofiel onderzocht en een gedeelte van het plangebied binnenen buitendijks . 
+Hierbij zijn enkel greppels en natuurlijke- en recente verstoringen aangetroffen . 
+Sporen van landaanwas zijn niet aangetroffen . 
+De dijk is door middel van een dwarsdoorsnede onderzocht . 
+De resultaten daarvan staan in dit rapport beschreven en sluiten aan bij de gegevens van het historisch geografisch onderzoek naar het dijklichaam bij Ramspol.20 Daarnaast is een waardering voor de vindplaats opgesteld . 
+Deze is op basis van belevingswaarde , fysieke en inhoudelijke kwaliteit op alle aspecten als niet behoudenswaardig gewaardeerd . 
+ADC ArcheoProjecten adviseert daarom het plangebied vrij te geven voor planontwikkeling . 
+Het is aan te bevelen om de uitvoerder van het grondwerk te wijzen op de plicht om archeologische vondsten te melden bij de bevoegde overheid , zoals aangegeven in de Monumentenwet 1988 en de Wet op de Archeologische Monumentenzorg . 
+20 De Kraker ( in voorbereiding ) . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 21 Literatuur Bosch , J.H.A . 
+2005 : Archeologische Standaard Boorbeschrijvingsmethode , Versie 5.2 . 
+Utrecht ( TNOrapport , NITG 05-043-A ) . 
+Brijker , J.M . en W.K . van Zijverden 2009 : Zwolle , Westenholte dijkverlegging . 
+Een Bureauonderzoek en Inventariserend Veldonderzoek in de vorm van een verkennend booronderzoek . 
+ADC ArcheoProjecten Amersfoort . 
+ADC Rapport 1858 Cohen , K.M . 
+en E. Stouthamer , W.Z . 
+Hoek , H.J.A . 
+Berendsen , H.F.J . 
+Kempen 2009 : Zand in banen . 
+Zanddieptekaarten van het Rivierengebied en het IJsseldal in de provincies Gelderland en Overijssel . 
+Provincie Gelderland en Universiteit Utrecht . 
+Derde geheel herziene druk . 
+130 pp . 
+ISBN 978-90-7358642-0 Coppens , C.F.H en G.H . 
+De Boer 2010 : N50-Ramspol-Ens : gemeente Noordoostpolder en Kampen : Archeologisch vooronderzoek : een bureauonderzoek en inventariserend veldonderzoek ( verkennende en karterende fase ) . 
+RAAP-rapport 2040 , RAAP Archeologisch Adviesbureau , Weesp . 
+Flamman , J.P . 
+2010 : Dijkdoorsnede Ramspol in het tracé van de N50 : Het programma van eisen ten behoeve van waarderend veldonderzoek door middel van proefsleuven . 
+PvE V765 , Amersfoort . 
+Knol , E. et al . 
+2008 : Hoofdstuk 13 . 
+Late Middeleeuwen , Vroegmoderne tijd en het historische landschap van Holoceen Noord- Nederland . 
+NOaA , RACM . 
+Kraker , A.J.M. , de ( in voorbereiding ) : Historisch geografisch onderzoek naar een dijkgedeelte bij de Ramspol op het Kampereiland . 
+Makaske , B. en G.J . 
+Maas , D.G . 
+van Smeerdijk 2008 : The age and origin of the Gelderse IJssel . 
+Netherlands Journal of Geosciences – Geologie en Mijnbouw vol . 
+87 , nr . 4 , pp . 
+323-337 Normalisatie-Instituut , Nederlands 1989 : Geotechniek , classificatie van onverharde grondmonsters NEN 5104 . 
+Delft . 
+Lijst van afbeeldingen Afb . 
+1 . 
+Locatie van het onderzoeksgebied . 
+Afb . 
+2 . 
+Overzicht van de aangelegde proefsleuven , geprojecteerd op de topografische ondergrond . 
+Afb . 
+3 . 
+Het ingestorte dijklichaam . 
+Afb . 
+4 . 
+Locatie van het plangebied binnen de IJsseldelta gedurende de Middeleeuwen ( Cohen et al . 
+2009 ) . 
+Afb . 
+5 . 
+Profielopbouw binnen het plangebied . 
+Afb . 
+6 . 
+Alle sporenkaart . 
+Afb . 
+7 . 
+Doorsnede door het dijklichaam . 
+Afb . 
+8 . 
+Militaire Topografische Kaart ( bonneblad 1865 ) , geprojecteerd op de huidige topografische ondergrond van een gedeelte van het Kampereiland . 
+Afb . 
+9 . 
+Gedeelte van de bestektekeningen van de Willem-Meyerpolder inzake dijkaanpassing 1941/42 . 
+De dijkstukken 4 t/m 7 hebben betrekking op de dijk van de Willem Meijerpolder . 
+Nummer 7 sluit aan op de Ramspolkrib , naar Kraker ( in voorbereiding ) . 
+Lijst van tabellen Tabel 1 . 
+Overzicht van de verschillende ( pre ) historische perioden . 
+Tabel 2 . 
+Aardewerktabel . 
+Tabel 3 . 
+Scoretabel waardestelling ( naar KNA , versie 3.2 ) . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 22 Verklarende woordenlijst Antropogene sporen Alle immobiele sporen van menselijke oorsprong , variërend van paalgaten of fosfaatvlekken tot muurresten . 
+AMK Archeologische Monumentenkaart geeft een overzicht van gewaardeerde archeologische terreinen in vier categorieën : 1 ) . 
+Archeologische waarde , 2 ) Hoge archeologische waarde , 3 ) Zeer hoge archeologische waarde en 4 ) Zeer hoge archeologische waarde beschermd . 
+De AMK is de gezamenlijke verantwoordelijkheid van de RCE en de provincies en wordt beheerd door de RCE . 
+Archeologische indicatoren Indicatief archeologisch materiaal dat bij ( boor ) onderzoek een aanwijzing kan zijn voor de aanwezigheid , ter plaatse of in de nabijheid , van een archeologische vindplaats . 
+Archis Archeologisch Informatie Systeem . 
+Dit door de RCE beheerde systeem bevat informatie over o.a . onderzoeksmeldingen , vondstmeldingen , waarnemingen , complexen en monumenten . 
+14 C Koolstof ( radioactieve isotoop ) , gebruikt voor datering . 
+CIS Het landelijke registratienummer ten behoeve van archeologisch onderzoek , uitgegeven door het Centraal Informatiesysteem . 
+CMA Centraal Monumenten Archief . 
+Conservering De mate waarin grondsporen , anorganische ( aardewerk , vuursteen , metaal , glas etc . ) 
+en organische archeologische resten ( bot , zaden , hout etc . ) 
+bewaard zijn gebleven . 
+Ensemblewaarde De meerwaarde die aan een vindplaats wordt toegekend op grond van de mate waarin sprake is van een landschappelijke en/of archeologische context . 
+Ex situ niet ter plaatse . 
+Aanduiding die wordt gebruikt om aan te geven of grondsporen en / of artefacten zich niet meer op de oorspronkelijke plaats in de bodem bevinden . 
+Behoud ex situ is het bewaren van de archeologische informatie door definitief onderzoek ( opgraven , documenteren en registreren ) . 
+Gaafheid De mate van ( fysieke ) verstoring van de bodem en/of de ( eventueel aanwezige ) archeologische waarden , zowel in verticale zin ( diepte ) als in horizontale zin ( omvang ) Herinneringswaarde De herinnering die een archeologisch monument oproept over het Verleden . 
+IKAW Indicatieve kaart van archeologische waarden , een door de RCE geproduceerde kaart op landelijk niveau met de verwachte relatieve of absolute dichtheid van ( bepaalde ) archeologische verschijnselen in de bodem . 
+IVO Inventariserend Veld Onderzoek . 
+Het verwerven van ( extra ) informatie over bekende of verwachte archeologische waarden binnen een onderzoeksgebied , als aanvulling op en toetsing van de archeologische verwachting , gebaseerd op het bureauonderzoek middels waarnemingen in het veld . 
+Informatiewaarde De betekenis van een monument als bron van kennis over het verleden . 
+De informatiewaarde wordt bepaald door de mate waarin ( een opgraving van ) het monument een bijdrage kan leveren aan nieuwe kennisvorming over het verleden . 
+In situ Achtergebleven op exact de plaats waar de laatste gebruiker het heeft gedeponeerd , weggegooid of verloren . 
+Behoud in situ is het behouden van archeologische waarden in de bodem . 
+KNA Kwaliteitsnorm Nederlandse Archeologie . 
+NAP Normaal Amsterdams Peil ( =officieel peilmerk ) . 
+PVA Plan van Aanpak . 
+Een door de opdrachtnemer op te stellen plan voor de uit te voeren werken waarmee beoogd wordt aan de vereisten zoals geformuleerd in het Programma van Eisen en/of het ontwerp te voldoen . 
+Ook wordt hierin een voorstel gedaan voor de werkwijze waarmee de in het Programma van Eisen en/ of ontwerp geformuleerde resultaatsverwachtingen bereikt kunnen worden . 
+PVE Programma van Eisen . 
+Het PvE is een door een bevoegde overheid opgesteld of bekrachtigd document dat de probleem- en doelstelling van de te verrichten werkzaamheden van de vindplaats geeft en de daaruit af te leiden eisen formuleert met betrekking tot het uit te voeren werk . 
+RCE Rijksdienst voor het Cultureel Erfgoed . 
+Representativiteit De mate waarin een bepaald type vindplaats typerend is voor een periode dan wel een gebied . 
+RTS Robotic Total Station . 
+Hiermee worden vlakken direct digitaal ingemeten . 
+Schoonheid De esthetisch-landschappelijke waarde van een archeologisch monument , die vooral in zichtbaarheid tot uiting komt . 
+Selectieadvies Archeologisch inhoudelijk advies over de behoudenswaardigheid van een vindplaats . 
+Dit wordt opgesteld aan de hand van de waarderingscriteria . 
+Zeldzaamheid De mate waarin een bepaald type monument schaars is ( of is geworden ) voor een periode of in een gebied . 
+ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 23 Afkortingen in de database ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 24 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol ADC ArcheoProjecten Rapport 2367 Legenda 000000 m -NAP m -NAP m -NAP -NAP 111111 m m -NAP m -NAP NAP NAP NAP NAP NAP NAP m +NAP m +NAP m +NAP +NAP 111111 m m +NAP m +NAP Recente greppel 1e ophoging ( 1933/34 ) 4-6 4-6 4-6 4-6 4-6 4-62100-1 2100-1 2100-1 2100-1 2100-1 2100-1 Greppel 3-4 3-4 3-4 3-4 3-4 3-4 Krib/vangdam 1e kwart 19e eeuw 3-2 3-2 3-2 3-2 3-2 3-2 3-5 3-5 3-5 3-5 3-5 3-5 2e ophoging 1943/44 2.5m 2.5m 2.5m 2.5m 2.5m 2.5m 3-3 3-3 3-3 3-3 3-3 3-3 3-1 3-1 3-1 3-1 3-1 3-1 4-7 4-7 4-7 4-7 4-7 1000-1 1000-1 1000-1 1000-1 1000-1 1000-14-7 4-4 4-4 4-4 4-4 4-4 4-4 Bouwvoor 2100-1 2100-1 2100-1 2100-1 2100-1 2100-1 999-1 999-1 999-1 999-1 999-1 999-1 4-5 4-5 4-5 4-5 4-5 4-5 Bijlage I Dwarsprofiel van de dijkdoorsnede 4000-1 4000-1 4000-1 4000-1 4000-1 4000-1 4-6 4-6 4-6 4-6 4-6 4-6 Natuurlijke ondergrond Mogelijke greppel 4-2 4-2 4-1 4-1 4-1 4-2 4-2 4-2 4-1 4-1 4-1 4-2 4-3 4-3 4-3 4-3 4-3 4-3 © © ADC ADC 2010 2010 25 Kampen Ramspol Vondstnr 1 3 OPGR_ID KAMN-10 KAMN-10 2 2 Put 1 1 Vlak Bijlage II Vondstenlijst 1 Vak 4 1000 Spoor 7 1 Vulling AW AW Inhoud 5,7 gr 2,5 gr Gewicht 2,7x2,6x0,3 cm en 4,1x1,8x0,3 cm 2,6x1,9x0,4 cm Afmetingen AANV AANV Verzamel 1800 - 1950 1800 - 1950 Datering Determinatie Onversierd/bewerkt opmerkingen Licht geërodeerd Melkglas 19 eeuw tot 1950 Onversierd/bewerkt e Licht geërodeerd Industrieel wit Conservering 26 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 2 4 5 6 KAMN-10 KAMN-10 KAMN-10 Vondstnr KAMN-10 OPGR_ID 2 2 2 2 Put 101 101 101 101 Vlak Bijlage III Monsterlijst Vak 3 4 4000 4000 Spoor 2 1 1 Vulling Segment Inhoud Monster MP MSL MP MOSL Verzamel AFW AFW AFW AFW 1 5L emmer Meerdere vullingen , zie tekening Meerdere vullingen en sporen , S4 , zie tekening Opmerking INVDATUM 18-6-2010 10:29:58 18-6-2010 10:29:22 18-6-2010 10:29:35 18-6-2010 10:27:13 INVPERS R.C.A . 
+Geerts R.C.A . 
+Geerts R.C.A . 
+Geerts R.C.A . 
+Geerts 27 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol 1 1 1 1 1 1 1 101 101 101 101 101 101 101 101 101 101 101 101 1 1 1 1 1 1 1 101 101 101 101 1 1 1 1 1 1 1 1 1 ADC ArcheoProjecten Rapport 2367 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 1000 BV 999 REC 4 DYK 3 GR 3001 LG 3000 LG 1000 LG 4 DK 3 GR 2 REC 1 REC 6000 LG 5000 LG 4000 LG 3000 LG 2100 LG 2000 LG 1500 LG 1000 LG 999 REC 7 LG 4 GR 3 GR 2000 LG 6 KL 5 NV 4 GR 3 GR 2 GR 1 GR XXX LIN LIN LIN RHK RHK ONR LIN LIN RHK RHK XXX XXX XXX XXX XXX XXX XXX XXX LIN XXX LIN LIN RHK RHK RND LIN LIN LIN LIN 0 0 0 0 -0,62 -0,46 -0,44 -0,66 -0,41 -0,51 -0,44 0 0 0 0 0 0 0 0 0 0 0 0 -0,39 -0,48 -0,48 -0,6 -0,5 -0,32 -0,4 nvt nvt goed goed nvt nvt nvt goed goed nvt nvt nvt nvt nvt nvt nvt nvt nvt nvt nvt nvt goed goed nvt goed goed goed goed goed goed vnr . 
+3 & 5 vnr . 
+6 vnr 3 vnr . 
+1 Putnr Vlaknr Spoornr Aardspoor Vlakvorm NAP_boven Conservering Vondstnummers Bijlage IV Sporenlijst Nieuwe tijd C Nieuwe tijd C nvt nvt nvt nvt nvt nvt Nieuwe tijd Nieuwe tijd nvt nvt Nieuwe tijd Nieuwe tijd nvt Nieuwe tijd nvt Nieuwe tijd Nieuwe tijd Nieuwe tijd Nieuwe tijd Datering Nieuwe tijd Nieuwe tijd C spoor 3 Nieuwe tijd C spoor 4 Nieuwe tijd C nvt nvt Nieuwe tijd spoor 3 Nieuwe tijd C spoor 4 Nieuwe tijd C Relatie 28 Kampen Ramspol 1 101 101 101 101 101 3 3 3 3 3 101 2 3 101 2 6000 LG 4000 LG 2200 LG 1500 BV 1000 BV 2200 LG 4000 LG 2100 LG XXX XXX XXX XXX XXX XXX XXX XXX 0 0 0 0 0 -0,59 0 0 nvt nvt nvt nvt nvt nvt nvt nvt vnr . 
+2 & 4 Putnr Vlaknr Spoornr Aardspoor Vlakvorm NAP_boven Conservering Vondstnummers Relatie nvt nvt nvt Nieuwe tijd Nieuwe tijd nvt nvt nvt Datering 29 ADC ArcheoProjecten Rapport 2367 Kampen Ramspol ADC ArcheoProjecten Rapport 2367 2 2 2 KAMN-10 KAMN-10 2 KAMN-10 KAMN-10 2 KAMN-10 2 KAMN-10 2 1 KAMN-10 KAMN-10 1 KAMN-10 2 1 KAMN-10 KAMN-10 1 KAMN-10 2 1 KAMN-10 2 1 KAMN-10 KAMN-10 1 KAMN-10 KAMN-10 1 1 KAMN-10 KAMN-10 1 KAMN-10 KAMN-10 1 1 KAMN-10 PUTNR OPGR_ID 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101 VLAKNR Bijlage V Vullingenlijst 4 4 4 4 4 3 3 3 3 3 6000 5000 4000 3000 2100 2000 1500 1000 999 7 4 3 SPOORNR TINT 5 DONKER 4 3 2 DONKER 1 DONKER 5 4 DONKER BR WT WT GR GR GR GR ZW BR 3 GR ZEER 2 DONKER GR GR GR GR GR GR GR GR BR BR GR BR HOOFDKLEUR 1 1 DONKER 1 LICHT 1 LICHT 1 DONKER 1 DONKER 1 LICHT 1 DONKER 1 DONKER 1 1 DONKER 1 DONKER 1 DONKER VULLINGNR GR GL GL BR BR BR BR BR ZW BR ZW NEVENKLEUR KS3 ZS1 ZS1 KS1 KS1 KS3 KS2 KZ3 VK1 LZ3 KS4 ZS1 ZS1 ZS1 KS3 ZS1 KZ3 KZ3 XXX XXX KZ3 XXX TEXTUUR WAAR WAAR WAAR GEVLEKT ODS Ca3 Ca3 , ODS ( unio 's ) , riet Ca3 Ca3 , ODS ODS , Ca3 Ca3 , ODS Ca3 Ca3 FE Plantenresten INSLUITSEL H1 H2 H2 H3 H2 H2 H3 H2 H3 ORG_STOF Gytja Veel riet , doorgeworteld MF , slechte sorter. , zeer veel kleibrokken ( Ks2 dbr gevlekt ) , 1e zandlichaam dyk dbr laagjes , hoort bij vull 6 maar is omgewerkt Gereduceerd , doorgeworteld , fijn gelamineerd met zandlaagjes Riet Gelaagd met een laag ZF zand Lijkt op afdekkende leemlaag van de dijk MF MG Licht gelaagd Gelamineerd met Ks3 , oxidatie/reductievlekken , overstromingspakket Oxidatie/reductievlekken , gelamineerd mnet Zs1 , overstromingspakket Doorgeworteld Gytja Grijsgevlekt OPMERKING 30 Kampen Ramspol 3 3 KAMN-10 3 KAMN-10 KAMN-10 2 KAMN-10 3 2 KAMN-10 3 2 KAMN-10 KAMN-10 2 KAMN-10 KAMN-10 2 2 KAMN-10 KAMN-10 PUTNR OPGR_ID ADC ArcheoProjecten Rapport 2367 101 101 101 101 101 101 101 101 101 101 101 VLAKNR 6000 4000 2200 1500 1000 4000 2100 1000 999 4 4 SPOORNR TINT 1 DONKER 1 LICHT 1 LICHT 1 DONKER 1 DONKER 1 LICHT 1 1 DONKER 1 7 6 VULLINGNR GR GR BR GR BR GR GR GR BR GR WT HOOFDKLEUR BR GR BR BR BR GL NEVENKLEUR KS4 ZS1 ZS1 KZ3 KZ3 ZS1 KS3 KZ3 XXX LZ3 ZS1 TEXTUUR WAAR WAAR GEVLEKT FE FE , ODS , BAKSTN , Puin ODS , Ca3 Ca3 ODS INSLUITSEL H2 H2 H2 ORG_STOF Gelamineerd met Zs1 ( dgr Mf ) MF MG Oxidatie/reductie grens in S , Red ( Zs1 lgr ) Doorworteld Oxidatie/reductievlekken Doorgeworteld Gelamineerd met Zs1 , met oxidatie/reductievlekken afdekkende leemlaag van dijk OPMERKING MF , slechte sortering , veel kleibrokken , 2e zandlichaam van dijk 31 Kampen Ramspol 

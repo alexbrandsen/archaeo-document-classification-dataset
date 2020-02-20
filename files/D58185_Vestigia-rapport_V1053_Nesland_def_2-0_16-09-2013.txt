@@ -1,0 +1,1645 @@
+Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel Rapportnummer : V1053 Projectnummer : V12-2518 ISSN : 1573 - 9406 Status en versie : Definitief 2.0 In opdracht van : Gemeente Texel Rapportage : R.M . 
+van Heeringen , R. Schrijvers , J. Loopik ( ADC ) , K. Hänninen ( BIAX ) Plaats en datum : Amersfoort , 16 september 2013 Niets uit dit werk mag worden verveelvoudigd en/of openbaar gemaakt worden door middel van druk , fotokopie of op welke andere wijze dan ook , daaronder mede begrepen gehele of gedeeltelijke bewerking van het werk , zonder voorafgaande schriftelijke toestemming van de gemeente Texel en Vestigia BV Vestigia BV Spoorstraat 5 3811 MN Amersfoort telefoon 033 277 92 00 fax 033 277 92 01 info @ vestigia.nl V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Initiatief Toponiem / locatie Plaats Gemeente Provincie Opdrachtgever Contactpersoon opdrachtgever Oppervlakte plangebied Diepte grondwerkzaamheden Huidig grondgebruik Onderzoeksmelding Soort onderzoek RD-hoekcoördinaten van de plangebieden Kaartblad ( 1:25.000 ) Uitvoerder en documentatie Projectleider/Senior archeoloog Projectmedewerkers Uitvoering onderzoek Bevoegd gezag Contactpersoon Deskundige namens BG Gecontroleerd door Geaccordeerd door Projectgegevens Grondwerkzaamheden ter voorbereiding van woningbouw Nesland en Verzetstraat Den Burg Texel Noord-Holland Gemeente Texel , Postbus 200 , 1790 AE Den Burg Dhr . 
+P.A . 
+Franssen Resp . 
+circa 1,0 en 0,5 ha 0,50 - 1,00 m Woningbouwlocaties in ontwikkeling 54.577 en 55.119 Archeologische begeleiding en definitief onderzoek NO : 115.01/563.08 Nesland NW : 114.90/563.02 ZO : 115.04/562.92 ZW : 114.96/562.90 NO : 115.06/563.15 Verzetstraat NW : 114.95/563.12 ZO : 115.08/563.08 ZW : 115.00/563.35 9 West Vestigia Archeologie & Cultuurhistorie Dr. R.M . 
+van Heeringen R.M . 
+van Heeringen ( archeoloog Vestigia ) R. Schrijvers ( fysisch geograaf Vestigia ) J. Loopik ( archeoloog ; ADC ArcheoProjecten , Amersfoort ; zie voor de overige medewerkers ADC paragraaf 1.4 ) K. Hänninen ( archeobotanicus ; BIAX Consult , Zaandam ) 21-29 november 2012 en 14-15 januari 2013 Gemeente Texel Postbus 200 1790 AE Den Burg Dhr . 
+P.A . 
+Franssen Vestigia Archeologie & Cultuurhistorie Vestigia ( R.M . 
+van Heeringen ) d.d . 
+11-09-2013 Gemeente Texel ( P.A . 
+Franssen ) d.d . 
+11-09-2013 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 2 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Inhoudsopgave Samenvatting ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 5 1 Projectomgeving ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 7 1.1 Plangebied Nesland ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 7 1.2 Plangebied Verzetstraat ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 8 1.1 Woord van dank ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 8 1.2 Onderzoeksdoel en -methode ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 9 2 Onderzoekskader ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11 2.1 Inleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 11 2.2 Landschappelijke situatie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 11 2.3 Archeologische context ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 12 2.4 Gespecificeerd verwachtingsmodel ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 15 3 Resultaten van het veldwerk ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 17 3.1 Inleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 17 3.2 Bodemopbouw ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 17 3.3 Sporen en structuren ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 25 3.4 Vondstmateriaal ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 28 4 Archeobotanisch onderzoek ( K. Hänninen ) ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 33 4.1 Inleiding ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 33 4.2 Materiaal en methode ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 33 4.3 Resultaten en discussie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 33 4.4 Vergelijking met de opgraving Beatrixlaan ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .. 36 5 Conclusies en synthese ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 39 Literatuur ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 41 Digitale bronnen ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 42 Tabellen , bijlage en kaarten ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 43 Bijlage : Periodisering archeologie en geologie ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 52 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 3 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 1a Den Burg-Nesland . 
+Noordelijk deel van put 1 vanuit het westen tijdens het onderzoek . 
+Foto : Vestigia . 
+Afbeelding 1b Den Burg-Nesland . 
+Gerestaureerde pot uit de Late IJzertijd ( put 1 , spoor 25 ) . 
+Foto : Vestigia . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 4 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Samenvatting Projectomgeving en proces In het kader van woningbouw aan de westzijde van Den Burg op het eiland Texel is in opdracht van de gemeente door Vestigia Archeologie & Cultuurhistorie in samenwerking met ADC Archeoprojecten in december 2012 op de locatie Nesland en in januari 2013 op de locatie Verzetstraat archeologisch onderzoek verricht . 
+Beide locaties liggen ten noorden van de Keesomlaan en ten zuiden van de plek waar in de zeventiger jaren van de vorige eeuw grootschalig nederzettingsonderzoek in de omgeving van de Beatrixlaan heeft plaatsgevonden . 
+Aanleiding voor het onderzoek vormde de melding van amateurarcheoloog G.J . 
+van Noort uit Den Burg die ter plaatse in een reeds uitgegraven bouwput archeologische sporen ontdekte . 
+Na de melding heeft de gemeente direct actie ondernomen met de genoemde opgravingen tot gevolg . 
+Bodemkundige situatie Podzoleringsverschijnselen onder de deklaag concentreren zich op de locatie Nesland op de noordflank van de dekzandrug . 
+De deklaag is in dit gebied gemiddeld genomen dikker dan 50 centimeter . 
+Nog verder naar het noorden , de putten van de Verzetstraat , is er deels nog sprake van een profiel dat als beekeerdgrond gekarakteriseerd kan worden . 
+Verder naar het zuiden en het noordwesten op de locatie Nesland verdwijnt de podzolering uit het profiel en is er sprake van een zogenaamd AC-profiel . 
+In de zuidelijke deel van Nesland is het profiel vrijwel volledig verstoord . 
+De zone met een combinatie van een dikkere deklaag en sporen van podzolering lijken overeen te komen met de zone waarin de grootste dichtheid aan sporen ( en vondsten ) is aangetroffen . 
+Datering van de aangetroffen sporen In de sporen is in het totaal meer dan 12 kilogram handgevormd prehistorisch aardewerk aangetroffen . 
+De scherven zijn relatief groot , soms lijken ze te behoren een groot deel van één en dezelfde pot , maar veelal betreft het vermoedelijk slecht een of enkele scherven van een pot en ontbreekt de rest . 
+Deels kan dit verklaard worden doordat het ‘ opgravingsvlak ’ , - de bodem van de bouwput - , te diep in het oude reliëf reikte waardoor alleen de onderkant van de prehistorische sporen kon worden onderzocht . 
+Het aardewerk dateert op basis van de versiering met het e vroege streepband motief uit de 2 eeuw v. Chr . 
+Er kunnen geen fasen worden onderscheiden . 
+Een kuilenkrans dateert uit de Vroege IJzertijd en een waterkuil uit de Vroege Middeleeuwen . 
+Sporen De oudste structuur betreft de gepodzoleerde kuilenkrans uit de Vroege IJzertijd . 
+Het overgrote deel van de sporen bestaat echter uit greppels , kuilen , cirkelvormig en rechthoekige greppels , lange greppels en paalkuilen/-gaten . 
+Een deel van de paalsporen is tot gebouwen te herleiden . 
+Genoemde e sporen dateren op basis van het aardewerk uit de 2 eeuw v. Chr . ( vroege streepband-periode ) . 
+De greppels worden in verband gebracht met drainage werkzaamheden op de noordflank van de dekzandrug . 
+De cirkels met landbouwkundige activiteiten op de top van de rug . 
+Verder is er een als waterkuil geïnterpreteerde kuil uit de Vroege Middeleeuwen aangetroffen . 
+Gebouwen Op basis van de aardewerkanalyse is binnen de dateringsperiode van de eerste helft van de Late IJzertijd geen nadere fasering van de sporen aan te brengen . 
+De grote hoeveelheid aardewerk wijst in ieder geval op bewoning ter plaatse . 
+Dit wordt bevestigd door palenclusters die deels te herleiden zijn tot gebouwplattegronden . 
+In sporencluster N in put 1 in Nesland is de structuur van een gebouw te onderscheiden . 
+Het betreft de staanders van vijf gebinten , tussen de buitenste gebinten wordt een afstand van circa 7,2 m overbrugd . 
+De afstand tussen de staanders binnen een gebint bedraagt circa 2,8 m. In een aantal paalkuilen is het paalgat goed te onderscheiden , de diepte van de sporen is vaak nog 20-30 cm onder het opgravingsvlak . 
+Van de wand van het gebouw zijn op de diepte van het opgravingsvlak geen sporen bewaard gebleven . 
+Paalsporencluster O , eveneens in put 1 in Nesland , levert mogelijk ook aanwijzingen voor eenzelfde type plattegrond , die echter door de rechthoekige greppelstructuur M is verstoord . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 5 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Parallellen Voor parallellen voor de bebouwing kan verwezen worden naar de opgraving aan de Beatrixlaan : de iets oudere gebouwen R , S , T en in mindere mate gebouw Y op site XIII . 
+De plattegronden dateren volgens de opgraver uit de tweede helft van de Midden-IJzertijd . 
+De gebouwen worden als e boerderijen geïnterpreteerd . 
+In de periode van de bewoning van Nesland/Verzetstraat in de 2 eeuw v. Chr . is aan de Beatrixlaan nauwelijks bewoning bekend . 
+De verklaring daarvoor is dat aldaar toen op veel plaatsen zandverstuivingen optraden , mogelijk als gevolg van een grondwaterstandverlaging . 
+Alleen in het uiterste noordwesten van het opgravingsterrein van de Beatrixlaan is in sporencluster I vroeg streepbandaardewerk aangetroffen . 
+In de cluster zijn twee delen van elkaar ( deels ) overlappende huisplattegronden met een afstand van 3 m tussen de staanderrijen waargenomen . 
+Landbouwkundige activiteit en drainage Gezien de oversnijdingen lijkt zich bij de greppels in de tweede eeuw v. Chr . een oriëntatiewisseling te hebben voorgedaan . 
+De NNW-ZZO lopende greppels in put 1 worden veelvuldig doorsneden door min of meer loodrecht daarop staande greppels . 
+Toewijzing van de kringgreppels en rechthoekige greppels tot deze ‘ eerste ’ of ‘ tweede ’ fase lijkt op basis van de greppeloverschrijdingen alleen in individuele gevallen mogelijk . 
+Aangezien de oriëntatie van de rechthoekige greppels zich voegt naar de beide loodrecht op elkaar staande greppelsystemen , lijken de greppels en de cirkelvormige en rechthoekige greppels dus met elkaar in verband te staan Ze zijn veelal niet toe te wijzen aan een van beide ‘ fasen ’ . 
+Bestaanseconomie In de botanische monsters van Nesland uit het begin van de Late IJzertijd zijn naakte en bedekte gerst , emmertarwe , haver en lijnzaad aangetroffen . 
+Het is opmerkelijk dat er in deze periode nog naakte gerst wordt gebruikt . 
+Deze vorm wordt in de rest van Nederland in de Bronstijd vervangen door de bedekte vorm . 
+Ook voor de Vroege en de Midden-IJzertijd is naakte gerst aangetoond op Texel . 
+Op basis van de aangetroffen zaden van wilde planten kan worden gesteld dat de akkers op de dekzandruggen lagen en mogelijk werden bemest . 
+Er waren ook vochtige tot natte delen in de akkers aanwezig . 
+Een andere mogelijkheid is dat er ook akkers op de lagere delen van het landschap lagen . 
+De samenstelling van de geselecteerde monsters uit de verschillende IJzertijd-contexten komt grotendeels overeen . 
+Ze zijn opvallend rijk aan zaden van wilde planten ( 88,7-95,2 % ) . 
+In combinatie met lage percentages kafresten ( 0,5-2,5 % ) is een interpretatie als dorsafval niet direct voor de hand liggend , al kan het vanwege de geringe grootte van het grootste deel van de zaden wel gaan om materiaal dat uit de oogst is gezeefd . 
+De wilde planten zijn afkomstig uit een grote verscheidenheid aan standplaatsen : akkeronkruiden , planten van vochtige en natte plaatsen , graslanden en heiden , zelfs waterplanten en een soort uit zilte milieus komen voor . 
+Of het uitsluitend om de vegetatie van de akkers gaat , waarschijnlijk met bijmenging van soorten uit de als brandstof gebruikte heide , is niet duidelijk . 
+Een andere mogelijkheid is dat het afval van gemengde herkomst betreft . 
+Naast dorsafval werd ( verkoold ) materiaal aangetroffen waar ( muizen ) keutels in zaten ( voorraad/huisafval ? ) 
+en mogelijk materiaal van de vloer en/of de stal ( strooisel , plaggen ) . 
+Omdat het materiaal uit de verschillende contexten zo gelijkvormig is , is het niet zeker of het botanisch onderzoek informatie geeft over de functie ervan . 
+Alleen de kuilenkrans lijkt een wat afwijkende assemblage te hebben met de aanwezigheid van waterplanten , al komt er ook één zaad van fonteinkruid voor in een cirkelvormige greppel uit de Late IJzertijd ( greppel G ) . 
+In de mogelijke waterkuil uit de Vroege Middeleeuwen zijn gerst en haver aangetroffen . 
+Waarschijnlijk werden in het vroegmiddeleeuwe Nesland ook andere cultuurgewassen gebruikt , maar deze zijn in dit relatief arme monster niet aanwezig . 
+Van de haverkorrels kan niet worden aangetoond of het van het cultuurgewas of van het akkeronkruid oot afkomstig was . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 6 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 1 Projectomgeving 1.1 Plangebied Nesland De archeologische begeleiding en de daarop aansluitende opgraving van een aantal bouwputten stond in relatie tot het bouwrijp maken van woningbouwlocatie Nesland aan de Pontweg ( N501 ) ten noorden van 1 de Keesomlaan in opdracht van ‘ Maatschap Woonstede Nesland ’ . 
+Het Bestemmingsplan ‘ Woonstede Nesland ’ ( december/januari 2011-2012 ) betreft een nadere detaillering van bestemmingsplan ‘ Den Burg ’ 2 uit 2005 . 
+Het plangebied is ca . 
+10.000 m groot en wordt voor iets minder dan de helft van hert oppervlak bebouwd met geschakelde seniorenwoningen , een gebouw voor algemene voorzieningen en een nieuwe ontsluitingsweg . 
+De initiatiefnemer en directe opdrachtgever voor het seniorencomplex is CPO Woonstede Nesland . 
+De gemeente is verantwoordelijk voor het bouwrijp opleveren van de grond . 
+Het grondverzet was in handen van de firma De Vries & Van de Wiel uit Schagen . 
+Aanleiding tot het onderzoek was de melding van amateurarcheoloog G.J . 
+van Noort uit Den Burg dat in de eerste uitgegraven bouwput archeologische sporen zichtbaar waren en dat een ‘ hele ’ pot gevonden was ( afbeelding 1b ) . 
+De melding leidde tot onmiddellijke actie van de kant van de gemeente . 
+Nader onderzoek leerde dat de archeologie in het huidige inpassingsplan buiten beschouwing was gelaten in de veronderstelling dat dit omgevingsaspect al was meegenomen bij het opstellen van het eerdere 2 bestemmingsplan in 2005 . 
+Dit betrof echter een locatie ten zuiden van de Keesomlaan . 
+Terreininspectie en overleg met Vestigia op 8-11-2012 leidde tot de conclusie dat in de bouwputten sprake was van een behoudenswaardige vindplaats uit de late prehistorie ( afbeelding 1a ) . 
+Uitgaande van de behoudenswaardigheid van de vindplaats is gezien de acute situatie besloten tot een 3 archeologische begeleiding onder het protocol opgraven van de reeds uitgegraven bouwputten en het definitief opgraven van de resterende bouwblokken . 
+Daartoe is een Programma van Eisen ( PvE ) opgesteld en is het onderzoek door Vestigia Archeologie & Cultuurhistorie in samenwerking met ADC 4 Archeoprojecten op zeer korte termijn gerealiseerd . 
+Ter voorbereiding van het PvE en de uitvoering van het veldonderzoek is bij wijze van bureauonderzoek een literatuurstudie uitgevoerd die in het veld als inhoudelijk referentie kader is gebruikt bij de werkzaamheden . 
+De verzamelde informatie heeft vervolgens ook zijn weerslag gevonden in het nu voorliggende rapport . 
+2 Bij aanvang van het onderzoek op 21-11-2012 was reeds circa 1600 m aan bouwputoppervlak en wegcunet uitgegraven tot net boven of onder de bouwvoor/opgebrachte grond ( het ‘ sporenvlak ’ ) . 
+Het betreft bouwblok B en C en het wegcunet ten westen daarvan ( afbeelding 3 , donkergrijze vlakken ) . 
+Vervolgens is 2 over een oppervlak van ca . 
+1400 m het onderzoek voortgezet ter plaatse van de nog niet uitgegraven ( delen van de ) bouwputten A , B en D en het wegcunet . 
+Uiteindelijk zijn 8 putten onderzocht ( afbeelding 2 ; zuidelijk deel ) . 
+Voortschrijdend inzicht naar aanleiding van de datering van het aardewerk , de relatief goede fysieke kwaliteit van de sporen en de onbekende functie van met name de kringvormige structuren , heeft er in afwijking van het PvE toe geleid dat de belangrijkste structuren bemonsterd zijn ten behoeve van archeobotanisch onderzoek . 
+Het gaat om in totaal 20 monsters . 
+Deze monsters zijn vervolgens archeobotanisch onderzocht door BIAX Consult uit Zaandam . 
+Het onderzoek in het veld is op 29-11-2012 afgerond . 
+1 Centrumcoördinaat : 114.98/562.99 . 
+Molenaar 2005 ; onderzoeksmeldingsnummer 12.198 . 
+3 KNA , versie 3.2 ; protocol 4007 Archeologishe Begeleiding , aanleiding 1 ; doel 2 . 
+4 Van Heeringen 2012 . 
+2 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 7 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 2 Puttenoverzicht op de onderzoeklocaties Den Burg-Nesland en Den Burg-Verzetstraat . 
+1.2 Plangebied Verzetstraat Door actuele ontwikkelingen in de planvorming ten noorden van de onderzoekslocatie Nesland , leek het de gemeente efficiënt in één archeologische arbeidsgang ook vier toekomstige bouwblokken aan de 5 Verzetstraat te betrekken . 
+Daartoe is een aanvullend PvE opgesteld en is het veldonderzoek op 14-01-2013 en 15-01-2013 met dezelfde personele en machinale bezetting uitgevoerd als het onderzoek van Nesland 6 ( afbeelding 4 ) . 
+De geplande bouwbloklocaties zijn alle vier , waarbij gezien de lagere archeologische verwachting door de ligging van het terrein is gestart met opgravingsputten over de helft van de lengte 2 van de blokken ( afbeelding 2 , noodzijde ) . 
+In totaal is 850 m op deze wijze opgegraven . 
+Gezien de aard van de sporen die met name uit enkele greppels loodrecht op de lengterichting van de blokken bestonden en de aard van de ondergrond ( laag gelegen , deels verstoord ) , is besloten het onderzoek niet uit te breiden tot het gehele oppervlak van de bouwputten . 
+1.1 Woord van dank De volgende personen is dank verschuldigd voor het vlotte besluitvormingsproces om tot een opgraving te komen , de efficiënte uitvoering in het veld en voor de inhoudelijke bijdragen : P.A . 
+Franssen ( gemeente Texel ) , K. Hänninen ( BIAX Consult ) , L.F . 
+Hoekstra ( De Vries & Van de Wiel ; Milieu , GWW en baggerwerken , Schagen ) , D. Kooter ( ADC ArcheoProjecten , Amersfoort ) , J. Loopik ( ADC ArcheoProjecten , Amersfoort ) , G. van Noort , Den Burg ; T. Obdam ( ADC ArcheoProjecten , Amersfoort ) , J. van den Top ( ADC ArcheoProjecten , Amersfoort ) , M. Uriot ( Adviesbureau Marcel Uriot BV , Oudeschild ) . 
+5 6 Centrumcoördinaat 115.02/563.11 . 
+Van Heeringen 2013 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 8 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 3 Den Burg-Nesland . 
+Situatie bij aanvang van het onderzoek . 
+Tekening : M. Uriot , Oudeschild . 
+1.2 Onderzoeksdoel en -methode 7 Afbeelding 4 Impressie van het onderzoek aan de Verzetstraat . 
+Put 1 vanuit het oosten . 
+Op de achtergrond de onderzoekslocatie Nesland ( ter hoogte van afbeelding 1a ) . 
+Foto : Vestigia . 
+7 Het onderzoek is uitgevoerd volgens de richtlijnen van de KNA versie 3.2 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 9 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 10 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 2 2.1 Onderzoekskader Inleiding Voor het PvE is een beperkt bureauonderzoek uitgevoerd , waarvan de resultaten in uitgebreidere vorm gebruikt zijn voor deze rapportage . 
+Gezien het spoedeisende karakter van het veldonderzoek was het primaire doel van het onderzoek het documenteren en het veiligstellen van de sporen , structuren en het vondstmateriaal van de reeds aangetroffen vindplaats Nesland om daarmee informatie te behouden die van belang is voor de kennisvorming over de bewoningsgeschiedenis van Den Burg en omgeving . 
+Belangrijk was daarbij een relatie te leggen met eerder uitgevoerd archeologisch onderzoek op Texel . 
+De beide plangebieden Nesland en Verzetstraat liggen tussen meerdere locaties waar eerder archeologische aandacht naar is uitgegaan . 
+Aan de noordzijde langs de Pontweg gaat het om het opgravingsterrein Den Burg-Beatrixlaan waarin de periode 1971-1975 grootschalig nederzettingsonderzoek is uitgevoerd door de voorloper van de Rijksdienst 8 voor het Cultureel Erfgoed ( RCE ) , de Rijksdienst voor het Oudheidkundig Bodemonderzoek ( ROB ) . 
+Aanvullend is in 2006 een kleinschalige proefsleuvenonderzoek uitgevoerd in een gedeelte van de 9 toenmalige woningbouwlocatie aan de zuidwestzijde dat niet volledig onderzocht was . 
+Aan de zuidzijde van de Keesomlaan zijn in 2005 enkele waarnemingen verricht op een woning10 bouwlocatie waar aanvankelijk een opgraving met beperkingen was gepland . 
+En tot slot hebben meer naar het westen verschillende noodonderzoeken plaatsgevonden aan het eind van de vijftiger en in de zestiger jaren van de vorige eeuw ( zie hierna paragraaf 2.3 ) . 
+In het kader van het archeologisch onderzoek op de woningbouwlocaties Nesland en Verzetstraat is met name ook de ( bredere ) relatie van belang met het nabij gelegen onderzoek om te komen tot beter onderbouwde uitspraken over de waardestelling van het gebied aan de westzijde binnen de bebouwde kom van Den Burg als toets op de in ontwikkeling zijnde actualisering van de waarden- en verwachtingenkaart en op het geldende bestemmingsplan . 
+2.2 Landschappelijke situatie Algemeen Texel ligt als eiland in het waddengebied en bevat in fysisch-geografische zin landschappelijke 11 kenmerken van het duingebied , het Pleistocene zandgebied en het Holoceen zeekleigebied . 
+Het centrale deel van Texel bestaat uit een relatief hoog gelegen Pleistocene opduiking die grotendeels uit keileem bestaat . 
+Dit keileem is afgezet in de voorlaatste ijstijd ( het Saalien ) als een mengsel van klei , zand en grind onder het zich naar het zuiden uitbreidende landijs . 
+Dit keileem is vervolgens door het ijs 12 opgestuwd . 
+In de laatste ijstijd zorgden koude poolwinden ervoor dat deze bult bedekt werd met 13 dekzand ( Laagpakket van Wierden ; Formatie van Boxtel ) . 
+Zelfs toen in het Holoceen de zeespiegel steeg , bleef Texel door het droge westelijke deel van de Waddenzee verbonden met het Drents-Friese plateau . 
+Pas ongeveer 5.000 jaar geleden drong de zee door in het westelijke deel van de huidige Waddenzee . 
+Onder invloed van het stijgende water vormden 8 Woltering 1975 , 1979 , 1997 , 2002a/b . 
+De Rijk/Prangsma 2007 . 
+10 Molenaar 2005 . 
+11 Berendsen 1997 . 
+12 Van den Berg/Beets 1987 ; Rappol et al 1994 . 
+13 Weerts et al . 
+2000 . 
+9 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 11 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 14 zich uitgestrekte veenmoerassen ( Formatie van Nieuwkoop ) rondom de centrale kern van Texel . 
+Dit zorgde ervoor dat het bewoonbare areaal steeds kleiner werd en zich beperkte tot de hoger gelegen gebieden , veelal dekzandruggen . 
+De dekzandrug waarop de onderzoekslocaties Nesland en Verzetstraat tezamen met de dorpskern van Den Burg liggen is hiervan een voorbeeld ( afbeelding 5 ) . 
+Na de Romeinse tijd vond op grotere schaal erosie plaats van de veenmoerassen en de Pleistocene zandgebieden , de oostkant van Texel bleef echter nog een tijd voor erosie bespaard . 
+Met de vorming van het Marsdiep in de Vroege Middeleeuwen raakte Texel definitief geïsoleerd van het vaste land en ontstond een gebied 15 met kwelders en wadden . 
+De veelal zandige kleien die hierbij afgezet werden behoren tot de Formatie 16 van Naaldwijk . 
+In de loop van de Middeleeuwen werd het Marsdiep dieper en ontstond ten zuiden van de oude kern van Texel de Texelstroom als uitloper van het Marsdiep . 
+Afbeelding 5 AHN-beeld van de dekzandruggen ter plaatse en in de omgeving van de onderzoeklocaties ten westen van de oude kern van Den Burg . 
+Aangegeven is verder de noordelijk daarvan gelegen opgraving Beatrixlaan ( 1974-1976 ) . 
+2.3 Archeologische context De locatie Nesland ligt op een smalle zuidwest-noordoost lopende dekzandrug die zich richting het centrum van Den Burg verbreedt . 
+De rug waarvan het hoogste punt ter plaatse op ca . 
+3 m +NAP ligt , wordt van een meer naar het noorden gelegen , veel bredere rug gescheiden door een depressie waarvan het diepste gedeelte op ca . 
+0,5 m +NAP ligt . 
+Op deze bredere rug heeft in de periode 1971-1975 een 14 Weerts et al . 
+2000 . 
+Schoorl 1999a , 1999b . 
+16 Weerts et al . 
+2001 . 
+15 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 12 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat vlakdekkend archeologisch onderzoek plaats gevonden aan de Beatrixlaan over een oppervlak van ca . 
+11,5 17 ha . 
+Vóór de aanleg van de Pontweg in 1960-1962 vormde de Hollewal een van de uitvalswegen van Den Burg naar het westen richting de huidige Westerweg . 
+Op de kadasterkaart van 1828 heette de weg de Hollewalsweg . 
+Ter plaatse van de planlocatie Nesland bevonden zich ter weerszijden weilanden . 
+De weg liep over de hoogste delen van de dekzandrug die zich vanaf Den Burg verder versmald naar het westen . 
+Aan de Hollewalsweg liggen drie onderzoekslocaties : twee kleine opgravingen en een terreinverkenning : - Den Burg-Hollewalsweg 2 Het betreft een deel van het wegtracé bij de verbreding van de weg 18 2 in 1966 . 
+Het onderzochte oppervlak bedraagt ca . 
+60 m . 
+Het betreft sporen van een nederzetting uit de Late IJzertijd . 
+Mogelijk gaat het om een huisplattegrond ( paalkuilen en greppels ) en om greppels . 
+De exacte locatie is niet bekend , maar ligt volgens de literatuur ca . 
+350 m ten oosten van de hierna beschreven opgravingslocatie . 
+Dat zou betekenen dat de locatie in het verlengde van de Keesomlaan aan de Westerweg ligt vlak ten westen van de huidige kruising met de Pontweg en daarmee dus min of meer ‘ grenzend ’ aan het huidige opgravingsterrein . 
+- Den Burg-Hollewalsweg 3 Opgraving in 1964 van een gebied van ca . 
+700 m verder naar het westen ten noorden van de weg tijdens nivelleringswerkzaamheden ( oorspronkelijk oppervlak op 19 ca . 
+2,5 m +NAP ) . 
+Opgetekend werden spiekers en cirkelvormige greppels behorende bij een nederzetting uit de Late IJzertijd-Romeinse tijd . 
+- Den Burg-Hollewalsweg 4 Verkenning in 1959 tijdens graafwerkzaamheden op een terrein ten zuiden van de weg . 
+De sporen , waaronder een kuil , worden in tijd geplaatst op de overgang van 20 de Midden-IJzertijd naar de Late IJzertijd . 
+2 Ook meer naar het oosten in de omgeving van de dorpskern van Den Burg zijn overeenkomstige clusters van sporen aangetroffen , zoals op de locatie Den Bug-Centrum , Den Burg-Marsplein ( 1989-1990 ) en Den 21 Burg-Volmolen ( 2005 ) . 
+Tijdens het archeologische onderzoek op Texel rondom de huidige opgravingslocatie is dus zeer veel kennis gegenereerd over pre- en protohistorische sporen en structuren betreffende erven en landinrichting . 
+Hieronder worden op basis van de literatuur de fenomenen kort samenvattend geïntroduceerd die relevant zijn voor de interpretatie van de tijdens het onderzoek van Nesland en Verzetstraat aangetroffen sporen en structuren . 
+Kuilenkransen 22 De opgraving aan de Beatrixlaan heeft 170 exemplaren opgeleverd . 
+Voor de gedachtevorming : bij een 2 evenwichtige verdeling zou dit neerkomen op één exemplaar per ca . 
+675 m . 
+De kransen komen over het gehele oppervlak voor , maar lijken een voorkeur te hebben voor een ligging boven 2,5 m +NAP . 
+De buitendiameter ligt meestal bij 5 tot 6 m ( maximale variatie tussen 3,5 – 7,0 m ) . 
+Er wordt aangenomen dat ze oorspronkelijk ca . 
+0,4 -0,5 m diep zijn geweest . 
+Op doorsnede zijn ze komvormig , steile wanden komen niet voor en paalgaten zijn niet vastgesteld . 
+De meest kuilen zijn onderin gevuld met zwarte ijzerhumus van de originele polzolbodem afgewisseld met dunne laagjes zand . 
+Bovenin bevindt zich 17 Begrensd door de Akenbuurtweg , Kogerstraat , Beatrixlaan , Schoorwal en Pontweg . 
+Van Tent/Woltering 1973 , vindplaats 17 ; Woltering 2000b , 236-239 ( vindplaats 114/562-6 ) . 
+19 Van Tent/Woltering 1973 , vindplaats 18 ; Woltering 2000b , 228-236 ( vindplaats 114/562-5 ) . 
+20 Van Tent/Woltering 1973 , vindplaats 19 ; Woltering 2000b , 244-245 ( vindplaats 114/562-4 ) . 
+21 Woltering 2002 ; Woltering 2000 , 245-246 ; Molenaar 2005 . 
+22 Woltering 2000b , 59-71 . 
+18 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 13 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat meestal een vulling van een latere ‘ geploegde bouwvoor ’ . 
+Een belangrijk kenmerk is de uitloging van het zand rond en onder de kuilen . 
+De verklaring is dat de kuilenkransen werden gegraven in een ongestoorde , nog niet geploegde ( heide ) bodem , langere tijd open lagen en pas in een latere fase opgevuld werden . 
+De kuilenkransen zijn niet in directe zin geassocieerd met nederzettingssporen . 
+Slechts vijf exemplaren hebben vondstmateriaal opgeleverd . 
+De datering van het aardewerk wijst op een datering in de Late Bronstijd of Vroege IJzertijd . 
+In tegenstelling tot de kuilenkransen in bijvoorbeeld WestFriesland , zijn voor Den Burg-Beatrixlaan nooit aanwijzingen gevonden voor hun economische functie , zoals bijvoorbeeld opslag van graan of stro . 
+Ook het gebruik als composthoop op basis van heideplaggen lijkt onwaarschijnlijk . 
+Voor een rituele verklaring zijn ook geen aanwijzingen voorhanden . 
+De kuilen bevatten vooral heidepollen . 
+Een mogelijke verklaring die overblijft is dat het terrein binnen de cirkels diende voor het drogen of composteren van heideplaggen voor gebruik als strooisel in de stal van de boerderij . 
+Greppels Op het opgravingsterrein aan de Beatrixlaan zijn ook veel greppelstructuren aanwezig . 
+De greppels zullen dienst hebben gedaan bij de afwatering en/of omheining van huizen , nederzettingslocaties/erven 23 of van landbouwpercelen . 
+Ook drainagegreppels in laaggelegen gebieden buiten de bewoningskernen komen voor . 
+De oriëntatie lijkt deels verband te houden met het reliëf . 
+Huisgreppels komen voor rond huizen uit de Midden-/Late Bronstijd en de Midden-IJzertijd . 
+Erfafscheidingen dateren voornamelijk vanaf de Midden-IJzertijd tot in de Romeinse tijd . 
+Vaak zijn in de laatste categorie verschillende fasen te herkennen , die elkaar deels kunnen overlappen . 
+Cirkelvormige greppels en greppels met afgeronde rechte hoeken 24 De opgraving aan de Beatrixlaan heeft resp . 
+71 cirkelvorige en 58 rechthoekige greppels opgeleverd . 
+Van de cirkelvormige worden er 16 tot een nederzetting gerekend gezien hun ligging en hun rijkdom aan vondstmateriaal . 
+De cirkelvormig greppels buiten een nederzettingscontext hebben een buitendiameter van 3 tot 5 m ( maximale variatie tussen 2,5 en 5 m ) . 
+De vulling bestaat uit bewerkte grond ( ‘ bouwvoor ’ ) die arm aan vondstmateriaal is . 
+De breedte en diepte van deze greppels in het ‘ buitengebied ’ ligt in de orde van grootte van enkele decimeters . 
+Negen greppels hebben vondstmateriaal opgeleverd dat wijst of een verschil in datering die uiteenloopt van Late Bronstijd/Vroege IJzertijd tot Late IJzertijd/Romeinse tijd . 
+De cirkelvormige greppels die geassocieerd zijn met een nederzettingscontext ( site XIII ) hebben een grotere diameter ( 4-7 m ) , zijn breed ( soms meer dan 1,5 m ) en diep ( meer dan 1 m onder het opgravingsvlak ) . 
+De datering ligt waarschijnlijk uit de tweede helft van de Midden-IJzertijd . 
+De hoekige greppels hebben een buitendiameter van 2,5 x 2,5 m voor de vierkante en ca . 
+4 x 7,5 m voor de grootste rechthoekige greppels . 
+De greppels zijn meestal smal en ondiep en gevuld met homogene grijsbruine vulling zonder veel vondstmateriaal . 
+Verondersteld wordt dat een deel van de rechthoekige greppels zijn georiënteerd op andere landschapselementen ( karrensporen en greppelsystemen ) . 
+De rechthoekige greppels zijn op zijn vroegst gelijktijdig met de cirkelvormige , maar komen ook in de Late IJzertijd en Romeinse tijd voor . 
+Ook voor de functie van de cirkelvormige en rechthoekige greppels is geen directe verklaring voorhanden . 
+Door het ontbreken van crematieresten in het ‘ centrum ’ of in de vulling van de greppels ligt een verklaring als funerair object niet voor de hand . 
+Clusters van grote , diepe en steilwandige exemplaren met veel nederzettingsafval lijken een typisch fenomeen in de tweede helft van de Midden25 IJzertijd . 
+Geopperde verklaringen liggen wederom in de sfeer van de agrarische bedrijfsvoering : ontwateringgreppels rond hooimijten , rond nog niet gedorst graan of opslag van stro . 
+Ook 23 Woltering 2000 , 89-102 . 
+Woltering 2000 , 103 . 
+25 Op de plaats van de drie clusters zijn echter geen sporen van huisplattegronden gevonden . 
+24 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 14 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat mestverwerking en compostering komen in aanmerking . 
+Het verschil tussen de ronde en rechthoekige greppels binnen en buiten de nederzettingsclusters lijkt daarbij te wijzen op een mogelijk verschil in functie . 
+Clusters van paalgaten en paalkuilen ( huisplattegronden ) In het opgravingsareaal aan de Beatrixlaan zijn 13 erflocaties onderkend waarop in totaal 25 structuren voorkomen die als huisplattegronden zijn geïnterpreteerd . 
+De plattegronden dateren van de Late Bronstijd tot de Midden- ( Late ) IJzertijd . 
+De latere plattegronden vanaf de Late IJzertijd/Romeinse tijd en 26 de Middeleeuwen zijn hierin niet vertegenwoordigd omdat deze perioden ( nog ) niet zijn uitgewerkt . 
+Gezien de relatief scherpe datering van de agrarische sporen in combinatie met de nederzettingssporen van Nesland is het niet doelmatig alle clusters en individuele plattegronden de revue te laten passeren . 
+e Het geval wil dat precies de activiteit fase van Nesland , de 2 eeuw v . Chr. , een secuur markeert aan de 27 Beatrixlaan . 
+De parallellen in relatie tot Nesland komen aan de orde bij de bespreking van de opgravingsresultaten . 
+2.4 Gespecificeerd verwachtingsmodel Naar aanleiding van het literatuuronderzoek dat voornamelijk is gebaseerd op de tot nu toe door Woltering gepubliceerde resultaten van het grootschalige nederzettingsonderzoek aan de Beatrixlaan , kon voorafgaande aan het onderzoek worden verondersteld dat ‘ eenzelfde ’ bewoningspatroon op de locatie Nesland/Verzetstraat aanwezig zou kunnen zijn . 
+De reeds uitgegraven bouwputten bevestigden uiteraard al dit beeld voor wat betreft de aanwezigheid van een kuilenkrans en meerdere ( kring ) greppels . 
+De vraag was wel uit welke verschillende , al dan niet opeenvolgende , archeologische perioden de activiteiten dateerden en of de aard van de bewoningsactiviteit van Nesland ( en later Verzetstraat ) op de relatief smalle uitloper van de dekzandrug waarop Den Burg is gelegen , anders was dan op de zeer brede rug van de Beatrixlaan ( zie afbeelding 5 ) . 
+26 27 Woltering 2000 , bijvoorbeeld 16 ( fig . 
+7 ) ; 272 , tabel 2 . 
+Dit is ook de reden waarom de publicatiereeks van Woltering hier vooralsnog stopt . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 15 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 16 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 3 3.1 Resultaten van het veldwerk Inleiding In dit hoofdstuk worden de resultaten gepresenteerd die het veldonderzoek hebben opgeleverd voor wat betreft bodemopbouw , sporen , vondsten en de analyse van de archeobotanische monsters . 
+Allereerst wordt in paragraaf 3.2 de nieuwe informatie gepresenteerd die op basis van de profielen te destilleren is . 
+Het betref niet alleen verschillen in bodemopbouw maar ook de maaiveldhoogte van het eerste vlak , de mate van afdekking , en de ligging van de oude bodem op de dekzandrug in relatie tot het lagere delen in het landschap . 
+In paragraaf 3.3 worden de sporen en structuren van Nesland besproken . 
+Voor de bespreking zijn op een overzichtskaart de sporen en structuren van een letter voorzien ( afbeelding 6 ) . 
+Vervolgens wordt in paragraaf 3.4 het vondstmateriaal behandeld dat voor het overgrote deel uit handgevormd nederzettingsaardewerk bestaat . 
+De botanische analyse van de genomen grondmonsters uit de afzonderlijke structuren van Nesland wordt in een apart hoofdstuk gepresenteerd ( hoofdstuk 4 ) . 
+3.2 Bodemopbouw Algemeen Het onderzoeksgebied bevindt zich op de westzuidwest-oostnoordoost lopende kleine dekzandrug tussen het gehucht Driehuizen in het westen en de kern van Den Burg in het oosten . 
+Tussen Driehuizen en Den Burg , iets ten noorden van het onderzoeksgebied , is er tevens een grotere dekzandrug aanwezig die beide kernen met elkaar verbindt . 
+Tussen deze ruggen in bevindt zich een laagte , die van grote mariene invloed in het Holoceen gespaard is gebleven door de ‘ afgesloten ’ ligging . 
+Voorafgaand aan het gravend onderzoek aan de Pontweg werd nog verondersteld dat deze laagte in het geheel niet werd bereikt door 28 eventuele overstromingen . 
+Het onderzoek aan de Pontweg heeft echter laten zien dat er ook in deze 29 laagte mariene afzettingen aanwezig zijn . 
+Mogelijk zijn zij bij extreem hoogwater afgezet ; een andere mogelijkheid is dat de laagte die zich in de kleinere zuidelijke dekzandrug bevindt ( ten westen van de Pontweg ) mogelijk al in één of andere vorm gedurende langere tijd aanwezig is geweest , en als toegang 30 voor zeewater ( tijdens hoogwater-omstandigheden ) heeft gediend . 
+De zuidflank van de kleinere dekzandrug waarop het onderzoeksgebied zich bevindt , heeft daarentegen wel een wat omvangrijkere holocene mariene invloed gekend : ten zuiden van de pleistocene kern van Texel reikten getijdegeulen vanaf de vroege middeleeuwen tot dicht tegen de flank van de dekzandrug . 
+Het achterland van deze getijdegeulen – de zone tussen de geul met eventuele oeverwallen en het hoger gelegen dekzand – bestond uit een kweldergebied waar tijdens hoogwater in relatief rustige omstandigheden klei werd afgezet . 
+Gedurende laagwater-perioden lag het gebied droog . 
+Door het periodiek droogvallen en de geleidelijke ophoging door aanvoer van sediment onder hoogwateromstandigheden kon het gebied steeds verder en dichter begroeid raken . 
+Beschikbare gegevens ten aanzien van de bodemopbouw , voorafgaand aan het veldonderzoek Om de huidige bodemkundige eigenschappen van het onderzoeksgebied te kunnen vergelijken met die van de directe omgeving , en met de verwachte bodemopbouw op basis van reeds beschikbare gegevens , 31 32 is naast het onderzoek van Woltering vooral gebruik gemaakt van de bodemkaart 1:50.000 . 
+Van laag- naar hooggelegen terrein zouden in het onderzoeksgebied respectievelijk goor- en beekeerdgronden , veldpodzolgronden en hoge bruine enkeerdgronden kunnen voorkomen . 
+28 Woltering 1975 , 11 . 
+De Rijk/Prangsma 2007 . 
+30 Van Zijverden 2007 , 14 . 
+31 Woltering 1975 , Woltering 1997 . 
+32 Kloosterhuis 1986 . 
+29 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 17 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 6 Den Burg-Nesland . 
+Overzicht van sporen ten behoeve van de bespreking van de structuren . 
+Voor het overzicht van alle sporen , zie kaart 1a tot en met kaart 1e . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 18 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Er zou ook sprake zijn van een zonering van noord naar zuid : in genoemde volgorde worden hieronder de verschillende bodemtypen verder toegelicht . 
+In het noordelijke deel van het onderzoeksgebied komen gooreerdgronden voor . 
+De enigszins heterogene bovengrond heeft een relatief laag organische stof-gehalte ; de daaronder aanwezige horizont ( C ) is wat grijsbruin van kleur . 
+Het gehalte aan roest in deze horizont is relatief laag . 
+Direct ten westen van het deelgebied ‘ Nesland ’ komen volgens de bodemkaart 1:50.000 hoge bruine enkeerdgronden voor . 
+Op deze hogere gronden is door bemesting met plaggen van de lager gelegen 33 gedeeltes in sommige gevallen een dik cultuurdek ontstaan . 
+Dit humushoudende dek haalt in de directe omgeving van het onderzoeksgebied over het algemeen een dikte van 50 tot 80 centimeter . 
+Zeer plaatselijk kan het ( binnen de gekarteerde eenheid ) echter dunner dan 50 centimeter zijn . 
+De onder het over het algemeen scherp begrensde humushoudende dek aanwezige dekzandondergrond , kan plaatselijk nog een humuspodzol-B bevatten , maar in de meeste gevallen is ook deze horizont door vergraving verdwenen . 
+In dat laatste geval bevindt het dek zich direct op het onveranderde moedermateriaal ( Chorizont ) . 
+34 Direct ten zuiden van het onderzoeksgebied komen ( vergraven ) veldpodzolgronden voor . 
+Onder de bouwvoor ( humeuze bovengrond ) bevinden zich nog resten van een vroegere inspoelingshorizont ( Bhorizont ) , maar deze is door verploeging al heterogener geworden dan ze in een volledig natuurlijke situatie zou zijn . 
+Ten zuiden van het onderzoeksgebied komen beekeerdgronden voor met een dunne humeuze bovengrond ( tot ongeveer 30 centimeter ) die duidelijk silt- en lutumrijker is dan de ondergrond . 
+Dit dek is gevormd door overstroming van het gebied vanuit het zuidelijker gelegen zeegat en haar vertakkingen . 
+35 De ondergrond ( C-horizont ) is vaak grijs en wat roestig van aard . 
+Bodemopbouw : resultaten veldonderzoek Ten behoeve van het vaststellen van de bodemopbouw , aan- of afwezigheid van een esdek en het verloop van het oude oppervlak zijn profielopnames gemaakt en hoogtes gemeten van zowel het huidige maaiveld als het vlak . 
+De diepteligging van de verschillende lagen in de bovengrond ( zie bijvoorbeeld afbeelding 8 ) is aan dit stelsel van metingen gekoppeld . 
+Zoals uit de gegevens die voorafgaand aan het veldonderzoek beschikbaar waren blijkt , is er in het onderzoeksgebied een ( dekzand ) rug aanwezig . 
+De top van deze rug bevindt zich in het zuidelijke deel van het onderzoeksgebied ( ‘ Nesland ’ ) ; ook zijn de noordelijke flank ( ‘ Verzetstraat ’ en ‘ Nesland put 6 ’ ) en 36 de bovenzijde van de zuidelijke flank ( ‘ Nesland ’ put 2 , 3 , 4 ) binnen het onderzoeksgebied aangetroffen . 
+Uit het dikteverloop van de afdekkende laag blijkt dat de grootste dikte bereikt wordt net ten noorden van de top van de dekzandrug . 
+De afdekkende laag is over de gehele noordelijke flank van de dekzandrug gemiddeld iets dikker dan op de zuidflank ( voor zover deze binnen de grenzen van het onderzoeksgebied aanwezig is ) . 
+Direct onder de top neemt de dikte van de afdekkende laag zowel op de noordelijke als op de zuidelijke flank af . 
+Lager op de flank neemt de dikte weer toe . 
+Het centrale deel van ‘ Nesland – put 7 ’ ( centraal oostelijk – afbeelding 7 ) en ‘ Verzetstraat – put 1 ’ ( de meest noordwestelijke put – afbeelding 7 ) 33 Deze cultuurdekken zijn archeologisch bijzonder vanwege de lange bewoningsgeschiedenis en goede conservering van sporen onder het dek . 
+34 Kloosterhuis 1986 35 Kloosterhuis 1986 . 
+36 Zie voor de putnummers afbeelding 2 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 19 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 20 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 7 Boven : Maaiveldhoogteverloop en hoogteligging vlak ( in meters ten opzichte van NAP ) ; Onder : dikte van de afdekkende laag ( op de C-horizont , tevens eerste vlak ) . 
+vormen de uitzonderingen op deze regel . 
+In het geval van ‘ Nesland – put 7 ’ lijkt er sprake te zijn van een 37 verdikking in de deklaag die het gevolg is van het dichtschuiven van een kleine laagte in de dekzandrug . 
+In ‘ Verzetstraat – put 1 ’ is de reeds eerder vastgestelde verstoring de mogelijke reden achter de recente 38 dikte van de deklaag . 
+Door de verstoring is het oorspronkelijke bodemprofiel verdwenen , en is er sprake van een heterogene bovengrond met een zeer scherpe ondergrens op de ( of eigenlijk in de oorspronkelijke ) C-horizont . 
+De afdekkende laag bestaat over het algemeen uit een relatief dunne bouwvoor ( S1000 ) met daaronder een ophogingslaag ( S2000 ) die bestaat uit een donkergrijs tot zwartgrijze laag humeus matig siltig zand . 
+De gecombineerde dikte van deze twee bovenste lagen in het profiel bereikt op de noordflank van de dekzandrug een dikte die in het Nederlandse bodemclassificatiesysteem leidt tot het onderbrengen in de categorie enkeerdgronden . 
+Een enkele keer ( zoals te zien in afbeelding 8 en de rechterhelft van afbeelding 9 ) wordt de minimumdikte van 50 centimeter van de humeuze bovengrond niet bereikt , en 39 zou de bodem geclassificeerd worden als een Laarpodzolgrond . 
+Verder noordwaards ( in Nesland , put 6 , en de profielopbouw in de putten van de Verzetstraat ) bereikt de deklaag meer sporadisch de voor enkeerdgronden vereiste dikte , maar de profielopbouw in deze putten wijkt af van de opbouw in putten 1 , 5 en 7 ( Nesland ) . 
+Afbeelding 8 Profiel over Spoor 25 uit Put 1 , Nesland . 
+Hier wordt de top van de dekzandrug aangesneden , en is er nog een vrijwel volledig podzolprofiel aanwezig ( S3000 , S3100 , S3200 en S5000 ; zie tevens de legenda in afbeelding 12 ) . 
+Voor ligging profiel zie kaart 2 , coupe c. Onder de afdekkende laag bevindt zich in het grootste deel van de putten aan de Verzetstraat een horizont die sterk beïnvloed is door grondwater ( schommelingen ) , en sterk door roestverschijnselen gekleurd is . 
+Dit komt meer overeen met de op de bodemkaart verder naar het zuiden verwachte beekeerdgronden ( dan met de hier vooraf verwachte gooreerdgronden ) . 
+Hoger op de ( verder naar het zuiden gelegen ) dekzandrug vindt een overgang plaats naar een door podzolering beïnvloede ondergrond . 
+De sterk door roestverschijnselen gekleurde ondergrond maakt plaats voor een meer egaal lichtblond gekleurde zandondergrond . 
+Op de lager gelegen delen van de noordflank van de dekzandrug is het podzolprofiel nog sterk afgetopt ( zoals bijvoorbeeld te zien in afbeelding 9 ) , maar op de hoger gelegen delen van de noordflank van de dekzandrug is er boven de 37 In de kolommen in afbeelding 11 is te zien dat het uitgangsmateriaal ( C-horizont ) in de zuidelijker gelegen kolom 2 dieper ligt dan in de noordelijker gelegen kolom 1 . 
+Mogelijk is mede hierdoor het podzolprofiel in kolom 2 zo goed bewaard gebleven . 
+38 Zie Woltering 1979 , 21 & ‘ Map 3 ’ . 
+39 De Bakker/Schelling 1989 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 21 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat inspoelingshorizont ( die nog aanwezig is in het profiel van afbeelding 9 ) ook een ( deel van ) de inspoelingshorizont aanwezig ( afbeeldingen 8 , 10 en 11 ) . 
+Zuidwaarts van de top van de dekzandrug echter , verdwijnt elk eventueel restant van podzolering uit het profiel . 
+In putten 2 , 3 , 4 en 8 bevindt de Chorizont zich direct onder de combinatie van bouwvoor en ( recent ) verstoorde lagen ( zie afbeelding 14 ) Afbeelding 9 Het wat lager op de noordelijke flank van de dekzandrug gelegen profiel over Spoor 56 ( Put 1 , Nesland ; kaart 2 , coupe D ) laat zien dat hier geen uitspoelingshorizont ( Ehorizont , S3000 ; zie afbeelding 12 ) meer aanwezig is . 
+Afbeelding 10 Profiel over Spoor 66 uit Put 1 , Nesland , gelegen op de noordelijke flank van de dekzandrug . 
+Ook hier is nog een vrijwel volledig podzolprofiel aanwezig , buiten het bereik van de sporen S66 , S89 en S6 ( zie uiterst rechts in het profiel ) . 
+Zie tevens afbeelding 13 ; voor de liging : kaart 2 , coupe A . In afbeelding 14 zijn de gegevens over het maaiveld- en zandhoogteverloop gecombineerd met de informatie over de bodemopbouw . 
+In deze afbeelding is te zien dat de podzoleringsverschijnselen onder de deklaag zich concentreren op de noordflank van de dekzandrug . 
+De deklaag is in dit gebied gemiddeld genomen dikker dan 50 centimeter . 
+Verder naar het zuiden en het noordwesten verdwijnt de podzolering uit het profiel en is er sprake van een AC profiel . 
+In het noorden , de putten van de Verzetstraat , is er deels nog sprake van een profiel dat als beekeerdgrond gekarakteriseerd kan worden . 
+In de zuidelijke vier putten van Nesland is het profiel vrijwel volledig verstoord – slechts de uiterste noordelijke delen van putten 2 en 8 bevatten hier nog sporen naast recente verstoringen . 
+Tot slot is ook een indruk van de spreiding van sporen en natuurlijke elementen en recente verstoringen in deze afbeelding opgenomen . 
+Hieruit blijkt dat de zone met een combinatie van dikkere deklaag en sporen van podzolering overeenkomt met de zone waarin de grootste dichtheid aan sporen ( en vondsten ) is aangetroffen . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 22 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 11 Links : Een tweede , meer westelijk gelegen profiel op de top van de dekzandrug , ter hoogte van spoor S14 ( Put 5 , Nesland ; kaart 2 , profiel B ) . 
+Rechts : Iets verder naar het ( noord ) oosten komt wat lager op de noordelijke flank ook nog een vrijwel compleet podzolprofiel voor ( Nesland put 7 ) , terwijl nog wat verder van de top van de dekzandrug verwijderd , ieder spoor van podzolering is verdwenen ( Nesland put 7 ) . 
+Voor de ligging , resp . 
+: kaart 2 , coupes F en E. Afbeelding 12 Legenda bij de profielen en coupes uit afbeeldingen 8 t/m 11 . 
+Afbeelding 13 Nesland , Put 1 , opname van ( van links naar rechts ) sporen 6 , 89 , 66 , 68 en 69 . 
+Rechts van de rechter jalon is nog net de aanzet van spoor 67 te zien ( zie tevens afbeelding 9 ) . 
+Recths van het diepste spoor ( S66 , net rechts van het midden op de foto ) is rondom de twee kleinere sporen ( S68 en S69 ) nog een deel van de inspoelingshorizont ( Bhorizont ; S S3100 ) te zien . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 23 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 14 : Geomorfologie en bodem , afgeleid uit de resultaten van het veldonderzoek . 
+Met betrekking tot het verloop van de dekzandrug is naast de ligging van de basis ( laagte ) en de top , een onderscheid gemaakt in de hoogst gelegen en laagst gelegen zones van de flanken . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 24 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 14 ( vervolg ) : De combinatie met de bodemopbouw – de aan- en afwezigheid van podzoleringsverschijnselen en de aangetroffen sporen en natuurlijke of recente elementen maken het beeld compleet . 
+3.3 Sporen en structuren De sporen zijn opgenomen in kaart 1A tot en met kaart 1E . 
+Op kaart 2 zijn de coupes aangegeven die in de rapportage worden gebeeld op kaart 3 . 
+De structuren zijn met een letter gemarkeerd op afbeelding 6 . 
+De sporen en structuren op de locatie Nesland kunnen worden onderverdeeld in kuilenkransen , cirkelvormige greppels , afgerond rechthoekige greppels , greppels en clusters van ( paal ) kuilen en kuilen . 
+De belangrijkste sporen en structuren worden hieronder besproken en zijn volgens het alfabet benoemd . 
+Kuilenkrans Kuilenkrans A , gevormd door de sporen 7 tot en met 23 , heeft een buitendiameter van bijna zes meter ( afbeelding 15 ) . 
+De kuilen hebben een uitgeloogde rand en zijn relatief ondiep ten opzichte van het vlak van de bouwput . 
+De kuilenkrans betreft de oudste structuur . 
+Op basis van de literatuur en een wandfragment aardewerk met fijne besmijting kan hij ruwweg in de Vroege IJzertijd worden geplaatst . 
+Afbeelding 15 Den Burg-Nesland . 
+Kuilenkrans A , gezien vanuit het noordwesten ( fotonr . 
+305 ) . 
+Cirkelvormige greppels In put 1 bevinden zich vier cirkelvormige greppels . 
+In het noorden liggen de cirkels B ( spoor 2 ) , C ( spoor 3 ) en D ( spoor 4 ) , die elkaar oversnijden . 
+Greppels B en C , met een buitendiameter van 5 m , hebben nog een aanzienlijke diepte van 40 cm . 
+Greppel E ( spoor 24 ) met een diameter van ca . 
+4 m ligt zuidelijker en heeft een diepte van maar liefst 70 cm . 
+In put 1 , 2 en 7 liggen verder nog delen van mogelijke kringgreppels : resp . 
+F ( spoor 130 ) , G ( spoor 1-3 ) , en H ( spoor 12 ) . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 25 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 16 Den Burg-Nesland . 
+Impressie van het vlak in het noodwestelijk deel van blok C , gezien vanuit het zuiden ( put 1 ) . 
+Afbeelding 17 Den Burg-Nesland . 
+( Paal ) kuilencluster N ( huisplattegrond ) , gezien vanuit het noordoosten ( fotonr . 
+388 ) . 
+Min of meer rechthoekige greppels met afgeronde hoeken De volgende vijf min of meer rechthoekige greppels met afgeronde hoeken zijn aangetroffen ( allen put 1 ) : I ( spoor 1 ) : lengte 6,2 m , breedte 4,4 m , diepte 90 cm ; J ( spoor 5 ) : lengte - , breedte 5,6 m , diepte 110 cm ; K ( sporen 6 , 66 ) : lengte 7,5 m , breedte 4,7 m , diepte 60 cm ; L ( spoor 93 ) : lengte - , breedte ( ca . 
+6 m ? 
+) , diepte VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 26 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 60 cm ; M ( spoor 25 ) : lengte 6,6 m ; breedte 5,3 m ; diepte 120 cm . 
+Kenmerkend aan de sporen is hun aanzienlijke diepte waarbij opvallend is dat de greppels steile wanden hebben . 
+Greppels In put 1 komt een min of meer noord-zuid lopende greppelbundel voor , die ouder lijkt te zijn dan de greppels die min of meer loodrecht oost-west daarop georiënteerd zijn ( afbeelding 16 ) . 
+Kuilen Prehistorische kuilen zijn zo goed als afwezig . 
+Alleen aan de noordzijde , in het profiel van put 1 is een kuil aanwezig met een diepte tot 0 m +NAP ( spoor 56 ; afbeelding 9 ) en in put 6 een kuil met een diepte van 0,35 m +NAP ( spoor 4 ) . 
+Kuil 56 is ouder dan de greppel met spoornummer 37 . 
+Ook hier is de min of meer loodrecht insteek van kuil 56 onderwerp van discussie . 
+Het is lastig voor te stellen dat de kuil zonder wandbekleding lang heeft gefunctioneerd . 
+Of de kuil als ‘ waterput ’ dienst heeft gedaan is niet te 40 zeggen . 
+In put 7 is een ( water ? 
+) kuil aanwezig waarin zich een min of meer complete kogelpot bevond ( zie afbeelding 23 ) . 
+Het betreft hier een van de schaarse aanwijzingen voor activiteit in de Vroege 41 Middeleeuwen . 
+Cluster van paalgaten en/of paalkuilen In cluster N is de structuur van een gebouw te onderscheiden . 
+Het betreft de staanders van vijf gebinten ( afbeelding 18 ; spoornummers 82-83/84-85 , 81/86 , 80/87 , 114/101 en 113/105 ) . 
+De afstand tussen de staanders binnen het gebint bedraagt ca . 
+2,8 m ; tussen de gebinten onderling is de afstand resp . 
+2,0 , 1,8 , 1,75 en 1,8 m ( totaal 7,2 m ) . 
+In een aantal paalkuilen is het paalgat goed te onderscheiden ( diepte sporen nog 20-30 cm onder het opgravingsvlak ) . 
+Van de wand van het gebouw zijn op de diepte van het opgravingsvlak geen sporen bewaard gebleven . 
+Voor een parallel van de opgraving aan de Beatrixlaan kan gewezen worden op iets oudere gebouwen R , S , T en in mindere mate gebouw Y op site XIII . 
+De plattegronden dateren 42 volgens de opgraver uit de tweede helft van de Midden-IJzertijd . 
+De gebouwen worden als boerderijen geïnterpreteerd . 
+e In de periode van de bewoning van Nesland/Verzetstraat in de 2 eeuw v. Chr . ( vroege streepbandperiode ) is aan de Beatrixlaan nauwelijks bewoning bekend . 
+De verklaring daarvoor is dat aldaar toen op 43 veel plaatsen zandverstuivingen optraden , mogelijk als gevolg van een grondwaterstandverlaging . 
+Alleen in het uiterste noordwesten van het opgravingsterrein is in sporencluster I vroeg streepbandaardewerk aangetroffen . 
+In de cluster zijn twee delen van elkaar ( deels ) overlappende 44 huisplattegronden met een afstand van 3 m tussen de staanderrijen waargenomen . 
+Paalsporencluster O in Nesland put 1 heeft mogelijk ook een plattegrond opgeleverd , die echter door de rechthoekige greppelstructuur M is verstoord . 
+Spoornummers 73 en 74 vormen mogelijk een van de gebinten . 
+40 Zie voor een verdere discussie : Woltering 2000 , 79-89 . 
+Zie voor de bewoning en de ringwalburg in het centrum van Den Burg in de 7e/8e eeuw na Chr . : Woltering 2002 ; Van Heeringen et al . 
+2008 ; een randfragment draaischijfaardewerk uit dezelfde periode is afkomstig uit de prehistorische greppel van spoor 63 in put 1 ( vondstnr . 
+3 ) . 
+42 Woltering 2000 , 49-52 ; zie ook Woltering 1994 . 
+43 Het ontbreken van bewoning heeft ook geleid tot een ‘ natuurlijke ’ cesuur in de verslaglegging van het grootschalige onderzoek aan de Beatrixlaan . 
+De publicatie van de bewoningssporen uit de tweede helft van de Late IJzertijd tot Middeleeuwen wordt in 2015 verwacht . 
+44 Woltering 1975 : 24-26 ( N.B . 
+: cluster I : oude nummering ) ; Woltering 2000 , bijlage 3 , grijs gemarkeerd . 
+Zie ook Woltering 1994 , Fig . 
+8.5 , kaartje F , cluster I . 
+41 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 27 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Afbeelding 18 Sporencluster N met gepaarde gebint-stijlen die tezamen een huisplattegrond vormen . 
+Oriëntatie sporen ten opzichte van de dekzandrug Op basis van de aardewerkanalyse is binnen de dateringsperiode van de eerste helft van de Late IJzertijd geen nadere fasering van de sporen aan te brengen . 
+De grote hoeveelheid aardewerk wijst in ieder geval op bewoning ter plaatse . 
+Dit wordt bevestigd door de palenclusters die deels te herleiden zijn tot gebouwplattegronden . 
+Gezien de oversnijdingen lijkt zich echter bij de greppels gedurende de dateringsperiode een oriëntatiewisseling te hebben voorgedaan . 
+De NNW-ZZO lopende greppels met bijvoorbeeld spoornummers ( put 1 ) 61 , 63 , bundel 60/99/100/115 , 133 37 , 100 en 16 ( put 5 ) worden veelvuldig oversneden door min of meer loodrecht daarop staande greppels zoals bijvoorbeeld spoor 62 , 65 , 125 , 112 ? 
+in put 1 . 
+Toewijzing van de kringgreppels en rechthoekige greppels tot deze ‘ eerste ’ of ‘ tweede ’ fase lijkt op basis van de greppeloverschrijdingen in individuele gevallen mogelijk . 
+Aangezien de oriëntatie van de rechthoekige greppels zich voegt naar de beide loodrecht op elkaar staande greppelsystemen , lijken de greppels en de cirkelvormige en rechthoekige greppels dus met elkaar in verband te staan . 
+3.4 Vondstmateriaal Handgevormd prehistorisch aardewerk In de sporen is in het totaal meer dan 12 kilogram handgevormd prehistorisch aardewerk aangetroffen . 
+Een ruime selectie is getekend , waaronder bijna alle randfragmenten ( afbeelding 20 ) . 
+De scherven zijn relatief groot , soms lijken ze te behoren een groot deel van één en dezelfde pot , maar veelal betreft het vermoedelijk slecht een of enkele scherven van een pot en mist de rest . 
+Deels kan dit verklaard worden VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 28 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat doordat het ‘ opgravingsvlak ’ te diep was gelegen . 
+Dit wordt bevestigd door de door G. van Noort aangetroffen fragmenten van één complete pot in spoor 25 ( deels hoger in het profiel ( afbeelding 1b , afbeelding 21 , nr . 1 ) . 
+Ook bij de latere uitbreiding van put 1 op deze locatie bleek hoger in het spoor zich het meeste aardewerk te bevinden . 
+Het aardewerk maakt een zeer uniforme indruk . 
+Het betreft overwegend S-vormige potten die glad of 45 gepolijst zijn afgewerkt . 
+De randdiameter kan groot zijn , bijvoorbeeld 32 cm , maar kleine potjes met een randdiameter van 11 cm komen ook voor . 
+Van de 32 randfragmenten dragen er 10 een randversiering aan de buitenzijde van de rand , meestal in de vorm van een ‘ kartel- of golfrand ’ ( afbeelding 19 links ) . 
+Eenmaal zijn kleine ronde vingertopindrukken bovenop de rand geplaatst , soms zijn vingerafdrukken aan de binnenzijde van de rand aanwezig . 
+De overige randen zijn glad afgewerkt waarbij soms een rand aan de bovenzijde iets is afgevlakt . 
+Facettering komt echter niet . 
+Sommige potten hebben een relatief nauwe hals met een bolle buik . 
+Dit gaat gepaard met één of twee oren ter weerszijde op de schouder . 
+Dit lijkt ook gecombineerd te worden met twee of drie groeflijnen , hetgeen als vroeg ‘ streepband aardewerk ’ kan worden aangeduid . 
+Ook bredere groeven komen voor . 
+Eénmaal is de schouder versierd met een golflijn met cirkels . 
+Op basis van de aardewerkkenmerken kan geen faseonderscheid in het aardewerkrepertoire worden aangebracht . 
+Het overgrote deel van de aardewerkfragmenten is in de kern diep zwart met zowel aan het buiten- als aan het binnen oppervlak rossige en rode tinten ( afbeelding 19 ) . 
+Het aardewerk is uitsluitend met potgruis/kleipartikels gemagerd wat vaak als donkerrode stipjes in de kleimatrix zichtbaar is . 
+Van de 430 als wandfragment beschreven scherven , zijn er 41 besmeten ( 9,5 % ) . 
+Eén fragment is versierd met vingertopindrukken. , twee dragen kamversiering . 
+De gemiddelde wanddikte van de wandfragmenten bedraagt 9,7 mm . Bij de 43 bodemfragmenten kan worden vastgesteld dat zij recht of met een zeer kleine standvoet is de bodemplaat overlopen . 
+De diameter varieert van 6 tot 14 cm , een diameter van 10 cm komt het meeste voor ( vijfmaal ) . 
+Bijzondere aardewerk vormen betreffen een massieve kleiplaat ( diameter 11 cm , dikte 2-2,5 cm ; afbeelding 21 , nr . 7 ) en een ‘ holle cilinder met een bodem ’ ( afbeelding 21 , nr . 5 ; afbeelding 22 ) , beiden met eenzelfde baksel als het andere aardewerk . 
+Afbeelding 19 Twee voorbeelden van het handgevormde gebruiksaardewerk uit de Late IJzertijd . 
+46 Over de datering en de culturele duiding kan het volgende worden gezegd . 
+Als daterende elementen kunnen worden aangemerkt : uitsluitende potgruisverschaling , afwezigheid van gefacetteerde randen , rossige kleur van het aardewerk met donkerrode verschraling ( potgruis/aardewerkspartikels ) , zeer gering percentage versiering , een zeer gering percentage besmeten aardewerk ; , randversiering bijna uitsluitend 45 46 Het exacte onderlinge percentage is door de verwering niet te bepalen . 
+Als referenties zijn gebruikt : Van Heeringen 1989 , 192a-c ; Taayke 1990a-b , 1996 ; Woltering 1975 , 1979 , 1994 , 1997 , 2000a-b ; VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 29 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat aan de buitenzijde van de rand , waaronder golfranden , versiering op overgang van schouder naar hals ( ‘ streepband ’ ) , versiering op schouder ( groeven , golvende lijnen , cirkels ) en oren ( deels met versiering ) . 
+Afbeelding 20 Handgevormd aardewerk Den Burg-Nesland en Den Burg ( Verzetstraat ) ( cursief ) . 
+Late IJzertijd . 
+Schaal 1:3 . 
+Legenda ( spoornummer met tussen haakjes vondstnummer ) : 1 : 56 ( 18 ) ; 2 : 100 ( 55 ) ; 3 : 3 ( 16 ) ; 4 : 25 ( 19 ) ; 5 : 6 ( 10 ) ; 6 : 2 ( 15 ) ; 7 : 130 ( 69 ) ; 8 : 130 ( 69 ) ; 9 : 25 ( 45 ) ; 10 : .. ( 2 ) ; 11 : .. ( 2 ) ; 12 : .. ( 2 ) ; 13 : 23 ( 59 ) ; 14 : 56 ( 2 ) ; 15 : 56 ( 2 ) ; 16 : 81 ( 44 ) ; 17 : 25 ( 48 ) ; 18 : 25 ( 45 ) ; 19 : 56 ( 18 ) ; 20 : .. ( 5 ) ; 21 : 100 ( 55 ) . 
+e Op basis van de hier genoemde kan het aardewerk worden gedateerd in de 2 eeuw voor Chr . en worden omschreven als Fries aardewerk uit de ‘ vroege streepbandfase ’ . 
+Typologisch lijkt een grote overeenkomst 47 aanwezig met het materiaal opgegraven aan de Hollewalsweg in 1966 . 
+Mogelijk is zelfs sprake van éen 47 Woltering 2000b , 196-19 ; 236-239 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 30 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat en hetzelfde nederzettingsterrein . 
+Ook van de vindplaats aan de Beatrixlaan is dergelijk aardewerk bekend . 
+Afbeelding 21 Handgevormd aardewerk Den Burg-Nesland en Den Burg ( Verzetstraat ) ( cursief ) . 
+Late IJzertijd . 
+Schaal 1:3 . 
+Legenda ( spoornummer met tussen haakjes vondstnummer ) : 1 : 25 ( 90 ) ; 2 : 25 ( 77 ) ; 3 : 6 ( 7 ) ; 4 : 25 ( 45 ) ; 5 : 88 ( 41 ) ; 6 : 25 ( 45 ) ; 7 : 25 ( 14 ) ; 8 : 6 ( 8 ) ; 9 : 66 ( 35 ) ; 10 : 25 ( 11 ) ; 11 : .. ( 5 ) ; 12 : .. 5 ) . 
+Afbeelding 22 Foto van het cilinder-vormige object van handgevormd aardewerk , zie afbeelding 20 , nr . 5 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 31 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Natuursteen ( Late IJzertijd-context ) Uit verschillende sporen is wat steenmateriaal verzameld in de vorm van natuursteen in afgeronde vorm . 
+Er is geen basaltlava aangetroffen . 
+Ecologisch materiaal Tijdens het onderzoek is geen botmateriaal aangetroffen met uitzondering van versplinterde tandkapsels ( vndst.nr . 
+49 ) . 
+Ten behoeve van het botanische onderzoek zijn 20 monsters genomen ( plastic emmers met een inhoud van 15 liter ) . 
+Voor de bespreking zie hoofdstuk 4 . 
+Handgevormd en gedraaid aardewerk ( Vroege Middeleeuwen ) Aan de periode van de Vroege Middeleeuwen is één spoor toe te schrijven en wel een als waterkuil geïnterpreteerde kuil ( afbeelding 23 ) . 
+Verder is een klein protosteengoed ( spoornummer 2000 , vlak 103 ; vndst.nr . 
+3 ) en een rand- en wandfragment vroegmiddeleeuws gedraaid aardewerk ( Nesland put 1 , sp.nr . 
+63 , vndst.nr . 
+3 en put 1 , sp.nr . 
+2 , vndst.nr . 
+1 ) . 
+De laatste draagt fijne radstempelversiering . 
+Afbeelding 23 Handgevormd aardewerk ( kogelpot ) Den Burg-Nesland . 
+Vroege Middeleeuwen . 
+Schaal 1:3 . 
+Legenda : spoornummer 4 ( vondstnummer 8 ) Overig vondstmateriaal ( Nieuwe Tijd ) Uit de Nieuwe Tijd waren twee kuilen aanwezig die subrecent afval bevatten , bestaande uit serviesgoed , kruiken en flesjes . 
+Afbeelding 24 Den Burg-Nesland . 
+Gebruiksaardewerk , kruiken en flasjes van steengoed , porselein en glas . 
+Put 2 , spoornummer 7 en 8 ( zie kaart 1A ) . 
+Datering : Nieuwe Tijd . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 32 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 4 4.1 Archeobotanisch onderzoek ( K. Hänninen ) Inleiding Tijdens het onderzoek op de lokatie Nesland zijn sporen uit de Late IJzertijd en een vroegmiddeleeuwse waterkuil aangetroffen . 
+De ijzertijdsporen betreffen kuilenkransen , cirkelvormige greppels , rechthoekige greppels met afgeronde hoeken , overige greppels en clusters van ( paal ) kuilen en kuilen . 
+Doel hiervan was informatie te achterhalen over de gebruikte gewassen en de vegetatie en meer inzicht te krijgen in de functie van de sporen . 
+Texel was lange tijd verbonden met het Drents-Friese plateau . 
+Pas zo ’ n 5.000 jaar geleden drong de zee door in het westelijke deel van de huidige Waddenzee . 
+Rondom de centrale kern van Texel vormden zich uitgestrekte veenmoerassen , waardoor het bewoonbare areaal steeds kleiner werd en zich beperkte tot de hoger gelegen gebieden , veelal dekzandruggen . 
+De dekzandruggen waarop de onderzoekslocaties Nesland en Beatrixlaan liggen zijn hier voorbeelden van . 
+4.2 Materiaal en methode 48 Uit in totaal twintig sporen zijn grondmonsters genomen voor archeobotanisch onderzoek . 
+Deze zijn gezeefd over een set zeven met maaswijdtes van 0,25 , 0,5 , 1 en 2 mm en vervolgens geïnventariseerd . 
+Op basis van de resultaten ( tabel 4 ) zijn in overleg negen monsters , rijk aan verkoolde macroresten , geselecteerd voor analyse . 
+Een overzicht van de geanalyseerde monsters met hun contextgegevens wordt in tabel 5 gegeven . 
+Bij de inventarisatie en analyse is een opvallend-lichtmicroscoop met vergrotingen tot 40x gebruikt . 
+4.3 Resultaten en discussie De resultaten van het macroresten onderzoek staan weergegeven in tabel 7 . 
+Aangezien één van de vraagstellingen gaat over de functie van de verschillende contexten , worden de resultaten per context besproken . 
+Het overgrote deel van het materiaal is verkoold . 
+Slechts enkele zaden zijn onverkoold , alle robuuste soorten . 
+Het is niet geheel duidelijk of ze in de IJzertijd gedateerd kunnen worden of subrecent zijn . 
+Opvallend is dat er in de monsters nauwelijks verkoold hout is aangetroffen . 
+Wel zijn er verkoolde resten van heidetakjes aanwezig . 
+Mogelijk werd er vanwege gebrek aan goed brandhout heide gebruikt als brandstof . 
+Over het algemeen wordt aangenomen dat verkoolde zaden van wilde planten afkomstig zijn van planten 49 die samen met het graan op de akkers stonden . 
+De verkoolde zaden van wilde planten die samen met verkoold graan worden aangetroffen geven daarmee informatie over de omstandigheden op de akkers . 
+Door bemesting konden soorten uit diverse milieus op de akkers terechtkomen . 
+Omdat de onkruidbestrijding minder goed was en omdat de akkers niet zo egaal en regelmatig waren als ze tegenwoordig zijn , konden planten uit verschillende milieus toch bij elkaar op de akker groeien . 
+Omdat voor Nesland aanwijzingen zijn gevonden voor het gebruik van heide als brandstof kunnen de zaden van wilde planten ook uit heidevegetaties afkomstig zijn . 
+Wellicht zijn ook andere brandstoffen gebruikt , zoals gedroogde mest , strooisel of plaggen , al zou je hierbij ook verkoolde brokjes van de matrix verwachten . 
+Deze zijn echter niet gevonden . 
+48 Het verslag in dit hoofdstuk is ook apart opgenomen in een BIAX-rapport : Hänninen 2013 . 
+Tijdens het proces van schonen van graan kan vuur zijn gebruikt om het kaf bros te maken zodat het gemakkelijker van de korrels verwijderd kon worden ( eesten ) en het afval ( kaf + verwijderde onkruiden ) kon worden verbrand . 
+Ook tijdens het koken konden ongelukjes gebeuren waarbij graan ( + niet verwijderde onkruiden ) verkoolde ( Hillman 1984 ; Van der Veen 2007 ) . 
+49 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 33 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat De meeste monsters zijn zodanig rijk aan botanische macroresten ( 61-89 resten/liter , zie tabel 6 ) dat het 50 onwaarschijnlijk is dat het gaat om nederzettingsruis . 
+De overige geanalyseerde monsters zijn minder rijk ( 7,7-11,6 resten/liter ) . 
+Mogelijk gaat het hierbij wel om ruis . 
+In tabel 6 wordt een overzicht gegeven van de rijkdom van de monsters en de verdeling van de resten over cultuurgewassen , kaf en wilde planten . 
+Het aandeel wilde planten is in alle monsters hoog . 
+Kuilenkrans ( VIJT ) Kuilenkrans A , gedateerd in de Vroege-IJzertijd , heeft een buitendiameter van bijna zes meter . 
+De kuilen zijn relatief ondiep . 
+De sporen 12 ( vnr . 
+83 ) en 14 ( vnr . 
+86 ) zijn onderzocht . 
+Er zijn enkele graankorrels aangetroffen , waaronder naakte en bedekte gerst ( Hordeum vulgare var . 
+nudum en var . 
+vulgare ) en emmertarwe ( Triticum dicoccon ) . 
+Het percentage cultuurgewassen in vondstnummer 86 is met 2,6 % het laagste van de rijke monsters ( zie tabel 6 ) . 
+Aan wilde planten zijn soorten van akkers , storingsplanten , water- en oeverplanten en heiden en vennen aanwezig . 
+Het aandeel akkeronkruiden is relatief klein . 
+Opvallend is het voorkomen van zaden van waterranonkel ( Ranunculus aquatilis-type ) en fonteinkruid ( Potamogeton ) , planten die in het water groeien . 
+Waterranonkels ( en enkele fonteinkruidsoorten ) zijn goed bestand tegen het droogvallen van 51 hun groeiplaats . 
+Zaden van deze groep worden slechts zelden in verkoolde staat gevonden . 
+Wellicht hebben we hier te maken met het verzamelen van oeverplanten als vloer- of dakbedekking of als 52 brandstof , zoals wordt verondersteld voor Romeins Ockenburg . 
+Het zou echter ook om een heel natte plek in de akker kunnen gaan . 
+Rechthoekige greppels met afgeronde hoeken ( LIJT ) Van de vijf min of meer rechthoekige greppels met afgeronde hoeken die zijn aangetroffen zijn de greppels L ( spoor 93 , vnr . 
+29 ) en M ( spoor 25 , vnr . 
+32 en 79 ) botanisch onderzocht . 
+Kenmerkend aan de sporen is hun aanzienlijke diepte , waarbij opvallend is dat de greppels steile wanden hebben . 
+Greppel L heeft een onbekende lengte en een breedte van ca . 
+6 m. De diepte bedraagt 60 cm . 
+Greppel M heeft een lengte van 6,6 m , een breedte van 5,3 m en een diepte van 120 cm . 
+Vooral in de beide monsters uit greppel M is relatief veel graan aangetroffen ( zie tabel 6 ) . 
+Het grootste deel betreft gerst . 
+Door de matige conservering kon niet van elke korrel worden nagegaan of het om de bedekte of de naakte variant gaat , maar beide zijn aanwezig . 
+Naast gerst zijn ook emmertarwe en haver ( Avena ) aangetroffen . 
+Bij het laatstgenoemde taxon kan niet worden vastgesteld of het om het onkruid oot ( Avena fatua ) of om de gecultiveerde haver ( Avena sativa ) gaat . 
+Hiervoor zijn bepaalde kafresten nodig , die tijdens het onderzoek niet zijn aangetroffen . 
+In de IJzertijd is de cultuursoort wel bekend , 53 maar wordt waarschijnlijk nog niet als apart gewas verbouwd . 
+Van gerst en emmertarwe zijn naast korrels ook kafresten gevonden , zij het in lage percentages ( 0,52,3 % ) . 
+Bij het dorsen van gerst wordt de aarspil gebroken waardoor de korrels loslaten . 
+Dit gebeurt in een vroeg stadium van het schonen van het graan en daarom wordt aangenomen dat aarspilfragmenten ( internodia ) van gerst een aanwijzing vormen voor lokale verbouw van deze soort . 
+Voor de aarvorkjes van emmertarwe geldt dat niet . 
+Deze laten moeilijk los van de korrels en worden meestal pas kort voor consumptie verwijderd . 
+De emmer kan dus zijn ingevoerd . 
+Naast deze granen zijn in greppel M verkoold lijnzaad ( Linum usitatissimum ) en onverkoolde vlierpitten ( Sambucus nigra ) aangetroffen . 
+Lijnzaad of vlas is een oud cultuurgewas dat werd verbouwd om zijn oliehoudende zaden ( lijnolie ) en de vezels in de stengels waar textiel van kan worden gemaakt ( linnen ) . 
+50 Nederzettingsruis is materiaal dat afkomstig is van meerdere handelingen en dat per ongeluk in een spoor terecht is gekomen ( weinig zaden , geen samenhang ) . 
+Dit in tegenstelling tot assemblages die door één of hooguit enkele handelingen zijn ontstaan ( veel zaden , wel samenhang ) . 
+51 Van der Meijden 1983 ; het gaat dan om duizendknoopfonteinkruid ( P. polygonifolius ) en ongelijkbladig fonteinkruid ( P. gramineus ) . 
+52 Van Beurden et al . 
+2007 , 16 . 
+53 Bakels 1997 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 34 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Vlierbessen kunnen worden gegeten , maar zoals gezegd zou het hier ook om subrecente zaden kunnen gaan . 
+Wat wilde planten betreft is het grootste deel afkomstig van akkeronkruiden . 
+Een groot deel van de aangetroffen akkeronkruiden komt voor in akkers op droge , voedselarme tot matig voedselrijke zandige 54 bodems , zoals de dekzandruggen . 
+Dit zijn schapenzuring ( Rumex acetosella ) , spurrie ( Spergula arvensis ) , hanenpoot ( Echinochloa crus-galli ) en eenjarige hardbloem ( Scleranthus annuus ) . 
+Soorten als vogelmuur ( Stellaria media ) , uitstaande melde/spiesmelde ( Atriplex patula/prostrata ) , melganzenvoet ( Chenopodium album ) , perzikkruid ( Persicaria lapathifolia ) ) en ringelwikke/vierzadige wikke ( Vicia hirsuta/tetrasperma ) groeien onder meer op voedselrijkere akkers en tuinen . 
+Mogelijk wijst dit op bemesting van ( een deel van ) de akkers . 
+Varkensgras ( Polygonum aviculare ) , glad vingergras ( Digitaria ischaemum ) en grote weegbree ( Plantago major ) zijn zogenaamde tredplanten . 
+Zij groeien op veelbetreden plaatsen , bijvoorbeeld op het erf of op wegen en paden . 
+Opvallend is het zaadje van stomp en bleek kweldergras ( Puccinellia distans ) , een plant uit zilte milieus . 
+Van dit taxon bestaan twee ondersoorten . 
+De meer algemene ( stomp kweldergras , ssp . 
+distans ) is kenmerkend voor zilte en/of stikstofrijke gronden waarvan de bodem verdicht is door betreding , berijding en/of sterke waterstandswisselingen , bijvoorbeeld op de vertrapte oevers van drinkpoelen , in wagensporen en op sloottaluds . 
+Soms groeit hij ook op mesthopen . 
+De andere ondersoort ( bleek kweldergras , ssp . 
+borealis ) groeit op vochtige , matig stikstofhoudende , ’ s zomers eventueel oppervlakkig 55 uitdrogende grond met een sterk wisselend zoutgehalte . 
+Storingsplanten , zoals zilverschoon ( Potentilla anserina ) en behaarde boterbloem ( Ranunculus sardous ) , groeien goed op plaatsen met een wisselende waterhuishouding en een verdichte bodem . 
+Hierbij kan gedacht worden aan vegetaties langs drinkpoelen en greppels . 
+Op akkers duiden deze soorten op drassige plekken . 
+Dat delen van de akkers vochtig zijn geweest , wordt verder aangetoond door ruwe bies ( Schoenoplectus tabernaemontani ) en gewone/slanke waterbies ( Eleocharis uniglumis/palustris ) . 
+De zaden van oeverkruid ( Littorella uniflora ) duiden op ’ s zomers droogvallende oevers van schoon , voedselarm water . 
+Echte koekoeksbloem ( Silene flos-cuculi ) , smalle weegbree ( Plantago lanceolata ) en hopklaver of klaver ( Medicago/Trifolium ) zijn soorten uit graslanden . 
+De laatstgenoemde taxa worden in archeobotanische monsters echter ook veel gevonden samen met verkoold graan , waardoor mag worden aangenomen dat 56 ze ook op akkers groeiden . 
+Voorjaarszegge ( Carex caryophyllea ) en mogelijk veldbies ( cf . 
+Luzula ) zijn planten van droge graslanden . 
+Er zijn ook enkele resten van heideplanten gevonden : egelboterbloem ( Ranunculus flammula ) , struikheide ( Calluna vulgaris ) en tormentil ( Potentilla erecta ) . 
+Waarschijnlijk hebben deze soorten in de als brandstof gebruikte heide gezeten . 
+Gezien het hoge aandeel wilde planten , hun diversiteit aan standplaatsen en enkele verkoolde ( muizen ) keutels die zijn gevonden in monster 79 gaat het hier mogelijk om verbrand afval . 
+Dorsafval is niet waarschijnlijk , omdat er dan meer kafresten zouden zijn gevonden . 
+Opvallend is wel dat het veelal kleine zaden zijn : uitgaande van akkeronkruiden zouden dit de soorten zijn die door middel van zeven 57 uit de oogst zijn verwijderd . 
+Een andere mogelijkheid is dat het hier gaat om een mengsel van verschillende soorten afval . 
+Cirkelvormige greppels ( LIJT ) Er zijn vier cirkelvormige greppels gevonden . 
+Hiervan is greppel E ( spoor 24 , vnr . 
+31 ) onderzocht . 
+Deze heeft een diameter van ca . 
+4 m en een diepte van 70 cm . 
+De andere botanisch onderzochte cirkelvormige 54 Schapenzuring groeit tegenwoordig vooral in droge graslanden ( zie bijlage 2 ) , vroeger was het echter een veel voorkomend onkruid in graanakkers . 
+55 Weeda et al . 
+1994 , 98 . 
+56 Archeobotanische database RADAR . 
+57 Hillman 1984 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 35 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat greppel is greppel G ( spoor 1 , vnr . 
+89 ) , een mogelijke kringgreppel . 
+Beide sporen zijn rijk aan verkoolde plantenresten . 
+Ook hier zijn graankorrels gevonden , al gaat het om relatief kleine hoeveelheden ( zie tabel 2 ) . 
+Het betreft gerst ( korrels en internodia ) , een haverkorrel en twee aarvorkjes van emmertarwe . 
+In greppel E is daarnaast lijnzaad aangetroffen . 
+Van de gerst kon één korrel gedetermineerd worden als de naakte variant . 
+De wilde planten zijn grotendeels dezelfde als die uit de rechthoekige greppels . 
+Opvallend zijn de aanwezigheid van fonteinkruid , wolfspoot ( Lycopus europaeus ) en de grote hoeveelheid zaden van oeverkruid ( N=102 ) . 
+Wellicht waren er veel of grote natte plekken in de akkers aanwezig en/of heeft men oeverplanten verzameld . 
+De zaden van heideplanten kunnen ook hier afkomstig zijn van verbrande heide . 
+Greppel ( LIJT ) Vondstnummer 33 is afkomstig uit een greppel ( spoor 100 ) . 
+Er lijken in Nesland twee loodrecht op elkaar staande greppelsystemen te bestaan , die een verband lijken te hebben met de cirkelvormige en rechthoekige greppels . 
+In de onderzochte greppel zijn relatief weinig resten aangetroffen , mogelijk gaat het hier om ruis . 
+Het betreft één gerstkorrel en enkele zaden van wilde planten , met name akkeronkruiden en soorten uit vochtige/natte milieus . 
+Kuil ( VME ) Vondstnummer 84 is afkomstig uit een vroegmiddeleeuwse ( water ? 
+) kuil ( spoor 4 ) . 
+Het betreft hier een van de schaarse aanwijzingen voor activiteit in deze periode . 
+Het monster is niet erg rijk aan plantenresten , mogelijk betreft het ruis . 
+Gerst en mogelijk haver zijn de aangetroffen cultuurgewassen . 
+Emmertarwe en vlas waren wel bekend in deze periode , maar resten ervan onbreken in dit monster . 
+Het aantal zaden van wilde planten is beperkt : het gaat om melganzenvoet , schapenzuring , smalle weegbree , hopklaver/klaver , ringelwikke of vierzadige wikke , zwaluwtong of gewoon varkensgras en mogelijk gewone spurrie . 
+Resten van planten uit heide en vennen ontbreken . 
+In dit monster zijn ook geen resten van heidetakjes aangetroffen . 
+4.4 Vergelijking met de opgraving Beatrixlaan De grootschalige opgravingen aan de Beatrixlaan hebben veel met Nesland vergelijkbare contexten opgeleverd . 
+Sporen uit de Late-IJzertijd ontbreken . 
+Er zijn 170 kuilenkransen aangetroffen , waarvan wordt aangenomen dat ze werden gegraven in een ongestoorde , nog niet geploegde ( heide ) bodem , langere tijd open lagen en pas in een latere fase opgevuld werden . 
+De kuilenkransen zijn niet in directe zin geassocieerd met andere nederzettingssporen . 
+Slechts vijf exemplaren hebben vondstmateriaal opgeleverd . 
+Voor Den Burg-Beatrixlaan zijn nooit aanwijzingen gevonden voor hun economische functie , zoals bijvoorbeeld opslag van graan of stro . 
+Voor een rituele verklaring zijn evenmin aanwijzingen voorhanden . 
+De kuilen bevatten vooral heidepollen . 
+Een mogelijke verklaring die overblijft is dat het terrein binnen de cirkels diende voor het drogen of composteren van heideplaggen voor gebruik als 58 strooisel in de stal van de boerderij . 
+Een kuilenkrans uit de Midden-Bronstijd van de opgraving 59 Beatrixlaan heeft geen zaden opgeleverd . 
+Op basis van het botanisch onderzoek aan de kuilenkrans van Nesland kan dit niet worden bevestigd . 
+Er zijn wel soorten uit heidevegetaties aangetroffen , maar ook wat graan en een breed scala aan wilde planten . 
+Bovendien is het materiaal verkoold en dat zou bij drogen of compostering van heideplaggen niet het geval zijn . 
+De cirkelvormige en rechthoekige greppels bevatten naast cultuurgewassen vooral akkeronkruiden , grasland- en oeverplanten , waarschijnlijk alle afkomstig van akkers . 
+Voor de functie van deze sporen , die 58 59 Zie paragraaf 2.3 . 
+Een kuilenkrans uit de Midden-Bronstijd van de opgraving Beatrixlaan heeft geen zaden opgeleverd ( Van Zeist 1996-1997 ) . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 36 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 60 ook tijdens de opgraving aan de Beatrixlaan zijn gevonden , is geen directe verklaring voorhanden . 
+Door het ontbreken van crematieresten in het centrum of in de vulling van de greppels ligt een verklaring als funerair object niet voor de hand . 
+Geopperde verklaringen liggen in de sfeer van de agrarische bedrijfsvoering : ontwateringgreppels rond hooimijten , rond nog niet gedorst graan of om stro . 
+Ook mestverwerking en compostering komen in aanmerking . 
+Het botanisch onderzoek aan de cirkelvormige en rechthoekige greppels van Nesland geeft hier helaas geen aanwijzingen voor . 
+61 Van de opgravingen aan de Beatrixlaan is een aantal IJzertijdmonsters botanisch onderzocht . 
+Het gaat dan om monsters uit de Vroege- en Midden-IJzertijd , terwijl de opgraving Nesland met name sporen uit de Late-IJzertijd bevat . 
+Aan de Beatrixlaan waren ook diepere sporen aanwezig , waardoor ook onverkoold materiaal bewaard is gebleven . 
+Helaas wordt er weinig informatie gegeven over de precieze contexten van de onderzochte monsters . 
+De meeste zijn afkomstig uit niet nader gespecificeerde kuilen , maar ook een mogelijke haard en een paalkuil zijn onderzocht . 
+Een aantal monsters , waaronder die uit de paalkuil , leverden grote hoeveelheden verkoold graan op . 
+Gerst en emmertarwe zijn de meest verbouwde gewassen . 
+Bij eerstgenoemde soort worden , net als in Nesland , zowel de naakte als de bedekte vorm aangetroffen . 
+Gerst lijkt het belangrijkste gewas te zijn geweest gezien de frequentie in de monsters , maar één van de graanmonsters bevat 90 % emmer . 
+Daarnaast zijn enkele korrels van haver en pluimgierst ( Panicum miliaceum ) aangetroffen . 
+Een andere mogelijke gebruiksplant was selderij ( Apium graveolens ) , die echter ook in de 62 omgeving kan zijn verzameld . 
+De monsters met verkoold materiaal zijn minder rijk dan de monsters uit Nesland . 
+Wat betreft wilde planten komen de soorten sterk overeen . 
+In onverkoolde vorm zijn meer soorten aangetroffen . 
+Voor de Vroege- en Midden-IJzertijd zijn er archeologische en schaarse botanische aanwijzingen dat de lagere delen van het landschap nu ook beakkerd werden , in tegenstelling tot de Bronstijd . 
+De onderzochte monsters uit de Late-IJzertijd uit Nesland bevatten eveneens veel soorten uit vochtige en natte milieus . 
+Mogelijk is ook dit een aanwijzing voor de ligging van de akkers in lagere delen van het landschap . 
+60 Zie paragraaf 2.3 . 
+Van Zeist 1996-1997 . 
+62 De vroegste aanwijzingen voor het gebruik van selderij dateren uit de Romeinse tijd . 
+Voor die tijd zijn er alleen vondsten uit het kustgebied , waar selderij van nature voorkomt . 
+61 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 37 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 38 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat 5 Conclusies en synthese Bodemkundige situatie Podzoleringsverschijnselen onder de deklaag concentreren zich op de locatie Nesland op de noordflank van de dekzandrug . 
+De deklaag is in dit gebied gemiddeld genomen dikker dan 50 centimeter . 
+Nog verder naar het noorden , de putten van de Verzetstraat , is er deels nog sprake van een profiel dat als beekeerdgrond gekarakteriseerd kan worden . 
+Verder naar het zuiden en het noordwesten op de locatie Nesland verdwijnt de podzolering uit het profiel en is er sprake van een zogenaamd AC-profiel . 
+In de zuidelijke deel van Nesland is het profiel vrijwel volledig verstoord . 
+De zone met een combinatie van een dikkere deklaag en sporen van podzolering lijken overeen te komen met de zone waarin de grootste dichtheid aan sporen ( en vondsten ) is aangetroffen . 
+Datering van de aangetroffen sporen In de sporen is in het totaal meer dan 12 kilogram handgevormd prehistorisch aardewerk aangetroffen . 
+De scherven zijn relatief groot , soms lijken ze te behoren een groot deel van één en dezelfde pot , maar veelal betreft het vermoedelijk slecht een of enkele scherven van een pot en mist de rest . 
+Deels kan dit verklaard worden doordat het ‘ opgravingsvlak ’ , - de bodem van de bouwput - te diep in het oude reliëf reikte waardoor alleen de onderkant van de prehistorische sporen kon worden onderzocht . 
+Het aardewerk dateert op basis van de versiering met het vroege streepband e motief uit de 2 eeuw v. Chr . 
+Er kunnen geen fasen worden onderscheiden . 
+Een kuilenkrans dateert uit de Vroege IJzertijd en een waterkuil uit de Vroege Middeleeuwen . 
+Sporen De oudste structuur betreft de gepodzoleerde kuilenkrans uit de Vroege IJzertijd . 
+Het overgrote deel van de sporen bestaat echter uit greppels , kuilen , cirkelvormig en rechthoekige greppels , lange greppels en paalkuilen/-gaten . 
+Een deel van de paalkuilen/-sporen is tot gebouwen te herleiden . 
+De e sporen dateren alle uit de 2 eeuw v. Chr . ( vroege streepband-periode ) . 
+De greppels worden in verband gebracht met drainage werkzaamheden op de noordflank van de dekzandrug . 
+De cirkels met landbouwkundige activiteiten op de top van de rug . 
+Verder is er een als waterkuil geïnterpreteerde kuil uit de Vroege Middeleeuwen aangetroffen . 
+Gebouwen Op basis van de aardewerkanalyse is binnen de dateringsperiode van de eerste helft van de Late IJzertijd geen nadere fasering van de sporen aan te brengen . 
+De grote hoeveelheid aardewerk wijst in ieder geval op bewoning ter plaatse . 
+Dit wordt bevestigd door palenclusters die deels te herleiden zijn tot gebouwplattegronden . 
+In sporencluster N in put 1 in Nesland is de structuur van een gebouw te onderscheiden . 
+Het betreft de staanders van vijf gebinten , tussen de buitenste gebinten wordt een afstand van circa 7,2 m overbrugd . 
+De afstand tussen de staanders binnen een gebint bedraagt circa 2,8 m. In een aantal paalkuilen is het paalgat goed te onderscheiden , de diepte van de sporen is vaak nog 20-30 cm onder het opgravingsvlak . 
+Van de wand van het gebouw zijn op de diepte van het opgravingsvlak geen sporen bewaard gebleven . 
+Paalsporencluster O , eveneens in put 1 in Nesland , levert mogelijk ook aanwijzingen voor eenzelfde type plattegrond , die echter door de rechthoekige greppelstructuur M is verstoord . 
+Parallellen Voor parallellen voor de bebouwing kan verwezen worden naar de opgraving aan de Beatrixlaan : de iets oudere gebouwen R , S , T en in mindere mate gebouw Y op site XIII . 
+De plattegronden dateren volgens de opgraver uit de tweede helft van de Midden-IJzertijd . 
+De gebouwen worden als e boerderijen geïnterpreteerd . 
+In de periode van de bewoning van Nesland/Verzetstraat in de 2 eeuw v. Chr . is aan de Beatrixlaan nauwelijks bewoning bekend . 
+De verklaring daarvoor is dat aldaar toen op veel plaatsen zandverstuivingen optraden , mogelijk als gevolg van een grondwaterstandverlaging . 
+Alleen in het uiterste noordwesten van het opgravingsterrein van de Beatrixlaan is in sporencluster I vroeg streepbandaardewerk aangetroffen . 
+In de cluster zijn twee delen van elkaar ( deels ) overlappende huisplattegronden met een afstand van 3 m tussen de staanderrijen waargenomen . 
+Landbouwkundige activiteit en drainage Gezien de oversnijdingen lijkt zich bij de greppels in de tweede eeuw v. Chr . een oriëntatiewisseling te hebben voorgedaan . 
+De NNW-ZZO lopende greppels in put 1 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 39 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat worden veelvuldig doorsneden door min of meer loodrecht daarop staande greppels . 
+Toewijzing van de kringgreppels en rechthoekige greppels tot deze ‘ eerste ’ of ‘ tweede ’ fase lijkt op basis van de greppeloverschrijdingen alleen in individuele gevallen mogelijk . 
+Aangezien de oriëntatie van de rechthoekige greppels zich voegt naar de beide loodrecht op elkaar staande greppelsystemen , lijken de greppels en de cirkelvormige en rechthoekige greppels dus met elkaar in verband te staan Ze zijn veelal niet toe te wijzen aan een van beide ‘ fasen ’ . 
+Bestaanseconomie In de botanische monsters van Nesland uit het begin van de Late IJzertijd zijn naakte en bedekte gerst , emmertarwe , haver en lijnzaad aangetroffen . 
+Het is opmerkelijk dat er in deze periode nog naakte gerst wordt gebruikt . 
+Deze vorm wordt in de rest van Nederland in de Bronstijd vervangen 63 door de bedekte vorm . 
+Ook voor de Vroege en de Midden-IJzertijd is naakte gerst aangetoond op Texel . 
+Op basis van de aangetroffen zaden van wilde planten kan worden gesteld dat de akkers op de dekzandruggen lagen en mogelijk werden bemest . 
+Er waren ook vochtige tot natte delen in de akkers aanwezig . 
+Een andere mogelijkheid is dat er ook akkers op de lagere delen van het landschap lagen . 
+De samenstelling van de geselecteerde monsters uit de verschillende IJzertijd-contexten komt grotendeels overeen . 
+Ze zijn opvallend rijk aan zaden van wilde planten ( 88,7-95,2 % ) . 
+In combinatie met lage percentages kafresten ( 0,5-2,5 % ) is een interpretatie als dorsafval niet direct voor de hand liggend , al kan het vanwege de geringe grootte van het grootste deel van de zaden wel gaan om materiaal dat uit de oogst is gezeefd . 
+De wilde planten zijn afkomstig uit een grote verscheidenheid aan standplaatsen : akkeronkruiden , planten van vochtige en natte plaatsen , graslanden en heiden , zelfs waterplanten en een soort uit zilte milieus komen voor . 
+Of het uitsluitend om de vegetatie van de akkers gaat , waarschijnlijk met bijmenging van soorten uit de als brandstof gebruikte heide , is niet duidelijk . 
+Een andere mogelijkheid is dat het afval van gemengde herkomst betreft . 
+Naast dorsafval werd ( verkoold ) materiaal aangetroffen waar ( muizen ) keutels in zaten ( voorraad/huisafval ? ) 
+en mogelijk materiaal van de vloer en/of de stal ( strooisel , plaggen ) . 
+Omdat het materiaal uit de verschillende contexten zo gelijkvormig is , is het niet zeker of het botanisch onderzoek informatie geeft over de functie ervan . 
+Alleen de kuilenkrans lijkt een wat afwijkende assemblage te hebben met de aanwezigheid van waterplanten , al komt er ook één zaad van fonteinkruid voor in een cirkelvormige greppel uit de Late IJzertijd ( greppel G ) . 
+In de mogelijke waterkuil uit de Vroege-Middeleeuwen zijn gerst en haver aangetroffen . 
+Waarschijnlijk werden in het vroegmiddeleeuwe Nesland ook andere cultuurgewassen gebruikt , maar deze zijn in dit relatief arme monster niet aanwezig . 
+Van de haverkorrels kan niet worden aangetoond of het van het cultuurgewas of van het akkeronkruid oot afkomstig was . 
+63 Bakels 1997 , 20 . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 40 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Literatuur BAKELS , C.C. , 1997 : De cultuurgewassen van de Nederlandse Prehistorie , 5400 v.C . 
+– 12 v.C , in : A.C . 
+Zeven ( red . 
+) , De introductie van onze cultuurplanten en hun begeleiders van het Neolithicum tot 1500 AD , Wageningen , 15-24 . 
+BAKKER , H. DE/J . 
+SCHELLING , 1989 : Systeem van bodemclassificatie voor Nederland . 
+De hogere niveaus , Wageningen ( Staring Centrum ) BERENDSEN , H.J.A. , 1997 : Landschappelijk Nederland , Assen . 
+BERG , M.W . 
+VAN DEN/D.J . 
+BEETS 1987 : Saalian glacial deposits and morphology in The Netherlands , in : J.J.M . 
+van der Meer ( red . 
+) , Tills and Glaciotectonics , Balkema , Rotterdam . 
+BEURDEN , L. VAN/C . 
+VERMEEREN/J.T . 
+ZEILER , M.M.V . 
+D.C . 
+BRINKHUIZEN/L . 
+SMITS , 2007 : Graan , hout , vee en vis . 
+Botanisch , zoölogisch en fysisch antropologisch onderzoek aan sporen uit de IJzertijd , Romeinse periode en de Middeleeuwen van de vindplaats Ockenburgh ( gemeente Den Haag ) ( BIAXiaal 325 ) , Zaandam . 
+BOTTEMA , S. , 1996-1997 : The Environmental and Agricultural Practise of Bronze en Iron Age Den Burg , Texel , on the Basis of Palynological Information , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 42 , 389-406 . 
+GROOT , T.A.M . 
+DE/J . 
+DE JONG/G . 
+LENSELINK/R . 
+KOOPSTRA/L . 
+VAN DER VALK , 1994 : Holoceen . 
+De jongste ontwikkeling van het landschap , in : M. Rappol/C.M . 
+Soonius ( red . 
+) , 1994 : In de bodem van Noord-Holland ; geologie en archeologie , Amsterdam . 
+HÄNNINEN , K. , 2013 : Texel-Nesland , macroresten uit de IJzertijd en Vroege-Middeleeuwen , Zaandam ( BIAXiaal 666 ) . 
+HEERINGEN , R.M . 
+V AN , & M.C . 
+VAN TRIERUM 1985 : The Iron Age in the Western Netherlands , I : Introduction and Method of Pottery Description , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 31 , 1981 , 347-53 . 
+HEERINGEN , R.M . 
+VAN , 1989 : The Iron Age in the Western Netherlands , II : Site Catalogue and Pottery Description Map Sheet I , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 37 , 1987 , 39-121 . 
+HEERINGEN , R.M . 
+VAN , 1992A : The Iron Age in the Western Netherlands III : Site Catalogue and Pottery Description , Map Sheet 2 , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 39 , 767 . 
+HEERINGEN , R.M . 
+VAN , 1992B : The Iron Age in the Western Netherlands IV : Site Catalogue and Pottery Description , Map Sheet 3 , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 39 , 69155 . 
+HEERINGEN , R.M . 
+VAN , 1992C : The Iron Age in the Western Netherlands V : Synthesis , BROB 39 , 157-267 . 
+HEERINGEN , R.M . 
+VAN , 2012 : Woningbouwlocatie Den Burg-Nesland , gemeente Texel . 
+Programma van Eisen ten behoeve van een Archeologische Begeleiding ( AB ) / Opgraving ( DO ) , Amersfoort ( Vestigia-rapport V1052 ) . 
+HEERINGEN , R.M . 
+VAN , 2013 : Woningbouwlocatie Den Burg-Verzetstraat , gemeente Texel . 
+Programma van Eisen ten behoeve van een Archeologische Opgraving ( DO ) , Amersfoort ( Vestigia-rapport V1070 ) . 
+HESSING , W.A.M./K . 
+KLERKS/W.J . 
+WEERHEIJM , 2012 ( IN VOORBEREIDING ) : Actualisering Archeologische Beleidsadvieskaart Gemeente Texel ( Vestigia rapport V984 ) ; HILLMAN , G. , 1984 : Interpretation of Archaeological Plant Remains : the Application of Ethnographic Models from Turkey , in : W. van Zeist & W.A . 
+Casparie ( eds . 
+) , Plants and Ancient Man , Rotterdam , 1-41 . 
+KERKHOVEN , A.A./K . 
+KLERKS , 2007 : Archeologische Beleidsadvieskaart Texel , Amersfoort ( Vestigia-rapport 459 ) . 
+KLOOSTERHUIS , J.L. , 1986 : Bodemkaart van Nederland , Schaal 1:50000 , Toelichting bij het kaartblad Texel , Wageningen ( Stichting voor Bodemkartering ) . 
+LOUWE KOOIJMANS , L.P./P.W . 
+VAN DEN BROEKE/H . 
+FOKKENS/A . 
+VAN GIJN , 2005 : Nederland in de prehistorie , Amsterdam . 
+MEIJDEN , R. VAN DER , 1983 : Heukels ’ flora van Nederland , Groningen . 
+MOLENAAR , S. , 2005 : Plangebied Den Burg Volmolen en plangebied Den Burg West Gemeente Texel . 
+Een opgraving met beperkingen , Amsterdam ( RAAP-rapport 1226 ) ; VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 41 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat RAPPOL , M./A.J . 
+DE VRIES/S.J . 
+KLUIVING 1994 : De pleistocene kernen en landijsbedekking , In : Rappol , M. en C.M . 
+Soonuis ( red . 
+) , In de bodem van Noord-Holland – geologie en archeologie , Lingua Terrae RIJK , P. DE/N.M . 
+PRANGSMA , 2006 : Den Burg , Pontweg ( gemeente Texel ) . 
+Een Archeologische Opgraving , Amersfoort ( ADC-rapport 695 ) ; TAAYKE , E. , 1990A : Die einheimsiche Keramik der nördlichen Niederlande 600 v. Chr . bis 300 n.Chr . 
+: Vorbericht , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 40 , 101-107 . 
+TAAYKE , E. , 1990B : Die einheimsiche Keramik der nördlichen Niederlande 600 v. Chr . bis 300 n.Chr. , Teil I : Westergo ( Friesland ) , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 40 , 109-122 . 
+TAAYKE , E. , 1996 : Überzicht und Schlussfolgerungen , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 42 , 9-85 , 87-161 , 163-208 . 
+VEEN , M. VAN DER , 2007 : Formation Processes of Desiccated and Carbonized Plant Remains - the Identification of Routine Practice , Journal of Archaeological Science 34 ( 2007 ) , 968-990 . 
+WEEDA , E.J./R . 
+WESTRA/CH . 
+WESTRA/T . 
+WESTRA 1994 : Nederlandse oecologische flora . 
+Wilde planten en hun relaties 5 , Deventer . 
+WEERHEIJM , W.J./H.J . 
+PIERIK/R . 
+SCHRIJVERS , 2012 : Aanleg natuurvriendelijke oevers Kanaal ’ t Noorden op Texel , gemeente Texel , Ruimtelijk advies op basis van archeologisch bureauonderzoek en inventariserend Veldonderzoek , Vestigia rapport V983 , Amersfoort . 
+WEERTS , H.J.T./P . 
+CLEVERINGA/J.H.J . 
+EBBING/F.D . 
+DE LANG/W.E . 
+WESTERHOFF , 2000 : De lithostratigrafische indeling van Nederland – Formaties uit het Tertiair en Kwartair , Utrecht ( TNO-NITG ) . 
+WESTERHOFF , W.E./T.E . 
+WONG/E.F.J . 
+DE MULDER , 2003 : Opbouw van de ondergrond – Opbouw van het Neogeen en Kwartair , in : E.F.J . 
+de Mulder/M.C . 
+Geluk/I.L . 
+Ritsema/W.E . 
+Westerhoff/T.E . 
+Wong ( red . 
+) , De ondergrond van Nederland , Houten . 
+WOLTERING , P.J. , 1975 : Occupation History of Texel , I The Excavations at Den Burg : Prelimimary Report , Berichten van de Rijksdienst voor het Oudheidkundig Onderzoek 25 , 7-36 ; WOLTERING , P.J. , 1979 : Occupation History of Texel , II The Archaeological Survey ; Prelimimary Report , BERICHTEN van de Rijksdienst voor het Oudheidkundig Onderzoek 29 , 7-113 ; WOLTERING , P.J. , 1994 : Texel – landschap en bewoning van Midden Bronstijd tot Vroege-Middeleeuwen , in : M. Rappol/C.M . 
+Soonius ( red . 
+) , 1994 : In de bodem van Noord-Holland ; geologie en archeologie , Amsterdam . 
+WOLTERING , P.J. , 1997 : Occupation History of Texel , III The Archaeological Survey , Palaeogeography and Settlement Patterns , Berichten van de Rijksdienst voor het Oudheidkundig Onderzoek 44 , 209-363 ; WOLTERING , P.J. , 2000A : Occupation History of Texel , IV The Archaeological Survey , Palaeogeography and Settlement Patterns , Berichten van de Rijksdienst voor het Oudheidkundig Onderzoek 44 , 12-396 ; WOLTERING , P.J. , 2000B : The Archaeology of Texel . 
+Four Studies on Settlement and Landscape ( 1350 BC – AD 1500 ) , Amsterdam ( proefschrift ) . 
+e e WOLTERING , P.J. , 2002 : Vroeg-Middeleeuws Den Burg op Texel . 
+Een versterkte nederzetting uit de 7 -8 eeuw , in : P.J . Woltering/W.J.H . 
+Verwers/G.H . 
+Scheepstra ( red ) , Middeleeuwse toestanden . 
+Archeologie , geschiedenis en monumentenzorg , Amersfoort/Utrecht , 25-64 . 
+ZEIST , W . 
+VAN , 1996-1997 : Agriculture and Vegatation at Bronze Age en Iron Age Den Burg , Texel as reveiled by Plant Macroremains , Berichten van de Rijksdienst voor het Oudheidkundig Bodemonderzoek 42 , 365-388 . 
+ZIJVERDEN , W.K . VAN , 2007 : Fysisch geografisch onderzoek , in RIJK , P. DE/N.M . 
+PRANGSMA , 2007 : Den Burg , Pontweg ( gemeente Texel ) , Een Archeologische Opgraving , Amersfoort ( ADC Rapport 695 ) . 
+Digitale bronnen - Actueel Hoogtebestand Nederland : www.ahn.nl . 
+Archeologisch Informatiesysteem ( Archis ) : http : //archis2.archis.nl/archisii/html/index.html . 
+WatWasWaar : www.watwaswaar.nl . 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 42 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabellen , bijlage en kaarten Tabel 1-1 : Tabel 1-2 : Tabel 1-3 : Tabel 1-4 : Tabel 2-1 : Tabel 3 : Tabel 4 : Tabel 5 : Tabel 6 : Tabel 7 : Nesland , karakterisering sporen Nesland , karakterisering sporen Nesland , karakterisering sporen Nesland , karakterisering sporen Verzetstraat , karakterisering sporen Nesland en Verzetstraat , handgevormd prehistorisch aardewerk Nesland , inventarisatie archeobotanische monsters Nesland , overzicht geanalyseerde archeobotanische monsters Nesland , verzicht van de verdeling van de archeobotanische resten over cultuurgewassen , kaf en wilde planten Nesland , resultaten van de botanische analyse Bijlage 1 : Overzicht van archeologische en geologische perioden Kaart 1a : Kaart 1b : Kaart 1c : Kaart 1d : Kaart 1e : Kaart 2 : Kaart 3 : Nesland , alle sporen ( zuidelijk deel : put 2 , 3 4 en 8 ) Nesland , alle sporen ( midden deel : put 1 en 5 ) Nesland , alle sporen ( noordelijk deel : put 6 en 7 ) Verzetstraat , alle sporen ( zuidelijk deel : put 1 en 2 ) Verzetstraat , alle sporen ( noordelijk deel : put 3 en 4 ) Nesland , profiel- en coupelocaties Nesland , coupes ( selectie , gerangschikt op spoornummer ) VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 43 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 44 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 1-1 Den Burg-Nesland put- vlak- spo o rnr . 
+nr . nr . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 aard 1 kringgreppel 2 kringgreppel 3 kringgreppel 4 kringgreppel 5 kringgreppel 6 kringgreppel 7 paalkuil 8 paalkuil 9 paalkuil 10 paalkuil 11 paalkuil 12 paalkuil 13 paalkuil 14 paalkuil 15 paalkuil 16 paalkuil 17 paalkuil 18 paalkuil 19 paalkuil 20 paalkuil 21 paalkuil 22 paalkuil 23 paalkuil 24 greppel 25 greppel 26 geen spo o r 27 geen spo o r 28 paalkuil 29 paalkuil 30 greppel 31 paalkuil 32 paalkuil 33 geen spo o r 34 paalkuil 35 paalkuil 36 paalkuil 37 greppel 38 greppel 39 greppel 40 paalkuil 41 paalkuil 42 paalkuil 43 paalkuil 44 paalkuil 45 paalkuil 46 paalkuil 47 paalkuil 48 paalkuil 49 paalkuil 50 greppel 51 paalkuil 52 paalkuil 53 geen spo o r 54 paalkuil 55 kuil 56 waterkuil 57 geen spo o r 58 greppel 59 greppel 60 greppel 61 greppel 62 greppel 63 greppel in vlak in pro fiel ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig ro nd ro nd ro nd ro nd ro nd o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ko m vo rm ig ko m vo rm ig ko m vo rm ig o nregelm atig o nregelm atig ko m vo rm ig ro nd en vlak ro nd en vlak puntig ro nd en vlak ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ro nd en vlak ro nd en vlak ro nd en vlak ko m vo rm ig ko m vo rm ig ro nd en vlak ro nd en vlak ro nd ko m vo rm ig ro nd ro nd ro nd o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ko m vo rm ig o nregelm atig Tabel 1-2 Den Burg-Nesland diepte NAP in c m in m 92 40 14 52 110 60 14 18 23 37 17 10 5 12 9 4 6 9 11 16 9 18 25 72 60 0 11 8 14 10 5 18 0 4 12 10 40 5 5 4 8 8 38 48 10 4 7 14 8 10 6 10 0 6 6 0 0 10 8 29 0 45 12 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 put- vlak- spo o rnr . 
+nr . nr . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 aard 64 greppel 65 greppel 66 greppel 67 greppel 68 greppel 69 greppel 7 0 paalkuil 7 1 paalkuil 7 2 paalkuil 7 3 paalkuil 7 4 paalkuil 7 5 paalkuil 7 6 geen spo o r 7 7 geen spo o r 7 8 geen spo o r 7 9 paalkuil 80 paalgatkuil 81 paalgatkuil 82 paalkuil 83 paalkuil 84 paalkuil 85 paalgatkuil 86 paalgatkuil 87 paalkuil 88 paalkuil 89 paalkuil 90 greppel 91 greppel 92 greppel 93 greppel 94 greppel 95 greppel 96 greppel 97 greppel 98 greppel 99 greppel 100 greppel 101 paalkuil 102 geen spo o r 103 geen spo o r 104 geen spo o r 105 geen spo o r 106 paalkuil 107 geen spo o r 108 paalkuil 109 geen spo o r 110 paalkuil 111 paalkuil 112 greppel 113 paalkuil 114 paalkuil 115 greppel 116 geen spo o r 117 kuil 118 geen spo o r 119 geen spo o r 120 paalkuil 121 paalkuil 122 geen spo o r 123 paalkuil 124 kuil 125 greppel 126 geen spo o r in vlak o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd in pro fiel o nregelm atig o nregelm atig puntig ro nd rec htho ekig ro nd ro nd o nregelm atig ro nd ro nd ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ro nd en vlak vlak o nregelm atig ko m vo rm ig vlak o nregelm atig o nregelm atig ko m vo rm ig o nregelm atig ro nd en vlak ko m vo rm ig ko m vo rm ig puntig ko m vo rm ig vlak ko m vo rm ig ko m vo rm ig ro nd o nregelm atig ro nd ro nd ro nd o nregelm atig ko m vo rm ig VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 diepte NAP in c m in m 0 32 60 0 0 26 20 20 20 16 4 8 0 10 0 6 21 28 21 3 7 22 23 27 18 0 36 10 10 30 7 0 27 12 14 11 63 19 0 0 0 0 3 0 14 0 18 8 8 20 18 33 0 6 0 0 14 8 0 24 8 19 0 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 45 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 1-3 Den Burg-Nesland put- vlak- spo o rnr . 
+nr . nr . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 4 5 5 5 5 5 5 5 5 5 5 5 5 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 101 1 1 1 1 1 1 1 1 1 1 1 1 1 aard 127 geen spo o r 128 geen spo o r 129 geen spo o r 130 geen spo o r 131 paalkuil 132 paalkuil 133 greppel 134 greppel 135 paalkuil 136 geen spo o r 137 paalkuil 138 paalkuil 139 paalkuil 140 paalkuil 141 paalkuil 142 paalkuil 143 paalkuil 144 paalkuil 145 paalkuil 146 paalkuil 147 paalkuil 148 paalkuil 149 paalkuil 150 paalkuil 151 paalkuil 152 paalkuil 153 paalkuil 154 paalkuil 155 paalkuil 156 paalkuil 157 paalkuil 158 paalgatkuil 159 paalgatkuil 160 paalkuil 1 kringgreppel 2 aw-c o nc entratie 3 aw-c o nc entratie 4 aw-c o nc entratie 5 greppel 6 recent 7 recent 8 recent 9 kringgreppel 10 recent 11 recent 12 recent 13 recent 14 recent 15 recent 999 recent 5000 laag 1 paalkuil 2 paalkuil 3 paalkuil 4 paalkuil 5 paalkuil 6 geen spo o r 7 paalkuil 8 paalkuil 9 paalkuil 10 paalkuil 11 paalkuil 12 paalkuil in vlak ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd rec htho ekig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd in pro fiel ro nd ro nd ro nd ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig rechtho ekig Tabel 1-4 Den Burg-Nesland diepte NAP in cm in m 0 0 0 0 6 4 30 16 8 0 13 5 4 14 5 6 21 14 30 17 20 8 38 0 10 43 37 4 20 10 20 31 16 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 9 14 15 13 0 11 24 13 14 5 17 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 0,95 1,62 1,66 1,58 1,64 1,45 1,52 1,44 1,43 1,63 1,42 1,43 1,44 1,5 1,45 1,5 0 1,55 1,64 1,64 1,64 1,64 1,64 1,64 1,64 1,64 1,63 1,63 1,63 1,63 put- vlak- spo o rnr . 
+nr . nr . 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 aard 13 paalkuil 14 kringgreppel 15 greppel 16 greppel 17 greppel 1 geen spo o r 2 paalkuil 3 paalkuil 4 waterkuil 5 kringgreppel 6 geen spo o r 7 geen spo o r 8 geen spo o r 9 paalkuil 10 paalkuil 11 geen spo o r 12 paalkuil 14 paalkuil 15 paalkuil 16 paalkuil 17 geen spo o r 18 paalkuil 19 paalkuil 20 geen spo o r 21 geen spo o r 22 greppel 23 greppel 24 kuil 25 geen spo o r 26 paalkuil 27 paalkuil 28 paalkuil 29 geen spo o r 30 geen spo o r 31 geen spo o r 32 kuil 33 greppel 34 paalkuil 35 greppel 36 greppel 37 kuil 38 geen spo o r 39 geen spo o r 40 greppel 5000 LG 1 geen spo o r 2 geen spo o r 3 paalkuil 4 waterkuil 5 paalkuil 6 geen spo o r 7 geen spo o r 8 geen spo o r 9 geen spo o r 10 geen spo o r 11 greppel 12 kringgreppel 13 paalkuil 14 paalkuil 1 greppel 2 greppel 3 greppel 1500 greppel in vlak ro nd ro nd ro nd ro nd ro nd o nregelm atig ro nd RHK o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd ro nd o nregelm atig ro nd ro nd ro nd RHK o nregelm atig ro nd ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd ro nd ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd o nregelm atig ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd rechtho ekig o nregelm atig o nregelm atig o nregelm atig o nregelm atig in pro fiel puntig ko m vo rm ig o nregelm atig ko m vo rm ig rec htho ekig ko m vo rm ig o nregelm atig ko m vo rm ig ro nd en vlak o nregelm atig ko m vo rm ig ko m vo rm ig ko m vo rm ig REV rec htho ekig o nregelm atig ko m vo rm ig o nregelm atig o nregelm atig ko m vo rm ig ko m vo rm ig o nregelm atig ko m vo rm ig ko m vo rm ig o nregelm atig ko m vo rm ig ro nd en vlak ko m vo rm ig ko m vo rm ig o nregelm atig rec htho ekig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig ko m vo rm ig VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 diepte NAP in cm in m 17 0 22 14 0 0 11 24 68 21 0 0 0 22 5 0 12 23 10 5 0 11 5 0 0 29 28 16 0 0 44 14 0 0 0 12 34 11 25 14 18 0 0 19 0 0 0 24 82 7 0 0 0 0 0 9 75 14 19 30 20 23 0 1,63 1,7 1,54 1,48 1,47 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1,55 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1,68 1,66 1,64 1,68 46 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 2-1 Den Burg-Verzetstraat putnr . 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 4 vlak- spo o rnr . 
+nr . 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 aard 1 greppel 2 greppel 3 greppel 4 greppel 5 greppel 6 greppel 7 greppel 8 kuil 9 kuil 10 kuil 11 kuil 12 kuil 13 kuil 14 kuil 15 kuil 16 kuil 17 greppel 18 kuil 19 greppel 1 kuil 2 geen spo o r 3 geen spo o r 4 greppel 5 greppel 6 kuil 7 greppel 8 greppel 1 greppel 2 rec ent - in vlak diepte NAP in c m in m in pro fiel o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd ro nd o nregelm atig o nregelm atig o nregelm atig ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd o nregelm atig o nregelm atig o nregelm atig o nregelm atig ro nd vlak vlak ro nd ro nd ro nd vlak vlak ro nd ro nd vlak o nregelm atig o nregelm atig ro nd ro nd ro nd o nregelm atig o nregelm atig ro nd vlak o nregelm atig o nregelm atig ro nd ro nd vlak ro nd ro nd vlak ro nd - - 14 46 14 30 30 17 24 6 10 12 30 22 12 11 8 4 28 14 30 88 0 0 31 20 72 21 10 19 8 - 0,95 0,95 0,95 0,94 0,94 0,94 0,94 0,94 0,94 0,94 0,94 0,94 0,94 0,93 0,94 0,94 0,99 0,98 0,99 0 0 0 0 0 0 0 0 0 0 - VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 47 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 3 Den Burg-Nesland / Den Burg-Verzetstraat put-nr . spo o r-nr . vo ndst-nr . vo lg-nr . gewicht in gram rand glad rand vesierd bo dem fragm ent wand wand wand glad/ ruw besm eten versierd `gruis' N e s land 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 5 V e rze ts traat 1 1 1 To taal : 1 1 2 4 5 6 6 6 6 6 6 19 23 24 25 25 25 25 25 25 25 25 25 25 25 37 56 56 60 60 65 66 81 86 87 88 93 100 100 100 112 113 130 134 137 143 146 147 149 151 152 152 153 156 158 158 159 1 2 3 4 14 5 6 4 52 36 7 8 8 9 10 34 58 59 20 11 14 16 19 45 48 49 63 77 78 90 61 2 18 1 54 37 35 44 42 40 41 68 53 55 57 56 39 69 46 43 62 74 75 76 70 64 73 65 66 67 71 72 87 15 16 17 85 1 1 1 1 1 1 1 2 1 1 3 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5,0 3,7 36,5 26,6 6,1 102,1 557 ,7 49,0 83,9 224,1 53,9 7 ,4 11,3 254,5 304,5 228,3 17 26,8 1298,7 515,9 1015,4 1,0 149,1 967 ,0 55,0 10,6 12,4 329,7 50,2 6,9 31,2 7 6,4 6,6 9,3 37 ,0 292,7 123,4 58,0 418,6 324,9 7 ,2 27 ,9 329,9 113,7 16,0 7 ,0 2,0 52,6 66,7 46,3 9,8 47 ,9 19,5 9,0 160,3 23,9 12,4 392,8 381,2 294,2 419,9 7 2,5 5 17 19 2 4 5 1 1 1 1500,0 12,0 83,0 1357 9,1 2 1 1 1 1 1 1 1 1 5 2 16 5 5 2 1 1 2 1 2 1 1 2 7 1 2 3 ( betreft aardewerken plaat ) 6 1 6 3 7 2 3 3 19 53 41 16 26 6 29 5 6 1 1 1 1 ( c o m pleet vaatwerk am ateur ) 1 1 1 1 8 4 2 1 1 1 1 1 1 3 1 1 2 1 1 1 5 10 4 3 25 14 1 2 7 2 3 2 1 1 1 1 1 3 3 4 1 3 1 1 1 1 1 1 1 1 1 6 2 24 1 10 1 4 1 8 13 10 15 8 42 60 3 4 398 10 1 1 41 2 1 2 4 3 2 1 3 6 18 10 1 5 3 7 9 2 2 1 3 1 1 1 4 2 2 1 2 3 1 6 8 13 2 40 18 129 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 48 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 4 Texel-Nesland , resultaten van de inventarisatie . 
+Met LB/VIJT = Late-Bronstijd/Vroege-IJzertijd , opmerking mollusken steen botresten insec ten soorten houtskool aa rdewerk te det . 
+houtskool soorten analyse ? 
+rec ent materiaal ( o ) va ria tie ( o ) kwaliteit ( o ) wilde planten ( o ) totaa l ( o ) cultuurgewa ssen ( o ) ka fresten ( o ) va ria tie ( v ) kwaliteit ( v ) wilde planten ( v ) totaa l ( v ) cultuurgewa ssen ( v ) ka fresten ( v ) Vo nds t- Spo o rnumme r numme r Date ring volume ( l ) LIJT = Late-IJzertijd ; v = verkoold , o = onverkoold ; w = weinig ( 1-5 ) , r = redelijk ( 6-20 ) , v = veel ( > 20 resten ) ; variatie wordt aangegeven in aantal taxa ; soorten A = haver ( Avena ) , C = graan ( Cerealia ) , H = gerst ( Hordeum ) ; x = aanwezig . 
+21 37 LIJT 2,8 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+w . 
+1 . 
+. 
+ne e . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+22 1 LIJT 2,8 w w w w 4 r . 
+. 
+w . 
+3 . 
+. 
+ne e H . 
+he ide . 
+. 
+. 
+. 
+. 
+. 
+23 4 LIJT 2,5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+w . 
+3 . 
+. 
+ne e . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+24 2 LIJT 2,9 . 
+. 
+w w 1 r . 
+. 
+w . 
+2 . 
+. 
+ne e . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+25 3 LIJT 2,5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+w . 
+1 . 
+. 
+ne e . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+26 5 LIJT 2,9 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+w . 
+1 . 
+. 
+ne e . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+27 66 LIJT 3,1 w w w r 9 r . 
+. 
+w . 
+2 . 
+. 
+ne e C , H ? 
+. 
+. 
+x . 
+x . 
+. 
+. 
+28 6 LIJT 3,4 w w r r 6 r . 
+. 
+w . 
+4 . 
+. 
+ne e H . 
+he ide x . 
+. 
+. 
+. 
+. 
+29 93 LIJT 3,8 w . 
+r r 11 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ja . 
+. 
+he ide x . 
+. 
+. 
+. 
+. 
+30 7 LB/ VIJT 3,5 w . 
+w w 3 r . 
+. 
+. 
+. 
+. 
+. 
+. 
+ne e H 1 he ide . 
+. 
+. 
+. 
+. 
+. 
+31 24 LIJT 3 r w w v 22 r . 
+. 
+. 
+. 
+. 
+. 
+. 
+ja A , C , H 5 he ide x . 
+. 
+. 
+. 
+. 
+32 25 LIJT 3,4 v . 
+r v 14 r . 
+. 
+w . 
+1 . 
+. 
+ja C , H 5 he ide x v x . 
+. 
+. 
+33 100 LIJT 3,1 w . 
+r r 9 r . 
+. 
+. 
+. 
+. 
+. 
+. 
+? 
+5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+38 56 LIJT 2,3 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+79 25 LIJT 2,1 r . 
+v v 14 r . 
+. 
+w . 
+1 . 
+. 
+. 
+he ide . 
+v . 
+. 
+x ve rko o lde ke ute ls ? 
+82 4 LIJT 3,4 w w w w 4 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+83 12 VIJT 2,6 w w v v 12 . 
+. 
+. 
+w . 
+1 . 
+. 
+84 4 VME 2,5 w r r v 12 r . 
+. 
+. 
+. 
+. 
+. 
+86 14 VIJT 3,1 w w r v 12 r . 
+. 
+w . 
+1 . 
+89 1 LIJT 2 r w r v 11 r . 
+. 
+. 
+. 
+. 
+. 
+H ne e . 
+ja H , L ? 
+ne e . 
+5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+ja C , H 5 he ide . 
+. 
+. 
+. 
+. 
+. 
+. 
+? 
+5 . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+ja C , H 5 he ide . 
+v . 
+. 
+. 
+. 
+. 
+ja C , H . 
+heide x . 
+. 
+. 
+. 
+. 
+C , H , T Tabel 5 Texel-Nesland , overzicht van geanalyseerde monsters . 
+Vonds tnumme r Spo o rnumme r Date ring Vo lume ( l ) C o nte xt 29 93 LIJT 3,8 rec htho ekige greppel L 31 24 LIJT 3,0 c irkelvo rm ige greppel E 32 25 LIJT 3,4 rec htho ekige greppel M 33 100 LIJT 3,1 greppel 79 25 LIJT 2,1 rec htho ekige greppel M 83 12 VIJT 2,6 kuilenkrans A 84 4 VME 2,5 ( water ) kuil 86 14 1 VIJT LIJT 3,1 kuilenkrans A 2,0 c irkelvo rm ige greppel G 89 Tabel 6 Texel-Nesland , overzicht van de verdeling van de resten over cultuurgewassen , kaf en wilde planten . 
+Met RG = rechthoekige greppel , GR = greppel , CG = cirkelvormige greppel , KK = kuilenkrans , WK = vroegmiddeleeuwse water ( ? ) kuil . 
+Spo or Vonds tnumme r C onte xt 93 25 25 12 14 24 1 1 00 4 29 79 32 83 86 31 89 33 84 RG - L RG - M RG- M KK- A KK- A CG-E CG-G GR WK 11,4 5,8 9,7 11,5 2,6 5,3 5 4,2 30,4 C ultuur ( % ) Kaf ( % ) Wild ( % ) 2,3 0,5 1,6 3,8 2,1 1,1 2,5 0 4,3 86,4 93,7 88,7 84,6 95,2 93,6 92,5 95,8 65,2 To ta al ( N ) Dic hthe id ( N / l ) 44 1 91 257 26 1 89 1 87 1 60 24 23 1 1 ,6 63 ,7 7 5,6 1 0,4 61 89 61 ,5 7 ,7 1 1 ,5 VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 49 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 7 Texel-Nesland , resultaten van de archeobotanische analyse . 
+Tenzij anders vermeld zijn de zaden verkoold . 
+Met o = onverkoold , cf . 
+= gelijkend op , x = aanwezig ; RG =rechthoekige greppel , GR = greppel , CG = cirkelvormige greppel , KK = kuilenkrans , WK = waterkuil ; VIJT = Vroege-IJzertijd , LIJT = LateIJzertijd , VME = Vroege-Middeleeuwen . 
+Put Spo o r Vo nds tnumme r C o nte xt Date ring 1 93 29 RG - L L IJT 1 25 79 RG - M L IJT 1 25 32 RG- M L IJT 7 12 83 KK- A VIJT 5 14 86 KK- A VIJT 1 24 31 C G- E L IJT 2 1 89 C G- G L IJT 1 100 33 GR L IJT 7 4 84 WK VME ge b ru iks p lan te n Ave na Have r 1 . 
+1 . 
+. 
+1 . 
+. 
+. 
+c f. Ave na Have r ? 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+1 C e re alia Graan 2 1 4 1 2 2 5 . 
+2 c f . 
+Ho rde um vulgare Ge rs t ? 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+2 2 Ho rde um vulgare Ge rs t 1 8 17 2 2 5 3 1 Ho rde um vulgare var . 
+nudum Naakte ge rs t . 
+. 
+1 . 
+. 
+1 . 
+. 
+. 
+Ho rde um vulgare var . 
+vulgare Be de kte ge rs t . 
+. 
+1 . 
+. 
+. 
+. 
+. 
+. 
+Ho rde um , inte rno dium Ge rs t 1 . 
+1 1 . 
+1 3 . 
+1 Linum us itatis s imum Vlas . 
+2 . 
+. 
+. 
+1 . 
+. 
+. 
+Sambuc us nigra ( o ) Ge wo ne vlie r . 
+1 1 . 
+. 
+. 
+. 
+. 
+. 
+Tritic um dic o c c o n Emme rtarwe 1 . 
+1 . 
+1 . 
+. 
+. 
+. 
+Tritic um dic o c c o n , aarvo rkje Emme rtarwe . 
+. 
+3 . 
+. 
+. 
+1 . 
+. 
+Tritic um dic o c c o n , half aarvo rkje Emme rtarwe . 
+1 . 
+. 
+4 1 . 
+. 
+. 
+w ild e p lan te n akke ro n kru id e n Fallo pia c o nvo lvulus Zwaluwto ng . 
+. 
+. 
+. 
+. 
+1 1 . 
+. 
+Ste llaria me dia Vo ge lmuur 1 6 1 . 
+1 10 1 . 
+. 
+Matric aria c hamo milla Ec hte kamille . 
+1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+Pe rs ic aria mac ulo s a Pe rzikkruid . 
+. 
+1 . 
+. 
+1 . 
+. 
+. 
+Pe rs ic aria mac ulo s a ( o ) Pe rzikkruid . 
+. 
+. 
+. 
+. 
+. 
+. 
+1 . 
+Vic ia hirs uta/ te tras pe rma Ringe lwikke / Vie rzadige wikke . 
+. 
+3 . 
+. 
+. 
+. 
+. 
+1 Ec hino c hlo a c rus - galli Hane npo o t . 
+. 
+1 . 
+. 
+. 
+. 
+. 
+. 
+Sc le ranthus annuus Ee njarige hardblo e m . 
+. 
+2 . 
+. 
+. 
+. 
+. 
+. 
+Spe rgula arve ns is Ge wo ne s purrie 2 9 8 2 6 41 3 1 cf Atriple x patula/ pro s trata Uits taande me lde / Spie s me lde . 
+1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+C he no po dium album Me lganze nvo e t 1 . 
+. 
+. 
+4 10 1 1 7 C he no po dium album ( o ) Me lganze nvo e t . 
+. 
+5 . 
+. 
+. 
+. 
+. 
+. 
+Pe rs ic aria lapathifo lia/ mac ulo s a Be klie rde duize ndkno o p/ Pe rzikkruid 1 5 4 . 
+7 5 . 
+. 
+. 
+. 
+Pe rs ic aria lapathifo lia Be klie rde duize ndkno o p 1 13 11 . 
+. 
+10 6 . 
+Bro mus Dravik . 
+. 
+. 
+. 
+. 
+1 1 . 
+. 
+Fallo pia/ Po lygo num Zwaluwto ng/ Ge wo o n varke ns gras . 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+1 Lo lium pe re nne - type Enge ls raaigras - type . 
+. 
+1 . 
+1 1 . 
+1 . 
+Digitaria is c hae mum Glad vinge rgras 3 1 11 5 15 1 2 2 . 
+Plantago majo r Gro te e n Ge tande we e gbre e . 
+2 . 
+. 
+. 
+. 
+. 
+. 
+. 
+Po lygo num avic ulare Ge wo o n varke ns gras 1 1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+tre d p lan te n s to rin gs p lan te n Ele o c haris palus tris / uniglumis Ge wo ne wate rbie s / Slanke wate rbie s 1 38 44 . 
+12 15 2 2 . 
+Me ntha aquatic a/ arve ns is Wate rmunt/ Akke rmunt . 
+. 
+2 . 
+. 
+1 . 
+. 
+. 
+Po te ntilla ans e rina Zilve rs c ho o n . 
+1 . 
+. 
+cf 1 . 
+. 
+. 
+Ranunc ulus s ardo us Be haarde bo te rblo e m . 
+1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+Sto mp e n Ble e k kwe lde rgras . 
+1 . 
+. 
+. 
+. 
+. 
+. 
+. 
+kwe ld e rp lan te n Puc c ine llia dis tans o e ve r- e n wate rp lan te n C are x ro s trata/ ve s ic aria Snave lze gge / Blaas ze gge . 
+1 . 
+. 
+. 
+. 
+1 . 
+. 
+Ele o c haris palus tris / uniglumis Ge wo ne wate rbie s / Slanke wate rbie s 1 38 44 . 
+12 15 2 2 . 
+Litto re lla uniflo ra Oe ve rkruid 8 . 
+21 3 18 3 102 1 . 
+Lyc o pus e uro pae us Wo lfs po o t . 
+. 
+. 
+1 . 
+7 1 . 
+. 
+Me ntha aquatic a/ arve ns is Wate rmunt/ Akke rmunt . 
+. 
+2 . 
+. 
+1 . 
+. 
+. 
+Po tamo ge to n F o nte inkruid . 
+. 
+. 
+1 2 . 
+1 . 
+. 
+Ranunc ulus aquatilis - type F ijne wate rrano nke l- type . 
+. 
+. 
+. 
+1 . 
+. 
+. 
+. 
+Sc ho e no ple c tus tabe rnae mo ntani Ruwe bie s . 
+1 2 . 
+1 1 . 
+1 . 
+Galium palus tre Mo e ras wals tro . 
+. 
+. 
+. 
+. 
+1 . 
+. 
+. 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 50 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Tabel 7 ( vervolg ) Texel-Nesland , resultaten van de archeobotanische analyse . 
+Put Spo o r Vo nds tnumme r C o nte xt Date ring 1 93 29 RG - L L IJT 1 25 79 RG - M L IJT 1 25 32 RG- M L IJT 7 12 83 KK- A VIJT 5 14 86 KK- A VIJT 1 24 31 C G- E L IJT 2 1 89 C G- G L IJT 1 100 33 GR L IJT 7 4 84 WK VME . 
+w ild e p lan te n ( ve r vo lg ) gras lan d p lan te n Agro s tis / Po a Struis gras / Be e mdgras . 
+3 3 . 
+. 
+. 
+. 
+. 
+c f . 
+Me dic ago lupulina Ho pklave r ? 
+. 
+. 
+. 
+. 
+3 . 
+. 
+1 . 
+Me dic ago / Trifo lium Ho pklave r/ Klave r 2 1 5 1 1 8 . 
+1 1 Plantago lanc e o lata Smalle we e gbre e . 
+. 
+1 . 
+. 
+. 
+. 
+. 
+1 Sile ne flo s - c uc uli Ec hte ko e ko e ks blo e m . 
+1 1 . 
+. 
+1 . 
+. 
+. 
+Trifo lium Klave r 1 1 . 
+. 
+. 
+1 1 . 
+1 C are x c aryo phylle a Vo o rjaars ze gge . 
+1 1 . 
+. 
+. 
+1 . 
+. 
+c f. Luzula Ve ldbie s ? 
+1 . 
+. 
+. 
+. 
+. 
+. 
+1 . 
+Rume x ac e to s e lla Sc hape nzuring 4 28 23 . 
+35 2 5 2 1 C alluna vulgaris , blo e m Struikhe i . 
+2 . 
+4 1 3 . 
+. 
+. 
+C are x flava- type Ge le ze gge - type 1 8 17 3 37 13 9 . 
+. 
+C are x ro s trata/ ve s ic aria Snave lze gge / Blaas ze gge . 
+1 . 
+. 
+. 
+. 
+1 . 
+. 
+. 
+p lan te n v an d ro g e g ras lan d e n h e id e - e n ve e n p lan te n . 
+. 
+. 
+. 
+. 
+1 . 
+. 
+Po te ntilla e re c ta To rme ntil . 
+. 
+1 1 . 
+2 . 
+. 
+. 
+Ranunc ulus flammula Ege lbo te rblo e m . 
+1 3 1 2 . 
+1 1 . 
+C are x Ze gge 7 1 4 . 
+7 2 4 1 . 
+C aryo phyllac e a Anje rfamilie . 
+. 
+. 
+. 
+. 
+5 . 
+. 
+. 
+C he no po diac e a Ganze nvo e tfamilie . 
+4 2 . 
+. 
+9 . 
+1 1 Po ac e a Gras s e n 1 3 1 . 
+11 2 1 3 . 
+Rume x Zuring 1 1 1 . 
+2 . 
+1 . 
+. 
+Inde t. Nie t nade r te de te rmine re n 3 1 . 
+. 
+. 
+6 x . 
+. 
+. 
+Eric ac e a , bladfr . 
+n ie t in te d e le n tax a varia aarde we rk aarde we rk x . 
+x . 
+. 
+x x . 
+he ide takje s he ide takje s x x x x x x x x . 
+ho uts ko o l ho uts ko o l x . 
+x x x x . 
+x x ins e c te n ( o ) ins e c te n . 
+. 
+x . 
+. 
+. 
+. 
+. 
+. 
+( muize n ) ke ute ls ( muize n ) ke ute ls . 
+x . 
+. 
+. 
+. 
+. 
+. 
+. 
+s te e n s te e n . 
+x . 
+. 
+. 
+. 
+. 
+. 
+. 
+ve rbrand bo t ve rbrand bo t . 
+x x . 
+x . 
+. 
+. 
+. 
+VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 51 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Bijlage : Periodisering archeologie en geologie VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 52 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat Bijlage : ( vervolg ) Periodisering archeologie VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 53 V12-2518 : Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat VESTIGIA Archeologie & Cultuurhistorie , rapport V1053 , definitief 2.0 , d.d . 
+16 september 2013 54 KAART 1A -82NESLAND , PUTTEN 2 , 3 , 4 EN 155 8 141 142 14 99 99 83 115 117 115 5 118 4 Sporen ( 2 , 3 , 4 , 8 ) Overige putten 1 1 1 5 Putten ( 2 , 3 , 4 , 8 ) 129 119 115 9 LEGENDA 70 128 99 100 13 126 155 155 127 8 2 999 8 2 10 562960 Topografie ( GBKN ) 11 7 6 12 999 8 3 999 999 2 5 12 10 3 11 4 13 15 1500 1 7 6 3 999 1 14 1500 2 999 8 1500 562940 1500 999 1500 3 999 1500 562920 5000 5000 4 Project : Rapport : Titel : V12-2518 : V1053 Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel Datum : Maart 2013 Tekenaar : Schaal : RS 1:300 / A3 5000 5000 0 114960 114980 115000 115020 115040 5m KAART 1B - NESLAND , PUTTEN 1 EN 5 11 1500 54 55 78 57 41 36 563020 124 60 77 37 27 28 131 132 10 1500 1 LEGENDA Putten ( 1 , 5 ) 2 4 Sporen ( 1 , 5 ) Overige putten Topografie ( GBKN ) 5 27 38 39 7 133 63 3 30 29 29 28 26 35 40 123 3 6 2 43 33 32 32 31 51 41 59 45 46 48 48 44 49 42 34 37 58 47 45 52 50 56 53 7 122 6 1 121 76 61 2 4 3 9 3 4 62 5 63 100 5 5 5 69 100 563000 5 68 67 95 65 69 66 68 11 64 91 93 6 90 96 92 100 91 94 23 125 89 97 99 6 23 106 108 98 104 23 136 19 92 92 92 96 7 20 21 107 103 19 7 20 22 22 135 7 143 144 7 101 18 79 7 8 144 10 18 158 79 145 9 8 11 11 151 14 109 112 17 9 88 146 102 158 16 147 111 105 10 11 159 15 14 13 12 12 1010 110 134 149 86 86 101 157 159 152 113 156 87 138 16 85 85 114 84 17 148 137 73 71 115 81 153 74 139 80 17 154 72 130 140 116 82 81 80 160 25 24 75 120 141 82 155 155 155 99 127 83 142 14 99 126 70 115 117 129 128 15 115 99 91 562980 1 5 100 13 1 5 8 8 999 8 2 10 11 7 6 12 114940 114960 Maart 2013 Tekenaar : Schaal : RS 1:300 / A3 999 8 3 2 999 114920 Datum : 1 118 4 V12-2518 : V1053 Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel 119 115 9 Project : Rapport : Titel : 114980 1 0 115000 5m KAART 1C - NESLAND , PUTTEN 6 EN 7 LEGENDA 563060 Putten ( 6 , 7 ) Sporen ( 6 , 7 ) 38 33 22 22 37 1500 Topografie ( GBKN ) 35 35 36 32 1500 34 30 31 23 22 Overige putten 35 35 35 24 22 39 35 29 28 1500 40 33 1500 7 8 21 6 563040 5 55 37 58 59 563020 1 45 46 3 48 48 44 49 42 34 36 40 37 27 28 131 132 60 39 15 18 1 26 17 16 1 12 11 1500 10 1500 3 3 2 4 5 27 38 133 63 14 27 30 29 29 28 26 35 41 2 43 33 32 32 31 51 41 57 47 45 52 50 56 53 54 1500 13 6 25 19 5 4 20 9 7 7 6 8 121 76 10 4 3 9 3 62 63 100 563000 5 5 11 64 69 100 5 69 66 5 19 18 18 17 Datum : Maart 2013 Tekenaar : Schaal : RS 1:300 / A3 91 93 6 90 100 92 96 91 94 23 125 97 99 6 23 106 108 98 104 92 23 92 92 96 7 20 21 107 103 7 20 22 22 7 77 101 79 8 79 11 10 9 11 14 109 112 9 114960 88 8 12 14 91 19 V12-2518 : V1053 Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel 95 65 68 Project : Rapport : Titel : 13 136 135 158 143 144 144 151 0 145 114980 115000 115020 115040 5m KAART 1D - VERZETSTRAAT , PUTTEN 1 EN 2 LEGENDA Putten Sporen Overige putten Topografie ( GBKN ) 4000 563120 2 1 3 1 2 3 2 4000 998 5 4 4 6 4 563100 7 4000 8 1 3 4000 563080 2 4000 3 3 7 5 12 12 11 11 13 8 9 4 4 1 6 Project : Rapport : Titel : V12-2553 : V1053 Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel Datum : Maart 2013 Tekenaar : Schaal : RS 1:300 / A3 10 998 4000 14 15 16 17 998 4000 19 18 19 0 115000 115020 115040 115060 115080 5m KAART 1E - VERZETSTRAAT , PUTTEN 3 EN 4 LEGENDA Putten Sporen Overige putten 563140 Topografie ( GBKN ) 563120 2 3 1 563080 563100 4 7 12 12 11 11 13 114940 114960 114980 115000 115020 8 9 10 Project : Rapport : Titel : V12-2553 : V1053 Archeologisch onderzoek op woningbouwlocaties Den Burg-Nesland en Den Burg-Verzetstraat , gemeente Texel Datum : Maart 2013 Tekenaar : Schaal : RS 1:300 / A3 1 0 5m J KAART 2 - NESLAND : PROFIEL- EN COUPE-LOCATIES J J J J J J J J J J J J 563050 J J J J J J J J J J J J J J J J J J J J J J J J J J J J 6 J J J J J J J J J J J Put 6 - S4 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J D J J J J J J J J J J J J J J 43-44-45 J J J J J J J J J J J J J J J J J J J J J J J J J JJ J J J J J J J J J 37 coupe A J J J J J J J J J J J J J J J J J 7 JJ J J J J J J J J J JJ J J 60 J J E J J J J J J J J J J 37 coupe B J J J J J J J J J J J JJ J J J J J J J J J J J J J J J J J J J J J J J J JJ J J J 4 J J F J 2 J J J J 1 J J 62 J J J J J 65 J 563000 J J J 5 J J J J J J J J J J J J J J 66 J J J J J A J J J J J J J J JJ J J JJ J J J 23 J J J 100 J 6 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J JJ JJ J J J J J J J J J J J J 149 J C J 72 B J J J J J J J J 5 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J 81 J J J J J J 112 24 71 80 153 J J J J 1 J J 85 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J 18 J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J J JJ J J J J 8 J J J J J J J J 2 3 0 115000 1:600 20 m 2518-2553/005/RS J 562950 J J 114950 J J Selectie coupes/profielen Overige coupelocaties Overige sporen Putten Nesland ( met nummer ) Topografie ( GBKN ) Gebouw Overig J J J J J J Vestigia BV Archeologie & Cultuurhistorie Spoorstraat 5 3811 MN Amersfoort Nederland Telefoon Fax E-mail Website 033 277 92 00 033 277 92 01 info @ vestigia.nl www.vestigia.nl K.v.K . 
+Gooi- en Eemland 32078894 Erfgoedingenieurs “ Engineering the past , creating the future ” 

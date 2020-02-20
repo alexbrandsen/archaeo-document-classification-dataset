@@ -1,0 +1,40 @@
+Beschrijving van het omrekenen van lokale naar Rijkscoördinaten t.b.v . 
+opgraving Geleen-Janskamperveld Pieter van de Velde inleiding Bijgevoegd Excel-bestand < coördinaten.xls > is samengesteld uit gedeeltelijk op dezelfde spoornummers betrekking hebbende gegevens van spoorposities in de opgravings- en landelijke meetnetten . 
+Deze gegevens zijn op de eerste twee werkbladen gecopiëerd ( resp . 
+{ lokaal } , n = 2279 ; en { landelijk } , n = 297 ) . 
+Deze laatste gegevens worden bewerkt teneinde de “ moederlijst ” van de lokale coördinaten om te zetten naar landelijke ( “ RD ” ) coördinaten . 
+Onderstaand relaas geeft de handelingen weer . 
+N.B . 
+“ Spoornummer ” en “ vondstnummer ” worden hier als synoniemen gebruikt . 
+0 : gegevens verzamelen In bestand < coördinaten.xls > de werkbladen hoekbepaling , voor het uitrekenen van de draaiingshoek tussen lokaal en RD-meetnet ; fouten , voor het berekenen van de translatie van het opgravingsmeetnet ) ; en RD-coord , voor de uiteindelijke omzetting van opgravings- naar Rijkscoördinaten ingesteld . 
+1 : opwerken werkblad lokaal Samenvoegen ruwe gegevensbestanden ( ex < sporen_2004 > en < vondsten_2003 > ) , en vervolgens dubbele voorkomens wissen . 
+Vijfcijferige vondstnummers in de vorm van ppsss maken ( ‘ pp ’ voor putnummer , ‘ sss ’ voor spoor- of vondstnummer binnen ‘ pp ’ ) . 
+Het resterend aantal spoornummers is 2279 . 
+2 : opwerken werkblad landelijk Spoornummers in de vorm van ( p ) p.sss maken en omzetten naar vondstnummers ( ppsss ) . 
+Dubbele voorkomens verwijderen . 
+Het resterend aantal spoornummers is 297 . 
+3 : op werkblad hoekbepaling vergelijken lokale en rijks-coördinaten , draaiingshoek berekenen De ( op vondstnummer gesorteerde ) lijsten van de twee werkbladen { lokaal } en { landelijk } naast elkaar gezet , en niet overeenkomende vondstnummers geëlimineerd . 
+Het aantal resterende spoornummers , dat dus zowel opgravings- als rijks-coördinaten heeft , is 212 . 
+Het vondstnummer met de laagste lokale y-coördinaat opzoeken ( vondstnummer 58002 ) , en dan de oorsprong van het lokale meetnet verschuiven naar dat punt : nieuwe lokale coördinaten uitrekenen ten opzichte van dat referentiepunt door de respectieve coördinaten te verminderen met de oorspronkelijke x- en y-waarden van het referentiepunt ( kolommen x-akcent en y-akcent ) . 
+Ook nieuwe coördinaten uitrekenen van de RD-waarden , hier onder vermindering van de respectieve Oost- en Noordwaarden met die van het referentiepunt ( kolommen O-akcent en Nakcent ) . 
+De richting vanuit het gemeenschappelijke referentiepunt van elke vondstpositie bepalen in beide assenstelsels ( via tg ( A ) = ycoord/xcoord in kolommen A2 en A1 ) . 
+De hoek tussen beide meetnetten is gelijk aan het verschil tussen deze hoeken ( kolom A2-A1 ) . 
+Deze waarden middelen over alle vondstposities waarvoor gegevens in beide meetsystemen beschikbaar zijn . 
+De draaiing blijkt niet erg stabiel : gemiddeld -28o,17 , met een standaard deviatie van 1o,77 ; de spreiding loopt van -44o,4 tot -22o,6 . 
+De mediane waarde is 30o,6 , met een interkwartielspreiding van -30o,8 tot -30o,3 . 
+Vooral het grote verschil tussen gemiddeld en mediaan ( maar ook de grote standaard deviatie tegenover de geringe interkwartiel-afwijking ) suggereren enkele uitbijters . 
+Derhalve de spreiding onderzoeken ( de waarden in kolom “ draaiing ” copiëren ; onderaan het werkblad ) , deze rangschikken , en percentielen en interval-dichtheden uitrekenen . 
+Als aan beide zijden de uiterste 10 % buiten beschouwing gelaten worden , blijkt een gemiddelde draaiing van 30o,55 , met een standaard deviatie van 0o,29 , zeer dicht in de buurt van de mediaan , en met een kleine standaard deviatie die vrijwel overeenkomt met de halve interkwartiel-afwijking , en daarmee wél aanvaardbaar . 
+Daarmee wordt de hoek tussen de lokale en de RD-coördinaten gesteld op —30o,5 , of 30o,5 Westelijk . 
+4 : werkblad fouten verschuiving berekenen De berekening van de draaiingshoek gaat impliciet uit van een correcte gelijkstelling van de lokale en landelijke coördinaten van vondstnummer 58002 . 
+De spreiding van de berekende draaiingshoeken ( op blad { hoekbepaling } ) geeft aan dat een algemene consistentie van de opgegeven lokale en landelijke coördinaten niet blijkt . 
+Daaruit volgt dat de coördinaten spreiden om de juiste positie , vermoedelijk in beide stelsels . 
+Een vergelijking van de posities als opgegeven op het werkblad { landelijk } met de middels de draaiingshoek berekende coördinaten ( werkblad { fouten } , n = 212 ) toont O-W afwijkingen tot -5 en +29 meter , in N-Z richting tussen -13 en +23 meter ( deze maxima betreffen twee vondstnummers : 26026 en 35001 ; de overige uitkomsten liggen alle minder dan 7m van de opgegeven positie ) . 
+Ook hier de buitenste 2 x 10 % weglaten , en de gemiddelde translatie berekenen over de resterende 80 % van de posities , van de berekende posities in West- en Zuidwaartse richting naar de opgegeven landelijke posities over 0,71 resp . 
+0,43 meter . 
+5 : nieuw werkblad RD-coord aanmaken en vullen Een aantal kerngetallen van de vorige werkbladen overnemen in de kop van dit werkblad ( draaiingshoek , oorspronkelijke coördinaten lokaal en RD van het referentiepunt ) en de draaiingshoek , alsmede gemiddelde West- en Noordverschuivingen . 
+De lijst met lokale coördinaten van het werkblad { lokaal } copiëren , en daar eerst de oorspronkelijke ( lokale ) coördinaten vanaf trekken ( X-akcent , Y-akcent ) . 
+Deze waarden omrekenen ( volgens plaatje dat hierbij gaat ) naar lokale RD-coördinaten ( Oostend/dx-P , en Noordend/dy-P ) ten opzichte van het referentiepunt . 
+Door bij deze laatste twee kolommen nog de coördinaten van het referentiepunt op te tellen en te corrigeren voor de ( geschatte ) translatie , komen de RDcoördinaten ( RD-N , en RD-E ) tot stand ( n = 2290 ) . 
+Aangetekend zij , dat eventuele uitbijters niet te herkennen zijn omdat voor vergelijking ook opgave van de landelijke coördinaten nodig is . 
+2 ( rijksnet ) Noord s -a ) y al ka ( lo P C a a Noordend al ) ka ( lo s x-a E B D A xP m yP a e a Oostend ( rijksnet ) Oost s x-a a l ) ka ( lo s y-a al ) ka ( lo ( rijksnet ) Noord R ( = Re f. p unt ) ( rijksnet ) Oost F Gegeven : RA = ( lokaal ) y P RE = ( lokaal ) x P Gevraagd : RC = ( rijksnet ) Noordend RF = ( rijksnet ) Oostend Oplossing : RB in driehoek ARB : c os a = RA / RB = y P / RB zodat RB = y P/ c os a DE in driehoek DPE : tg a = DE / PE = DE / y P zodat DE = y Ptg a RF in driehoek DRF : c os a = RF / RD = RF / ( xP - DE ) zodat RF = ( x P - DE ) c os a BC in driehoek BPC : sin a = BC / BP = BC / RD zodat BC = ( x P- DE ) sin a Vervolgens : Noordend = RB + BC = ( yP / c os a ) + ( x P - yP tg a ) sin a Oostend = RF = ( xP - y P tg a ) c os a De hoek tussen beide c oördinaten-stelsels is het versc hil tussen de ric hting van het punt P in beide stelsels : a = e - m 3 
