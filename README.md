@@ -6,7 +6,7 @@ We also include labels for the train set, but unfortunately as the files are not
 
 ## Folders and Files
 
-The [test](test) folder contains [test/test_sitetypes.csv](test_sitetypes.csv) and [test/test_timeperiods.csv](test_timeperiods.csv) which contain the labels per file for site types and time periods respectively. These are comma separated CSV files, labels are separated by |. 
+The [test](test) folder contains [test_sitetypes.csv](test/test_sitetypes.csv) and [test_timeperiods.csv](test/test_timeperiods.csv) which contain the labels per file for site types and time periods respectively. These are comma separated CSV files, labels are separated by |. 
 
 In the [test/files](test/files) folder are all the documents from the test set as .txt files. 
 
