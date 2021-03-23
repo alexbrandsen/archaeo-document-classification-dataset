@@ -16,7 +16,7 @@ The [train](train) folder contains the labels and links to metadata (including P
 
 ## Codes
 
-The codes used are from the Archeologisch Basisregister (ABR). Wherever the code xxx is used, this means there is no information / the label is unknown. This can mean either no label can be assigned, or the metadata field was left empty by accident.
+The codes used are from the Archeologisch Basisregister (ABR). Wherever the code xxx is used, this means there is no information / the label is unknown. This can mean either no label can be assigned, or the metadata field was left empty by accident. A full list of codes and labels (in Dutch) can be found in the [ABR_code_table.csv](ABR_code_table.csv) file.
 
 
 ## Acknowledgements
